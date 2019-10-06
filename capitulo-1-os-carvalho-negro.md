@@ -1,0 +1,17 @@
+<!-- TITLE: Capitulo 1 -->
+<!-- SUBTITLE: Os Carvalho Negro -->
+
+# Capítulo 1: Os Carvalho-Negro
+
+Nossos protagonistas se conhecem por acidente no pequeno vilarejo de Poço Raso, ao Sudeste de Drafeon.   Neste vilarejo, um ataque kobolds sem causa finaliza no sequestro da pequena Milda Chifremadeira, o grupo parte para seu resgate, salvando-a.   Os aventureiros conhecem então Lopaohz Carvalho-Negro, que lhes oferece uma oportunidade de negócios, pede que busquem escamas de dragão vermelho para que possam salvar a filha do líder da Família Carvalho-Negro, que se encontra muito doente. Viajam para Monte Vermelho, onde encontram as escamas.   Retornando para Poço Raso, são recompensados e oferecidos entradas para uma das exclusivas festas do Marquês de Maschera, em Ibrido. A festa se transforma algo aterrorizante e o grupo desvenda mistérios sobre o local, resultando na morte do Marquês de Maschera. Ao retornar para Lopaohz, o grupo recebe como recompensa pelo que passaram um terreno no exterior de Porto Novo.
+
+## Temas
+Ocasiões ocorrem que mantém o grupo junto, criando laços entre os membros.
+
+# Relações
+
+## Aliados
+Lopaohz Carvalho-Negro; Mariouro Chifremadeira;
+
+## Adversários
+Marquês de Maschera;
