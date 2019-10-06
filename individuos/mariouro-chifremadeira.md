@@ -7,4 +7,4 @@ Uma Halfling jovem que costuma se vestir com roupas arrumadas, de tecidos colori
 Em 1753, Mariouro viu sua irmã caçula, Milda Chifremadeira, ser sequestrada por um grupo de kobolds famintos. Ela partiu e busca de sua irmã, juntamente com um grupo de aventureiros, recuperando-a em vida no dia seguinte.
 
 # Informações
-`Nascimento` 1705
+						`Nascimento` 1705
