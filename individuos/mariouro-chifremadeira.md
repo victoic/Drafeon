@@ -7,4 +7,10 @@ Uma Halfling jovem que costuma se vestir com roupas arrumadas, de tecidos colori
 Em 1753, Mariouro viu sua irmã caçula, Milda Chifremadeira, ser sequestrada por um grupo de kobolds famintos. Ela partiu e busca de sua irmã, juntamente com um grupo de aventureiros, recuperando-a em vida no dia seguinte.
 
 # Informações
-						`Nascimento` 1705
+`Nascimento` 1731
+`Local de Nascimento` Poço Raso
+`Sexo Biológico` Feminino
+`Olhos Grandes` olhos azuis
+`Cabelo Cabelos` cacheados louros
+`Altura` 0,75 m
+`Peso` 13 Kg
