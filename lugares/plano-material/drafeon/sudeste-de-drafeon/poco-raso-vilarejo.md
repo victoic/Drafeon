@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Visão geral sobre Poco Raso (Vilarejo) -->
 
 # Poco Raso
-Poço raso é um pequeno vilarejo localizado à sudeste de Drafeon. O vilarejo se encontra a 200km a sudeste de Porto Novo.
+Poço Raso é um pequeno vilarejo localizado à sudeste de Drafeon. O vilarejo se encontra a 200km a sudeste de Porto Novo.
 
 ## Governo
 Poço Raso faz parte do Império Dragão, sendo liderado pelo Senhor de Terras Rilitar Luphine.
