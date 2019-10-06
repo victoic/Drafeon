@@ -1,7 +1,7 @@
-<!-- TITLE: Gira Gira Azul -->
-<!-- SUBTITLE: Visão geral sobre Gira Gira Azul -->
+<!-- TITLE: Gira-Gira Azul -->
+<!-- SUBTITLE: Visão geral sobre Gira-Gira Azul -->
 
-# Gira Gira Azul
+# Gira-Gira Azul
 Gira-Gira Azul é uma loja geral em Poço Raso.
 
 ## Propósito
