@@ -10,7 +10,7 @@ Em 1753, Mariouro viu sua irmã caçula, Milda Chifremadeira, ser sequestrada po
 `Nascimento` 1731
 `Local de Nascimento` Poço Raso
 `Sexo Biológico` Feminino
-`Olhos Grandes` olhos azuis
+`Olhos Grandes` Grandes olhos azuis
 `Cabelo Cabelos` cacheados louros
 `Altura` 0,75 m
 `Peso` 13 Kg
