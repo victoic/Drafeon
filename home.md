@@ -14,4 +14,4 @@ Drafeon é um continente pequeno, porém com uma enorme diversidade de biomas, p
 Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possui o objetivo de reunir e harmonizar todas as raças conscientes. Porém esta é uma tarefa difícil, com o grande tamanho do império, controlar e proteger os quatro cantos das criaturas que discordam da ideia de união e da corrupção e ambição de seus próprios líderes.
 
 * **CAPÍTULOS**
-	* Capítulo 1: [Os Carvalho-Negro](http://localhost/capitulo-1-os-carvalho-negro#capitulo-1-os-carvalho-negro)
+	* [Capítulo 1: Os Carvalho-Negro](http://localhost/capitulo-1-os-carvalho-negro#capitulo-1-os-carvalho-negro)
