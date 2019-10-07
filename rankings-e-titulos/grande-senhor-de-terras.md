@@ -38,6 +38,6 @@ Traição ao império resulta em exoneração e morte do senhor de cidade. Casos
 `Nomes Alternativos` podem ser conhecido por Líder ou Condes em determinadas regiões.
 `Fonte de Autoridade` O Senhor de Cidade ou cargo superior do Império Dragão.
 `Duração do Termo` Vitalíceo ou até exoneração pelo Senhor de Cidade ou cargo superior do Império Dragão.
-`Responde Diretamente a` [Senhor de Cidade]()
+`Responde Diretamente a` [Senhor de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade)
 `Lugar Relacionado` Drafeon
 `Organização Relacionada` Império Dragão
