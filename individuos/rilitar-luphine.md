@@ -14,7 +14,7 @@ O Elfo da Floresta é o Senhor de Terras do vilarejo de Poço Raso. Possui um fi
 `Altura` 1,84 m
 `Peso` 78 Kg
 `Organizações Associadas` Império Dragão
-`Títulos` Senhor de Terras
+`Títulos` [Senhor de Terras](http://localhost/rankings-e-titulos/senhor-de-terras#senhor-de-terras)
 `Línguas Conhecidas` Comum, Élfico, Dracônico
 
 
