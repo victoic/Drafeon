@@ -7,5 +7,5 @@ Faéria é o plano silvestre, que mímica Drafeon em sua geografia, porém com u
 # Informações
 `Tipo` Plano Dimensional
 `Nome Alternativo` Plano Faério
-`Sub-locações` [Cidade Dourada]()
+`Sub-locações` [Cidade Dourada](http://localhost/lugares/faeria/cidade-dourada#cidade-dourada)
 `Mitos Relacionados` [A Lenda de Sanwu Konn](), [O Rei de Faéria]()
