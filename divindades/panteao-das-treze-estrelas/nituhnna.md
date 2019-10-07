@@ -1,5 +1,5 @@
 <!-- TITLE: Nituhnna -->
-<!-- Deusa do Conhecimento, Habilidade e Artesenato -->
+<!-- SUBTITLE: Deusa do Conhecimento, Habilidade e Artesenato -->
 
 # Nituhnna
 Nituhnna é a deusa do conhecimento, é considerada impossível de enganar, além de possuir o conhecimento sobre tudo e todos em sua infinita biblioteca. Nituhnna aprecia o registro dos acontecimentos do mundo, em livros, artes, contos, independe do meio, a transmissão do conhecimento é o importante. Além disso, Nituhnna acredita que a perfeição vem da prática das habilidades e acredita na gratificação do trabalho artesenal.
