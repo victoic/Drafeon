@@ -15,3 +15,4 @@ Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possu
 
 * [**CAPÍTULOS**](http://localhost/capitulos)
 	* [Capítulo 1: Os Carvalho-Negro](http://localhost/capitulos/capitulo-1-os-carvalho-negro#capitulo-1-os-carvalho-negro)
+* [**RANKINGS e TÍTULOS**](http://localhost/rankings-e-titulos#rankings-e-titulos)
