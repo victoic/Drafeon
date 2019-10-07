@@ -17,7 +17,7 @@ A defesa da cidade a partir do Plano Material é feita pelos monges de [Kammeh-T
 A cidade possui um palácio de ouro onde o rei vive.
 
 # Informações
-`**Ruína**`
+**`Ruína`**
 `Tipo` Cidade
 `Gentílico` Cidadão Dourado
 `Dono/Governante` [Sanwu Konn]()
