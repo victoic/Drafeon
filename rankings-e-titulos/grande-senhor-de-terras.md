@@ -22,12 +22,12 @@ Os deveres de um Senhor de Cidade incluem:
 * pagamento de tributos para a cidade encarregada pelas terras.
 
 ## Responsabilidades
-As responsabilidades de um Senhor de Região incluem:
+As responsabilidades de um Grande Senhor de Terras incluem:
 * enviar um relatório trimensal sobre a situação geral de suas terras ao Senhor de Cidade;
 
 
 ## Benefícios
-Senhores de Região possuem influência dentro da região onde suas terras se encontram, são tratados com respeito, são também admirados ou temidos em suas cidades. Possuem riquezas que vem da aquisição de impostos sobre as produções de suas terras, possuem morada em uma mansão.
+Grandes Senhores de Terras possuem influência dentro da região onde suas terras se encontram, são tratados com respeito, são também admirados ou temidos em suas cidades. Possuem riquezas que vem da aquisição de impostos sobre as produções de suas terras, possuem morada em uma mansão.
 
 ## Base para Remoção/Dispensa
 Traição ao império resulta em exoneração e morte do senhor de cidade. Casos de traição são investigados e julgados pelo Senhor de Cidade de onde as terras se encontram.
