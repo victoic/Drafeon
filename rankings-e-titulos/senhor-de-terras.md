@@ -16,7 +16,6 @@ Um Grande Senhor de Terras ou cargo superior da região onde as terras cedidas s
 
 ## Deveres
 Os deveres de um Senhor de Cidade incluem:
-
 * defesa das suas terras e da população que a habita;
 * defesa da paz e lealdade ao império dentro de suas terras;
 * gerenciamento econômico das terras;
