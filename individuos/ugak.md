@@ -7,7 +7,7 @@ Ugak foi uma orc nascida 540 da Era de Drafeon. Ugak foi a primeira esposa de Ma
 Ugak possui pele verde musgo, olhos puxados e pequenas orelhas pontiagudas. Sua forma é grande e musculosa.
 
 # Informações
-`Nascimento` 540
+`Nascimento` 537
 `Morte` 560, Morta por [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur) no dia de seu casamento.
 `Residência` [Poço Raso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso)
 `Local de Nascimento` 
