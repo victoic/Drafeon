@@ -19,5 +19,5 @@ Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possu
 	* [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
 * [**FACÇÕES**](http://localhost/faccoes#faccoes)
 	* **Nações**
-		* [Império Dragão](http://localhost/imperio-dragao#imperio-dragao)
+		* [Império Dragão](http://localhost/faccoes/imperio-dragao#imperio-dragao)
 * [**RANKINGS e TÍTULOS**](http://localhost/rankings-e-titulos#rankings-e-titulos)
