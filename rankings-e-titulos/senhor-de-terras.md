@@ -31,3 +31,12 @@ Senhores de Região possuem influência dentro da região onde suas terras se en
 
 ## Base para Remoção/Dispensa
 Traição ao império resulta em exoneração e morte do senhor de cidade. Casos de traição são investigados e julgados pelo Grande Senhor de Terras de onde as terras se encontram.
+
+# Informações
+`Tipo` Civíco, Político 
+`Estado` Ativo
+`Fonte de Autoridade` O Grande Senhor de Terras ou cargo superior do Império Dragão. 
+`Duração do Termo` Vitalíceo ou até exoneração pelo Grande Senhor de Terras ou cargo superior do Império Dragão.
+`Responde Diretamente a` Grande Senhor de Terras 
+`Lugar Relacionado` Drafeon
+`Organização Relacionada` Império Dragão
