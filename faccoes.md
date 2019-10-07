@@ -1,5 +1,5 @@
-<!-- TITLE: Faccoes -->
-<!-- SUBTITLE: Visão geral sobre Faccoes -->
+<!-- TITLE: Facções -->
+<!-- SUBTITLE: Visão geral sobre Facções -->
 
-# Faccoes
+# Facções
 
