@@ -44,7 +44,7 @@ Traição ao império resulta em exoneração e morte do Senhor de Cidade. Casos
 `Nomes Alternativos` Governante ou lorde são nomeclaturas adotadas por alguns povos.
 `Fonte de Autoridade` O Senhor de Região ou cargo superior do Império Dragão.
 `Duração do Termo` Vitalíceo ou até exoneração pelo Senhor de Região ou cargo superior do Império Dragão.
-`Responde Diretamente a` [Senhor de Região]()
+`Responde Diretamente a` [Senhor de Região](http://localhost/rankings-e-titulos/senhor-de-regiao#senhor-de-regiao)
 `Lugar Relacionado` Drafeon
 `Organização Relacionada` Império Dragão
 
