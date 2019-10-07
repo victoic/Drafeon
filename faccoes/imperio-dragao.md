@@ -16,8 +16,6 @@ O império foi criado por Makil Drasonur, o Imperador Dragão durante a Era dos 
 `Sistema Econômico` Tradicional 
 `Moeda` Peças de Platina (vale 10), Peças de Ouro (vale 1), Peças de Prata (vale 1/10), Peças de Bronze (vale 1/100) 
 `Localização` Drafeon 
-`Nações Vizinhas` 
-`Territórios Controlados` 
-`Membros Notáveis` 
+`Nações Vizinhas` [Grande Império Orc](); [Império Serpentinn]()
 [`Rankings e Títulos`](http://localhost/rankings-e-titulos#imperio-dragao)
 
