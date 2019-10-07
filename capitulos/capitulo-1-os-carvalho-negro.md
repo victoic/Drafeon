@@ -11,7 +11,7 @@ Ocasiões ocorrem que mantém o grupo junto, criando laços entre os membros.
 # Relações
 
 ## Aliados
-Lopaohz Carvalho-Negro; Mariouro Chifremadeira;
+Lopaohz Carvalho-Negro; [Mariouro Chifremadeira](http://localhost/individuos/mariouro-chifremadeira#mariouro-chifremadeira);
 
 ## Adversários
 Marquês de Maschera;
