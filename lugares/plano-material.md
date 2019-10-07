@@ -2,13 +2,7 @@
 <!-- SUBTITLE: Visão geral sobre Plano Material -->
 
 # Plano Material
-
+O Plano Material é o plano dimensional onde [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon) existe.
 
 # Informações
-`Nascimento` 
-`Local de Nascimento` 
-`Sexo Biológico` 
-`Olhos Grandes` 
-`Cabelo Cabelos` 
-`Altura` 
-`Peso` 
+`Tipo` Plano dimensional
