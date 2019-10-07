@@ -6,3 +6,18 @@
 # Império Dragão
 O império foi criado por Makil Drasonur, o Imperador Dragão durante a Era dos Mortos para a unificação das raças de Drafeon.
 
+# Informações
+`Tipo` Geopolítico, Império
+`Nomes Alternativos` Império de Drafeon 
+`Gentílico` Drafeano 
+`Líder` [Makil Drasonur, o Imperador Dragão]() 
+`Sistema Governamental` Monarquia, Absoluta 
+`Estrutura de Poder` Estado Feudal 
+`Sistema Econômico` Tradicional 
+`Moeda` Peças de Platina (vale 10), Peças de Ouro (vale 1), Peças de Prata (vale 1/10), Peças de Bronze (vale 1/100) 
+`Localização` Drafeon 
+`Nações Vizinhas` 
+`Territórios Controlados` 
+`Membros Notáveis` 
+[`Rankings e Títulos`](http://localhost/rankings-e-titulos#imperio-dragao)
+
