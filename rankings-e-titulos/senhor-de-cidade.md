@@ -36,7 +36,7 @@ Senhores de Região possuem influência por toda Drafeon, são tratados com resp
 Um anel de ouro com a insígnia do Império Dragão e o nome de sua cidade.
 
 ## Base para Remoção/Dispensa
-Traição ao império resulta em exoneração e morte do senhor de cidade. Casos de traição são investigados primeiramente pelo ministério do Arquimago e então passados para o Imperador para julgamento final.
+Traição ao império resulta em exoneração e morte do Senhor de Cidade. Casos de traição são investigados primeiramente pelo ministério do Arquimago e então passados para o Imperador para julgamento final.
 
 # Informações
 `Tipo` Civíco, Político 
