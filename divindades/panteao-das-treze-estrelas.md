@@ -7,7 +7,7 @@ Ao mencionar os deuses de Drafeon, é de forma geral considerado o panteão de 1
 Os deuses não possuem acesso direto ao Plano Material, onde todos nós nos encontramos, desde o Fechamento do Portão Celestial. Apesar disso os mesmos ainda conseguem exercer poderes incríveis sobre nossa realidade, moldando e modificando tudo que se encontra em Drafeon. Muitos desses deuses escolhem devotos fieis para dar uma pequena porção de seus poderes para que façam sua vontade.
 
 ## Membros
-* [Nituhnna](http://localhost/divindades/panteao-das-treze-estrelas/nituhnna#nituhnna)
+* [Nituhnna](http://localhost/divindades/panteao-das-treze-estrelas/nituhnna#nituhnna), Deusa do Conhecimento, Habilidade e Artesenato
 * [Obris](http://localhost/divindades/panteao-das-treze-estrelas/obris#obris), Deus da Ordem, Honra e Dever
 
 # Informações
