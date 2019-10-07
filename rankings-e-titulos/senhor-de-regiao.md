@@ -8,7 +8,7 @@ Senhores de Região são representantes do Império Dragão e governantes das gr
 Um Senhor de Região deve demonstrar: (1) lealdade inabalável ao Império e seus ideias; (2) grandes habilidades de gerenciamento de pessoas e; (3) capacidades de defender sua região, seja por si próprio ou por escolha de responsáveis.
 
 ## Requerimentos
-O cargo de Senhor de Região não possui requerimentos, é um cargo subjetivamente entregue pelo [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao).   Porém são sempre indivíduos que alcançam grandes feitos ou se mostram extremamente efetivos no gerenciamento e liderança pessoas e que se mostrem leais ao Império e buscando os mesmos objetivos. Pode ocorrer que o candidato ao cargo venha de indicação de pessoas confiáveis ao Imperador ou de suas próprias observações.
+O cargo de Senhor de Região não possui requerimentos, é um cargo subjetivamente entregue pelo Imperador Dragão.   Porém são sempre indivíduos que alcançam grandes feitos ou se mostram extremamente efetivos no gerenciamento e liderança pessoas e que se mostrem leais ao Império e buscando os mesmos objetivos. Pode ocorrer que o candidato ao cargo venha de indicação de pessoas confiáveis ao Imperador ou de suas próprias observações.
 
 ## Nomeação
 O Impérador Dragão é único com autoridade de denominar os Senhores de Região do Império. Após definir quem receberá o cargo, uma cerimônia de recebimento do cargo é realizada na cidade sede da região cedida.   O cerimônia é realizada à frente do centro político da cidade sede, e requer a presença do Arquimago e do Imperador. O Senhor-a-ser faz o juramento de lealdade e de respeito à suas responsabilidades com o império e à sua região, frente à seu povo. Um grande jantar é dado em comemoração ao novo Senhor de Região.   Um cetro com a insígnia do império e o nome da região sendo cedida é confeccionado e entregue pelo Imperador ao Senhor-a-ser e representa seu título.
@@ -40,7 +40,7 @@ Traição ao império resulta em exoneração e morte do senhor de região. Caso
 `Nomes Alternativos` É comum que os Senhores de Região sejam conhecidos por rei ou senhores de estandarte.
 `Fonte de Autoridade` O Imperador Dragão
 `Duração do Termo` Vitalíceo ou até exoneração pelo Imperador.
-`Responde Diretamente a` [Imperador Dragão]()
+`Responde Diretamente a` [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
 `Lugar Relacionado` Drafeon
 `Organização Relacionada` Império Dragão
 
