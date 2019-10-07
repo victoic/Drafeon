@@ -24,4 +24,6 @@ Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possu
 * [**LUGARES**](http://localhost/lugares#lugares)
 	* [**Plano Material**](http://localhost/lugares/plano-material#plano-material)
 		* [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
+	* [**Faéria**](http://localhost/lugares/faeria#faeria)
+	* [**Plano Material**](http://http://localhost/lugares/plano-material#plano-material)
 * [**RANKINGS e TÍTULOS**](http://localhost/rankings-e-titulos#rankings-e-titulos)
