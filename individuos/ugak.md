@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Visão geral sobre Ugak -->
 
 # Ugak
-Ugak foi uma orc nascida 540 da Era de Drafeon. Ugak foi a primeira esposa de Makil Drasonur, se casando com ele em 560. O casamento, porém foi um plano de Ugak para tornar a capital do império vulnerável para uma invasão de seu povo. A invasão deixou boa parte da cidade destruída e muitos mortos, porém foi detida pela guarda local com a ajuda do Arquimago. Ugak foi morta por Makil após sua traição, mas se tornou uma heroína entre os orcs até os dias atuais.
+Ugak foi uma orc nascida 537 da Era de Drafeon. Ugak foi a primeira esposa de Makil Drasonur, se casando com ele em 560. O casamento, porém foi um plano de Ugak para tornar a capital do império vulnerável para uma invasão de seu povo. A invasão deixou boa parte da cidade destruída e muitos mortos, porém foi detida pela guarda local com a ajuda do Arquimago. Ugak foi morta por Makil após sua traição, mas se tornou uma heroína entre os orcs até os dias atuais.
 
 Ugak possui pele verde musgo, olhos puxados e pequenas orelhas pontiagudas. Sua forma é grande e musculosa.
 
