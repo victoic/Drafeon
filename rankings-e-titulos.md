@@ -1,5 +1,5 @@
-<!-- TITLE: Rankings E Titulos -->
-<!-- SUBTITLE: Visão geral sobre Rankings E Titulos -->
+<!-- TITLE: Rankings E Títulos -->
+<!-- SUBTITLE: Visão geral sobre Rankings E Títulos -->
 
-# Rankings E Titulos
+# Rankings E Títulos
 
