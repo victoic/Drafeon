@@ -29,7 +29,7 @@ Além do pagamento das tarifas de produção para o Grande Senhor de Terras, os 
 Senhores de Terras possuem influência dentro da região onde suas terras se encontram, são tratados com respeito, são também admirados ou temidos em suas cidades. Possuem riquezas que vem da aquisição de impostos sobre as produções de suas terras, possuem morada em uma mansão.
 
 ## Base para Remoção/Dispensa
-Traição ao império resulta em exoneração e morte do senhor de cidade. Casos de traição são investigados e julgados pelo Grande Senhor de Terras de onde as terras se encontram.
+Traição ao império resulta em exoneração e morte do Senhor de Terras. Casos de traição são investigados e julgados pelo Grande Senhor de Terras de onde as terras se encontram.
 
 # Informações
 `Tipo` Civíco, Político 
