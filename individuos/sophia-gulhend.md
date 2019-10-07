@@ -5,9 +5,8 @@
 Sophia é uma meia-elfa, sacerdotisa líder do culto de Aaos. Ele é casada com [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur), o [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao) desde 1723.
 
 # Informações
-`Nascimento` ?
+`Nascimento` 1651
 `Local de Nascimento` ?
-`Data de Nascimento` 1651
 `Sexo Biológico` Feminino
 `Olhos Grandes` Olhos heterocromos, um preto e um azul.
 `Cabelo Cabelos` Longos cabelos pretos e lisos.
