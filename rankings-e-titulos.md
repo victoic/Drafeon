@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Visão geral sobre Rankings E Títulos -->
 
 # Rankings E Títulos
-Por facção:
+## **Nações**
 ## Império Dragão
 ### Cargos Políticos
 * [Senhor de Terras](http://localhost/rankings-e-titulos/senhor-de-terras#senhor-de-terras)
@@ -10,4 +10,6 @@ Por facção:
 * [Senhor de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade)
 * [Senho de Região](http://localhost/rankings-e-titulos/senhor-de-regiao#senhor-de-regiao)
 * [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
+
+## Corte Élfica
 
