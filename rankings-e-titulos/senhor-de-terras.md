@@ -37,5 +37,5 @@ Traição ao império resulta em exoneração e morte do Senhor de Terras. Casos
 `Fonte de Autoridade` O Grande Senhor de Terras ou cargo superior do Império Dragão. 
 `Duração do Termo` Vitalíceo ou até exoneração pelo Grande Senhor de Terras ou cargo superior do Império Dragão.
 `Responde Diretamente a` [Grande Senhor de Terras ](http://localhost/rankings-e-titulos/grande-senhor-de-terras#grande-senhor-de-terras)
-`Lugar Relacionado` Drafeon
-`Organização Relacionada` Império Dragão
+`Lugar Relacionado` [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
+`Organização Relacionada` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
