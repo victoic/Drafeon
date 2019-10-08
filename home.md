@@ -1,4 +1,4 @@
-<!-- TITLE: Drafeon -->
+<!-- TITLE: Enciclopédia de Drafeon -->
 <!-- SUBTITLE: Introdução à Drafeon e seus Arredores-->
 ![Drafeon Banner](/uploads/drafeon-banner.jpg "Drafeon Banner"){.align-center}
 # Enciclopédia de Drafeon
