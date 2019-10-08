@@ -11,6 +11,7 @@ Os deuses não possuem acesso direto ao Plano Material, onde todos nós nos enco
 * [Ahena](http://localhost/divindades/panteao-das-treze-estrelas/ahena#ahena), Deusa do tempo e do destino
 * [Azemis](http://localhost/divindades/panteao-das-treze-estrelas/azemis#azemis), Primordial do Tudo 
 * [Coecyr](http://localhost/divindades/panteao-das-treze-estrelas/coecyr#coecyr), Deus da Natureza e do Equilíbrio
+* [Gadot](http://localhost/divindades/panteao-das-treze-estrelas/gadot#gadot), Deusa dos Andarilhos, Estradas e Necessitados
 * [Nituhnna](http://localhost/divindades/panteao-das-treze-estrelas/nituhnna#nituhnna), Deusa do Conhecimento, Habilidade e Artesenato
 * [Obris](http://localhost/divindades/panteao-das-treze-estrelas/obris#obris), Deus da Ordem, Honra e Dever
 * [Zitia](http://localhost/divindades/panteao-das-treze-estrelas/zitia#zitia), Primordial do Nada
