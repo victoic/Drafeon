@@ -13,4 +13,4 @@
 * [Pés-Descalços Seivadores de Cascus](http://localhost/faccoes/faccoes-independentes/pes-descalcos-seivadores-de-cascus#pes-descalcos-seivadores-de-cascus)
 * [Ordem de Déz](http://localhost/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez)
 * [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
-* [O Tumulto (Facção)](http://localhost/faccoes/faccoes-independentes/o-tumulto-faccao#o-tumulto-faccao)
+* [O Tumulto (Facção)](http://localhost/faccoes/faccoes-independentes/o-tumulto-faccao#o-tumulto)
