@@ -1,5 +1,5 @@
-<!-- TITLE: Capítulo 2: Criando Raízes -->
-<!-- SUBTITLE: Visão geral sobre Capítulo 2: Criando Raízes -->
+<!-- TITLE: Capítulo 2-->
+<!-- SUBTITLE: Criando Raízes -->
 
 # Capítulo 2: Criando Raízes
 Após receberem um terreno como recompensa da Família Carvalho-Negro, o grupo é convidado para uma reunião com Lakip Brillabouso, o Mestre de Região da Ordem de Ouro no Sudeste de Drafeon.
