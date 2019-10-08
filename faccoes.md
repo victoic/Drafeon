@@ -4,4 +4,5 @@
 # Facções
 * [Facções Familiares](http://localhost/faccoes/faccoes-familiares#faccoes-familiares)
 * [Facções Independentes](http://localhost/faccoes/faccoes-independentes#faccoes-independentes)
+* [Nações](http://localhost/faccoes/nacoes#nacoes)
 
