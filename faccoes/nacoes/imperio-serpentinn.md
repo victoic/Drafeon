@@ -4,6 +4,7 @@
 # Imperio Serpentinn
 O Império Serpentinn é um antigo e isolado império que habita O Grande Deserto.
 
+# Informações
 `Tipo` Geopolítico, Império
 `Gentílico` Serpentinn 
 `Líder` 
