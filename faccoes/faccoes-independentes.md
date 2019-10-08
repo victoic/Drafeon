@@ -7,4 +7,5 @@
 * [Companhia de Mensagens e Encomendas Faralei](http://localhost/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei#companhia-de-mensagens-e-encomendas-faralei)
 * [Conciliábulo Negro](http://localhost/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
 * [Filhas de Zifelia](http://localhost/faccoes/faccoes-independentes/filhas-de-zifelia#filhas-de-zifelia)
+* [Mão de Toutaris](http://localhost/faccoes/faccoes-independentes/mao-de-toutaris#mao-de-toutaris)
 
