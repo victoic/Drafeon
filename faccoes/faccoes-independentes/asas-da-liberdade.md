@@ -6,6 +6,7 @@
 Asas da Liberdade é um grupo secreto de guerreiros criados e treinados desde de criança pelo rei Odo, da cidade de Apoio. Os membros são doutrinados para acreditarem que estão protegendo a liberdade da cidade, no entanto são usados por Odo para eliminar aqueles que o opõem.
 
 > A vida pelo reino.
+
 Lema dAs Asas da Liberdade
 
 # Informações
