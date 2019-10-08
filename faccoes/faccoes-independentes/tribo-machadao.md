@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Visão geral sobre Tribo Machadão -->
 
 # Tribo Machadão
-Tribo Machadão é um tribo de Orcs do Sudeste de Drafeon, localizada no extremo leste de Ga'te Kwiasz. A tribo possui esse nome pois o líder da tribo carrega consigo um grande machado primitivo, feito de pedra.
+Tribo Machadão é um tribo de Orcs do [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon), localizada no extremo leste de Ga'te Kwiasz. A tribo possui esse nome pois o líder da tribo carrega consigo um grande machado primitivo, feito de pedra.
 
 # Informações
 `Tipo` Geopolítico, Tribo
