@@ -12,6 +12,7 @@ Os deuses não possuem acesso direto ao Plano Material, onde todos nós nos enco
 * [Azemis](http://localhost/divindades/panteao-das-treze-estrelas/azemis#azemis), Primordial do Tudo 
 * [Nituhnna](http://localhost/divindades/panteao-das-treze-estrelas/nituhnna#nituhnna), Deusa do Conhecimento, Habilidade e Artesenato
 * [Obris](http://localhost/divindades/panteao-das-treze-estrelas/obris#obris), Deus da Ordem, Honra e Dever
+* [Zitia](http://localhost/divindades/panteao-das-treze-estrelas/zitia#zitia), Primordial do Nada
 
 # Informações
 `Tipo` Religioso, Panteão
