@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Visão geral sobre Companhia De Mensagens E Encomendas Faralei -->
 
 # Companhia De Mensagens E Encomendas Faralei
-Companhia de Mensagens e Encomendas Faralei é uma empresa de correios baseada em Porto Novo que opera no Sudeste de Drafeon e em destinos alcançáveis pelas rotas marítimas da cidade por contratações A companhia objetiva conectar os cantos do Império.
+Companhia de Mensagens e Encomendas Faralei é uma empresa de correios baseada em Porto Novo que opera no Sudeste de Drafeon e em destinos alcançáveis pelas rotas marítimas da cidade por contratações A companhia objetiva conectar os cantos do [Império](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao).
 
 ## Estrutura
 A empresa emprega gestores, contadores, entregadores à cavalo e tripulações navais. Além disso, Teniofre Faralei pessoalmente envia mensagens mágicas para as capitais do Império Dragão.  
