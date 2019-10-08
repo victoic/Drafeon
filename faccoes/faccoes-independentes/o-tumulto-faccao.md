@@ -1,7 +1,7 @@
-<!-- TITLE: O Tumulto Faccao -->
-<!-- SUBTITLE: Visão geral sobre O Tumulto Faccao -->
+<!-- TITLE: O Tumulto (Facção) -->
+<!-- SUBTITLE: Visão geral sobre O Tumulto (Facção) -->
 
-# O Tumulto Faccao
+# O Tumulto
 O Tumulto é o nome dado à tripulação do navio cargueiro de mesmo nome (O Tulmuto). O grupo é comandado por Arimeia 'Olho de Águia'.
 
 O Tumulto possui o objetivo de gerar lucros para seus membros, para tanto realizam trabalhos por toda a costa do Mar do Meio. Esses trabalhos em sua maioria envolvem movimentação de cargas comerciais, porém pode ser contratados também para transporte seguro de pessoas.
