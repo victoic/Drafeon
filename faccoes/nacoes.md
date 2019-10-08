@@ -2,4 +2,4 @@
 <!-- SUBTITLE: Visão geral sobre Nações -->
 
 # Nações
-* [Drafeon](http://localhost/faccoes/nacoes/drafeon#drafeon)
+* [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
