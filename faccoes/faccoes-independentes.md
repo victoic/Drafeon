@@ -16,3 +16,5 @@
 * [O Tumulto (Facção)](http://localhost/faccoes/faccoes-independentes/o-tumulto-faccao#o-tumulto)
 * [Tribo do Alto Desfiladeiro](http://localhost/faccoes/faccoes-independentes/tribo-do-alto-desfiladeiro#tribo-do-alto-desfiladeiro)
 * [Tribo Carazul](http://localhost/faccoes/faccoes-independentes/tribo-carazul#tribo-carazul)
+* [Tribo Fauxa Azuu](http://localhost/faccoes/faccoes-independentes/tribo-fauxa-azuu#tribo-fauxa-azuu)
+* [Tribo Machadão](http://localhost/faccoes/faccoes-independentes/tribo-machadao#tribo-machadao)
