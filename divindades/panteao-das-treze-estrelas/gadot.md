@@ -10,8 +10,6 @@ Há poucas versões da deusa, Todas as imagens feita por andarilhos ou estátuas
 Gadot se apresenta como uma bela mulher de pele negra, com grandes olhos azuis brilhantes e lábios também azuis. Gadot possui grandes cabelos pretos crespos e volumosos.
 Ela costuma possuir uma tiara e brincos de ouro.
 
-As lendas dizem que Gadot faz andarilhos dos desertos encontrarem Oasis, Andarilhos das Florestas encontrarem abrigo das bestas selvagens, os Andarilhos da Neve encontrarem uma caverna em que possam se abrigar. Independente das histórias, o conto da deusa é o mesmo, desde refúgio até água, comida e afastar o mal, Gadot protege aqueles que vivem afastados.
-
 ## Domínios Divinos
 Deusa dos andarilhos, estradas e necessitados Domínio da Luz, Domínio da Vida
 
