@@ -5,8 +5,8 @@
 
 ## Famílias de Porto Novo
 * [Família Brillabouso](http://localhost/faccoes/faccoes-familiares/familia-brillabouso#familia-brillabouso)
-* [Família Carvalho-Negro](http://localhost/faccoes/faccoes-familiares/carvalho-negro#carvalho-negro)
+* [Família Carvalho-Negro](http://localhost/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro)
 * [Família Faralei](http://localhost/faccoes/faccoes-familiares/familia-faralei#familia-faralei)
-* [Família Raça D'Ouro](http://localhost/faccoes/faccoes-familiares/raca-douro#raca-douro)
+* [Família Raça D'Ouro](http://localhost/faccoes/faccoes-familiares/familia-raca-douro#familia-raca-douro)
 
 
