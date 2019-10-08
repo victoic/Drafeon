@@ -1,6 +1,6 @@
 <!-- TITLE: Enciclopédia de Drafeon -->
 <!-- SUBTITLE: Introdução à Drafeon e seus Arredores-->
-![Drafeon Banner](/uploads/drafeon-banner.jpg "Drafeon Banner"){.align-center}
+![Drafeon Banner](/uploads/banners/drafeon-banner.jpg "Drafeon Banner"){.align-center}
 # Enciclopédia de Drafeon
 
 Olhe em volta, tudo o que você vê e além pertence a Drafeon e Drafeon pertence ao Império Dragão, longa vida ao Imperador! Mas cuidado, nem todos concordam com isso, muitos são os que querem um pedaço de Drafeon para si e alguns até conseguem. Mas nada disso é importante, só o que importa é o que você fará nessa terra, quem você será.
