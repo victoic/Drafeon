@@ -16,6 +16,6 @@ O império foi criado por [Makil Drasonur](http://localhost/individuos/makil-dra
 `Sistema Econômico` Tradicional 
 `Moeda` Peças de Platina (vale 10), Peças de Ouro (vale 1), Peças de Prata (vale 1/10), Peças de Bronze (vale 1/100) 
 `Localização` [Drafeon ](http://localhost/lugares/plano-material/drafeon#drafeon)
-`Nações Vizinhas` [Grande Império Orc](); [Império Serpentinn]()
+`Nações Vizinhas` [Grande Império Orc](); [Império Serpentinn](http://localhost/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn)
 [`Rankings e Títulos`](http://localhost/rankings-e-titulos#imperio-dragao)
 
