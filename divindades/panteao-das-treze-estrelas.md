@@ -8,7 +8,7 @@ Os deuses não possuem acesso direto ao Plano Material, onde todos nós nos enco
 
 ## Membros
 * [Aaos](http://localhost/divindades/panteao-das-treze-estrelas/aaos#aaos), Deus dos Sonhos e da Morte
-* [Ahena](), Deusa do tempo e do destino
+* [Ahena](http://localhost/divindades/panteao-das-treze-estrelas/ahena#ahena), Deusa do tempo e do destino
 * [Nituhnna](http://localhost/divindades/panteao-das-treze-estrelas/nituhnna#nituhnna), Deusa do Conhecimento, Habilidade e Artesenato
 * [Obris](http://localhost/divindades/panteao-das-treze-estrelas/obris#obris), Deus da Ordem, Honra e Dever
 
