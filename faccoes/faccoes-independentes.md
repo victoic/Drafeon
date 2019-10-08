@@ -14,3 +14,5 @@
 * [Ordem de Déz](http://localhost/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez)
 * [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
 * [O Tumulto (Facção)](http://localhost/faccoes/faccoes-independentes/o-tumulto-faccao#o-tumulto)
+* [Tribo do Alto Desfiladeiro](http://localhost/faccoes/faccoes-independentes/tribo-do-alto-desfiladeiro#tribo-do-alto-desfiladeiro)
+* [Tribo Carazul](http://localhost/faccoes/faccoes-independentes/tribo-carazul#tribo-carazul)
