@@ -1,5 +1,5 @@
-<!-- TITLE: Capítulo 3: A Bruxa Do Pântano -->
-<!-- SUBTITLE: Visão geral sobre Capítulo 3: A Bruxa Do Pântano -->
+<!-- TITLE: Capítulo 3 -->
+<!-- SUBTITLE: A Bruxa Do Pântano -->
 
 # Capítulo 3: A Bruxa Do Pântano
 Mercadorias exportadas de [Vila das Pontes]() deixaram de ser entregues para a [Família Carvalho-Negro]() de [Porto Novo]().. Entre as mercadorias se encontram turfa, um dos principais combustíveis da cidade, e ferro do pântano, um metal barato altamente utilizado para itens mundanos por artesãos da cidade porteira. Pessoas passam frio nos subúrbios de Porto Novo, o custo de lenha e metais brutos sobe exponencialmente. [Lopaohz Carvalho-Negro]() pede ao grupo confiável de aventureiros que descubra o motivo e tente resolvê-lo.
