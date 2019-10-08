@@ -4,4 +4,4 @@
 # Planos Dimensionais
 * [Emberez](http://localhost/lugares/emberez#emberez)
 * [Faéria](http://localhost/lugares/faeria#faeria)
-* [Plano Material](http://http://localhost/lugares/plano-material#plano-material)
+* [Plano Material](http://localhost/lugares/plano-material#plano-material)
