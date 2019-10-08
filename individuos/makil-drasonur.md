@@ -24,6 +24,6 @@ Makil se orgulha do Império que formou pacificando grande parte das raças inte
 `Cabelo Cabelos` Cabelos curtos e pretos.
 `Altura` 1,21 m
 `Peso` 18 Kg
-`Organizações Associadas` [Império Dragão](http://localhost/faccoes/imperio-dragao#imperio-dragao)
+`Organizações Associadas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Títulos` [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
 
