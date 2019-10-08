@@ -7,6 +7,6 @@ O Conciliábulo Negro é um conliábulo de bruxas formado por [Vovó Matrilda Bu
 # Informações
 `Tipo` Ilícito, Grupo Terrorista
 `Data de Fundação` 19/07/1753
-`Membros Notáveis` [Vovó Matrilda Bufenta](), [Baba Sut](), [Titia Olga Cudeporco]()
+`Membros Notáveis` [Vovó Matrilda Bufenta](), [Baba Sut](), [Titia Olga Cudeporco](), [Vargus]()
 
 
