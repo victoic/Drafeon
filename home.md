@@ -14,16 +14,8 @@ Drafeon é um continente pequeno, porém com uma enorme diversidade de biomas, p
 Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possui o objetivo de reunir e harmonizar todas as raças conscientes. Porém esta é uma tarefa difícil, com o grande tamanho do império, controlar e proteger os quatro cantos das criaturas que discordam da ideia de união e da corrupção e ambição de seus próprios líderes.
 
 * [**CAPÍTULOS**](http://localhost/capitulos)
-	* [Capítulo 1: Os Carvalho-Negro](http://localhost/capitulos/capitulo-1-os-carvalho-negro#capitulo-1-os-carvalho-negro)
 * [**DIVINDIDADES**](http://localhost/divindades#divindades)
-	* [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
 * [**FACÇÕES**](http://localhost/faccoes#faccoes)
-	* **Nações**
-		* [Império Dragão](http://localhost/faccoes/imperio-dragao#imperio-dragao)
 * [**INDIVÍDUOS**](http://localhost/individuos#individuos)
 * [**LUGARES**](http://localhost/lugares#lugares)
-	* [**Plano Material**](http://localhost/lugares/plano-material#plano-material)
-		* [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
-	* [**Faéria**](http://localhost/lugares/faeria#faeria)
-	* [**Plano Material**](http://http://localhost/lugares/plano-material#plano-material)
 * [**RANKINGS e TÍTULOS**](http://localhost/rankings-e-titulos#rankings-e-titulos)
