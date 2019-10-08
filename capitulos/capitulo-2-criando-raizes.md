@@ -19,3 +19,6 @@ Retornando à Porto Novo, o grupo conjura a mansão mágica no terreno. A mansã
 ## Adversários
 [Ergion Valojurado]()
 
+# Segredos
+Lakip é corrompido pelo Coração de Azaroth. 
+
