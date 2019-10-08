@@ -19,7 +19,7 @@ A empresa possui dezenas de carruagens, carroças e cavalos e meia dúzia de nav
 `Data de Fundação` 1588
 `Tipo` Corporação, Negócio
 `Líder` [Teniofre Faralei]()
-`Organização Pai` [Família Faralei](http://localhost/faccoes/facoes-familiares/familia-faralei#familia-faralei)
+`Organização Pai` [Família Faralei](http://localhost/faccoes/faccoes-familiares/familia-faralei#familia-faralei)
 `Localização` [Porto Novo]()
 `Membros Notáveis`
 
