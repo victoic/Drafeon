@@ -8,7 +8,7 @@ O Império Serpentinn é um antigo e isolado império que habita O Grande Desert
 `Tipo` Geopolítico, Império
 `Gentílico` Serpentinn 
 `Líder` 
-`Organizações Subsidiárias` [Exército Serpentinn]()
+`Organizações Subsidiárias` [Exército Serpentinn](http://localhost/faccoes/nacoes/exercito-serpentinn#exercito-serpentinn)
 `Sistema Governamental` Monarquia, Absoluta 
 `Estrutura de Poder` Estado Unitário 
 `Sistema Econômico` Tradicional 
