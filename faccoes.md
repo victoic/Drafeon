@@ -2,4 +2,5 @@
 <!-- SUBTITLE: Visão geral sobre Facções -->
 
 # Facções
+* [Facções Familiares](http://localhost/faccoes/faccoes-familiares#faccoes-familiares)
 
