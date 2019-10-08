@@ -9,4 +9,5 @@
 * [Filhas de Zifelia](http://localhost/faccoes/faccoes-independentes/filhas-de-zifelia#filhas-de-zifelia)
 * [Mão de Toutaris](http://localhost/faccoes/faccoes-independentes/mao-de-toutaris#mao-de-toutaris)
 * [Os Monges de Kammeh-Tu](http://localhost/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
+* [Pá de Pedra](http://localhost/faccoes/faccoes-independentes/pa-de-pedra#pa-de-pedra)
 
