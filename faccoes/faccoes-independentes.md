@@ -10,4 +10,5 @@
 * [Mão de Toutaris](http://localhost/faccoes/faccoes-independentes/mao-de-toutaris#mao-de-toutaris)
 * [Os Monges de Kammeh-Tu](http://localhost/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
 * [Pá de Pedra](http://localhost/faccoes/faccoes-independentes/pa-de-pedra#pa-de-pedra)
+* [Pés-Descalços Seivadores de Cascus](http://localhost/faccoes/faccoes-independentes/pes-descalcos-seivadores-de-cascus#pes-descalcos-seivadores-de-cascus)
 
