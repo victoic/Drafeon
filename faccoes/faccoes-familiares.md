@@ -4,5 +4,5 @@
 # Facções Familiares
 
 ## Famílias de Porto Novo
-* [Família Brillabouso]()
+* [Família Brillabouso](http://localhost/faccoes/faccoes-familiares/familia-brillabouso#familia-brillabouso)
 
