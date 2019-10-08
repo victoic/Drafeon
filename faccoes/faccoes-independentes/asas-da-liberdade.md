@@ -11,7 +11,7 @@ Lema dAs Asas da Liberdade
 # Informações
 `Tipo` Secreto, Militar
 `Nível de Treinamento` Semi-profissional
-`Localização` [Porto Novo]()
+`Localização` [Apoio]()
 `Membros Notáveis`
 
 
