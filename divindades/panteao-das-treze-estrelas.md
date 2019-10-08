@@ -18,6 +18,7 @@ Os deuses não possuem acesso direto ao Plano Material, onde todos nós nos enco
 * [Obris](http://localhost/divindades/panteao-das-treze-estrelas/obris#obris), Deus da Ordem, Honra e Dever
 * [Opzot-Ulo](http://localhost/divindades/panteao-das-treze-estrelas/opzot-ulo#opzot-ulo), Deus das Pragas e da Insanidade
 * [Woton](http://localhost/divindades/panteao-das-treze-estrelas/woton#woton), Deusa das Bestas e Aberrações
+* [Zifelia](http://localhost/divindades/panteao-das-treze-estrelas/zifelia#zifelia), Deusa da beleza, juventude e do amor
 * [Zitia](http://localhost/divindades/panteao-das-treze-estrelas/zitia#zitia), Primordial do Nada
 
 # Informações
