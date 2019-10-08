@@ -16,6 +16,7 @@ Os deuses não possuem acesso direto ao Plano Material, onde todos nós nos enco
 * [Mudur](http://localhost/divindades/panteao-das-treze-estrelas/mudur#mudur), Deus da Guera e do Combate 
 * [Nituhnna](http://localhost/divindades/panteao-das-treze-estrelas/nituhnna#nituhnna), Deusa do Conhecimento, Habilidade e Artesenato
 * [Obris](http://localhost/divindades/panteao-das-treze-estrelas/obris#obris), Deus da Ordem, Honra e Dever
+* [Opzot-Ulo](http://localhost/divindades/panteao-das-treze-estrelas/opzot-ulo#opzot-ulo), Deus das Pragas e da Insanidade
 * [Zitia](http://localhost/divindades/panteao-das-treze-estrelas/zitia#zitia), Primordial do Nada
 
 # Informações
