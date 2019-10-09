@@ -12,6 +12,7 @@
 [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
 ### Ancião das Três Mãos
 [Ancião das Três Mãos](http://localhost/rankings-e-titulos/anciao-das-tres-maos#anciao-das-tres-maos)
+[Membro das Três Mãos](http://localhost/rankings-e-titulos/membro-das-tres-maos#membro-das-tres-maos)
 
 # **Nações**
 ## Corte Élfica
