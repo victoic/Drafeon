@@ -3,6 +3,9 @@
 
 # Rankings E Títulos
 ## **Nações**
+## Corte Élfica
+[Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
+
 ## Império Dragão
 [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
 ### Cargos Políticos
@@ -12,6 +15,8 @@
 * [Senho de Região](http://localhost/rankings-e-titulos/senhor-de-regiao#senhor-de-regiao)
 * [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
 
-## Corte Élfica
-[Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
+## Império Serpentinn
+[Império Serpentinn](http://localhost/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn)
+### Cargos Políticos
+* [Sharaja](http://localhost/rankings-e-titulos/sharaja#sharaja)
 
