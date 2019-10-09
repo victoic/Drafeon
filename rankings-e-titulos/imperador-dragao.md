@@ -12,7 +12,7 @@ O Imperador Dragão foi um cargo autoproclamado por Makil após a criação do I
 `Estado` Ativo
 `Nomes Alternativos` Platino, Imperador Dragão
 `Duração do Termo` Vitalíceo
-`Lugar Relacionado` [Drafeon](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Lugar Relacionado` [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
 `Organização Relacionada` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
 
 
