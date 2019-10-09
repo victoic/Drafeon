@@ -42,6 +42,8 @@ Berço Largo é o nome do grande rio que atravessa a região sudeste de Drafeon.
 **[Rio Vermelho]() (Bissz' Vet'lu)**
 O rio vermelho ganha seu nome de sua nascente, o Monte Vermelho. Histórias populares contam que as águas de sua nascente são realmente vermelhas por causa do sangue das vítimas do Dragão Vermelho que habita o monte. O rio eventualmente se junta ao Rio Largo em seu caminho ao Mar do Meio.
 
+**[Rio Estreito]() (Biszz' Etio)**
+
 ### Montes & Montanhas
 **[Monte Vermelho]() (Mutiy Vet'lu)**
 O monte se encontra em meio às florestas de mata aberta mais à leste da região, à leste do Pântano Poço Raso. Recebe esse nome por conta de sua pedras avermelhadas. O monte possui um grande sistema de cavernas, no qual um Dragão Vermelho fez residência por 46 anos (1696-1742) sendo expulso por um ataque ataque bem sucedido da Guarda do Império do vilarejo Sem Vento.
