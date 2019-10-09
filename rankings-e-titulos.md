@@ -16,6 +16,9 @@
 * [Senhor de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade)
 * [Senho de Região](http://localhost/rankings-e-titulos/senhor-de-regiao#senhor-de-regiao)
 
+### Cargos Militares
+* [Drak](http://localhost/rankings-e-titulos/drak#drak)
+
 ## Império Serpentinn
 [Império Serpentinn](http://localhost/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn)
 ### Cargos Políticos
