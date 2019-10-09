@@ -3,13 +3,15 @@
 
 # Rankings E Títulos
 # **Facções Independentes**
-## Cidade Dourada
-[Cidade Dourada](http://localhost/lugares/faeria/cidade-dourada#cidade-dourada)
+## Monges de Kammeh Tu
+[Cidade Dourada](http://localhost/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
 ### Cargos Políticos
-[Rei](http://localhost/faccoes/nacoes/rei-cidade-dourada#rei-cidade-dourada)
+[Rei](http://localhost/rankings-e-titulos/rei-cidade-dourada#rei-cidade-dourada)
 
 ## Três Mãos
 [Três Mãos]()
+### Ancião das Três Mãos
+[Ancião das Três Mãos](
 
 # **Nações**
 ## Corte Élfica
