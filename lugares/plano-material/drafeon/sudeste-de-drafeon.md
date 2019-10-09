@@ -41,7 +41,7 @@ O Sudeste possui alguns poucos vilarejos de porte pequeno e médio que sobrevive
 # Informações
 `Tipo` Região
 `Sub-locações` 
-`Organização Dominante` [Império Dragão](http://localhost/faccoes/imperio-dragao#imperio-dragao) 
+`Organização Dominante` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao) 
 [`Etnias`](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias-do-sudeste-de-drafeon#etnias-do-sudeste-de-drafeon)
 
 -----
