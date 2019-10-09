@@ -16,6 +16,7 @@ Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possu
 * [**CAPÍTULOS**](http://localhost/capitulos)
 * [**DIVINDIDADES**](http://localhost/divindades#divindades)
 * [**FACÇÕES**](http://localhost/faccoes#faccoes)
+* [**FAUNA e FLORA**](http://localhost/fauna-e-flora#fauna-e-flora)
 * [**INDIVÍDUOS**](http://localhost/individuos#individuos)
 * [**LUGARES**](http://localhost/lugares#lugares)
 * [**RANKINGS e TÍTULOS**](http://localhost/rankings-e-titulos#rankings-e-titulos)
