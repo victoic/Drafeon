@@ -25,6 +25,6 @@ Todos os membros da ordem são treinados em artes marciais e combate armado.
 `Territórios Controlados` [Kammeh-Tu]()
 `Membros Notáveis` [Sanwu Konn]()
 `Mitos Relacionados` [A Lenda de Sanwu Konn](), [O Rei de Faéria]()
-[`Rankings e Títulos`](http://localhost/rankings-e-titulos#tres-maos)
+[`Rankings e Títulos`](http://localhost/rankings-e-titulos#os-monges-de-kammeh-tu)
 
 
