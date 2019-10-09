@@ -4,6 +4,10 @@
 # Exército Serpentinn
 O Exército Serpentinn engloba todo o poderio e hierarquia militar do [Império Serpentinn](http://localhost/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn).
 
+## Infantaria
+Uma grande variedade de infantaria compõem os exércitos dos Serpentinn.
+* [Chicoteadores Serpentinn](http://localhost/faccoes/nacoes/exercito-serpentinn/chicoteadores-serpentinn#chicoteadores-serpentinn)
+
 # Informações
 `Tipo` Militar, Exército
 `Nomes Alternativos` Spaa
