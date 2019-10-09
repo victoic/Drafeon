@@ -13,6 +13,7 @@
 * [Grande Senhor de Terras](http://localhost/rankings-e-titulos/grande-senhor-de-terras#grande-senhor-de-terras)
 * [Senhor de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade)
 * [Senho de Região](http://localhost/rankings-e-titulos/senhor-de-regiao#senhor-de-regiao)
+* [Arquimago](http://localhost/rankings-e-titulos/arquimago#arquimago)
 * [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
 
 ## Império Serpentinn
