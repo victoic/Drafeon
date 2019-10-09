@@ -3,10 +3,8 @@
 
 # Fauna E Flora
 ## Fauna
-[Urso Uivante](http://localhost/fauna-e-flora/urso-uivante#urso-uivante)
-
 [Raças Inteligentes](http://localhost/fauna-e-flora/racas-inteligentes#racas-inteligentes)
-
+[Urso Uivante](http://localhost/fauna-e-flora/urso-uivante#urso-uivante)
 
 ## Flora
 [Pé-Cascus](http://localhost/fauna-e-flora/pe-cascus#pe-cascus)
