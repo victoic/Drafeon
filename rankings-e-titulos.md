@@ -3,8 +3,8 @@
 
 # Rankings E Títulos
 # **Facções Independentes**
-## Os Monges de Kammeh Tu
-[Cidade Dourada](http://localhost/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
+## Os Monges de Kammeh-Tu
+[Os Monges de Kammeh-Tu](http://localhost/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
 ### Cargos Políticos
 [Rei](http://localhost/rankings-e-titulos/rei-cidade-dourada#rei-cidade-dourada)
 
