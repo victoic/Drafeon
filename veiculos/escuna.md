@@ -15,4 +15,4 @@ Escunas possuem entre 6 e 12 armas, comumente bestas de guerra. O casco do navio
 `Peso` Aproximadamente 100 toneladas
 `Velocidade` 80 Km/dia
 `Capacidade de Carga` 90 toneladas
-`Capacidade de Pessoas` 30 pessoas
+`Capacidade de Tripulação` 30 pessoas
