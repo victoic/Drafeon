@@ -8,6 +8,9 @@
 ### Cargos Políticos
 [Rei](http://localhost/faccoes/nacoes/rei-cidade-dourada#rei-cidade-dourada)
 
+## Três Mãos
+[Três Mãos]()
+
 # **Nações**
 ## Corte Élfica
 [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
