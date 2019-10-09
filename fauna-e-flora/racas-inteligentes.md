@@ -9,6 +9,7 @@
 	* [Elfo da Floresta](http://localhost/fauna-e-flora/racas-inteligentes/elfo-da-floresta#elfo-da-floresta)
 	* [Elfo Negro](http://localhost/fauna-e-flora/racas-inteligentes/elfo-negro#elfo-negro)
 * [Gnomo](http://localhost/fauna-e-flora/racas-inteligentes/gnomo#gnomo)
+* [Goblins](http://localhost/fauna-e-flora/racas-inteligentes/goblins#goblins)
 * [Humano](http://localhost/fauna-e-flora/racas-inteligentes/humano#humano)
 * [Orc](http://localhost/fauna-e-flora/racas-inteligentes/orc#orc)
 * [Povo Lagarto](http://localhost/fauna-e-flora/racas-inteligentes/povo-lagarto#povo-lagarto)
