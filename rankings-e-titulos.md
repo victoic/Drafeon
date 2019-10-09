@@ -18,6 +18,7 @@
 
 ### Cargos Militares
 * [Drak](http://localhost/rankings-e-titulos/drak#drak)
+* [Mestre de Estandarde](http://localhost/rankings-e-titulos/mestre-de-estandarde#mestre-de-estandarde)
 
 ## Império Serpentinn
 [Império Serpentinn](http://localhost/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn)
