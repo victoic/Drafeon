@@ -12,6 +12,7 @@
 * [Arquimago](http://localhost/rankings-e-titulos/arquimago#arquimago)
 * [Grande Senhor de Terras](http://localhost/rankings-e-titulos/grande-senhor-de-terras#grande-senhor-de-terras)
 * [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
+* [Patrono](http://localhost/rankings-e-titulos/patrono#patrono)
 * [Senhor de Terras](http://localhost/rankings-e-titulos/senhor-de-terras#senhor-de-terras)
 * [Senhor de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade)
 * [Senho de Região](http://localhost/rankings-e-titulos/senhor-de-regiao#senhor-de-regiao)
