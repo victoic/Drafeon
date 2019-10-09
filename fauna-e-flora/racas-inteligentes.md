@@ -3,7 +3,7 @@
 
 # Racas Inteligentes
 * [Draconato](http://localhost/fauna-e-flora/racas-inteligentes/draconato#draconato)
-	* [Draconato Emplumado](http://localhost/fauna-e-flora/racas-inteligente/draconato-emplumados#draconato-emplumados)
+	* [Draconato Emplumado](http://localhost/fauna-e-flora/racas-inteligentes/draconato-emplumados#draconato-emplumados)
 * [Elfo](http://localhost/fauna-e-flora/racas-inteligentes/elfo#elfo)
 	* [Alto Elfo](http://localhost/fauna-e-flora/racas-inteligentes/alto-elfo#alto-elfo)
 	* [Elfo da Floresta](http://localhost/fauna-e-flora/racas-inteligentes/elfo-da-floresta#elfo-da-floresta)
