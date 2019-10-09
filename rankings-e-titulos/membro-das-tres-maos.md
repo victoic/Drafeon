@@ -19,3 +19,8 @@ Acesso às bibliotecas secretas da sociedade. Membros recebem treinamento em div
 ## Base para Remoção/Dispensa
 Em caso de traição dos ideais da sociedade, os demais anciões podem convocar uma votação para exoneração e execução do membro em questão.
 
+`Tipo` Acadêmico, Honorófico
+`Duração do Termo` Vitalíceo
+`Reporta Diretamente a` [Ancião das Três Mãos](http://localhost/rankings-e-titulos/anciao-das-tres-maos#anciao-das-tres-maos)
+`Organizações Relacionadas` [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
+
