@@ -14,7 +14,7 @@ Um grande lago, chamado Mar do Meio se encontra no centro da terra. Diversas gra
 # Informações
 `Nomes Alternativos` Império Dragão, País do Dragão 
 `Tipo` Massa de Terra 
-`Organizações Incluidas` [Império Dragão](http://localhost/faccoes/imperio-dragao#imperio-dragao), [Grande Império Orc ](), [Império Serpetinn](), [Corte Élfica](), [Reino Anão]()
-`Organizações Governante` [Império Dragão](http://localhost/faccoes/imperio-dragao#imperio-dragao)
+`Organizações Incluidas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao), [Grande Império Orc ](), [Império Serpetinn](), [Corte Élfica](), [Reino Anão]()
+`Organizações Governante` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Dono/Governante` [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur) 
 `Sub-locações` [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon)
