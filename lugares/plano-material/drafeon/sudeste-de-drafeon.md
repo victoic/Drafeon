@@ -27,7 +27,7 @@ Conjunto de ilhas ao leste da região.
 **[Poço Raso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso) (Possz Raktosz)**
 Um pequeno pântano que preenche o centro da região. Poço Raso possui vegetação densa, dado que suas águas não são muito profundas. Aqui existe um assentamento do Império, que recebe o mesmo nome do pântano. 
 
-**Bahia Escura]() (Bua'tyk Szkar)**
+**[Bahia Escura](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/bahia-escura#bahia-escura) (Bua'tyk Szkar)**
 Este é o maior pântano da região. Em seu exterior ele se encontra com os bosques e até com Ga'te Kwiasz mais ao sul. Porém seu nome fica claro ao se aproximar do centro do pântano, a vegetação é praticamente inexistente, salvo algumas raras árvores gigantescas que emergem das profundas águas quase negras. O pântano se mistura em partes com o Berço Largo, suas correntes fluindo nas partes mais profundas do pântano, enquanto o resto das águas são calmas o que pode ser uma armadilha mortal para viajantes. Neste pântano existe uma grande civilização Povo Lagarto, além de algumas pequenas tribos globinóides. 
 
 ### Rios
