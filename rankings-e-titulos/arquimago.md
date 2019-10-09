@@ -15,7 +15,7 @@ O Arquimago possui acesso à biblioteca privada arcana, possuindo acesso a livro
 
 # Informações
 `Tipo` Civíco, Político 
-n Ativo
+`Estado` Ativo
 `Fonte de Autoridade` [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
 `Duração do Termo` O cargo do Arquimago dura até que seu sucessor esteja preparado para a tomada do cargo.
 `Lugar Relacionado` [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
