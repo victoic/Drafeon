@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Visão geral sobre Rankings E Títulos -->
 
 # Rankings E Títulos
-## **Nações**
+# **Nações**
 ## Corte Élfica
 [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
 
