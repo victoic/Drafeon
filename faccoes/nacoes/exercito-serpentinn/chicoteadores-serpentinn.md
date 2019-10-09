@@ -8,17 +8,17 @@ Chicoteadores Serpentinn são um tipo de unidade de infantaria do Império Serpe
 
 ### Equipamento
 Cada chicoteador carrega consigo:
-*     uma armadura média de peitoral;
-*     um cantil;
-*     uma algibeira com ervas medicinais e veneno;
-*     braceletes de identificação hierárquica.
+* uma armadura média de peitoral;
+* um cantil;
+* uma algibeira com ervas medicinais e veneno;
+* braceletes de identificação hierárquica.
 
 ### Armas
 As armas carregadas por um chicoteador são:
-*     um chicote Serpentinn de couro com ponta de bronze;
-*     um escudo longo oval, comumente pintado com as cores/símbolos do reinado do batalhão;
-*     uma adaga;
-*     uma pequena quantidade de dardos de madeira com ponta de bronze (dez dardos).
+* um chicote Serpentinn de couro com ponta de bronze;
+* um escudo longo oval, comumente pintado com as cores/símbolos do reinado do batalhão;
+* uma adaga;
+* uma pequena quantidade de dardos de madeira com ponta de bronze (dez dardos).
 
 ### Estrutura
 Além dos soldados chicoteadores, uma divisão de guerra possui um Paygan Saalar, que comanda a divisão, uma quantidade de unidades secundárias de suporte que varia com o tamanho da divisão e possivelmente uma unidade arcanaria de suporte.
