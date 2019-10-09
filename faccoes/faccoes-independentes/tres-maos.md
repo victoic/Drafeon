@@ -15,4 +15,5 @@ A sociedade possui uma hierarquia resumida e simplificada, por partir do reconhe
 `Nomes Alternativos` Sociedade secreta dos sábios
 `Localização` [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
 `Membros Notáveis`
+[`Rankings e Títulos`](http://localhost/rankings-e-titulos#tres-maos)
 
