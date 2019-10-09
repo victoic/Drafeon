@@ -44,6 +44,9 @@ O rio vermelho ganha seu nome de sua nascente, o Monte Vermelho. Histórias popu
 
 **[Rio Estreito]() (Biszz' Etio)**
 
+### Penhascos & Cânions
+**[Estreito de Ga'te Kwiasz](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/estreito-de-gate-kwiasz#estreito-de-gate-kwiasz)**
+
 ### Montes & Montanhas
 **[Monte Vermelho]() (Mutiy Vet'lu)**
 O monte se encontra em meio às florestas de mata aberta mais à leste da região, à leste do Pântano Poço Raso. Recebe esse nome por conta de sua pedras avermelhadas. O monte possui um grande sistema de cavernas, no qual um Dragão Vermelho fez residência por 46 anos (1696-1742) sendo expulso por um ataque ataque bem sucedido da Guarda do Império do vilarejo Sem Vento.
