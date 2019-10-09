@@ -2,6 +2,12 @@
 <!-- SUBTITLE: Visão geral sobre Rankings E Títulos -->
 
 # Rankings E Títulos
+# **Facções Independentes**
+## Cidade Dourada
+[Cidade Dourada](http://localhost/lugares/faeria/cidade-dourada#cidade-dourada)
+### Cargos Políticos
+[Rei](http://localhost/faccoes/nacoes/rei-cidade-dourada#rei-cidade-dourada)
+
 # **Nações**
 ## Corte Élfica
 [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
@@ -28,6 +34,6 @@
 ### Cargos Políticos
 * [Sharaja](http://localhost/rankings-e-titulos/sharaja#sharaja)
 
-# **Existência**
+# **Mágico**
 ## Fey
 * [Arquefey](http://localhost/rankings-e-titulos/arquefey#arquefey)
