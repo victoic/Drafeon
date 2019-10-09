@@ -19,7 +19,7 @@ O cajado dourado de Sanwu Konn.
 `Fonte de Autoridade` A benção do macaco de Coecyr
 `Titulares Anteriores` [Sanwu Konn]()
 `Duração do Termo` Vitalíceo
-`Lugares Relacionados` [Cidade Dourada](http://localhost/lugares/faeria/cidade-dourada#cidade-dourada), [Kammeh-Tu]((http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu#kammeh-tu)
+`Lugares Relacionados` [Cidade Dourada](http://localhost/lugares/faeria/cidade-dourada#cidade-dourada), [Kammeh-Tu](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu#kammeh-tu)
 `Organização Relacionada` [Monges de Kammeg-Tu](http://localhost/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
 
 
