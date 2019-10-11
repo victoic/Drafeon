@@ -17,6 +17,6 @@ Após obter o Coração de Azaroth, Lakip passou a ser influenciado pelo demôni
 `Cabelos` Castanhos
 `Altura` 1,08 m
 `Peso` 23 Kg
-`Organizações Associadas` [Ordem de Ouro](http://localhost/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro), [Família Carvalho-Negro](http://localhost/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro)
+`Organizações Associadas` [Ordem de Ouro](http://localhost/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro), [Família Brillabouso](http://localhost/faccoes/faccoes-familiares/familia-brillabouso#familia-brillabouso)
 `Títulos` A Flor do Carvalho
 
