@@ -33,7 +33,7 @@
 * [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
 * [Senhor de Terras](http://localhost/rankings-e-titulos/senhor-de-terras#senhor-de-terras)
 * [Senhor de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade)
-* [Senho de Região](http://localhost/rankings-e-titulos/senhor-de-regiao#senhor-de-regiao)
+* [Senhor de Região](http://localhost/rankings-e-titulos/senhor-de-regiao#senhor-de-regiao)
 
 ## Império Serpentinn
 [Império Serpentinn](http://localhost/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn)
