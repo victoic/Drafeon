@@ -1,7 +1,7 @@
-<!-- TITLE: Companhia De Caca Da Lady Scyla -->
-<!-- SUBTITLE: Visão geral sobre Companhia De Caca Da Lady Scyla -->
+<!-- TITLE: Companhia De Caça Da Lady Scyla -->
+<!-- SUBTITLE: Visão geral sobre Companhia De Caça Da Lady Scyla -->
 
-# Companhia De Caca Da Lady Scyla
+# Companhia De Caça Da Lady Scyla
 A Companhia de Caça da Lady Scyla é um grupo de aventureiros do Sudeste de Drafeon, formado por membros da nobreza do Porto Novo.
 
 > O Fio Dourado em Defesa do Povo
