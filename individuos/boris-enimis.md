@@ -1,5 +1,5 @@
 <!-- TITLE: Boris Enimis -->
-<!-- SUBTITLE: Visão geral sobre Boris Enimis -->
+<!-- SUBTITLE: O Martelo -->
 
 # Boris Enimis
 Boris é um gnomo habitante da cidade de [Costa do Repouso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso#costa-do-repouso), ao [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon). Boris foi um conhecido aventureiro em [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon), hoje é um grande ferreiro dono da [Mão da Forja](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso/mao-da-forja#mao-da-forja). 
