@@ -6,4 +6,4 @@ Emberez é um semiplano espelhando o Plano Material, onde Celestiais e Corruptor
 
 # Informações
 `Tipo` Plano Dimensional
-`Sub-locações` [Ibrido]()
+`Sub-locações` [Ibrido](http://localhost/lugares/emberez/ibrido#ibrido)
