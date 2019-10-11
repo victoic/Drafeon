@@ -16,8 +16,8 @@ Os membros da ordem de ouro seguem uma estrita hierarquia.
 3. **Grande Cavaleiro da Ordem** ou **Grande Feiticeiro da Ordem**
 4. **Mestre Cavaleiro** ou **Mestre de Região** ou **Mestre Feiticeiro**
 5. **Cavaleiro Dourado** ou **Feiticeiro Dourado**
-6. **O Escudo do Grande* **ou **A Espada do Grande* **
-7. **Grã Mestre da Ordem* **
+6. **O Escudo do Grande***ou **A Espada do Grande*** 
+7. **Grã Mestre da Ordem***
 *Posição só pode ser ocupada por um indivíduo. 
 
 ## Bens
