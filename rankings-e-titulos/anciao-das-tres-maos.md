@@ -1,7 +1,7 @@
-<!-- TITLE: Anciao Das Tres Maos -->
-<!-- SUBTITLE: Visão geral sobre Anciao Das Tres Maos -->
+<!-- TITLE: Ancião Das Tres Mãos -->
+<!-- SUBTITLE: Visão geral sobre Ancião Das Tres Mãos -->
 
-# Anciao Das Tres Maos
+# Ancião Das Tres Mãos
 Um Ancião das Três Mãos é um dos sábios da sociedade secreta Três Mãos. São os únicos da sociedade com acesso às bibliotecas secretas da sociedade.
 
 ## Requerimentos
