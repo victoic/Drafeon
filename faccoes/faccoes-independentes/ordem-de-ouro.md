@@ -9,7 +9,6 @@ Os membros da Ordem são doutrinados para seguirem ao máximo possível as leis 
 * A Ordem são servidores do povo, nossas vidas existem pelo bem maior;
 * Sacrifício é honra, o Grande Dragão Dourado é um exemplo a ser seguido;
 * Todos que se esforçam para ser melhores merecem ser protegidos, independente de raça, crença ou origem.
-* 
 ## Estrutura
 Os membros da ordem de ouro seguem uma estrita hierarquia.
 1. **Iniciante da Ordem**
