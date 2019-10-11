@@ -9,7 +9,7 @@ Arimeia possui excelentes habilidades espaciais e de navegação. Conhece as cos
 # Informações
 `Títulos` Capitã dO Tumulto
 `Data de Nascimeto` 1726
-`Sexo` Biológico Feminino
+`Sexo Biológico` Feminino
 `Olhos` Olhos vermelhos
 `Cabelos` Pretos e longos
 `Altura` 1,67 m
