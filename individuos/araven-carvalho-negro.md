@@ -8,6 +8,7 @@ Arevan morreu em combate com as forças do [Conciliábulo Negro](http://localhos
 
 # Informações
 `Vida` 1728 - 1753
+`Sexo Biológico` Masculino
 `Olhos` Negros
 `Cabelos` Cabelos negros médios, levemente cachado
 `Altura` 1,74 m
