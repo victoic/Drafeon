@@ -12,6 +12,7 @@
 * [Pá de Pedra](http://localhost/faccoes/faccoes-independentes/pa-de-pedra#pa-de-pedra)
 * [Pés-Descalços Seivadores de Cascus](http://localhost/faccoes/faccoes-independentes/pes-descalcos-seivadores-de-cascus#pes-descalcos-seivadores-de-cascus)
 * [Ordem de Déz](http://localhost/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez)
+* [Ordem de Ouro](http://localhost/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)
 * [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
 * [O Tumulto (Facção)](http://localhost/faccoes/faccoes-independentes/o-tumulto-faccao#o-tumulto)
 * [Tribo do Alto Desfiladeiro](http://localhost/faccoes/faccoes-independentes/tribo-do-alto-desfiladeiro#tribo-do-alto-desfiladeiro)
