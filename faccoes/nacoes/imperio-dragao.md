@@ -9,7 +9,7 @@ O império foi criado por [Makil Drasonur](http://localhost/individuos/makil-dra
 `Tipo` Geopolítico, Império
 `Nomes Alternativos` Império de Drafeon 
 `Gentílico` Drafeano 
-`Líder` [Makil Drasonur, o Imperador Dragão]() 
+`Líder` [Makil Drasonur, o Imperador Dragão](http://localhost/individuos/makil-drasonur#makil-drasonur) 
 `Sistema Governamental` Monarquia, Absoluta 
 `Estrutura de Poder` Estado Feudal 
 `Sistema Econômico` Tradicional 
