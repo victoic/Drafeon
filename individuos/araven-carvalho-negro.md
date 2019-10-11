@@ -13,6 +13,6 @@ Arevan morreu em combate com as forças do [Conciliábulo Negro](http://localhos
 `Cabelos` Cabelos negros médios, levemente cachado
 `Altura` 1,74 m
 `Peso` 72 Kg
-`Organizações Associadas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao), [Família Carvalho-Negro](http://localhost/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro)
+`Organizações Associadas` [Família Carvalho-Negro](http://localhost/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro)
 `Títulos` A Flor do Carvalho
 
