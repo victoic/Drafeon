@@ -1,4 +1,4 @@
-<!-- TITLE: A Lança E O Morto -->
+<!-- TITLE: Lança E O Morto, A -->
 <!-- SUBTITLE: Visão geral sobre A Lança E O Morto -->
 
 # A Lança E O Morto
