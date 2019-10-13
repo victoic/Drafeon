@@ -5,7 +5,7 @@
 O maior título dentro do Império Dragão, o imperador é quem gerencia de cima todo o império, cria leis válidas para todo o império, declara guerras e tratados de paz, entre outras funções.
 
 ## Requerimentos
-O Imperador Dragão foi um cargo autoproclamado por Makil após a criação do Império Dragão.
+O Imperador Dragão foi um cargo autoproclamado por [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur) após a criação do Império Dragão.
 
 # Informações
 `Tipo` Civíco, Político 
