@@ -39,13 +39,15 @@ Este é o maior pântano da região. Em seu exterior ele se encontra com os bosq
 ### Rios
 Os rios locais possuem seus nomes em comum de traduções dos nomes originais dados pelas civilizações de Povo-Lagarto. Muitos possuem o nome Bissz' em sua nomenclatura original, que foi traduzido pelo império como Rio, porém pode ser um equívoco dado que tais civilizações utilizam a mesma palavra para "rio" e "berço".
 
-**[Rio Largo]() (Bissz' Latoko)**
+**[Rio Brilhante](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/rio-brilhante#rio-brilhante)**
+
+**[Rio do Estreito](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/rio-do-estreito#rio-do-estreito) (Biszz' Etio)**
+
+**[Rio Largo](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/rio-largo#rio-largo) (Bissz' Latoko)**
 Berço Largo é o nome do grande rio que atravessa a região sudeste de Drafeon. O rio possui sua nascente em meio as montanhas existentes em Ga'te Kwiasz e percorre toda a região se juntando com outros rios menores, até alcançar o Mar do Meio. Diversos dos Pântanos existentes na região atravessam ou beiram o rio.
 
-**[Rio Vermelho]() (Bissz' Vet'lu)**
+**[Rio Vermelho](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/rio-vermelho#rio-vermelho) (Bissz' Vet'lu)**
 O rio vermelho ganha seu nome de sua nascente, o Monte Vermelho. Histórias populares contam que as águas de sua nascente são realmente vermelhas por causa do sangue das vítimas do Dragão Vermelho que habita o monte. O rio eventualmente se junta ao Rio Largo em seu caminho ao Mar do Meio.
-
-**[Rio Estreito]() (Biszz' Etio)**
 
 ### Penhascos & Cânions
 **[Estreito de Ga'te Kwiasz](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/estreito-de-gate-kwiasz#estreito-de-gate-kwiasz)**
