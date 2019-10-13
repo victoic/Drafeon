@@ -9,7 +9,7 @@ Irien acredita no sucesso, que a perseguição de um sonho permite que ele seja 
 Irien lê e escreve Élfico, Comum, Dracônico, Silvestre.
 
 ## Conquistas & Feitos
-Irien recebeu permissão para criar e efetivamente fundou a cidade de Porto Novo em 1698, sendo nomeada [Senhor de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade) pelo Império Dragão, com o crescimento de Porto Novo e colonização mais profunda dos pântanos seu título foi elevado à Senhora de Região.
+Irien recebeu permissão para criar e efetivamente fundou a cidade de Porto Novo em 1698, sendo nomeada [Senhora de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade) pelo Império Dragão, com o crescimento de Porto Novo e colonização mais profunda dos pântanos seu título foi elevado à Senhora de Região.
 
 ## Riquezas & Estado Financeiro
 Como Senhora de Cidade de uma das maiores cidades mercadoras do Império Dragão, Irien conseguiu uma enorme riqueza. Sua mansão construída no centro da cidade é uma representação à vista de seus bens.
