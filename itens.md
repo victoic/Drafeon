@@ -17,6 +17,6 @@
 [Seiva-Cascus](http://localhost/itens/seiva-cascus#seiva-cascus)
 
 ## Obras de Arte
-[Lança e o Morto, A](http://localhost/itens/a-lanca-e-o-morto)
+[A Lança e o Morto](http://localhost/itens/a-lanca-e-o-morto)
 
 
