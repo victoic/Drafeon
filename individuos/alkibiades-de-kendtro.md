@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Visão geral sobre Alkibiades De Kêndtro -->
 
 # Alkibiades De Kêndtro
-Alkibiades é um gnomo chefe da Guarda Imperial em Kêndtro.
+Alkibiades é um gnomo chefe da Guarda Imperial em [Kêndtro](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/kendtro#kendtro).
 
 # Informações
 `Vida` 346 - 796
