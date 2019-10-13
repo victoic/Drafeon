@@ -110,4 +110,4 @@ Tavernas e pousadas podem ser encontradas em grande números próximo ao porto, 
 
 -----
 
-![Sudeste De Drafeon 3](/uploads/mapas/porto-novo-mapa.jpg "Mapa de Porto Novo")
+![Mapa de Porto Novo](/uploads/mapas/porto-novo-mapa.jpg "Mapa de Porto Novo")
