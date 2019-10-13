@@ -11,7 +11,7 @@ Scyla Faralei é uma Elfa da Floresta, de pele branca esverdeada, residente de [
 `Cabelos` Longo e ruivo
 `Altura` 1,76 m
 `Peso` 62 Kg
-`Organizações Associadas` [Família Carvalho-Negro](http://localhost/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro), [Companhia de Caça da Lady Scyla](http://localhost/faccoes/faccoes-independentes/companhia-de-caca-da-lady-scyla#companhia-de-caca-da-lady-scyla)
+`Organizações Associadas` [Família Faralei](http://localhost/faccoes/faccoes-familiares/familia-faralei#familia-faralei), , [Companhia de Caça da Lady Scyla](http://localhost/faccoes/faccoes-independentes/companhia-de-caca-da-lady-scyla#companhia-de-caca-da-lady-scyla)
 `Títulos` Rapieira Dourada
 
 
