@@ -30,7 +30,7 @@ Grande ilha tropical, localização de uma conhecida prisão do Império.
 Grande ilha próxima à Porto Novo.
 
 ### Pântanos
-**[Poço Raso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso) (Possz Raktosz)**
+**[Poço Raso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-pantano#poco-raso) (Possz Raktosz)**
 Um pequeno pântano que preenche o centro da região. Poço Raso possui vegetação densa, dado que suas águas não são muito profundas. Aqui existe um assentamento do Império, que recebe o mesmo nome do pântano. 
 
 **[Bahia Escura](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/bahia-escura#bahia-escura) (Bua'tyk Szkar)**
