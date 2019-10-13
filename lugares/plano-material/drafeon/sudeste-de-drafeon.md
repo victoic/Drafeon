@@ -54,6 +54,9 @@ O rio vermelho ganha seu nome de sua nascente, o Monte Vermelho. Histórias popu
 **[Monte Vermelho](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/monte-vermelho#monte-vermelho) (Mutiy Vet'lu)**
 O monte se encontra em meio às florestas de mata aberta mais à leste da região, à leste do Pântano Poço Raso. Recebe esse nome por conta de sua pedras avermelhadas. O monte possui um grande sistema de cavernas, no qual um Dragão Vermelho fez residência por 46 anos (1696-1742) sendo expulso por um ataque ataque bem sucedido da Guarda do Império do vilarejo Sem Vento.
 
+**[Muro das Pontas](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas#muro-das-pontas)**
+Cadeia de Montanhas que divide a região.
+
 ## Recursos Naturais
 O Sudeste possui alguns poucos vilarejos de porte pequeno e médio que sobrevivem de caça a animais, como crocodilos, e pequenas fazendas criadas após drenagem dos pântanos.
 # Informações
