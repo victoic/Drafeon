@@ -7,8 +7,8 @@ Blingoi Pés-Descalços é uma gnoma, residente de [Sem Vento](http://localhost/
 # Informações
 `Nascimento` 1533
 `Sexo Biológico` Masculino
-`Olhos Grandes` Cinzas, grandes
-`Cabelo Cabelos` Cabelos castanhos, longos e lisos
+`Olhos` Cinzas, grandes
+`Cabelo` Cabelos castanhos, longos e lisos
 `Altura` 1,0 m
 `Peso` 24 Kg
 `Organizações Associadas` [Pés-Descalcos Seivadores de Cascus](http://localhost/faccoes/faccoes-independentes/pes-descalcos-seivadores-de-cascus#pes-descalcos-seivadores-de-cascus)
