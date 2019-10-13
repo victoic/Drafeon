@@ -26,5 +26,5 @@ As estruturas da vila são todas feitas em madeira, seguindo o estilo [Porto-Nov
 -----
 
 # Mapa de Sem Vento
-
+![Mapa de Sem Vento](/uploads/mapas/sem-vento-mapa.jpg "Mapa de Sem Vento")
 
