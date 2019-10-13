@@ -3,3 +3,7 @@
 
 # Noroeste De Drafeon
 
+# Informações
+`Tipo` Região
+`Sub-locações` [Kêndtro](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/kendtro#kendtro)
+
