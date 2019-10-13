@@ -1,7 +1,7 @@
-<!-- TITLE: Magnus Ponta De Lanca -->
-<!-- SUBTITLE: Visão geral sobre Magnus Ponta De Lanca -->
+<!-- TITLE: Magnus Ponta De Lança -->
+<!-- SUBTITLE: Visão geral sobre Magnus Ponta De Lança -->
 
-# Magnus Ponta De Lanca
+# Magnus Ponta De Lança
 Magnus é um Draconato, membro de um grupo de aventureiros e Membro das Três Mãos.
 
 Magnus foi adotado quando criança por [Garos](http://localhost/individuos/garos#garos-ponta-de-lanca), que o ensinou desde jovem os caminhos da verdade, liberdade e igualdade. Quando jovem descobriu que seu pai adotivo fazia parte dAs Três Mãos, sendo então iniciado como membro da sociedade secreta, os dois passaram então a viajar levando o conhecimento e liberdade por onde passavam. Após eventos onde os dois tiveram de se separar, Magnus se uniu a um grupo de aventureiros no [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon).
