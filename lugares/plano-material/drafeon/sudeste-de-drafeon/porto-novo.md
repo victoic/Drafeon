@@ -46,6 +46,18 @@ Dono: Roscoe Thorton, humano macho
 *Localização:* em um grande cruzamento. A ruas do lado de fora são adjacentes a duas pequenas oficinas.
 *Descrição:* A taverna é uma construção grande de gesso de um único andar com telha amarela e móveis de ferro de construção anã. As paredes possuem diversos quadros e as patrelheiras são cheias de bugigangas. A construção é de arquitetura gótica. 
 
+**Taverna:** Olho de Fogo
+Dono: Celye, elfa da floresta fêmea
+
+*Localização:* próximo ao mercado, ao oeste de um dos portões da cidade. A rua possui uma corrça virada.
+*Descrição:* A pousada é um edifício de enxaimel de um andar, com um pequeno quintal cercado e tetos extraordinariamente altos. As acomodações consistem em várias redes na sala comum. A pousada foi reconstruída recentemente após um incêndio devastador. Celye tem uma filha que idolatra aventureiros.
+
+**Taverna:** Raio da Lua
+Dono: Dorahin, alto elfo macho
+
+*Localização:* em um distrito cívico, a noroeste do Rio Largo. A rua do lado de fora é sombreada por árvores altas.
+*Descrição:* A pousada é um grande edifício em enxaimel, com um pequeno quintal murado e jardim. Era uma vez uma mansão e tem uma coleção de obras de arte. As acomodações consistem em vários quartos grandes com camas e colchões de lã. Dorahin conhece alguns feitiços simples para tarefas domésticas.
+
 **Ferreiro:** Bainha de Micael
 Dono: Micael Morris, Humano Macho
 
@@ -95,3 +107,6 @@ Tavernas e pousadas podem ser encontradas em grande números próximo ao porto, 
 `Governante` [Irien Galaniell](http://localhost/individuos/irien-galaniell#irien-galaniell)
 `Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Organizações Incluídas` [Família Brillabouso](http://localhost/faccoes/faccoes-familiares/familia-brillabouso#familia-brillabouso), [Família Carvalho-Negro](http://localhost/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro), [Família Faralei](http://localhost/faccoes/faccoes-familiares/familia-faralei#familia-faralei), [Família Raça D'Ouro](http://localhost/faccoes/faccoes-familiares/familia-raca-douro#familia-raca-douro), [Companhia de Caça da Lady Scyla](http://localhost/faccoes/faccoes-independentes/companhia-de-caca-da-lady-scyla#companhia-de-caca-da-lady-scyla), [Companhia de Mensagens e Encomendas Faralei](http://localhost/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei#companhia-de-mensagens-e-encomendas-faralei), [Filhas de Zifelia](http://localhost/faccoes/faccoes-independentes/filhas-de-zifelia#filhas-de-zifelia), [Mão de Toutaris](http://localhost/faccoes/faccoes-independentes/mao-de-toutaris#mao-de-toutaris), [Ordem de Déz](http://localhost/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez), [Ordem de Ouro](http://localhost/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)
+
+-----
+
