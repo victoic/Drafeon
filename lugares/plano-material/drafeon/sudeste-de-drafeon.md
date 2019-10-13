@@ -26,6 +26,9 @@ Conjunto de ilhas ao leste da região.
 **[Balaio](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/balaio#balaio)**
 Grande ilha tropical, localização de uma conhecida prisão do Império.
 
+**[Felicidade](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/felicidade#felicidade)**
+Grande ilha próxima à Porto Novo.
+
 ### Pântanos
 **[Poço Raso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso) (Possz Raktosz)**
 Um pequeno pântano que preenche o centro da região. Poço Raso possui vegetação densa, dado que suas águas não são muito profundas. Aqui existe um assentamento do Império, que recebe o mesmo nome do pântano. 
