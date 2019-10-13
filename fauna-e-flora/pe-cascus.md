@@ -6,5 +6,5 @@ Pé-Cascus é uma árvore encontrado pelo [sul](http://localhost/lugares/plano-m
 
 A árvore produz cachos de pequenas frutas chamadas Cascus, que possuem uma casca dura e rugosa que ao quebrada contém uma bola gelatinosa com uma minúscula semente negra no centro. A fruta é doce e de textura viscosa e é utilizada como alimento. Os cachos produzem entre 30 e 50 frutas e uma árvore pode possuir até 10 cachos. Pés-Cascus produzem frutos duas vezes por ano, durante períodos chuvosos. 
 
-Além dos frutos a seiva da árvore possui características resistentes e elásticas e coloração avermelhada, sendo utilizada para criar Seiva-Cascus, um tipo de borrachado utilizado para criar revestimentos para têxteis e criação de potes e vazos.
+Além dos frutos a seiva da árvore possui características resistentes e elásticas e coloração avermelhada, sendo utilizada para criar [Seiva-Cascus](http://localhost/itens/seiva-cascus#seiva-cascus), um tipo de borrachado utilizado para criar revestimentos para têxteis e criação de potes e vazos.
 
