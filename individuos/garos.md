@@ -1,7 +1,7 @@
-<!-- TITLE: Garos -->
-<!-- SUBTITLE: Visão geral sobre Garos -->
+<!-- TITLE: Garos Ponta de Lança -->
+<!-- SUBTITLE: Visão geral sobre Garos Ponta de Lança -->
 
-# Garos
+# Garos Ponta de Lança
 Garos é um gnomo, Membro dAs Três Mãos. Ele é o pai adotivo de Magnus. Garos é um bibliotecário como ofício e membro da organização secreta Três Mãos.
 
 ## Segredo
