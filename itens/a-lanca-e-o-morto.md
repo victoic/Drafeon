@@ -34,3 +34,7 @@ A pintura possui uma imensa significância cultural e histórica, ela representa
 `Raridade` Único
 `Autor` [Gutroc](http://localhost/individuos/gutroc#gutroc)
 `Proprietário` [Teniofre Faralei](http://localhost/individuos/teniofre-faralei#teniofre-faralei)
+
+-----
+
+![16 C 4 A 31 E 7 Aafa 5 E 11 C 2 Fbd 84 B 29 E 1317](/uploads/itens/16-c-4-a-31-e-7-aafa-5-e-11-c-2-fbd-84-b-29-e-1317.gif "16 C 4 A 31 E 7 Aafa 5 E 11 C 2 Fbd 84 B 29 E 1317"){.align-center}
