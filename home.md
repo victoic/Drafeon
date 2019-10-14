@@ -21,5 +21,6 @@ Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possu
 * [**ITENS**](http://localhost/itens#itens)
 * [**LENDAS e EVENTOS**](http://localhost/lendas-e-eventos#lendas-e-eventos)
 * [**LUGARES**](http://localhost/lugares#lugares)
+* [**LINHA DO TEMPO**](http://localhost/linha-do-tempo#linha-do-tempo)
 * [**RANKINGS e TÍTULOS**](http://localhost/rankings-e-titulos#rankings-e-titulos)
 * [**VEÍCULOS**](http://localhost/veiculos#veiculos)
