@@ -5,5 +5,5 @@
 
 # Informações
 `Tipo` Região
-`Sub-locações` [Kêndtro](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/kendtro#kendtro)
+`Sub-locações` [Kêndtro](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/kendtro#kendtro), [Terras Tristitia](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/terras-tristitias#terras-tristitias)
 
