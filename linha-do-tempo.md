@@ -3,14 +3,15 @@
 
 # Linha Do Tempo
 
-Inicio da Era dos Primordiais - *Celestial*
+**Inicio da Era dos Primordiais**
 | Os Primordiais acordam.
 |- Nascimento dos Demônios - *"A guerra entre os primordiais geras os demônios."*
 |- Nascimento dos Diabos - *"A batalha entre os primordiais gera os Diabos."*
 |- Nascimento dos Deuses - *"A batalha dos primordiais culmina no nascimento dos treze deuses."*
 |- Criação do Mundo - *"Durante a batalha entre os primordiais, os deuses criam o mundo."*
 |- Adormecer dos Primordiais - *"Azemis e Zitia voltam a dormir."*
-Era dos Deuses
+|
+**Era dos Deuses**
 | A era do domínio dos deuses
 |- Nascimento dos Dragões Cromáticos - *"Woton, deus das bestas, cria os primeiros dos dragões cromáticos."*
 |- Nascimento de Cojiil - *"Cojiil o primogênito de Aaos é criado."*
@@ -36,20 +37,24 @@ Era dos Deuses
 |- Nascimento dos Kenku - *"Upzot-Myf amaldiçoa aves que devoraram suas crias, criando os Kenku, aves incapazes de falar, podendo apenas repetir sons escutados."*
 |- Nascimento dos Yuan-Ti - *"Opzot-Ulo cria a raça de serpentes sapientes Yuan-Ti."*
 |- Reclusão dos Deuses - *"Os deuses passam a se retirar cada vez mais aos seus planos."*
-Era dos Elfos
+|
+**Era dos Elfos**
 | A era do domínio élfico
 |- Nascimento de Kog
 |- A Grande Guerra de Kog - *"Kog lidera uma imensa horda orc contra a Corte Élfica, destruindo boa parte do reinado dos elfos."*
-Era do Caos
+|
+**Era do Caos**
 | A era da guerra entre as raças
 |- Guerra das Raças - *"A grande guerra de Drafeon onde por milênios diversas raças competiram pelo domínio do local."*
 |- Nascimento de Sanwu Konn - *"Nasce o humano com traços de macaco, Sanwu Konn, que se tornará o Rei de Eféria."*
 |- Bee'rus amaldiçoa os mortos - *"Os mortos começam a levantar de seus túmulos após uma maldição de Bee'rus."*
-Era dos Mortos
+|
+**Era dos Mortos**
 | A era do domínio dos Mortos-Vivos
 |- Aliança entre Elfos e Drow - *"Meio ao risco dos Mortos, os Elfos e os Drow formam uma união, a Corte Élfica agora passa a possuir três representantes."*
 |- Makil Drasonur inicia a união das raças - *"Makil Drasonur, o dragão de platina, inicia seu projeto de unificação das raças de Drafeon."*
-Era de Drafeon
+|
+**Era de Drafeon**
 | 0. A era em que Makil iniciou a unificação das raças.
 |- 561. Invasão de Ugak - *"A primeira esposa de Makil o trai e invade a capital do império com seu grande exército."*
 
