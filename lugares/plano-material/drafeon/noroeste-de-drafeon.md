@@ -6,5 +6,4 @@ O Noroeste de Drafeon é terra natal do [Império Dragão](http://localhost/facc
 
 # Informações
 `Tipo` Região
-`Sub-locações` [Kêndtro](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/kendtro#kendtro), [Terras Tristitia](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/terras-tristitia#terras-tristitia)
-
+`Sub-locações` [Kêndtro](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/kendtro#kendtro), [Terras Tristitia](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/terras-tristitia#terras-tristitia), [Gratissimum](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/gratissimum#gratissimum)
