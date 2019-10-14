@@ -28,5 +28,5 @@ Alguma poucas comunidades pacíficas e secretivas de uma outra espécie endêmic
 # Informações
 `Tipo` Ilha
 `Organizações Dominantes` Tribos Draconatos, Tribos Minotauro
-`[Etnias](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/terras-tristitia/etnias-de-terras-tristia)
+`[Etnias](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/terras-tristitia/etnias-de-terras-tristia)`
 
