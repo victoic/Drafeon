@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Visão geral sobre Noroeste De Drafeon -->
 
 # Noroeste De Drafeon
+O Noroeste de Drafeon é terra natal do [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao) e lar da capital do império. A região é altamente povoada por Gnomos, Humanos e Halflings.
 
 # Informações
 `Tipo` Região
