@@ -7,7 +7,7 @@ Nunq Peixesgrandes é um velho halfling, habitante e [Senhor de Terras](http://l
 Nunq vêm de uma família de grandes pescadores e tem a pescaria como principal hobbie, tal como traxe na família ele é um grande pescador. Quando jovem, era caçoado entre amigos por seu nome soar como Nunca Peixesgrandes.
 
 # Informações
-`Nascimento` 1648
+`Nascimento` 1448
 `Altura` 1,06 m
 `Peso` 24 Kg
 `Olhos` Castanhos, borda das íris azuis
