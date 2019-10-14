@@ -4,7 +4,7 @@
 # Nunq Peixesgrandes
 Nunq Peixesgrandes é um velho halfling, habitante e [Senhor de Terras](http://localhost/rankings-e-titulos/senhor-de-terras#senhor-de-terras) de [Gratissimum](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon/gratissimum#gratissimum).
 
-Nunq vêm de uma família de grandes pescadores e tem a pescaria como principal hobbie, tal como traxe na família ele é um grande pescador. Quando jovem, era caçoado entre amigos por seu nome soar como Nunca Peixesgrades.
+Nunq vêm de uma família de grandes pescadores e tem a pescaria como principal hobbie, tal como traxe na família ele é um grande pescador. Quando jovem, era caçoado entre amigos por seu nome soar como Nunca Peixesgrandes.
 
 # Informações
 `Nascimento` 1648
