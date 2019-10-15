@@ -3,7 +3,7 @@
 
 # Linha Do Tempo
 
-**Inicio da Era dos Primordiais**
+**Era dos Primordiais**
 | Os Primordiais acordam.
 |- Nascimento dos Demônios - *"A guerra entre os primordiais geras os demônios."*
 |- Nascimento dos Diabos - *"A batalha entre os primordiais gera os Diabos."*
