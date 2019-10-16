@@ -16,4 +16,4 @@ A tribo é liderada pelo Orc mais forte, o líder pode ser macho ou fêmea, tend
 -----
 
 # Mapa da Tribo do Alto Desfiladeiro
-
+![Tribo Alto Desfiladeiro](/uploads/mapas/Tribo Alto Desfiladeiro.png "Tribo Alto Desfiladeiro"){.align-center}
