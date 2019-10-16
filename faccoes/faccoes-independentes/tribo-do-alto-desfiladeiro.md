@@ -13,3 +13,7 @@ A tribo é liderada pelo Orc mais forte, o líder pode ser macho ou fêmea, tend
 `Localização` [Estreito de Ga'te Kwiasz]()
 `Membros Notáveis`
 
+-----
+
+# Mapa da Tribo do Alto Desfiladeiro
+
