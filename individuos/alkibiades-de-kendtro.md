@@ -1,4 +1,11 @@
-<!-- TITLE: Alkibiades De Kêndtro -->
+---
+title: Alkibiades De Kêndtro
+description: 
+published: true
+date: 2019-11-11T16:27:43.728Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Alkibiades De Kêndtro -->
 
 # Alkibiades De Kêndtro

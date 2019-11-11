@@ -1,4 +1,11 @@
-<!-- TITLE: Kzs Buatyk Szkar -->
+---
+title: Kzs Buatyk Szkar
+description: 
+published: true
+date: 2019-11-11T16:34:21.793Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Kzs Buatyk Szkar -->
 
 # Kzs Buatyk Szkar

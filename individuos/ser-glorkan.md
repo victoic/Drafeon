@@ -1,4 +1,11 @@
-<!-- TITLE: Ser Glorkan -->
+---
+title: Ser Glorkan
+description: 
+published: true
+date: 2019-11-11T16:29:40.068Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Ser Glorkan -->
 
 # Ser Glorkan

@@ -1,4 +1,11 @@
-<!-- TITLE: Lança E O Morto, A -->
+---
+title: Lança E O Morto, A
+description: 
+published: true
+date: 2019-11-11T16:30:08.582Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre A Lança E O Morto -->
 
 # A Lança E O Morto

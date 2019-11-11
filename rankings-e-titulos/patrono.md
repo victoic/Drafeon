@@ -1,4 +1,11 @@
-<!-- TITLE: Patrono -->
+---
+title: Patrono
+description: 
+published: true
+date: 2019-11-11T16:30:45.225Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Patrono -->
 
 # Patrono

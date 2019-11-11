@@ -1,4 +1,11 @@
-<!-- TITLE: Irem -->
+---
+title: Irem
+description: 
+published: true
+date: 2019-11-11T16:28:45.378Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Irem -->
 
 # Irem

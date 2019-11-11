@@ -1,4 +1,11 @@
-<!-- TITLE: Família Brillabouso -->
+---
+title: Família Brillabouso
+description: 
+published: true
+date: 2019-11-11T16:31:34.981Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Família Brillabouso -->
 ![C 12 Df 2075215307486626 Df 0 Aabddd 5 D](/uploads/bandeiras/c-12-df-2075215307486626-df-0-aabddd-5-d.png "C 12 Df 2075215307486626 Df 0 Aabddd 5 D"){.pagelogo}
 

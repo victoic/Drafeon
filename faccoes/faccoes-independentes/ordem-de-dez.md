@@ -1,4 +1,11 @@
-<!-- TITLE: Ordem De Déz -->
+---
+title: Ordem De Déz
+description: 
+published: true
+date: 2019-11-11T16:31:57.711Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Ordem De Déz -->
 
 # Ordem De Déz

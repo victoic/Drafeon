@@ -1,4 +1,11 @@
-<!-- TITLE: Mestre De Estandarde -->
+---
+title: Mestre De Estandarde
+description: 
+published: true
+date: 2019-11-11T16:30:43.553Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Mestre De Estandarde -->
 
 # Mestre De Estandarde

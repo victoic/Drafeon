@@ -1,4 +1,11 @@
-<!-- TITLE: Natalya Carvalho-Negro -->
+---
+title: Natalya Carvalho-Negro
+description: 
+published: true
+date: 2019-11-11T16:29:12.575Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Natalya Carvalho-Negro -->
 
 # Natalya Carvalho-Negro

@@ -1,4 +1,11 @@
-<!-- TITLE: Elfo Negro -->
+---
+title: Elfo Negro
+description: 
+published: true
+date: 2019-11-11T16:32:35.880Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Elfo Negro -->
 
 # Elfo Negro

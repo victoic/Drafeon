@@ -1,4 +1,11 @@
-<!-- TITLE: Ordem De Ouro -->
+---
+title: Ordem De Ouro
+description: 
+published: true
+date: 2019-11-11T16:31:59.484Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Ordem De Ouro -->
 
 # Ordem De Ouro

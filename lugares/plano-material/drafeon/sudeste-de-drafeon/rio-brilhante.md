@@ -1,4 +1,11 @@
-<!-- TITLE: Rio Brilhante -->
+---
+title: Rio Brilhante
+description: 
+published: true
+date: 2019-11-11T16:34:09.689Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Rio Brilhante -->
 
 # Rio Brilhante

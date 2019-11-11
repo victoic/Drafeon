@@ -1,4 +1,11 @@
-<!-- TITLE: Dhikraesk -->
+---
+title: Dhikraesk
+description: 
+published: true
+date: 2019-11-11T16:28:16.814Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Dhikraesk -->
 
 # Dhikraesk

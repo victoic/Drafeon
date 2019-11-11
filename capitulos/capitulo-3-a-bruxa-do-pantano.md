@@ -1,4 +1,11 @@
-<!-- TITLE: Capítulo 3 -->
+---
+title: Capítulo 3
+description: 
+published: true
+date: 2019-11-11T16:27:27.207Z
+tags: 
+---
+
 <!-- SUBTITLE: A Bruxa Do Pântano -->
 
 # Capítulo 3: A Bruxa Do Pântano

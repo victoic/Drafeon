@@ -1,4 +1,11 @@
-<!-- TITLE: Rio Vermelho -->
+---
+title: Rio Vermelho
+description: 
+published: true
+date: 2019-11-11T16:34:15.659Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Rio Vermelho -->
 
 # Rio Vermelho

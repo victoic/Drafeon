@@ -1,4 +1,11 @@
-<!-- TITLE: Yrcri Magnus -->
+---
+title: Yrcri Magnus
+description: 
+published: true
+date: 2019-11-11T16:30:04.611Z
+tags: 
+---
+
 <!-- SUBTITLE: Arquimago do Império Dragão -->
 
 # Yrcri Magnus

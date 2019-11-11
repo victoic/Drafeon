@@ -1,4 +1,11 @@
-<!-- TITLE: Companhia De Mensagens E Encomendas Faralei -->
+---
+title: Companhia De Mensagens E Encomendas Faralei
+description: 
+published: true
+date: 2019-11-11T16:31:47.266Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Companhia De Mensagens E Encomendas Faralei -->
 
 # Companhia De Mensagens E Encomendas Faralei

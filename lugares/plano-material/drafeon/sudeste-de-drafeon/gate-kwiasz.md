@@ -1,4 +1,11 @@
-<!-- TITLE: Ga'te Kwiasz -->
+---
+title: Ga'te Kwiasz
+description: 
+published: true
+date: 2019-11-11T16:33:55.817Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Ga'te Kwiasz -->
 
 # Ga'te Kwiasz

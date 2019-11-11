@@ -1,4 +1,11 @@
-<!-- TITLE: Conde Carvalho-Negro -->
+---
+title: Conde Carvalho-Negro
+description: 
+published: true
+date: 2019-11-11T16:28:10.736Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Conde Carvalho-Negro -->
 
 # Conde Carvalho-Negro

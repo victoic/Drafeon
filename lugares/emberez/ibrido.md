@@ -1,4 +1,11 @@
-<!-- TITLE: Ibrido -->
+---
+title: Ibrido
+description: 
+published: true
+date: 2019-11-11T16:33:06.374Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Ibrido -->
 
 # Ibrido

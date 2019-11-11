@@ -1,4 +1,11 @@
-<!-- TITLE: Tribo Machadão -->
+---
+title: Tribo Machadão
+description: 
+published: true
+date: 2019-11-11T16:32:15.642Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Tribo Machadão -->
 
 # Tribo Machadão

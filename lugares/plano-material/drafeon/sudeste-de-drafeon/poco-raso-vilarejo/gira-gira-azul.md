@@ -1,4 +1,11 @@
-<!-- TITLE: Gira-Gira Azul -->
+---
+title: Gira-Gira Azul
+description: 
+published: true
+date: 2019-11-11T16:34:31.790Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Gira-Gira Azul -->
 
 # Gira-Gira Azul

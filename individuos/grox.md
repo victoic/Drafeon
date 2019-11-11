@@ -1,4 +1,11 @@
-<!-- TITLE: Grox -->
+---
+title: Grox
+description: 
+published: true
+date: 2019-11-11T16:28:36.279Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Grox -->
 
 # Grox

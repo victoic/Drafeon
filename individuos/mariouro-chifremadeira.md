@@ -1,4 +1,11 @@
-<!-- TITLE: Mariouro Chifremadeira -->
+---
+title: Mariouro Chifremadeira
+description: 
+published: true
+date: 2019-11-11T16:29:07.987Z
+tags: 
+---
+
 <!-- SUBTITLE: A quick summary of Mariouro Chifremadeira -->
 
 # Mariouro Chifremadeira

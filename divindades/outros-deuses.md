@@ -1,4 +1,11 @@
-<!-- TITLE: Outros Deuses -->
+---
+title: Outros Deuses
+description: 
+published: true
+date: 2019-11-11T16:27:28.695Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Outros Deuses -->
 
 # Outros Deuses

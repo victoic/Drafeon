@@ -1,4 +1,11 @@
-<!-- TITLE: Balaio -->
+---
+title: Balaio
+description: 
+published: true
+date: 2019-11-11T16:33:43.616Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Balaio -->
 
 # Balaio

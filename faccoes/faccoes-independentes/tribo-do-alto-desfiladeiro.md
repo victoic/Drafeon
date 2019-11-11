@@ -1,4 +1,11 @@
-<!-- TITLE: Tribo Do Alto Desfiladeiro -->
+---
+title: Tribo Do Alto Desfiladeiro
+description: 
+published: true
+date: 2019-11-11T16:32:11.565Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Tribo Do Alto Desfiladeiro -->
 
 # Tribo Do Alto Desfiladeiro

@@ -1,4 +1,11 @@
-<!-- TITLE: Guerripip Brillabouso -->
+---
+title: Guerripip Brillabouso
+description: 
+published: true
+date: 2019-11-11T16:28:37.761Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Guerripip Brillabouso -->
 
 # Guerripip Brillabouso

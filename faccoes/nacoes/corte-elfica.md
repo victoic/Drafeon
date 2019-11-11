@@ -1,4 +1,11 @@
-<!-- TITLE: Corte Élfica -->
+---
+title: Corte Élfica
+description: 
+published: true
+date: 2019-11-11T16:32:17.988Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Corte Élfica -->
 
 # Corte Élfica

@@ -1,4 +1,11 @@
-<!-- TITLE: Três Mãos -->
+---
+title: Três Mãos
+description: 
+published: true
+date: 2019-11-11T16:32:07.595Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Três Mãos -->
 ![539 Ebbaa 68 Ecff 62304469 A 03 Ed 653 A 0](/uploads/simbolos/539-ebbaa-68-ecff-62304469-a-03-ed-653-a-0.png "539 Ebbaa 68 Ecff 62304469 A 03 Ed 653 A 0"){.pagelogo}
 # Três Mãos

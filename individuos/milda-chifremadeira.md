@@ -1,4 +1,10 @@
-<!-- TITLE: Milda Chifremadeira -->
+---
+title: Milda Chifremadeira
+description: 
+published: true
+date: 2019-11-11T16:29:09.480Z
+tags: 
+---
 
 # Milda Chifremadeira
 Milda Chifremadeira é uma Halfling, irmã caçula de [Mariouro Chifremadeira](http://localhost/individuos/mariouro-chifremadeira#mariouro-chifremadeira). Milda aprende alquimia com sua irmã.

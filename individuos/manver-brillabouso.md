@@ -1,4 +1,11 @@
-<!-- TITLE: Manver Brillabouso -->
+---
+title: Manver Brillabouso
+description: 
+published: true
+date: 2019-11-11T16:29:06.452Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Manver Brillabouso -->
 
 # Manver Brillabouso

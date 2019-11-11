@@ -1,4 +1,11 @@
-<!-- TITLE: Rankings E Títulos -->
+---
+title: Rankings E Títulos
+description: 
+published: true
+date: 2019-11-11T16:27:21.259Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Rankings E Títulos -->
 
 # Rankings E Títulos

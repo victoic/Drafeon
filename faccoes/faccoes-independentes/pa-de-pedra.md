@@ -1,4 +1,11 @@
-<!-- TITLE: Pá De Pedra -->
+---
+title: Pá De Pedra
+description: 
+published: true
+date: 2019-11-11T16:32:03.476Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Pá De Pedra -->
 ![009 C 050 Deb 8947 F 3 Da 38 F 101 Ce 4 B 76 C 6](/uploads/simbolos/009-c-050-deb-8947-f-3-da-38-f-101-ce-4-b-76-c-6.png "009 C 050 Deb 8947 F 3 Da 38 F 101 Ce 4 B 76 C 6"){.pagelogo}
 # Pá De Pedra

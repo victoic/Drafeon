@@ -1,4 +1,11 @@
-<!-- TITLE: Redevi Petrelusco -->
+---
+title: Redevi Petrelusco
+description: 
+published: true
+date: 2019-11-11T16:29:34.096Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Redevi Petrelusco -->
 
 # Redevi Petrelusco

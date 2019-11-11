@@ -1,4 +1,11 @@
-<!-- TITLE: Chicoteadores Serpentinn -->
+---
+title: Chicoteadores Serpentinn
+description: 
+published: true
+date: 2019-11-11T16:33:15.237Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Chicoteadores Serpentinn -->
 
 # Chicoteadores Serpentinn

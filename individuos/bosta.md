@@ -1,4 +1,11 @@
-<!-- TITLE: Bosta -->
+---
+title: Bosta
+description: 
+published: true
+date: 2019-11-11T16:28:03.285Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Bosta -->
 
 # Bosta

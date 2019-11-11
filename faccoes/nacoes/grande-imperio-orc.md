@@ -1,4 +1,11 @@
-<!-- TITLE: Grande Império Orc -->
+---
+title: Grande Império Orc
+description: 
+published: true
+date: 2019-11-11T16:32:21.984Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Grande Império Orc -->
 
 # Grande Império Orc

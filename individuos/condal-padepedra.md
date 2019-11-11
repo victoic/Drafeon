@@ -1,4 +1,11 @@
-<!-- TITLE: Condal Padepedra -->
+---
+title: Condal Padepedra
+description: 
+published: true
+date: 2019-11-11T16:28:09.221Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Condal Padepedra -->
 
 # Condal Padepedra

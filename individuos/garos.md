@@ -1,4 +1,11 @@
-<!-- TITLE: Garos Ponta de Lança -->
+---
+title: Garos Ponta de Lança
+description: 
+published: true
+date: 2019-11-11T16:28:28.790Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Garos Ponta de Lança -->
 
 # Garos Ponta de Lança

@@ -1,4 +1,11 @@
-<!-- TITLE: Panteão das Treze Estrelas -->
+---
+title: Panteão das Treze Estrelas
+description: 
+published: true
+date: 2019-11-11T16:27:30.216Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Panteão das Treze Estrelas -->
 
 # Panteao Das Treze Estrelas

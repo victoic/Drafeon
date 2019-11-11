@@ -1,4 +1,11 @@
-<!-- TITLE: Rei (Cidade Dourada) -->
+---
+title: Rei (Cidade Dourada)
+description: 
+published: true
+date: 2019-11-11T16:30:47.565Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Rei (Cidade Dourada) -->
 
 # Rei (Cidade Dourada)

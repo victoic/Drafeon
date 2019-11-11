@@ -1,4 +1,11 @@
-<!-- TITLE: Família Faralei -->
+---
+title: Família Faralei
+description: 
+published: true
+date: 2019-11-11T16:31:39.123Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Família Faralei -->
 ![596 A 22762 F 57 D 5 E 9 De 14 D 0516178 A 419](/uploads/bandeiras/596-a-22762-f-57-d-5-e-9-de-14-d-0516178-a-419.png "596 A 22762 F 57 D 5 E 9 De 14 D 0516178 A 419"){.pagelogo}
 

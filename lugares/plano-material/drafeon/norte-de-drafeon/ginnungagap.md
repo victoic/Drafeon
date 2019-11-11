@@ -1,4 +1,11 @@
-<!-- TITLE: Ginnungagap -->
+---
+title: Ginnungagap
+description: 
+published: true
+date: 2019-11-11T16:33:35.517Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Ginnungagap -->
 
 # Ginnungagap

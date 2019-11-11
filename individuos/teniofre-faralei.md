@@ -1,4 +1,11 @@
-<!-- TITLE: Teniofre Faralei -->
+---
+title: Teniofre Faralei
+description: 
+published: true
+date: 2019-11-11T16:29:46.299Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Teniofre Faralei -->
 
 # Teniofre Faralei

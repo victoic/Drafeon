@@ -1,4 +1,11 @@
-<!-- TITLE: Lopaohz Carvalho-Negro -->
+---
+title: Lopaohz Carvalho-Negro
+description: 
+published: true
+date: 2019-11-11T16:28:58.867Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Lopaohz Carvalho-Negro -->
 
 # Lopaohz Carvalho-Negro

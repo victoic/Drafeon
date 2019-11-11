@@ -1,4 +1,11 @@
-<!-- TITLE: Bar Da Cachaça De Barro -->
+---
+title: Bar Da Cachaça De Barro
+description: 
+published: true
+date: 2019-11-11T16:34:35.737Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Bar Da Cachaça De Barro -->
 
 # Bar Da Cachaça De Barro

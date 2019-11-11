@@ -1,4 +1,11 @@
-<!-- TITLE: Valindrae Pethorn -->
+---
+title: Valindrae Pethorn
+description: 
+published: true
+date: 2019-11-11T16:29:59.820Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Valindrae Pethorn -->
 
 # Valindrae Pethorn

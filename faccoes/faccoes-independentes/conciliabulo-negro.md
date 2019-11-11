@@ -1,4 +1,11 @@
-<!-- TITLE: Conciliabulo Negro -->
+---
+title: Conciliabulo Negro
+description: 
+published: true
+date: 2019-11-11T16:31:49.634Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Conciliabulo Negro -->
 
 # Conciliabulo Negro

@@ -1,4 +1,11 @@
-<!-- TITLE: Baddali Copo-Cheio -->
+---
+title: Baddali Copo-Cheio
+description: 
+published: true
+date: 2019-11-11T16:27:57.228Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Baddali Copo-Cheio -->
 
 # Baddali Copo-Cheio

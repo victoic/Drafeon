@@ -1,4 +1,11 @@
-<!-- TITLE: Glergécio Coletor -->
+---
+title: Glergécio Coletor
+description: 
+published: true
+date: 2019-11-11T16:28:31.758Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Glergécio Coletor -->
 
 # Glergécio Coletor

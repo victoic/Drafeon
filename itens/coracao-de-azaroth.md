@@ -1,4 +1,11 @@
-<!-- TITLE: Coração De Azaroth -->
+---
+title: Coração De Azaroth
+description: 
+published: true
+date: 2019-11-11T16:30:12.752Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Coração De Azaroth -->
 
 # Coração De Azaroth
