@@ -1,7 +1,14 @@
-<!-- TITLE: Vovo Matrilda Bufenta -->
-<!-- SUBTITLE: Visão geral sobre Vovo Matrilda Bufenta -->
+---
+title: Vovo Matrilda Bufenta
+description: 
+published: true
+date: 2019-11-11T17:57:11.126Z
+tags: 
+---
 
-# Vovo Matrilda Bufenta
+<!-- SUBTITLE: Visão geral sobre Vovó Matrilda Bufenta -->
+
+# Vovó Matrilda Bufenta
 Vovó Matrilda Bufenta é uma bruxa annis, habitante de [Ga'te Kwiasz](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/gate-kwiasz#gate-kwiasz). Ela pretende tomar o [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon) como seu, e tranformá-lo em uma grande réplica de [Faéria](http://localhost/lugares/faeria#faeria). Ela possui domínio sobre alguns goblinóides.
 
 ## História
