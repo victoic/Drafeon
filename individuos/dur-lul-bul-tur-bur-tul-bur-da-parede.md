@@ -1,4 +1,11 @@
-<!-- TITLE: Dur Lul Bul Tur Bur Tul Bur Da Parede -->
+---
+title: Dur Lul Bul Tur Bur Tul Bur Da Parede
+description: 
+published: true
+date: 2019-11-11T16:28:19.752Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Dur Lul Bul Tur Bur Tul Bur Da Parede -->
 
 # Dur Lul Bul Tur Bur Tul Bur Da Parede

@@ -1,4 +1,11 @@
-<!-- TITLE: Igor Larionov -->
+---
+title: Igor Larionov
+description: 
+published: true
+date: 2019-11-11T16:28:42.341Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Igor Larionov -->
 
 # Igor Larionov

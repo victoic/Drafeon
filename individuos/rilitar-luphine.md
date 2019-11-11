@@ -1,4 +1,11 @@
-<!-- TITLE: Rilitar Luphine -->
+---
+title: Rilitar Luphine
+description: 
+published: true
+date: 2019-11-11T16:29:35.566Z
+tags: 
+---
+
 <!-- SUBTITLE: Senhor de Terras de Poço Raso -->
 
 # Rilitar Luphine

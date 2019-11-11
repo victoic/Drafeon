@@ -1,4 +1,11 @@
-<!-- TITLE: Peciqor De Costa Profunda Carvalho-Negro -->
+---
+title: Peciqor De Costa Profunda Carvalho-Negro
+description: 
+published: true
+date: 2019-11-11T16:29:22.017Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Peciqor De Costa Profunda Carvalho-Negro -->
 
 # Peciqor De Costa Profunda Carvalho-Negro

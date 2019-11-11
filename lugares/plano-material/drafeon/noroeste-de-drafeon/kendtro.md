@@ -1,4 +1,11 @@
-<!-- TITLE: Kêndtro -->
+---
+title: Kêndtro
+description: 
+published: true
+date: 2019-11-11T16:33:31.404Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Kêndtro -->
 
 # Kêndtro

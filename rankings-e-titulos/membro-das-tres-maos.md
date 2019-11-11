@@ -1,4 +1,11 @@
-<!-- TITLE: Membro Das Três Mãos -->
+---
+title: Membro Das Três Mãos
+description: 
+published: true
+date: 2019-11-11T16:30:41.246Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Membro Das Três Mãos -->
 
 # Membro Das Três Mãos

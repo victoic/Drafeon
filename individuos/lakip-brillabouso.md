@@ -1,4 +1,11 @@
-<!-- TITLE: Lakip Brillabouso -->
+---
+title: Lakip Brillabouso
+description: 
+published: true
+date: 2019-11-11T16:28:49.936Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Lakip Brillabouso -->
 
 # Lakip Brillabouso

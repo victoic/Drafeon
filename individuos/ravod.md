@@ -1,4 +1,11 @@
-<!-- TITLE: Ravod -->
+---
+title: Ravod
+description: 
+published: true
+date: 2019-11-11T16:29:32.543Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Ravod -->
 
 # Ravod

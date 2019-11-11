@@ -1,4 +1,11 @@
-<!-- TITLE: Ancião Das Tres Mãos -->
+---
+title: Ancião Das Tres Mãos
+description: 
+published: true
+date: 2019-11-11T16:30:29.145Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Ancião Das Tres Mãos -->
 
 # Ancião Das Tres Mãos

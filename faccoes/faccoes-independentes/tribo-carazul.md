@@ -1,4 +1,11 @@
-<!-- TITLE: Tribo Carazul -->
+---
+title: Tribo Carazul
+description: 
+published: true
+date: 2019-11-11T16:32:10.044Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Tribo Carazul -->
 
 # Tribo Carazul

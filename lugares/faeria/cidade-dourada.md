@@ -1,4 +1,11 @@
-<!-- TITLE: Cidade Dourada -->
+---
+title: Cidade Dourada
+description: 
+published: true
+date: 2019-11-11T16:33:08.985Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Cidade Dourada -->
 
 # Cidade Dourada

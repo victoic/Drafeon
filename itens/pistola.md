@@ -1,4 +1,11 @@
-<!-- TITLE: Pistola -->
+---
+title: Pistola
+description: 
+published: true
+date: 2019-11-11T16:30:15.284Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Pistola -->
 
 # Pistola

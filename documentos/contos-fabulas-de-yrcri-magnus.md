@@ -1,4 +1,11 @@
-<!-- TITLE: Contos & Fábulas De Yrcri Magnus -->
+---
+title: Contos & Fábulas De Yrcri Magnus
+description: 
+published: true
+date: 2019-11-11T16:27:31.686Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Contos & Fábulas De Yrcri Magnus -->
 
 # Contos & Fábulas De Yrcri Magnus

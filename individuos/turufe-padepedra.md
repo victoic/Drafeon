@@ -1,4 +1,11 @@
-<!-- TITLE: Turufe Padepedra -->
+---
+title: Turufe Padepedra
+description: 
+published: true
+date: 2019-11-11T16:29:52.269Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Turufe Padepedra -->
 
 # Turufe Padepedra

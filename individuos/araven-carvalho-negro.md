@@ -1,4 +1,11 @@
-<!-- TITLE: Araven Carvalho-Negro -->
+---
+title: Araven Carvalho-Negro
+description: 
+published: true
+date: 2019-11-11T16:27:48.222Z
+tags: 
+---
+
 <!-- SUBTITLE: A Flor do Carvalho -->
 
 # Araven Carvalho-Negro

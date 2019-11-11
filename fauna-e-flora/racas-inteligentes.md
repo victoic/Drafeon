@@ -1,4 +1,11 @@
-<!-- TITLE: Racas Inteligentes -->
+---
+title: Racas Inteligentes
+description: 
+published: true
+date: 2019-11-11T16:27:39.189Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Racas Inteligentes -->
 
 # Racas Inteligentes

@@ -1,4 +1,11 @@
-<!-- TITLE: Nuk Da Parede -->
+---
+title: Nuk Da Parede
+description: 
+published: true
+date: 2019-11-11T16:29:15.929Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Nuk Da Parede -->
 
 # Nuk Da Parede

@@ -1,4 +1,11 @@
-<!-- TITLE: Julius Caminhante -->
+---
+title: Julius Caminhante
+description: 
+published: true
+date: 2019-11-11T16:28:48.463Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Julius Caminhante -->
 
 # Julius Caminhante

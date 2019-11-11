@@ -1,4 +1,11 @@
-<!-- TITLE: Feynore Faralei -->
+---
+title: Feynore Faralei
+description: 
+published: true
+date: 2019-11-11T16:28:25.828Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Feynore Faralei -->
 
 # Feynore Faralei

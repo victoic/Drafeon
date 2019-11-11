@@ -1,4 +1,11 @@
-<!-- TITLE: Luberus Gettecio -->
+---
+title: Luberus Gettecio
+description: 
+published: true
+date: 2019-11-11T16:29:00.416Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Luberus Gettecio -->
 
 # Luberus Gettecio

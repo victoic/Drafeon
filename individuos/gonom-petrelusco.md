@@ -1,4 +1,11 @@
-<!-- TITLE: Gonom Petrelusco -->
+---
+title: Gonom Petrelusco
+description: 
+published: true
+date: 2019-11-11T16:28:33.270Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Gonom Petrelusco -->
 
 # Gonom Petrelusco

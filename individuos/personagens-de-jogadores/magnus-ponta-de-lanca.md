@@ -1,4 +1,11 @@
-<!-- TITLE: Magnus Ponta De Lança -->
+---
+title: Magnus Ponta De Lança
+description: 
+published: true
+date: 2019-11-11T16:32:56.074Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Magnus Ponta De Lança -->
 
 # Magnus Ponta De Lança

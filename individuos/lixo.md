@@ -1,4 +1,11 @@
-<!-- TITLE: Lixo -->
+---
+title: Lixo
+description: 
+published: true
+date: 2019-11-11T16:28:57.374Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Lixo -->
 
 # Lixo

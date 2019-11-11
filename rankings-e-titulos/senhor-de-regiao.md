@@ -1,4 +1,11 @@
-<!-- TITLE: Senhor De Região -->
+---
+title: Senhor De Região
+description: 
+published: true
+date: 2019-11-11T16:30:51.979Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Senhor De Região -->
 
 # Senhor De Região

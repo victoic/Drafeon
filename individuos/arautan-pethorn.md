@@ -1,4 +1,11 @@
-<!-- TITLE: Arau'tan Pethorn -->
+---
+title: Arau'tan Pethorn
+description: 
+published: true
+date: 2019-11-11T16:27:45.279Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Arau'tan Pethorn -->
 
 # Arau'tan Pethorn

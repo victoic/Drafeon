@@ -1,4 +1,11 @@
-<!-- TITLE: Tribo Fauxa Azuu -->
+---
+title: Tribo Fauxa Azuu
+description: 
+published: true
+date: 2019-11-11T16:32:13.932Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Tribo Fauxa Azuu -->
 
 # Tribo Fauxa Azuu

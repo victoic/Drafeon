@@ -1,4 +1,11 @@
-<!-- TITLE: Vila Das Pontes -->
+---
+title: Vila Das Pontes
+description: 
+published: true
+date: 2019-11-11T16:34:19.656Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Vila Das Pontes -->
 
 # Vila Das Pontes

@@ -1,4 +1,11 @@
-<!-- TITLE: Mão Da Forja -->
+---
+title: Mão Da Forja
+description: 
+published: true
+date: 2019-11-11T16:34:25.812Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Mão Da Forja -->
 
 # Mão Da Forja

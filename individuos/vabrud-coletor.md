@@ -1,4 +1,11 @@
-<!-- TITLE: Vabrud Coletor -->
+---
+title: Vabrud Coletor
+description: 
+published: true
+date: 2019-11-11T16:29:56.860Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Vabrud Coletor -->
 
 # Vabrud Coletor

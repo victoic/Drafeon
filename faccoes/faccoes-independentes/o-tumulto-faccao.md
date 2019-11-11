@@ -1,4 +1,11 @@
-<!-- TITLE: Tumulto, O (Facção) -->
+---
+title: Tumulto, O (Facção)
+description: 
+published: true
+date: 2019-11-11T16:31:55.256Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre O Tumulto (Facção) -->
 
 # O Tumulto

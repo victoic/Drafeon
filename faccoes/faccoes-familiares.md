@@ -1,4 +1,11 @@
-<!-- TITLE: Facções Familiares -->
+---
+title: Facções Familiares
+description: 
+published: true
+date: 2019-11-11T16:27:33.246Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Facções Familiares -->
 
 # Facções Familiares

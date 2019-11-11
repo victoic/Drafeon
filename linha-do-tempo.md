@@ -1,4 +1,11 @@
-<!-- TITLE: Linha Do Tempo -->
+---
+title: Linha Do Tempo
+description: 
+published: true
+date: 2019-11-11T16:27:18.277Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Linha Do Tempo -->
 
 # Linha Do Tempo

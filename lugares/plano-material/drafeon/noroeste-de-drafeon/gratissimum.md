@@ -1,4 +1,11 @@
-<!-- TITLE: Gratissimum -->
+---
+title: Gratissimum
+description: 
+published: true
+date: 2019-11-11T16:33:29.865Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Gratissimum -->
 
 # Gratissimum

@@ -1,4 +1,11 @@
-<!-- TITLE: Faccoes Independentes -->
+---
+title: Faccoes Independentes
+description: 
+published: true
+date: 2019-11-11T16:27:34.734Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Faccoes Independentes -->
 
 # Faccoes Independentes

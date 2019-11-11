@@ -1,4 +1,11 @@
-<!-- TITLE: Sur Lataru Nuk Da Parede -->
+---
+title: Sur Lataru Nuk Da Parede
+description: 
+published: true
+date: 2019-11-11T16:29:43.342Z
+tags: 
+---
+
 <!-- SUBTITLE: Visão geral sobre Sur Lataru Nuk Da Parede -->
 
 # Sur Lataru Nuk Da Parede
