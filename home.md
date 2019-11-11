@@ -1,4 +1,11 @@
-<!-- TITLE: Enciclopédia de Drafeon -->
+---
+title: Enciclopédia de Drafeon
+description: 
+published: true
+date: 2019-11-11T17:04:57.697Z
+tags: 
+---
+
 <!-- SUBTITLE: Introdução à Drafeon e seus Arredores-->
 ![Drafeon Banner](/uploads/banners/drafeon-banner.jpg "Drafeon Banner"){.align-center}
 # Enciclopédia de Drafeon
@@ -13,14 +20,14 @@ Drafeon é um continente pequeno, porém com uma enorme diversidade de biomas, p
 
 Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possui o objetivo de reunir e harmonizar todas as raças conscientes. Porém esta é uma tarefa difícil, com o grande tamanho do império, controlar e proteger os quatro cantos das criaturas que discordam da ideia de união e da corrupção e ambição de seus próprios líderes.
 
-* [**CAPÍTULOS**](http://localhost/capitulos)
-* [**DIVINDIDADES**](http://localhost/divindades#divindades)
-* [**FACÇÕES**](http://localhost/faccoes#faccoes)
-* [**FAUNA e FLORA**](http://localhost/fauna-e-flora#fauna-e-flora)
-* [**INDIVÍDUOS**](http://localhost/individuos#individuos)
-* [**ITENS**](http://localhost/itens#itens)
-* [**LENDAS e EVENTOS**](http://localhost/lendas-e-eventos#lendas-e-eventos)
-* [**LUGARES**](http://localhost/lugares#lugares)
-* [**LINHA DO TEMPO**](http://localhost/linha-do-tempo#linha-do-tempo)
-* [**RANKINGS e TÍTULOS**](http://localhost/rankings-e-titulos#rankings-e-titulos)
-* [**VEÍCULOS**](http://localhost/veiculos#veiculos)
+* [**CAPÍTULOS**](http://localhost/en/capitulos)
+* [**DIVINDIDADES**](http://localhost/en/divindades#divindades)
+* [**FACÇÕES**](http://localhost/en/faccoes#faccoes)
+* [**FAUNA e FLORA**](http://localhost/en/fauna-e-flora#fauna-e-flora)
+* [**INDIVÍDUOS**](http://localhost/en/individuos#individuos)
+* [**ITENS**](http://localhost/en/itens#itens)
+* [**LENDAS e EVENTOS**](http://localhost/en/lendas-e-eventos#lendas-e-eventos)
+* [**LUGARES**](http://localhost/en/lugares#lugares)
+* [**LINHA DO TEMPO**](http://localhost/en/linha-do-tempo#linha-do-tempo)
+* [**RANKINGS e TÍTULOS**](http://localhost/en/rankings-e-titulos#rankings-e-titulos)
+* [**VEÍCULOS**](http://localhost/en/veiculos#veiculos)
