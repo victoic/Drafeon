@@ -2,7 +2,7 @@
 title: Conciliabulo Negro
 description: 
 published: true
-date: 2019-11-11T16:31:49.634Z
+date: 2019-11-12T16:01:21.897Z
 tags: 
 ---
 
@@ -10,6 +10,8 @@ tags:
 
 # Conciliabulo Negro
 O Conciliábulo Negro é um conliábulo de bruxas formado por Vovó Matrilda Bufenta, Baba Sut e Titia Olga Cudeporco. Elas possuem influencia no [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon) e [Sul de Drafeon](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon#sul-de-drafeon), controlando, seja por intimidação ou magia, algumas tribos de goblinoides.
+
+O conciliábulo foi formado para auxiliar o Arquefey [Lopsur](http://localhost/en/individuos/lopsur) a atravessar ao [Plano Material](http://localhost/en/lugares/plano-material), em troca de um dos ovos de sua próxima ninhada.
 
 # Informações
 `Tipo` Ilícito, Grupo Terrorista
