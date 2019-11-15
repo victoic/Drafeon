@@ -2,7 +2,7 @@
 title: Tribo Do Alto Desfiladeiro
 description: 
 published: true
-date: 2019-11-15T18:43:07.927Z
+date: 2019-11-15T18:45:51.558Z
 tags: 
 ---
 
@@ -17,7 +17,7 @@ A tribo é liderada pelo Orc mais forte, o líder pode ser macho ou fêmea, tend
 # Informações
 `Tipo` Geopolítico, Tribo
 `Sistema de Governo` Tribalismo
-`Localização` [Estreito de Ga'te Kwiasz]()
+`Localização` [Estreito de Ga'te Kwiasz](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/estreito-de-gate-kwiasz)
 `Membros Notáveis`
 
 -----
