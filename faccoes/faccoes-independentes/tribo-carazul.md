@@ -2,7 +2,7 @@
 title: Tribo Carazul
 description: 
 published: true
-date: 2019-11-11T16:32:10.044Z
+date: 2019-11-15T18:50:56.682Z
 tags: 
 ---
 
@@ -17,7 +17,11 @@ A tribo é liderada pelo Orc mais forte, o líder pode ser macho ou fêmea, tend
 # Informações
 `Tipo` Geopolítico, Tribo
 `Sistema de Governo` Tribalismo
-`Líder` [Vargus]()
-`Localização` [Porto Novo]()
-`Membros Notáveis` [Vargus]()
+`Líder` [Vargus](http://localhost/en/individuos/vargus)
+`Localização` [Estreito de Ga'te Kwiasz](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/estreito-de-gate-kwiasz#estreito-de-gate-kwiasz)
+`Membros Notáveis` [Vargus](http://localhost/en/individuos/vargus)
 
+----
+
+# Mapa da Tribo Carazul
+![tribo_carazul.jpg](/uploads/mapas/tribo_carazul.jpg)
