@@ -2,7 +2,7 @@
 title: Sem Vento
 description: 
 published: true
-date: 2019-11-11T16:34:17.765Z
+date: 2019-11-15T19:15:39.636Z
 tags: 
 ---
 
@@ -33,5 +33,5 @@ As estruturas da vila são todas feitas em madeira, seguindo o estilo [Porto-Nov
 -----
 
 # Mapa de Sem Vento
-![Mapa de Sem Vento](/uploads/mapas/sem-vento-mapa.jpg "Mapa de Sem Vento")
+![sem_vento_-_mapa.jpg](/uploads/mapas/sem_vento_-_mapa.jpg)
 
