@@ -2,7 +2,7 @@
 title: Drafeon
 description: 
 published: true
-date: 2019-11-11T16:33:10.604Z
+date: 2019-11-26T16:47:13.862Z
 tags: 
 ---
 
@@ -24,4 +24,4 @@ Um grande lago, chamado Mar do Meio se encontra no centro da terra. Diversas gra
 `Organizações Incluidas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao), [Grande Império Orc ](), [Império Serpetinn](), [Corte Élfica](), [Reino Anão]()
 `Organizações Governante` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Dono/Governante` [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur) 
-`Sub-locações` [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon), [Noroeste de Drafeon](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon#noroeste-de-drafeon), [Norte de Drafeon](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon#norte-de-drafeon), [Mar do Meio](http://localhost/lugares/plano-material/drafeon/mar-do-meio#mar-do-meio), [Mar do Limbo](http://localhost/lugares/plano-material/drafeon/mar-do-limbo#mar-do-limbo)
+`Sub-locações` [Sul de Drafeon](http://localhost/en/lugares/plano-material/drafeon/sul-de-drafeon), [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon), [Noroeste de Drafeon](http://localhost/lugares/plano-material/drafeon/noroeste-de-drafeon#noroeste-de-drafeon), [Norte de Drafeon](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon#norte-de-drafeon), [Mar do Meio](http://localhost/lugares/plano-material/drafeon/mar-do-meio#mar-do-meio), [Mar do Limbo](http://localhost/lugares/plano-material/drafeon/mar-do-limbo#mar-do-limbo)
