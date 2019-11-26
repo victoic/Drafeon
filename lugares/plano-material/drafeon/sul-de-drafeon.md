@@ -2,7 +2,7 @@
 title: Sul de Drafeon
 description: 
 published: true
-date: 2019-11-26T16:50:20.624Z
+date: 2019-11-26T16:50:27.443Z
 tags: região, lugar
 ---
 
@@ -17,5 +17,5 @@ Your content here
 [`Etnias`](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/etnias-do-sul-de-drafeon#etnias-do-sul-de-drafeon)
 
 -----
-# Mapa do Sudeste de Drafeon
+# Mapa do Sul de Drafeon
 ![Sul_de_Drafeon](/uploads/mapas/sul_de_drafeon.jpg)
