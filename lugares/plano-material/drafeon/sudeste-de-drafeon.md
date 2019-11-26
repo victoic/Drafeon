@@ -2,7 +2,7 @@
 title: Sudeste De Drafeon
 description: 
 published: true
-date: 2019-11-11T16:33:27.369Z
+date: 2019-11-26T17:19:21.547Z
 tags: 
 ---
 
@@ -76,5 +76,5 @@ O Sudeste possui alguns poucos vilarejos de porte pequeno e médio que sobrevive
 
 -----
 # Mapa do Sudeste de Drafeon
-![Sudeste De Drafeon 3](/uploads/mapas/sudeste-de-drafeon-3.jpg "Sudeste De Drafeon 3"){.align-center}
+![Sudeste_de_Drafeon](/uploads/mapas/sudeste_de_drafeon_-_3.jpg)
 
