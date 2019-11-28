@@ -2,7 +2,7 @@
 title: Porto Novo
 description: 
 published: true
-date: 2019-11-28T18:21:01.502Z
+date: 2019-11-28T18:22:20.909Z
 tags: 
 ---
 
@@ -84,8 +84,6 @@ Dono: Tabitha Brillabouso, Gnomo Fêmea
 *Descrição:* O feiticeiro é um prédio de dois andares de pedra, com um telhado cinza cinza e um mobiliário forjado por elfos. Contém uma armadura na parede traseira e um mapa de constelações no chão.
 
 ## Guildas & Facções
-O [Família Raça D'Ouro](http://localhost/faccoes/faccoes-familiares/familia-raca-douro#familia-raca-douro) possui domínio oficial sobre Porto Novo.
-
 A cidade possui grande influência de quatro famílias: 1) os humanos da família Carvalho-Negro; 2) os drow da família Faralei; 3) os humanos da família Raça D'Ouro; 4) os gnomos da família Brillabouso. Todas as quatro famílias possuem negócios em diversas áreas comerciais, porém cada uma delas é conhecida por uma única linha de produção:
 
 * Os [Carvalho-Negro](http://localhost/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro) são grandes navegadores e pescadores, são principalmente conhecidos por seus pescados e frutos do mar da maior qualidade e raridade, além possuírem exímios cozinheiros. Possuem algumas fazendas de flores e possuem alguns dos melhores perfumistas da região. Eles também possuem negócios com aventureiros para busca e revenda de artefatos.
