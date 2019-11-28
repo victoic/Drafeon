@@ -2,12 +2,12 @@
 title: Porto Novo
 description: 
 published: true
-date: 2019-11-15T18:43:55.568Z
+date: 2019-11-28T18:21:01.502Z
 tags: 
 ---
 
 <!-- SUBTITLE: A mina de ouro nos pântanos do sudeste. -->
-![2 D 49 Ddead 154 B 70 Aaedbd 3 Ad 7 B 783084](/uploads/bandeiras/2-d-49-ddead-154-b-70-aaedbd-3-ad-7-b-783084.png "2 D 49 Ddead 154 B 70 Aaedbd 3 Ad 7 B 783084"){.pagelogo}
+![bandeira_de_porto_novo.png](/uploads/bandeiras/bandeira_de_porto_novo.png){.align-abstopright}
 # Porto Novo
 Porto Novo é uma grande cidade comercial que beira o [Mar do Meio](http://localhost/lugares/plano-material/drafeon/mar-do-meio#mar-do-meio). Fundada por [Irien Galaniell](http://localhost/individuos/irien-galaniell#irien-galaniell) em 1698, a cidade teve inícios modestos como um pequeno porto comercial para produtos que vinham sendo transportados pelo Mar do Meio, porém com a ótima administração de Irien o porto se tornou um dos mais importantes do Império e consigo cresceu a cidade a sua volta, que recebeu o mesmo nome. 
 
