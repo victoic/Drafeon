@@ -2,7 +2,7 @@
 title: Horizonte
 description: Capital do Sul de Drafeon
 published: true
-date: 2019-11-29T21:14:58.693Z
+date: 2019-11-29T21:23:35.478Z
 tags: 
 ---
 
@@ -58,6 +58,7 @@ Os níveis da cidade não são perfeitamente alinhados horizontalmente, porém s
 ## Guildas e Facções
 [Academia Arcana de Horizonte]()
 [Instituto Bilumini]()
+[Corte do Horizonte]()
 
 ## Arquitetura
 A arquitetura é predominantemente feita de rochas e mármores polidas de forma que as fazem parecer naturais, dado o uso de magia na construção de boa parte dos edifícios.
