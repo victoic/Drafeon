@@ -2,16 +2,16 @@
 title: Porto Preciez
 description: 
 published: true
-date: 2019-11-29T22:51:34.104Z
+date: 2019-11-29T22:52:56.002Z
 tags: 
 ---
 
 # Porto Preciez
-Your content here
+Porto Preciez
 
 # Informações
 `Tipo` Capital
-`População` 19.402
+`População` 7820
 `Gentílico` Precieziense 
 `Sub-locações` 
 `Governante` [Yrcri Magnus](http://localhost/en/individuos/yrcri-magnus)
