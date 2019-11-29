@@ -2,12 +2,16 @@
 title: Sul de Drafeon
 description: 
 published: true
-date: 2019-11-29T18:42:14.127Z
+date: 2019-11-29T23:37:39.268Z
 tags: região, lugar
 ---
 
 # Sul de Drafeon
 Your content here
+
+> Os assentamentos humanos da região possuem cultura semelhante ao Império Carolíngio [Arquitetura](https://en.wikipedia.org/wiki/Carolingian_architecture), [Arte](https://en.wikipedia.org/wiki/Carolingian_art), [Império](https://en.wikipedia.org/wiki/Carolingian_Empire)
+{.is-info}
+
 
 # Informações
 `Tipo` Região 
