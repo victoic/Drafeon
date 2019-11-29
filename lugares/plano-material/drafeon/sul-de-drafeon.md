@@ -2,7 +2,7 @@
 title: Sul de Drafeon
 description: 
 published: true
-date: 2019-11-28T18:12:15.376Z
+date: 2019-11-29T18:42:14.127Z
 tags: região, lugar
 ---
 
@@ -18,4 +18,4 @@ Your content here
 
 -----
 # Mapa do Sul de Drafeon
-![Sul_de_Drafeon](/uploads/mapas/sul_de_drafeon.jpg)
+![sul_de_drafeon.jpg](/uploads/mapas/sul_de_drafeon.jpg){.align-center}
