@@ -2,7 +2,7 @@
 title: Horizonte
 description: Capital do Sul de Drafeon
 published: true
-date: 2019-11-29T18:35:49.962Z
+date: 2019-11-29T21:14:58.693Z
 tags: 
 ---
 
@@ -24,6 +24,8 @@ Um dragão metálico faz morada na cidade.
 
 ## Governo
 A cidade é sempre governada pelo Arquimago do Império, atualmente este cargo é ocupado por [Yrcri Magnus](http://localhost/en/individuos/yrcri-magnus). A cidade funciona como uma região geopolítica isolada, sendo a única cidade da região que não está sob comando do [Senhor de Região](http://localhost/en/rankings-e-titulos/senhor-de-regiao) do Sul de Drafeon e sob comando direto do [Imperador](http://localhost/en/rankings-e-titulos/imperador-dragao).
+
+Além do Arquimago, uma corte de intelectuais e arcanistas auxilia no governo da cidade, estes são conhecidos como [Duques]() e formam a [Corte do Horizonte](). Duques são arbitrareamente alocados pelo Arquimago e possuem número e resposabilidades individualmente atribuídas. Suas responsabilidades são explicítas e os duques costumam ser conhecidos por tal.
 
 ### Leis
 Dado o foco arcano da cidade e presença das academias arcanas, um conjunto de leis foi introduzido para evitar que catástrofes acontecessem novamente.
