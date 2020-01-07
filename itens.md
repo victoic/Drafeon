@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2020-01-07T17:22:42.554Z
+date: 2020-01-07T17:22:56.009Z
 tags: 
 ---
 
@@ -22,7 +22,7 @@ tags:
 
 
 ## Mágico
-[Brino de Sussurros](http://localhost/en/itens/Brinco-de-Sussurros)
+[Brinco de Sussurros](http://localhost/en/itens/Brinco-de-Sussurros)
 
 ## Materias Primas
 [Seiva-Cascus](http://localhost/itens/seiva-cascus#seiva-cascus)
