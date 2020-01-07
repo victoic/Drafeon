@@ -2,7 +2,7 @@
 title: Fauna E Flora
 description: 
 published: true
-date: 2020-01-07T18:52:19.708Z
+date: 2020-01-07T18:52:34.455Z
 tags: 
 ---
 
@@ -15,5 +15,5 @@ tags:
 
 ## Flora
 [Pé-Cascus](http://localhost/fauna-e-flora/pe-cascus#pe-cascus)
-[Madeira Ferro (Árvore)](http://localhost/fauna-e-flora/madeira-ferro-arvore#madeira-ferro-arvore)
+[Madeira Ferro (Flora)](http://localhost/fauna-e-flora/madeira-ferro-arvore#madeira-ferro-arvore)
 
