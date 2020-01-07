@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2020-01-07T17:22:56.009Z
+date: 2020-01-07T17:27:51.208Z
 tags: 
 ---
 
@@ -19,7 +19,7 @@ tags:
 
 ## Bebidas & Alimentos
 [Cachaça de Barro](http://localhost/itens/cachaca-de-barro#cachaca-de-barro)
-
+[Whiskey de Madeira-Ferro]()
 
 ## Mágico
 [Brinco de Sussurros](http://localhost/en/itens/Brinco-de-Sussurros)
