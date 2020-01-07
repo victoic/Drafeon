@@ -2,7 +2,7 @@
 title: Tiberius Faralei
 description: 
 published: true
-date: 2020-01-07T17:21:53.573Z
+date: 2020-01-07T17:22:36.607Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 Tiberius foi um Elfo da Floresta mago e fabricante de itens mágicos. Ele é reconhecido por ter desenvolvido diversos itens de utilidades variadas, possuindo um foco em magias de comunicação e favorecia a criação de itens em forma de acessórios.
 
 ## Conquistas e Feitos
-Tiberius desenvolveu, em 1111, um conjunto de brincos que possibilita a comunicação telepática entre os indivíduos que os usem e estejam dentro do alcance. O item foi chamado [Brinco do Sussurro](http://localhost/en/itens/Brinco-de-Sussurros).
+Tiberius desenvolveu, em 1111, um conjunto de brincos que possibilita a comunicação telepática entre os indivíduos que os usem e estejam dentro do alcance. O item foi chamado [Brinco de Sussurros](http://localhost/en/itens/Brinco-de-Sussurros).
 
 
 # Informações
