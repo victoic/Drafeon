@@ -1,8 +1,8 @@
 ---
-title: Madeira Ferro
+title: Madeira Ferro (Matéria Prima)
 description: 
 published: true
-date: 2020-01-07T18:51:41.578Z
+date: 2020-01-07T18:52:09.685Z
 tags: 
 ---
 
