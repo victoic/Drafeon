@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2020-01-07T17:22:31.296Z
+date: 2020-01-07T17:22:42.554Z
 tags: 
 ---
 
