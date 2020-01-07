@@ -2,12 +2,12 @@
 title: Madeira Ferro (Matéria Prima)
 description: 
 published: true
-date: 2020-01-07T18:52:09.685Z
+date: 2020-01-07T19:04:41.464Z
 tags: 
 ---
 
 # Madeira Ferro
-Madeira Ferro é um tipo de madeira altamente resistente originado da [árvore homónima](http://localhost/fauna-e-flora/madeira-ferro-arvore#madeira-ferro-arvore), que cresce em parte das imensas florestas da [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica).
+Madeira Ferro é um tipo de madeira altamente resistente originado da [árvore homónima](http://localhost/fauna-e-flora/madeira-ferro-flora#madeira-ferro-flora), que cresce em parte das imensas florestas da [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica).
 
 Seu nome parte de sua resistência e flexibilidade que se assemelha a de metais, é comumente utilizada para fortificações, armamentos e armaduras. É encontrada mais raramente em mobília de alta classe.
 
