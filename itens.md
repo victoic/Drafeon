@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2019-11-11T16:27:15.311Z
+date: 2020-01-07T17:22:31.296Z
 tags: 
 ---
 
@@ -19,6 +19,10 @@ tags:
 
 ## Bebidas & Alimentos
 [Cachaça de Barro](http://localhost/itens/cachaca-de-barro#cachaca-de-barro)
+
+
+## Mágico
+[Brino de Sussurros](http://localhost/en/itens/Brinco-de-Sussurros)
 
 ## Materias Primas
 [Seiva-Cascus](http://localhost/itens/seiva-cascus#seiva-cascus)
