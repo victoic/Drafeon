@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2020-01-07T17:27:51.208Z
+date: 2020-01-07T18:39:34.313Z
 tags: 
 ---
 
@@ -26,6 +26,7 @@ tags:
 
 ## Materias Primas
 [Seiva-Cascus](http://localhost/itens/seiva-cascus#seiva-cascus)
+[Madeira-Ferro](http://localhost/itens/madeira-ferros#madeira-ferro)
 
 ## Obras de Arte
 [A Lança e o Morto](http://localhost/itens/a-lanca-e-o-morto)
