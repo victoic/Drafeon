@@ -1,8 +1,8 @@
 ---
-title: Capítulo 2: Criando Raízes
-description: 
+title: Capítulo 2
+description: Criando Raízes
 published: true
-date: 2020-04-14T23:44:37.414Z
+date: 2020-04-14T23:45:46.517Z
 tags: 
 ---
 
