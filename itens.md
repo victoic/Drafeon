@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2020-01-07T18:41:38.211Z
+date: 2020-04-16T13:37:45.948Z
 tags: 
 ---
 
@@ -13,6 +13,7 @@ tags:
 ## Armas
 [Pistola](http://localhost/itens/pistola#pistola)
 [Pistola Leve](http://localhost/itens/pistola-leve#pistola-leve)
+[Pacificadora](http://localhost/itens/pacificadora)
 
 ## Artefatos
 [Coração de Azaroth](http://localhost/itens/coracao-de-azaroth#coracao-de-azaroth)
