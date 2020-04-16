@@ -2,7 +2,7 @@
 title: Pacificadora
 description: Rifle
 published: true
-date: 2020-04-16T14:10:05.455Z
+date: 2020-04-16T14:11:36.982Z
 tags: 
 ---
 
@@ -30,3 +30,7 @@ A criação da pacificadora aponta um avanço no armamento de guerra de Drafeon.
 `Raridade` Único
 `Peso` 11 Kg
 `Preço Base` 500 po
+
+
+---
+![mosquete.png](/uploads/itens/mosquete.png){.align-center}
