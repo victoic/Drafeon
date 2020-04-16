@@ -2,7 +2,7 @@
 title: Capítulo 4
 description: Edahsh, O Eclipse Eterno
 published: true
-date: 2020-04-15T00:29:31.265Z
+date: 2020-04-16T13:27:44.659Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ Durante uma missão a pedido de [Ser](http://localhost/en/individuos/ser-glorkan
 
 Nesta missão o grupo enfrentou e derrotou [Akhes](http://localhost/en/individuos/akhes), uma Naga poderosa, no entanto morte é uma condição temporária para Nagas.
 
-Após derrotar os adoradores de Edahsh e concluir a missão, os grupo busca clérigos em Porto Novo, o que os leva à [Manver Brillabouso](http://localhost/individuos/manver-brillabouso#manver-brillabouso), por meio de um ritual com [Nituhnna](http://localhost/divindades/panteao-das-treze-estrelas/nituhnna#nituhnna) lhes informa que para derrotar Edahsh, Saile também deve ser derrotado. O grupo busca a ajuda de [Aldror](http://localhost/en/individuos/aldror), que aponta o grupo à um grupo de Aarakocras, liderado por [Zid](http://localhost/en/individuos/zid).
+Após derrotar os adoradores de Edahsh e concluir a missão, os grupo busca clérigos em Porto Novo, o que os leva à [Manver Brillabouso](http://localhost/individuos/manver-brillabouso#manver-brillabouso), por meio de um ritual com [Nituhnna](http://localhost/divindades/panteao-das-treze-estrelas/nituhnna#nituhnna) lhes informa que para derrotar Edahsh, Saile também deve ser derrotado. O grupo busca a ajuda de [Aldror](http://localhost/en/individuos/aldror), que aponta o grupo à um grupo de Aarakocras, liderado por [Ilaf](http://localhost/en/individuos/ilaf).
 
 Zid ensina que o grupo deve realizar um ritual onde Saile nasceu, em [Pico do Bico](), lá Saile deve ser derrotado em combate e então a forma física de Edahsh despertará e o grupo deve derrotá-lo.
 
