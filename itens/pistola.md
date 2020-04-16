@@ -2,7 +2,7 @@
 title: Pistola
 description: 
 published: true
-date: 2019-11-11T16:30:15.284Z
+date: 2020-04-16T14:12:35.366Z
 tags: 
 ---
 
@@ -27,3 +27,5 @@ A pistola aponta o princípio de mudanças revolucionárias no combate armado de
 `Peso` 1,5 Kg
 `Preço Base` 150 po
 
+---
+![pistola_-_full.png](/uploads/itens/pistola_-_full.png){.align-center}
