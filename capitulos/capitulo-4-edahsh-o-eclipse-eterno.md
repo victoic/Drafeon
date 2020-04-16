@@ -2,7 +2,7 @@
 title: Capítulo 4
 description: Edahsh, O Eclipse Eterno
 published: true
-date: 2020-04-16T13:37:59.878Z
+date: 2020-04-16T13:38:19.941Z
 tags: 
 ---
 
@@ -14,7 +14,7 @@ Durante três meses os membros do grupo partem em jornadas pessoais. O Draconato
 
 O Elfo Negro [Veles](http://localhost/en/individuos/personagens-de-jogadores/veles-lupis-lugh) inicia uma pesquisa sobre o [Senhor das Escamas](http://localhost/en/individuos/lopsur), em busca de respostas sobre os acontecimentos finais no encontro com o [Conciliábulo Negro](http://localhost/en/faccoes/faccoes-independentes/conciliabulo-negro).
 
-Saile passa as manhãs projetando e fabricando uma nova arma de fogo mecânica de maior porte, a qual ele denomina [Pacificadora](). Durante as noites, no entanto, ele é possuído pelo demônio Edahsh e comete assassinatos contra moradores de [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), totalizando 80 mortes.
+Saile passa as manhãs projetando e fabricando uma nova arma de fogo mecânica de maior porte, a qual ele denomina [Pacificadora](http://localhost/itens/pacificadora). Durante as noites, no entanto, ele é possuído pelo demônio Edahsh e comete assassinatos contra moradores de [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), totalizando 80 mortes.
 
 As autoridades locais não conseguem identificar o assassino e pedem ajudas a Investigadores Arcanos da cidade de [Horizonte](http://localhost/en/lugares/plano-material/drafeon/sul-de-drafeon/horizonte), chamados pelo Capitão Detetive de Porto Novo [Kurok](http://localhost/en/individuos/kurok).
 
