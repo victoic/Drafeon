@@ -2,12 +2,12 @@
 title: Enciclopédia de Drafeon
 description: 
 published: true
-date: 2020-04-14T23:33:16.555Z
+date: 2020-04-16T15:16:16.681Z
 tags: 
 ---
 
 <!-- SUBTITLE: Introdução à Drafeon e seus Arredores-->
-![drafeon-banner.jpg](/uploads/banners/drafeon-banner.jpg){.align-abstopright}
+![drafeon-banner.jpg](/uploads/banners/drafeon-banner.jpg){.align-center}
 # Enciclopédia de Drafeon
 
 Olhe em volta, tudo o que você vê e além pertence a Drafeon e Drafeon pertence ao Império Dragão, longa vida ao Imperador! Mas cuidado, nem todos concordam com isso, muitos são os que querem um pedaço de Drafeon para si e alguns até conseguem. Mas nada disso é importante, só o que importa é o que você fará nessa terra, quem você será.
