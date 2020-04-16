@@ -2,12 +2,12 @@
 title: Phandeel
 description: 
 published: true
-date: 2020-04-16T16:54:04.477Z
+date: 2020-04-16T16:57:41.895Z
 tags: 
 ---
 
 # Phandeel
-Phandeel é uma Alto Elfo, nativa da [Corte Élfica](http://localhost/en/faccoes/nacoes/corte-elfica) e atualmente residente de [Porto Novo](). Phandeel é membro da guilda mercadora [Mão de Toutaris](http://localhost/en/faccoes/faccoes-independentes/mao-de-toutaris), onde atua como comerciante de itens mágicos.
+Phandeel é uma Alto Elfo, nativa da [Corte Élfica](http://localhost/en/faccoes/nacoes/corte-elfica) e atualmente residente de [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). Phandeel é membro da guilda mercadora [Mão de Toutaris](http://localhost/en/faccoes/faccoes-independentes/mao-de-toutaris), onde atua como comerciante de itens mágicos.
 
 # Informações
 `Data de Nascimento` 1512 
