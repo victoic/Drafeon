@@ -2,12 +2,12 @@
 title: Opzot-Ulo
 description: 
 published: true
-date: 2019-11-11T16:31:26.660Z
+date: 2020-04-16T19:26:13.362Z
 tags: 
 ---
 
 <!-- SUBTITLE: Deus das Pragas e da Insanidade -->
-![B 58 Ded 9 C 7 Cc 12 B 9 E 566828 Ac 2506 B 7 C 7](/uploads/simbolos-divinos/b-58-ded-9-c-7-cc-12-b-9-e-566828-ac-2506-b-7-c-7.png "B 58 Ded 9 C 7 Cc 12 B 9 E 566828 Ac 2506 B 7 C 7"){.pagelogo}
+![opzot-ulo.png](/uploads/simbolos-divinos/opzot-ulo.png){.align-abstopright}
 
 # Opzot-Ulo
 Upzot-Ulo se apresenta como um ser híbrido entre aranha, escorpião e serpente. Seu corpo é o de uma aranha verde, seu corpo é coberto de pele e em seu abdômen se encontra uma espiral negra. De seu abdômen uma longa calda se curva para cima de seu corpo, na ponta se encontra um ferrão venenoso. Onde se encontraria o cabeça da aranha, o corpo de uma serpente se alonga, terminando em uma cabeça escamosa com oito olhos vermelhos.
