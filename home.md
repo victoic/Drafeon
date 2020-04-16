@@ -2,7 +2,7 @@
 title: Enciclopédia de Drafeon
 description: 
 published: true
-date: 2020-04-16T15:16:30.235Z
+date: 2020-04-16T19:33:47.155Z
 tags: 
 ---
 
@@ -22,6 +22,7 @@ Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possu
 
 * [**CAPÍTULOS**](http://localhost/en/capitulos)
 * [**DIVINDIDADES**](http://localhost/en/divindades#divindades)
+* [**DOCUMENTOS**](http://localhost/en/documentos#documentos)
 * [**FACÇÕES**](http://localhost/en/faccoes#faccoes)
 * [**FAUNA e FLORA**](http://localhost/en/fauna-e-flora#fauna-e-flora)
 * [**INDIVÍDUOS**](http://localhost/en/individuos#individuos)
