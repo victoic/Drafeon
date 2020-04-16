@@ -2,12 +2,12 @@
 title: Mudur
 description: 
 published: true
-date: 2019-11-11T16:31:20.908Z
+date: 2020-04-16T19:23:00.067Z
 tags: 
 ---
 
 <!-- SUBTITLE: Deus da Guera e do Combate -->
-![Bc 4 Eb 078 A 4564 B 155266 Eed 784 E 8 D 3 C 4](/uploads/simbolos-divinos/bc-4-eb-078-a-4564-b-155266-eed-784-e-8-d-3-c-4.png "Bc 4 Eb 078 A 4564 B 155266 Eed 784 E 8 D 3 C 4"){.pagelogo}
+![mudur.png](/uploads/simbolos-divinos/mudur.png){.align-center}
 
 # Mudur
 As virtudes de Mudur dependem de qual seguidor você pergunta, dado que existem duas grandes vertentes: Mudur-Yoltli e Mudur-Chihua.
