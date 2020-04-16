@@ -2,7 +2,7 @@
 title: Brinco de Sussurros
 description: 
 published: true
-date: 2020-01-07T17:21:42.091Z
+date: 2020-04-16T16:49:20.630Z
 tags: 
 ---
 
@@ -17,3 +17,6 @@ A fabricação física do brinco necessita de uma pedra preciosa que é ligada p
 `Raridade` Incomum
 `Peso` 0,1 Kg
 `Preço Base` 2500 po
+
+---
+![brinco_de_sussurros.png](/uploads/itens/brinco_de_sussurros.png){.align-center}
