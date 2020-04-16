@@ -2,13 +2,13 @@
 title: Gadot
 description: 
 published: true
-date: 2019-11-11T16:31:16.793Z
+date: 2020-04-16T17:53:38.169Z
 tags: 
 ---
 
 <!-- SUBTITLE: Deusa dos Andarilhos, Estradas e Necessitados -->
 
-![4249 B 0 Ab 1858 B 29 F 97250 Ab 7994 E 9 Ec 4](/uploads/4249-b-0-ab-1858-b-29-f-97250-ab-7994-e-9-ec-4.png "4249 B 0 Ab 1858 B 29 F 97250 Ab 7994 E 9 Ec 4"){.pagelogo}
+![gadot.png](/uploads/simbolos-divinos/gadot.png){.align-abstopright}
 # Gadot
 Gadot é uma divindade, uma deusa que cuida dos pobres e dos que não tem lar, unindo-os por meio dela. As lendas dizem que Gadot faz andarilhos dos desertos encontrarem Oasis, Andarilhos das Florestas encontrarem abrigo dos animais e Os Andarilhos da Neve uma caverna em que possa se estabelecer uma fogueira. Independente das histórias, o conto da deusa é o mesmo, desde refúgio até água, comida e afastar o mal, Gadot protege aqueles que vivem afastados.
 
