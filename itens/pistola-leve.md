@@ -2,7 +2,7 @@
 title: Pistola Leve
 description: 
 published: true
-date: 2019-11-11T16:30:15.214Z
+date: 2020-04-16T14:13:22.323Z
 tags: 
 ---
 
@@ -18,3 +18,5 @@ Uma pistola leve é uma modificação em cima do projeto da Pistola. O modelo le
 `Peso` 1 Kg
 `Preço Base` 80 po
 
+---
+![pistola_leve.png](/uploads/itens/pistola_leve.png){.align-center}
