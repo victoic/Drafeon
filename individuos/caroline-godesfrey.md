@@ -2,7 +2,7 @@
 title: Caroline Godesfrey
 description: O Caçador Laminado
 published: true
-date: 2020-04-16T17:16:03.149Z
+date: 2020-04-16T17:17:05.920Z
 tags: 
 ---
 
@@ -12,6 +12,7 @@ Godesfrey é uma humana guerreira, conhecida como Caçador Laminado por usar uma
 # Informações
 `Data de Nascimento` 1721
 `Sexo Biológico` Feminino
+`Sexualidade` Homosexual
 `Olhos` Verdes
 `Cabelos` Castanhos escuro
 `Altura` 1,80 m
