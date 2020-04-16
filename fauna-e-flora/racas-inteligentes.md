@@ -2,7 +2,7 @@
 title: Racas Inteligentes
 description: 
 published: true
-date: 2019-11-11T16:27:39.189Z
+date: 2020-04-16T21:15:08.253Z
 tags: 
 ---
 
@@ -20,6 +20,6 @@ tags:
 * [Humano](http://localhost/fauna-e-flora/racas-inteligentes/humano#humano)
 * [Orc](http://localhost/fauna-e-flora/racas-inteligentes/orc#orc)
 * [Povo Lagarto](http://localhost/fauna-e-flora/racas-inteligentes/povo-lagarto#povo-lagarto)
-	* Povo Lagardo do Sudeste de Drafeon
+	* [Povo Lagardo do Sudeste de Drafeon](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias-do-sudeste-de-drafeon/povo-lagarto-do-sudeste-de-drafeon)
 * [Tiefling](http://localhost/fauna-e-flora/racas-inteligentes/tiefling#tiefling)
 
