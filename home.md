@@ -2,7 +2,7 @@
 title: Enciclopédia de Drafeon
 description: 
 published: true
-date: 2020-04-16T15:16:16.681Z
+date: 2020-04-16T15:16:30.235Z
 tags: 
 ---
 
