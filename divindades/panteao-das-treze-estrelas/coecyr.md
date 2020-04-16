@@ -2,12 +2,12 @@
 title: Coecyr
 description: 
 published: true
-date: 2019-11-11T16:31:14.319Z
+date: 2020-04-16T17:52:15.242Z
 tags: 
 ---
 
 <!-- SUBTITLE: Deus da Natureza e do Equilíbrio -->
-![16 A 92 A 0 Dcc 7 A 94 Bea 25 De 18 F 783 Da 35 D](/uploads/simbolos-divinos/16-a-92-a-0-dcc-7-a-94-bea-25-de-18-f-783-da-35-d.png "16 A 92 A 0 Dcc 7 A 94 Bea 25 De 18 F 783 Da 35 D"){.pagelogo}
+![coecyr.png](/uploads/simbolos-divinos/coecyr.png){.align-abstopright}
 # Coecyr
 Coecyr é o deus do equilíbrio e, como tal, sempre se interesseou por criar mecanismos autosustentáveis e eternos, em seus experimentos criou a natureza, incluindo a maioria das crituras, plantas e outras formas de vida que habitam o [Plano Material](http://localhost/lugares/plano-material#plano-material). Mas a interrupção dos demais deuses neste plano de existência afetaram seus experimentos, para circunver este problema, Coecyr criou um novo plano, que ficou conhecido como [Faéria](http://localhost/lugares/faeria#faeria). Neste novo plano Coecyr populou formas de vida mais puras.
 
