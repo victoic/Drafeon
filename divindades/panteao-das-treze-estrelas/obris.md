@@ -2,13 +2,13 @@
 title: Obris
 description: 
 published: true
-date: 2019-11-11T16:31:24.998Z
+date: 2020-04-16T19:25:23.060Z
 tags: 
 ---
 
 <!-- SUBTITLE: Deus da Ordem, Honra e Dever -->
+![obris.png](/uploads/simbolos-divinos/obris.png){.align-abstopright}
 
-![B 3496 F 4 D 9512 F 5 Cbc 5 D 7 C 7 A 5 Cfdca 2 Da](/uploads/b-3496-f-4-d-9512-f-5-cbc-5-d-7-c-7-a-5-cfdca-2-da.png "B 3496 F 4 D 9512 F 5 Cbc 5 D 7 C 7 A 5 Cfdca 2 Da"){.pagelogo}
 # Obris
 Obris é o poderoso deus do bem, um dos mais poderosos do panteão.
 
