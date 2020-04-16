@@ -2,7 +2,7 @@
 title: Lopaohz Carvalho-Negro
 description: 
 published: true
-date: 2019-11-11T16:28:58.867Z
+date: 2020-04-16T13:32:11.569Z
 tags: 
 ---
 
@@ -22,7 +22,7 @@ Em 1753 Lopaohz contratou um grupo de aventureiros para buscar escamas de um dra
 Lopaohz continou a trabalhar com este grupo, os enviando para investigar a escassez de importações de turfa, um comum combustível local, da cidade de [Vila das Pontes](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes), onde o grupo descobriu os planos da bruxa [Titia Olga Cudeporco](http://localhost/individuos/titia-olga-cudeporco#titia-olga-cudeporco). Lopaohz foi responsável por apresentar o grupo para Conde Carvalho-Negro e [Irien Galaniell](http://localhost/individuos/irien-galaniell#irien-galaniell), em uma reunião onde uma equipe de caça as bruxas foi criada.
 
 # Informações
-`Vida` 1705 
+`Data de Nascimeto` 1705 
 `Cidade Natal` [Porto Novo](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo)
 `Sexo Biológico` Masculino
 `Olhos` Castanhos claros e pequenos
