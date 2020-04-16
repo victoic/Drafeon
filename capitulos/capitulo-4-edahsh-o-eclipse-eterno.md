@@ -2,7 +2,7 @@
 title: Capítulo 4
 description: Edahsh, O Eclipse Eterno
 published: true
-date: 2020-04-16T13:27:44.659Z
+date: 2020-04-16T13:37:19.542Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 O Grupo retorna a uma vida comum após a [caçada às bruxas](http://localhost/capitulos/capitulo-3-a-bruxa-do-pantano#capitulo-3-a-bruxa-do-pantano). Três meses se passam, no entanto [Saile](http://localhost/en/individuos/personagens-de-jogadores/saile) comete uma série de assassinatos enquanto controlado por [Edahsh](http://localhost/en/individuos/edahsh), o que leva o grupo a procurar uma maneira de terminar a possessão do Aarakocra.
 
 ## Três Meses
-Durante três meses os membros do grupo partem em jornadas pessoais. O Draconato [Magnus](http://localhost/en/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) viaja ao [Sul de Drafeon]() em busca de notícias de seu pai e retorna ao confirmar sua segurança.
+Durante três meses os membros do grupo partem em jornadas pessoais. O Draconato [Magnus](http://localhost/en/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) viaja ao [Sul de Drafeon](http://localhost/en/lugares/plano-material/drafeon/sul-de-drafeon) em busca de notícias de seu pai e retorna ao confirmar sua segurança.
 
 O Elfo Negro [Veles](http://localhost/en/individuos/personagens-de-jogadores/veles-lupis-lugh) inicia uma pesquisa sobre o [Senhor das Escamas](http://localhost/en/individuos/lopsur), em busca de respostas sobre os acontecimentos finais no encontro com o [Conciliábulo Negro](http://localhost/en/faccoes/faccoes-independentes/conciliabulo-negro).
 
