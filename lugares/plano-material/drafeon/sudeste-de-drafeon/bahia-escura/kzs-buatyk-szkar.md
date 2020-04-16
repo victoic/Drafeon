@@ -2,7 +2,7 @@
 title: Kzs Buatyk Szkar
 description: 
 published: true
-date: 2019-11-11T16:34:21.793Z
+date: 2020-04-16T15:47:36.864Z
 tags: 
 ---
 
@@ -23,5 +23,5 @@ A tribo possui uma grande quantidade de sua população treinada em batalha. Pos
 
 -----
 
-![Kzs Buatyk Szkar 58 X 36](/uploads/mapas/kzs-buatyk-szkar-58-x-36.jpg "Kzs Buatyk Szkar 58 X 36"){.align-center}
+![kzs-buatyk-szkar.jpg](/uploads/mapas/kzs-buatyk-szkar.jpg){.align-center}
 
