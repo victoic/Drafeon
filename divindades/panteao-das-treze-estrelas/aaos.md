@@ -2,13 +2,13 @@
 title: Aaos
 description: 
 published: true
-date: 2020-04-16T17:48:44.011Z
+date: 2020-04-16T17:49:42.001Z
 tags: 
 ---
 
 <!-- SUBTITLE: Deus dos Sonhos e da Morte -->
 
-![3 C 34 Fe 0339 Ac 928166 Bf 4 C 3 Bd 48 D 37 E 6](/uploads/3-c-34-fe-0339-ac-928166-bf-4-c-3-bd-48-d-37-e-6.png "3 C 34 Fe 0339 Ac 928166 Bf 4 C 3 Bd 48 D 37 E 6"){.align-abstopright}
+![Aaos](/uploads/aaos.png "Aaos"){.align-abstopright}
 # Aaos
 Conhecido também como A Máscara, Aaos é um misterioso deus que exerce controle sobre sonhos e a morte, chamada entre seus seguidores de Sonho Eterno. Existe um certo medo e taboo sobre Aaos e seus seguidores por muitos leigos a sua religião, dado os domínios controlados por Aaos. Apesar disso, Aaos é considerado um deus bondoso, cuidando dos últimos momentos dos que estão prestes a falecer. A Máscara possui uma imensa aversão aos mortos-vivos, vendo-os como uma anomalia ao seu domínio.
 
