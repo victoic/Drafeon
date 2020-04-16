@@ -2,12 +2,12 @@
 title: Ittar
 description: 
 published: true
-date: 2019-11-11T16:31:18.424Z
+date: 2020-04-16T17:54:17.687Z
 tags: 
 ---
 
 <!-- SUBTITLE: Deus dos Elementos -->
-![2 Cc 3 B 27800443 Ba 2 C 05430 B 3471 F 71 A 1](/uploads/2-cc-3-b-27800443-ba-2-c-05430-b-3471-f-71-a-1.png "2 Cc 3 B 27800443 Ba 2 C 05430 B 3471 F 71 A 1"){.pagelogo}
+![ittar.png](/uploads/simbolos-divinos/ittar.png){.align-abstopright}
 
 # Ittar
 O corpo de Ittar é uma mistura dos quatro elementos, ele não possui um corpo humanoide. Ele se apresenta como um lago de onde um tornado se forma. Do tornado seis chicotes de chamas vulcânicas se formam, se agitando ferozmente. Acima do tornado uma grande torre de pedras puras se encontra, a torre possui quatro janelas, cada uma brilha de uma cor (vermelho, azul, branco e marrom) e um grande buraco na base da torre cospe água eternamente, enchendo o lago. A torre forma uma aberração de rosto.
