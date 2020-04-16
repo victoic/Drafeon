@@ -2,12 +2,12 @@
 title: Fundamentos do Controle Arcano
 description: Pontos de Pressão Arcana
 published: true
-date: 2020-04-16T19:45:01.843Z
+date: 2020-04-16T19:45:19.167Z
 tags: 
 ---
 
 # Fundamentos do Controle Arcano: Pontos de Pressão Arcana
-Fundamentos do Controle Arcano: Pontos de Pressão Arcana é um livro técnico sobre fundamentos arcanos. O livro possui 344 páginas e de autoria de Norros Folhaovento & Hamadate Iccerial.
+Fundamentos do Controle Arcano: Pontos de Pressão Arcana é um livro técnico sobre fundamentos arcanos. O livro possui 344 páginas e de autoria de Norros Folhaovento e Hamadate Iccerial.
 
 O livro é uma introdução aos conceitos e equação arcanas que modelam os corpos da maior parte das criaturas vivas. São demonstrados os pontos de pressão arcanos em animais, monstros, bestas e raças inteligentes comuns do mundo e como é possível generalizar e adaptar esses pontos às demais criaturas, conforme necessário, com o conhecimento das estruturas básicas.
 
@@ -31,4 +31,4 @@ A partir do livro é possível aprender os seguintes feitiços:
 `Tipo` Manual, Mágico/Oculto
 `Meio` Papel 
 `Data de Ratificação` Em Azemis de 1741 da Era de Drafeon 
-`Autores` [Norros Folhaovento](http://localhost/en/individuos/norros-folhaovento) & [Hamadate Iccerial](http://localhost/en/individuos/hamadate-iccerial)
+`Autores` [Norros Folhaovento](http://localhost/en/individuos/norros-folhaovento) e [Hamadate Iccerial](http://localhost/en/individuos/hamadate-iccerial)
