@@ -2,7 +2,7 @@
 title: Capítulo 4
 description: Edahsh, O Eclipse Eterno
 published: true
-date: 2020-04-16T15:26:18.731Z
+date: 2020-04-16T15:49:58.945Z
 tags: 
 ---
 
@@ -31,7 +31,7 @@ Nesta missão o grupo enfrentou e derrotou [Akhes](http://localhost/en/individuo
 
 Após derrotar os adoradores de Edahsh e concluir a missão, os grupo busca clérigos em Porto Novo, o que os leva à [Manver Brillabouso](http://localhost/individuos/manver-brillabouso#manver-brillabouso), por meio de um ritual com [Nituhnna](http://localhost/divindades/panteao-das-treze-estrelas/nituhnna#nituhnna) lhes informa que para derrotar Edahsh, Saile também deve ser derrotado. O grupo busca a ajuda de [Aldror](http://localhost/en/individuos/aldror), que aponta o grupo à um grupo de Aarakocras, liderado por [Ilaf](http://localhost/en/individuos/ilaf).
 
-Zid ensina que o grupo deve realizar um ritual onde Saile nasceu, em [Pico do Bico](), lá Saile deve ser derrotado em combate e então a forma física de Edahsh despertará e o grupo deve derrotá-lo.
+Zid ensina que o grupo deve realizar um ritual onde Saile nasceu, em [Pico do Bico](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas/pico-do-bico), lá Saile deve ser derrotado em combate e então a forma física de Edahsh despertará e o grupo deve derrotá-lo.
 
 Em 15 de Azemis do ano 1754 da Era de Drafeon, Edahsh foi trazido em sua forma física incompleta ao [Plano Material](http://localhost/en/lugares/plano-material), onde o grupo de aventureiros iniciou a batalha não só por suas vidas mas por toda Drafeon.
 
