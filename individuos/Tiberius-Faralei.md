@@ -2,7 +2,7 @@
 title: Tiberius Faralei
 description: 
 published: true
-date: 2020-01-07T17:22:36.607Z
+date: 2020-04-16T16:48:33.327Z
 tags: 
 ---
 
@@ -19,6 +19,6 @@ Tiberius desenvolveu, em 1111, um conjunto de brincos que possibilita a comunica
 `Sexualidade` Bissexual
 `Olhos` Castanhos escuros
 `Cabelos` Negros
-`Altura` 1,85 m
+`Altura` 1,70 m
 `Peso` 88 Kg
 `Organizações Associadas` [Família Faralei](http://localhost/en/faccoes/faccoes-familiares/familia-faralei)
