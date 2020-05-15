@@ -2,12 +2,12 @@
 title: Porto Preciez
 description: 
 published: true
-date: 2019-11-29T23:49:24.469Z
+date: 2020-05-15T21:15:21.100Z
 tags: 
 ---
 
 # Porto Preciez
-Porto Preciez é uma cidade costeira do Sul de Drafeon. Nela está localizado o principal e mais antigo porto da região.
+Porto Preciez é uma cidade costeira do Sul de Drafeon e capital da região. Nela está localizado o principal e mais antigo porto da região.
 
 ## Infraestrutura
 A cidade é dividida em 5 distritos:
