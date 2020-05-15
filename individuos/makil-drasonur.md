@@ -2,7 +2,7 @@
 title: Makil Drasonur
 description: 
 published: true
-date: 2020-05-15T21:05:20.980Z
+date: 2020-05-15T21:12:41.348Z
 tags: 
 ---
 
@@ -24,7 +24,7 @@ Makil possui a habilidade de alterar sua forma de dragão para uma forma humanoi
 Makil se orgulha do Império que formou pacificando grande parte das raças inteligentes. Porém se culpa pela falha em defender seu império das traições de Ugak e por ter se deixado se apaixonar por ela, o fato dele ter matado Ugak tormenta seus pesadelos constantemente.
 
 # Informações
-`Nascimento` ?
+`Data de Nascimento` ?
 `Local de Nascimento` ?
 `Sexo Biológico` Masculino
 `Olhos` Pretos
