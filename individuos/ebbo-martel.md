@@ -2,7 +2,7 @@
 title: Ebbo Martel
 description: 
 published: true
-date: 2020-05-15T21:10:11.180Z
+date: 2020-05-15T21:12:29.827Z
 tags: 
 ---
 
@@ -22,7 +22,7 @@ Makil é um homem simples em suas soluções, mas que pode ser terrivelmente int
 Acredita no potencial dos ideias de [Makil](http://localhost/en/individuos/makil-drasonur) para o crescimento e convivência dos povos de Drafeon. Makil é um crente de [Obris](http://localhost/en/divindades/panteao-das-treze-estrelas/obris).
 
 # Informações
-`Nascimento` 1695
+`Data de Nascimento` 1695
 `Local de Nascimento` [Porto Preciez](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez#porto-preciez)
 `Sexo Biológico` Masculino
 `Olhos` Castanhos escuros
