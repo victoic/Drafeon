@@ -2,7 +2,7 @@
 title: Makil Drasonur
 description: 
 published: true
-date: 2019-11-11T16:29:03.442Z
+date: 2020-05-15T21:05:20.980Z
 tags: 
 ---
 
@@ -27,8 +27,8 @@ Makil se orgulha do Império que formou pacificando grande parte das raças inte
 `Nascimento` ?
 `Local de Nascimento` ?
 `Sexo Biológico` Masculino
-`Olhos Grandes` Pretos
-`Cabelo Cabelos` Cabelos curtos e pretos
+`Olhos` Pretos
+`Cabelos` Cabelos curtos e pretos
 `Altura` 1,21 m
 `Peso` 18 Kg
 `Organizações Associadas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
