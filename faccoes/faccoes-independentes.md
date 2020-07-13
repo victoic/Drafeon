@@ -2,7 +2,7 @@
 title: Faccoes Independentes
 description: 
 published: true
-date: 2019-11-11T16:27:34.734Z
+date: 2020-07-13T16:24:29.081Z
 tags: 
 ---
 
@@ -13,6 +13,7 @@ tags:
 * [Companhia de Caça da Lady Scyla](http://localhost/faccoes/faccoes-independentes/companhia-de-caca-da-lady-scyla#companhia-de-caca-da-lady-scyla)
 * [Companhia de Mensagens e Encomendas Faralei](http://localhost/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei#companhia-de-mensagens-e-encomendas-faralei)
 * [Conciliábulo Negro](http://localhost/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
+* [Eremitas de Vanfalenard](http://localhost/faccoes/faccoes-independentes/eremitas-de-vanfalenard#eremitas-de-vanfalenard)
 * [Filhas de Zifelia](http://localhost/faccoes/faccoes-independentes/filhas-de-zifelia#filhas-de-zifelia)
 * [Mão de Toutaris](http://localhost/faccoes/faccoes-independentes/mao-de-toutaris#mao-de-toutaris)
 * [Os Monges de Kammeh-Tu](http://localhost/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
