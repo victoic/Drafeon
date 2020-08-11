@@ -2,7 +2,7 @@
 title: Aldric Martel
 description: 
 published: true
-date: 2020-08-11T16:16:07.599Z
+date: 2020-08-11T16:21:29.002Z
 tags: 
 ---
 
@@ -21,8 +21,8 @@ Aldric possui uma cicatriz que cruza de sua bochecha esquerda ao inferior de seu
 `Local de Nascimento` [Porto Preciez](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez#porto-preciez)
 `Sexo Biológico` Masculino
 `Olhos` Castanhos escuros
-`Cabelo` Cacheados, castanhos escuros
-`Altura` 1,57 m
-`Peso` 64 Kg
+`Cabelo` Cacheados, negros
+`Altura` 1,77 m
+`Peso` 72 Kg
 `Organizações Associadas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
-`Títulos` [Senhor de Região](http://localhost/en/rankings-e-titulos/senhor-de-regiao)
+`Títulos` 
