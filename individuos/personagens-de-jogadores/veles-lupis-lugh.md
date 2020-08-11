@@ -2,14 +2,14 @@
 title: Veles Lupis Lugh
 description: 
 published: true
-date: 2019-11-11T16:33:02.026Z
+date: 2020-08-11T15:56:28.531Z
 tags: 
 ---
 
 <!-- SUBTITLE: Visão geral sobre Veles Lupis Lugh -->
 
 # Veles Lupis Lugh
-Veles é um Elfo Negro, membro da Mão de Toutaris especializado em artes e aventureiro. Atualmente reside em [Porto Novo](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
+Veles é um Drow, membro da Mão de Toutaris especializado em artes e aventureiro. Atualmente reside em [Porto Novo](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
 
 ## História
 Veles, artista e apostador nato, sempre viveu dos riscos das cartas, seja em tavernas, seja com as guildas mercantes. Com o passar dos anos, aos membros das guildas com quem jogava, logo ele via a oportunidade de divulgar sua arte e talvez ganhar algo com isso.
