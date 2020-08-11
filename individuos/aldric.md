@@ -2,7 +2,7 @@
 title: Aldric Martel
 description: 
 published: true
-date: 2020-08-11T16:15:44.179Z
+date: 2020-08-11T16:16:07.599Z
 tags: 
 ---
 
@@ -17,7 +17,7 @@ Aldric costuma ser visto em sua armadura oficial ou vestimentas oficiais e comum
 Aldric possui uma cicatriz que cruza de sua bochecha esquerda ao inferior de seu lábio.
 
 # Informações
-`Data de Nascimento` 1695
+`Data de Nascimento` 1705
 `Local de Nascimento` [Porto Preciez](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez#porto-preciez)
 `Sexo Biológico` Masculino
 `Olhos` Castanhos escuros
