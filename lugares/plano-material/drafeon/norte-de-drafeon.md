@@ -2,7 +2,7 @@
 title: Norte De Drafeon
 description: 
 published: true
-date: 2019-11-11T16:33:25.770Z
+date: 2020-08-11T16:06:05.639Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ tags:
 
 # Informações
 `Tipo` Região
-`Sub-locações` [Kammeh-Tu](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu#kammeh-tu), [Ginnungagap](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/ginnungagap#ginnungagap)
+`Sub-locações` [Kammeh-Tu](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu#kammeh-tu), [Ginnungagap](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/ginnungagap#ginnungagap), [Morronescutorte](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/morronescutorte#morronescutorte)
 `Organização Dominante` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica) 
 [`Etnias`](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/etnias-do-norte-de-drafeon#etnias-do-norte-de-drafeon)
 
