@@ -2,12 +2,12 @@
 title: Fateus
 description: 
 published: true
-date: 2020-08-14T17:34:42.358Z
+date: 2020-08-14T17:35:43.373Z
 tags: 
 ---
 
 <!-- SUBTITLE: Deus dos Mares, Calmarias e Tempestades -->
-
+![fateus.png](/uploads/simbolos-divinos/fateus.png){.align-abstopright}
 # Fateus
 Fateus é o deus das águas, como tal, influencia as marés, chuvas e falta destas, vida marinha foi colocada nos corpos d'água por ele durante a Era dos Deuses. 
 
