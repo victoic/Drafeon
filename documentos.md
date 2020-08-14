@@ -2,7 +2,7 @@
 title: Documentos
 description: 
 published: true
-date: 2020-04-16T19:36:54.054Z
+date: 2020-08-14T17:01:03.160Z
 tags: 
 ---
 
@@ -13,4 +13,4 @@ tags:
 ## Livros
 [Contos & Fábulas de Yrcri Magnus](http://localhost/documentos/contos-fabulas-de-yrcri-magnus#contos-fabulas-de-yrcri-magnus)
 [Fundamentos do Controle Arcano: Pontos de Pressão Arcana
-](http://localhost/documentos/fundamentos-do-controle-arcano-pontos-de-pressão-arcana)
+](http://localhost/documentos/fundamentos-do-controle-arcano-pontos-de-pressão-arcana) [Fundamentais do Arcano para Conjuradores](http://localhost/documentos/fundamentais-do-arcano-para-conjuradores)
