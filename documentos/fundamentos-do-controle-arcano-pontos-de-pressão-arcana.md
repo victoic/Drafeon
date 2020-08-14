@@ -2,8 +2,8 @@
 title: Fundamentos do Controle Arcano
 description: Pontos de Pressão Arcana
 published: true
-date: 2020-04-16T19:45:19.167Z
-tags: 
+date: 2020-08-14T17:18:17.664Z
+tags: livro
 ---
 
 # Fundamentos do Controle Arcano: Pontos de Pressão Arcana
