@@ -2,8 +2,8 @@
 title: Contos & Fábulas De Yrcri Magnus
 description: 
 published: true
-date: 2020-04-16T19:44:19.114Z
-tags: 
+date: 2020-08-14T17:17:46.060Z
+tags: livro
 ---
 
 <!-- SUBTITLE: Visão geral sobre Contos & Fábulas De Yrcri Magnus -->
