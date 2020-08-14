@@ -2,7 +2,7 @@
 title: Panteão das Treze Estrelas
 description: 
 published: true
-date: 2020-04-22T20:51:08.618Z
+date: 2020-08-14T17:24:58.401Z
 tags: 
 ---
 
@@ -20,6 +20,7 @@ Os 11 deuses não mais possuem acesso direto ao Plano Material, onde todos nós 
 * [Ahena](http://localhost/divindades/panteao-das-treze-estrelas/ahena#ahena), Deusa do tempo e do destino
 * [Azemis](http://localhost/divindades/panteao-das-treze-estrelas/azemis#azemis), Primordial do Tudo 
 * [Coecyr](http://localhost/divindades/panteao-das-treze-estrelas/coecyr#coecyr), Deus da Natureza e do Equilíbrio
+* [Fateus](http://localhost/divindades/panteao-das-treze-estrelas/fateus#fateus), Deus dos Mares, Calmarias e Tempestades
 * [Gadot](http://localhost/divindades/panteao-das-treze-estrelas/gadot#gadot), Deusa dos Andarilhos, Estradas e Necessitados
 * [Ittar](http://localhost/divindades/panteao-das-treze-estrelas/ittar#ittar), Deus dos Elementos
 * [Mudur](http://localhost/divindades/panteao-das-treze-estrelas/mudur#mudur), Deus da Guera e do Combate 
