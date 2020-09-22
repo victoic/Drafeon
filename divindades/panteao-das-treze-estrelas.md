@@ -2,7 +2,7 @@
 title: Panteão das Treze Estrelas
 description: 
 published: true
-date: 2020-09-22T12:49:52.128Z
+date: 2020-09-22T13:43:31.302Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:25:47.602Z
