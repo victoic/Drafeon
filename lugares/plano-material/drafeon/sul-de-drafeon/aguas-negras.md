@@ -2,7 +2,7 @@
 title: Águas Negras
 description: 
 published: true
-date: 2020-09-23T00:01:51.162Z
+date: 2020-09-23T00:02:09.869Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-23T00:01:51.162Z
@@ -20,6 +20,6 @@ A cidade possui grande produção de pesca e as madeiras sobre o rio permitem a 
 
 # Informações
 `Tipo` Cidade
-`População` 450
+`População` 1450
 `Gentílico` Boia
 `Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
