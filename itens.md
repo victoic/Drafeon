@@ -2,8 +2,10 @@
 title: Itens
 description: 
 published: true
-date: 2020-04-16T13:37:45.948Z
+date: 2020-12-18T01:06:40.183Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:25:23.058Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Itens -->
@@ -28,6 +30,7 @@ tags:
 ## Materias Primas
 [Seiva-Cascus](http://localhost/itens/seiva-cascus#seiva-cascus)
 [Madeira-Ferro](http://localhost/itens/madeira-ferros#madeira-ferro)
+[Rocha-Vidro](http://localhost/itens/rocha-vidro#rocha-vidro)
 
 ## Obras de Arte
 [A Lança e o Morto](http://localhost/itens/a-lanca-e-o-morto)
