@@ -2,8 +2,10 @@
 title: Fundamentais do Arcano para Conjuradores
 description: 
 published: true
-date: 2020-08-14T17:14:22.305Z
+date: 2020-12-18T21:01:09.165Z
 tags: livro
+editor: markdown
+dateCreated: 2020-08-14T17:14:22.305Z
 ---
 
 # Fundamentais do Arcano para Conjuradores
@@ -27,6 +29,11 @@ O documento se divide nos seguintes capítulos:
 ## Legado
 A partir do livro é possível aprender os seguintes feitiços:
 1º Nível: Servo Invisível, Convocar Familiar, Compreender Idiomas, Sono, Ilusão Silenciosa, e Queda Suave.
+
+## Recepção
+Críticas consideram a o capítulo 1 do livro seu ponto-forte, a introdução realizada aos fundamentos arcanos e históricos do conhecimento é amplamente dita como uma obra-prima. Entre os comentários é defendido que o livro traz uma abordagem inovadora ao tópico, de fácil acesso aqueles que não possuem contato com o arcano e que não deixa passar os pontos mais confundidos por magos novatos.
+
+A explanação das escolas arcanas e truques, no segundo capítulo, apesar de não comparável a introdução recebe críticas positivas.
 
 # Informações
 `Tipo` Manual, Mágico/Oculto
