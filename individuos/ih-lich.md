@@ -2,7 +2,7 @@
 title: 'Ih Lich
 description: 
 published: true
-date: 2020-12-18T01:23:34.296Z
+date: 2020-12-18T01:24:02.636Z
 tags: morto-vivo
 editor: markdown
 dateCreated: 2020-12-18T01:23:16.232Z
@@ -22,7 +22,7 @@ Histórias contam que 'Ih Lich e seu exército partiram andando do [Norte de Dra
 Ele foi morto pela aliança das raças criada [Makil Drasonur](http://localhost/en/individuos/makil-drasonur) na própria ilha, marcando o fim da Era dos Mortos.
 
 # Informações
-`Vida` 0 - 1054
+`Vida` ? - 1054 da Era dos Mortos
 `Olhos` ?
 `Cabelos` ?
 `Altura` ?
