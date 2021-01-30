@@ -2,7 +2,7 @@
 title: Horizonte
 description: 
 published: true
-date: 2021-01-30T15:27:03.507Z
+date: 2021-01-30T16:43:09.354Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-28T19:22:11.214Z
@@ -18,7 +18,7 @@ A cidade foi fundada em 303 da Era de Drafeon pela primeira arquimago do impéri
 A bandeira de Horizonte é formada por três faixas, uma azul, uma laranja e uma roxa, que representam a visão do horizonte avistada da cidade no pôr do sol. Na bandeira se encontra a montanha onde a cidade está localizada com as correntes arcanas passando pela montanha. Acima da montanha se encontram três linhas, representando os três níveis da cidade.
 
 ## Demografia
-Tal como todas as demais capitais do Império, Horizonte é uma cidade heterogênea. Dada sua localização central na região Sul, próximo às vilas humanas da [Baixada do Rio](localhost/en/lugares/plano-material/drafeon/sul-de-drafeon/baixada-do-rio#baixada-do-rio), humanos compões a maioria da cidade por uma pequena margem.
+Tal como todas as capitais do Império Dragão, Horizonte é uma cidade heterogênea. Dada sua localização central na região Sul, próximo às vilas humanas da [Baixada do Rio](localhost/en/lugares/plano-material/drafeon/sul-de-drafeon/baixada-do-rio#baixada-do-rio), humanos compõem a maioria da cidade por uma pequena margem.
 
 As academias arcanas atraem pessoas de toda Drafeon, incluindo habitantes de outros impérios que desejam ter conhecimento mais mecânico da magia que envolve o mundo, tal como o que os Arquimagos possuem.
 
