@@ -2,14 +2,16 @@
 title: Saile
 description: 
 published: true
-date: 2020-04-15T14:43:07.420Z
+date: 2021-02-19T20:09:34.282Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:32:58.095Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Saile -->
 
 # Saile
-Saile é um Aarakocra, membro de um grupo de aventureiros. Ele não possui lembranças de sua vida.
+Saile ou Kraz, como passou a ser conhecido após a batalha de Edahsh, é um Aarakocra, membro de um grupo de aventureiros. Ele não possui lembranças de sua vida.
 
 Em Azemis do ano 1754 da Era de Drafeon, Saile realizou uma série de 80 assassinatos em [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) enquanto possuído por [Edahsh](http://localhost/individuos/edahsh). O que levou o grupo de aventureiros a investigar sobre a criatura que o possuí. 
 
