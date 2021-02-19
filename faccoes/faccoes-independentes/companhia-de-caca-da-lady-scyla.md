@@ -2,8 +2,10 @@
 title: Companhia De Caça Da Lady Scyla
 description: 
 published: true
-date: 2019-11-11T16:31:45.588Z
+date: 2021-02-19T20:51:39.689Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:31:43.306Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Companhia De Caça Da Lady Scyla -->
@@ -18,7 +20,7 @@ Lema da Companhia De Caca Da Lady Scyla
 # Informações
 `Tipo` Grupo de Aventureiros
 `Líder` [Scyla Faralei]()
-`Localização` [Porto Novo]()
+`Localização` [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo)
 `Membros Notáveis`
 
 
