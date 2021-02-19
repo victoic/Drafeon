@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2020-12-18T01:06:40.183Z
+date: 2021-02-19T19:10:58.221Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:25:23.058Z
@@ -26,6 +26,7 @@ dateCreated: 2019-11-11T16:25:23.058Z
 
 ## Mágico
 [Brinco de Sussurros](http://localhost/en/itens/Brinco-de-Sussurros)
+[Fragmentos da Criação](http://localhost/en/itens/fragmentos-da-criacao)
 
 ## Materias Primas
 [Seiva-Cascus](http://localhost/itens/seiva-cascus#seiva-cascus)
