@@ -2,8 +2,10 @@
 title: Castildor
 description: 
 published: true
-date: 2020-04-16T16:43:24.004Z
+date: 2021-02-19T19:35:05.327Z
 tags: 
+editor: markdown
+dateCreated: 2020-01-07T16:59:46.048Z
 ---
 
 # Castildor
@@ -16,8 +18,8 @@ Em 1753, ele ajudou a repelir o ataque do [Conciliábulo Negro](http://localhost
 `Nascimento` 1511
 `Local de Nascimento` ?
 `Sexo Biológico` Masculino
-`Olhos Grandes` Pretos
-`Cabelo Cabelos` Cabelos curtos e pretos
+`Olhos` Pretos
+`Cabelo` Cabelos curtos e pretos
 `Altura` 1,81 m
 `Peso` 75 Kg
 `Organizações Associadas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao), [Guarda Imperial](http://localhost/en/faccoes/nacoes/guarda-imperial)
