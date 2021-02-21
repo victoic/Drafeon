@@ -2,7 +2,7 @@
 title: Arquimago
 description: 
 published: true
-date: 2021-02-21T15:00:08.428Z
+date: 2021-02-21T15:00:17.831Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:30:31.423Z
@@ -45,7 +45,7 @@ O Arquimago possui acesso à biblioteca privada arcana, possuindo acesso a livro
 1. [Yrcri](http://localhost/individuos/yrcri-magnus#yrcri-magnus), desde 1693 da Era de Drafeon
 
 # Informações
-`Tipo` Civíco, Político 
+`Tipo` Cívico, Político 
 `Estado` Ativo
 `Fonte de Autoridade` [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
 `Duração do Termo` O cargo do Arquimago dura até que seu sucessor esteja preparado para a tomada do cargo.
