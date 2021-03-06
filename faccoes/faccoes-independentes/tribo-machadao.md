@@ -2,8 +2,10 @@
 title: Tribo Machadão
 description: 
 published: true
-date: 2019-11-11T16:32:15.642Z
+date: 2021-03-06T23:50:18.875Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:32:13.977Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Tribo Machadão -->
