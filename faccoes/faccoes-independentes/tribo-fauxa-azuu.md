@@ -2,8 +2,10 @@
 title: Tribo Fauxa Azuu
 description: 
 published: true
-date: 2019-11-11T16:32:13.932Z
+date: 2021-03-06T23:49:07.805Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:32:11.627Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Tribo Fauxa Azuu -->
