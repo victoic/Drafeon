@@ -2,8 +2,10 @@
 title: Chicoteadores Serpentinn
 description: 
 published: true
-date: 2019-11-11T16:33:15.237Z
+date: 2021-03-06T23:44:12.134Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:33:13.750Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Chicoteadores Serpentinn -->
