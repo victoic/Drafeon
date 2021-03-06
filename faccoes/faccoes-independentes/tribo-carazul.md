@@ -2,8 +2,10 @@
 title: Tribo Carazul
 description: 
 published: true
-date: 2019-11-15T18:50:56.682Z
+date: 2021-03-06T23:48:31.586Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:32:07.657Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Tribo Carazul -->
