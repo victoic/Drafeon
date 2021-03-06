@@ -2,8 +2,10 @@
 title: Guarda Imperial
 description: 
 published: true
-date: 2020-01-15T15:04:43.481Z
+date: 2021-03-06T23:45:09.296Z
 tags: facção, militar
+editor: markdown
+dateCreated: 2020-01-15T15:04:43.481Z
 ---
 
 ![símbolo_-_guarda_imperial.png](/uploads/simbolos/símbolo_-_guarda_imperial.png){.align-abstopright}
