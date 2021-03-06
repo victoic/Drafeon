@@ -2,7 +2,7 @@
 title: Lugares
 description: 
 published: true
-date: 2021-03-06T22:52:24.331Z
+date: 2021-03-06T22:52:57.898Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:25:30.250Z
@@ -16,6 +16,8 @@ dateCreated: 2019-11-11T16:25:30.250Z
 * [Plano Material](http://localhost/lugares/plano-material#plano-material)
 
 ## Planos Interiores
+
+### Planos Elementais
 * [Plano do Água](http://localhost/lugares/plano-da-agua)
 * [Plano do Ar](http://localhost/lugares/plano-do-ar)
 * [Plano do Fogo](http://localhost/lugares/plano-do-fogo)
