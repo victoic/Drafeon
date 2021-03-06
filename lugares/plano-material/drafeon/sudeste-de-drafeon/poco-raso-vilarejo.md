@@ -1,14 +1,16 @@
 ---
-title: Poco Raso (Vilarejo)
+title: Poço Raso (Vilarejo)
 description: 
 published: true
-date: 2019-11-11T16:34:05.557Z
+date: 2021-03-06T15:45:50.392Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:34:03.403Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Poco Raso (Vilarejo) -->
 
-# Poco Raso
+# Poço Raso
 Poço Raso é um pequeno vilarejo localizado à sudeste de Drafeon. O vilarejo se encontra a 200km a sudeste de Porto Novo.
 
 ## Governo
