@@ -2,7 +2,7 @@
 title: Guarda Imperial
 description: 
 published: true
-date: 2021-03-06T23:45:09.296Z
+date: 2021-03-06T23:46:40.510Z
 tags: facção, militar
 editor: markdown
 dateCreated: 2020-01-15T15:04:43.481Z
