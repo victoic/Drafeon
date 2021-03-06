@@ -2,8 +2,10 @@
 title: Tribo Do Alto Desfiladeiro
 description: 
 published: true
-date: 2019-11-15T18:50:08.141Z
+date: 2021-03-06T23:49:48.537Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:32:10.057Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Tribo Do Alto Desfiladeiro -->
