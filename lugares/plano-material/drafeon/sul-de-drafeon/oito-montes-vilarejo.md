@@ -2,7 +2,7 @@
 title: Oito Montes (Vilarejo)
 description: 
 published: true
-date: 2021-03-07T18:45:10.912Z
+date: 2021-03-07T19:08:06.439Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-07T00:28:01.360Z
@@ -11,7 +11,7 @@ dateCreated: 2021-03-07T00:28:01.360Z
 # Oito Montes
 Oito Montes é um pequeno vilarejo druida do [Império Dragão](http://localhost/en/faccoes/nacoes/imperio-dragao), encontrado no [Sul de Drafeon](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon). O vilarejo é localizado no centro dos [Oito Montes](http://localhost/en/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes).
 
-Oit Montes é lar e origem para os druidas do [Bapul Nokhit͡sop](), grupo que se devota para a comunhão elemental de [Ittar](http://localhost/en/divindades/panteao-das-treze-estrelas/ittar) com o [Plano Material](http://localhost/lugares/plano-material).
+Oit Montes é lar e origem para os druidas do [Bapul Nokhit͡sop](/faccoes/faccoes-independentes/bapul-nokhitsop), grupo que se devota para a comunhão elemental de [Ittar](http://localhost/en/divindades/panteao-das-treze-estrelas/ittar) com o [Plano Material](http://localhost/lugares/plano-material).
 
 O vilarejo foi fundado por Nyuza, um Orc druida, como um refúgio espiritual para aqueles que buscam se entender, se conectar com o mundo e entender a força dos elementos. Após a morte de Nyuza, por velhice, os moradores locais, incluindo seu filho Süokza, construíram um túmulo e templo para ele.
 
