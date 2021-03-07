@@ -1,15 +1,15 @@
 ---
-title: Okdokok Munabop
+title: Okdokok Nabomua
 description: 
 published: true
-date: 2021-03-07T01:16:10.700Z
+date: 2021-03-07T01:26:52.043Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-07T01:16:10.700Z
 ---
 
-# Okdokok Münabop
-Okdokok Münabop *(/okɾoˈkok ɱunɐˈbop/)* é uma orc, moradora e [Senhor de Cidade](/rankings-e-titulos/senhor-de-cidade) de [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)), é também a Nabop, ou guardiã, do círculo druida [Bapul Nokhitsop](/faccoes/faccoes-independentes/bapul-nokhitsop).
+# Okdokok Nabomüa
+Okdokok Münabop *(/okɾoˈkok ˈnɐboɱuɐ/)* é uma orc, moradora e [Senhor de Cidade](/rankings-e-titulos/senhor-de-cidade) de [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)), é também a Nabop, ou guardiã, do círculo druida [Bapul Nokhitsop](/faccoes/faccoes-independentes/bapul-nokhitsop).
 
 # Informações
 `Data de Nascimento` 1730 
