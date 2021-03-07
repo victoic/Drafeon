@@ -2,7 +2,7 @@
 title: Bapul Nokhitsop
 description: 
 published: true
-date: 2021-03-07T01:33:51.092Z
+date: 2021-03-07T01:34:19.772Z
 tags: facção
 editor: markdown
 dateCreated: 2021-03-07T00:13:22.031Z
@@ -15,7 +15,7 @@ Bapul Nokhit͡sop (/ˈbɐpuɺ noˈχət͡sop/) é um grupo de druidas com foco e
 
 O círculo é liderado por um indivíduo, entitulado Nabop, guardião em Orc. O nabop é indicado pelo nabop anterior, comumente seu descendente de sangue, mas não necessariamente.
 
-Após o indicado completar 18 anos, ele deverá partir em uma jordana para obtenção de fragmentos dos oito planos elementais, que serão utilizados para manter o [Templo de Nyuza](lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo) e empoderar o Nabop com os poderes guardiões.
+Após o indicado completar 18 anos, ele deverá partir em uma jordana para obtenção de fragmentos dos oito planos elementais, que serão utilizados para manter o [Templo de Nyuza](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo) e empoderar o Nabop com os poderes guardiões.
 
 O Nabop recebe um segundo nome demonstrando seu poder e cargo, o nome é um junção de um dos quatro elementos e guardião e rotaciona com cada guardião recebendo o nome seguinte ao nome do guardião antecessor, da seguinte maneira:
 - Nabomüa (Guadião dos Ares);
