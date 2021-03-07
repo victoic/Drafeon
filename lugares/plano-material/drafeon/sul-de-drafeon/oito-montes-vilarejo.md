@@ -2,7 +2,7 @@
 title: Oit Montes (Vilarejo)
 description: 
 published: true
-date: 2021-03-07T00:28:01.360Z
+date: 2021-03-07T01:16:41.268Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-07T00:28:01.360Z
@@ -17,6 +17,8 @@ O vilarejo foi fundado por Nyuza, um Orc druida, como um refúgio espiritual par
 
 A crenças que o local se encontra num ponto de junção entre o [Plano Material](/lugares/plano-material) e os [Planos Elementais](http://localhost/lugares#planos-elementais), onde, em um demiplano divino interconexo, se encontraria a forma verdadeira adormecida do deus Ittar.
 
+[Okdrokok Münabop](/individuos/okdokok-munabop)) é Senhor de Cidade de Oito Montes. Apesar do vilarejo ser parte do Império Dragão, Oito Montes não costuma se envolver em questões exteriores, nem considera veemente a hierarquia do Império.
+
 ## Infraestrutura
 A vila miúda não possui lojas ou pousadas, apenas casas dos locais e algumas fazendas.
 
@@ -26,5 +28,6 @@ A vila miúda não possui lojas ou pousadas, apenas casas dos locais e algumas f
 `Tipo` Vila 
 `População` 25
 `Naturalidade` Oito Montense
+`Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao) 
 
 # Mapa de Oito Montes
