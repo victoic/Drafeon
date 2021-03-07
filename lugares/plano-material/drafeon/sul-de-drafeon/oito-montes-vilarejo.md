@@ -2,7 +2,7 @@
 title: Oito Montes (Vilarejo)
 description: 
 published: true
-date: 2021-03-07T01:34:38.049Z
+date: 2021-03-07T18:45:10.912Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-07T00:28:01.360Z
@@ -31,3 +31,4 @@ A vila miúda não possui lojas ou pousadas, apenas casas dos locais e algumas f
 `Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao) 
 
 # Mapa de Oito Montes
+![oito_montes.jpg](/uploads/mapas/oito_montes.jpg){.align-center}
