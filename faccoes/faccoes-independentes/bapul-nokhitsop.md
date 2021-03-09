@@ -2,7 +2,7 @@
 title: Bapul Nokhitsop
 description: 
 published: true
-date: 2021-03-07T01:34:19.772Z
+date: 2021-03-09T19:16:21.008Z
 tags: facção
 editor: markdown
 dateCreated: 2021-03-07T00:13:22.031Z
@@ -24,7 +24,7 @@ O Nabop recebe um segundo nome demonstrando seu poder e cargo, o nome é um jun�
 - Naboadog (Guardião das Águas);
 
 ## Divindades
-Os druidades de Bapul Nokhitsop creem no poder de [Ittar](http://localhost/en/divindades/panteao-das-treze-estrelas/ittar) em moldar o Plano Material e formar tudo que nele existe com as energias elementais, no entanto o grupo não é restritamente religioso, focando apenas na realidade do poder elemental para alto-reflexão e manutenção do equilíbrio.
+Os druidas de Bapul Nokhitsop creem no poder de [Ittar](http://localhost/en/divindades/panteao-das-treze-estrelas/ittar) em moldar o Plano Material e formar tudo que nele existe com as energias elementais, no entanto o grupo não é restritamente religioso, focando apenas na realidade do poder elemental para alto-reflexão e manutenção do equilíbrio.
 
 ## Princípios de Fé
 Os druidas deste círculo creem que os elementos são chave para manutenção do equilíbrio natural em Drafeon, portantor treinam seus sentimentos para refletir as forças e aspectos dos elementos.
