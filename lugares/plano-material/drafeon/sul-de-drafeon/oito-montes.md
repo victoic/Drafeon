@@ -2,7 +2,7 @@
 title: Oito Montes
 description: 
 published: true
-date: 2021-03-06T22:53:39.946Z
+date: 2021-04-10T14:48:25.485Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-06T22:53:39.946Z
@@ -25,6 +25,8 @@ Primeiramente habitada por Orcs, a região interna de Oito Monte é úmida e sem
 1. Spegedam ne Tsukhïga (Monte do Gelo), um monte gélido, coberta por uma fina camada de neve ao topo;
 1. Spegedam ne Zbadog (Monte do Vento), um monte a primeira vista comum, mas ventos fortes opõem qualquer um que tente subí-lo;
 1. Spegedam ne Sünyu (Monte das Chamas), um monte com uma vegetação quase que completamente carbonizada, cheiro de cinzas permeia o local;
+
+![oito_montes_-_wiki.jpg](/uploads/mapas/oito_montes_-_wiki.jpg){.align-center}
 
 # Informações
 `Nomes Alternativos` Du Spegedamok (Orc)
