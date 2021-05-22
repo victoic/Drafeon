@@ -2,7 +2,7 @@
 title: Drieper
 description: 
 published: true
-date: 2021-05-11T20:45:41.500Z
+date: 2021-05-22T22:56:01.962Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-11T20:37:53.359Z
@@ -29,6 +29,6 @@ Drieper é comandado por um líder escolhido a voto popular na capital do reino 
 Modelos semelhantes, com pequenas variações de tempo, são tomadas em subdivisões do reino.
 
 # Informações
-`Tipo` Reino
+`Tipo` Democracia
 `Organização Dominante` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
 `Sub-Locações` [Kammeh-Tu](/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu)
