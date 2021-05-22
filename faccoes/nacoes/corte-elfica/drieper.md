@@ -2,7 +2,7 @@
 title: Drieper
 description: 
 published: true
-date: 2021-05-22T22:56:01.962Z
+date: 2021-05-22T23:15:10.807Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-11T20:37:53.359Z
@@ -10,7 +10,7 @@ dateCreated: 2021-05-11T20:37:53.359Z
 
 ![drieper.png](/uploads/bandeiras/drieper.png){.align-abstopright}
 # Drieper
-Drieper é um dos três reinos que formam a Confederação Triárquica da [Corte Élfica](/faccoes/nacoes/corte-elfica). O reino se encontra no [Nordeste de Drafeon](/lugares/plano-material/drafeon/nordeste-de-drafeon), fazendo divisa com [Veneria](/lugares/plano-material/drafeon/norte-de-drafeon/veneria).
+Drieper é um dos três reinos que formam a Confederação Triárquica da [Corte Élfica](/faccoes/nacoes/corte-elfica). O reino se encontra no [Nordeste de Drafeon](/lugares/plano-material/drafeon/nordeste-de-drafeon), fazendo divisa com [Veneria](/nacoes/corte-elfica/veneria).
 
 Drieper é composto por grandes planícies e florestas místicas e é reconhecido como lar dos [Cotassi](/fauna-e-flora/racas-inteligentes/elfo-da-floresta).
 
