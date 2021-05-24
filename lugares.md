@@ -2,7 +2,7 @@
 title: Lugares
 description: 
 published: true
-date: 2021-05-24T19:03:46.166Z
+date: 2021-05-24T19:06:11.085Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:25:30.250Z
@@ -37,10 +37,15 @@ Os quatro Planos Elementais (Ar, Terra, Foco e Água), mais o Caos Elemental que
 * [Plano da Magma](/lugares/plano-da-magma)
 
 ## Planos de Transição
+O Plano Etéreo e o Mar Astral são planos praticamente inexpressivos que
+servem principalmente como passagens para viagens de um plano para outro.
+
 * [Mar Astral](/lugares/mar-astral)
 * [Plano Etéreo](/lugares/plano-etereo)
 
 ## Planos Exteriores
+Os três planos onde demônios, diabos e celestiais foram criados durante a [batalha dos primordiais](/linha-do-tempo), Abismo, Celestia e Nove Infernos, formam os planos exteriores.
+
 * [Abismo](/lugares/abismo)
 * [Celestia](/lugares/celestia)
 * [Nove Infernos](/lugares/nove-infernos)
