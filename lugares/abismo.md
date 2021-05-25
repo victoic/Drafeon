@@ -2,7 +2,7 @@
 title: Abismo
 description: 
 published: true
-date: 2021-05-25T18:02:23.483Z
+date: 2021-05-25T19:36:09.331Z
 tags: lugar
 editor: markdown
 dateCreated: 2021-05-24T19:08:56.506Z
@@ -24,5 +24,6 @@ Diversos estudiosos já tentaram indexar as camadas do Abismo, a seguir são lis
 - **Camada 176:** [Coração do Vazio](/lugares/abismo/coracao-do-vazio), um continente coberto por um céu sem estrelas e envolto por um fino pó branco. Dominado pelo [Senhor Abissal](/individuos/senhor-abissal) [Fraz-Urb'luu](/individuos/senhor-abissal/fraz-urbluu).
 
 # Informações
-`Tipo` Plano de Existência
+`Tipo` Plano dimensional
+
 
