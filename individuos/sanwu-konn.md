@@ -2,8 +2,10 @@
 title: Sanwu Konn
 description: 
 published: true
-date: 2019-11-11T16:29:37.060Z
+date: 2021-05-26T16:42:30.143Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:29:17.577Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Sanwu Konn -->
@@ -30,12 +32,12 @@ Assim foi por séculos até que Sanwu foi morto por um Arquefey rival e o portal
 A construção do monastério Kammeh-Tu e da Cidade Dourada são grandes conquistas de Sanwu Konn. Além de ter sido o primeiro humano a se tornar um Arquefey.
 
 # Informações
-`Títulos` [Arquefey](http://localhost/rankings-e-titulos/arquefey#arquefey), [Rei](http://localhost/rankings-e-titulos/rei-cidade-dourada#rei-cidade-dourada)
+`Títulos` [Arquefada](/rankings-e-titulos/magico/arquefada), [Rei](/rankings-e-titulos/rei-cidade-dourada)
 `Sexo Biológico` Masculino
 `Olhos` Amarelos
 `Cabelos` Sanwu possui pelagem branca e ruiva por todo o corpo
 `Altura` 1,76 m
 `Peso` 74 Kg
 `Citações e Bordões` "Onde desembarcam?" - Arimeia 'Olho de Águia'
-`Organizações Associadas` [Os Monges de Kammeh-Tu](http://localhost/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
-`Mitos Relacionados` [A Lenda de Sanwu Konn](http://), [O Rei de Faéria](http://)
+`Organizações Associadas` [Os Monges de Kammeh-Tu](/faccoes/faccoes-independentes/os-monges-de-kammeh-tu)
+`Mitos Relacionados` [A Lenda de Sanwu Konn](/lendas-e-eventos/a-lenda-de-sanwu-konn), [O Rei de Faéria]()
