@@ -2,8 +2,10 @@
 title: Senhor De Região
 description: 
 published: true
-date: 2019-11-11T16:30:51.979Z
+date: 2021-05-26T17:15:55.211Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:30:49.375Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Senhor De Região -->
@@ -47,9 +49,9 @@ Traição ao império resulta em exoneração e morte do senhor de região. Caso
 `Nomes Alternativos` É comum que os Senhores de Região sejam conhecidos por rei ou senhores de estandarte.
 `Fonte de Autoridade` O Imperador Dragão
 `Duração do Termo` Vitalíceo ou até exoneração pelo Imperador.
-`Responde Diretamente a` [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao)
-`Lugar Relacionado` [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
-`Organização Relacionada` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Responde Diretamente a` [Imperador Dragão](/rankings-e-titulos/imperio-dragao/imperador-dragao)
+`Lugar Relacionado` [Drafeon](/lugares/plano-material/drafeon)
+`Organização Relacionada` [Império Dragão](/faccoes/nacoes/imperio-dragao)
 
 
 
