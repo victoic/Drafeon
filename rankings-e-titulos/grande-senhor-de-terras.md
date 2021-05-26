@@ -2,8 +2,10 @@
 title: Grande Senhor De Terras
 description: 
 published: true
-date: 2019-11-11T16:30:37.197Z
+date: 2021-05-26T17:12:41.155Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:30:35.456Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Grande Senhor De Terras -->
@@ -45,6 +47,6 @@ Traição ao império resulta em exoneração e morte do Grande Senhor de Terras
 `Nomes Alternativos` podem ser conhecido por Líder ou Condes em determinadas regiões.
 `Fonte de Autoridade` O Senhor de Cidade ou cargo superior do Império Dragão.
 `Duração do Termo` Vitalíceo ou até exoneração pelo Senhor de Cidade ou cargo superior do Império Dragão.
-`Responde Diretamente a` [Senhor de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade)
-`Lugar Relacionado` [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
-`Organização Relacionada` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Responde Diretamente a` [Senhor de Cidade](/rankings-e-titulos/senhor-de-cidade)
+`Lugar Relacionado` [Drafeon](/lugares/plano-material/drafeon)
+`Organização Relacionada` [Império Dragão](/faccoes/nacoes/imperio-dragao)
