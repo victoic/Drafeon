@@ -2,8 +2,10 @@
 title: Patrono
 description: 
 published: true
-date: 2019-11-11T16:30:45.225Z
+date: 2021-05-26T17:14:30.282Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:30:43.613Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Patrono -->
@@ -34,9 +36,9 @@ Traição ao império resulta em exoneração e morte do Patrono. Casos de trai�
 `Tipo` Nobreza, Honorífico 
 `Estado` Ativo
 `Fonte de Autoridade` O Grande Senhor de Terras ou cargo superior do Império Dragão. 
-`Duração do Termo` Vitalíceo ou até exoneração pelo [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao).
-`Responde Diretamente a` [Senhor de Cidade](http://localhost/rankings-e-titulos/senhor-de-cidade#senhor-de-cidade)
-`Lugar Relacionado` [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
-`Organização Relacionada` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Duração do Termo` Vitalíceo ou até exoneração pelo [Imperador Dragão](/rankings-e-titulos/imperio-dragao/imperador-dragao).
+`Responde Diretamente a` [Senhor de Cidade](/rankings-e-titulos/senhor-de-cidade)
+`Lugar Relacionado` [Drafeon](/lugares/plano-material/drafeon)
+`Organização Relacionada` [Império Dragão](/faccoes/nacoes/imperio-dragao)
 
 
