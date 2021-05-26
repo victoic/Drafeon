@@ -2,8 +2,10 @@
 title: Membro Das Três Mãos
 description: 
 published: true
-date: 2019-11-11T16:30:41.246Z
+date: 2021-05-26T17:04:01.411Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:30:39.544Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Membro Das Três Mãos -->
