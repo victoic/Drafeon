@@ -2,8 +2,10 @@
 title: Senhor De Terras
 description: 
 published: true
-date: 2019-11-11T16:30:53.506Z
+date: 2021-05-26T17:16:35.708Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:30:51.890Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Senhor De Terras -->
@@ -43,6 +45,6 @@ Traição ao império resulta em exoneração e morte do Senhor de Terras. Casos
 `Estado` Ativo
 `Fonte de Autoridade` O Grande Senhor de Terras ou cargo superior do Império Dragão
 `Duração do Termo` Vitalíceo ou até exoneração pelo Grande Senhor de Terras ou cargo superior do Império Dragão
-`Responde Diretamente a` [Grande Senhor de Terras ](http://localhost/rankings-e-titulos/grande-senhor-de-terras#grande-senhor-de-terras)
-`Lugar Relacionado` [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
-`Organização Relacionada` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Responde Diretamente a` [Grande Senhor de Terras ](/rankings-e-titulos/imperio-dragao/grande-senhor-de-terras)
+`Lugar Relacionado` [Drafeon](/lugares/plano-material/drafeon)
+`Organização Relacionada` [Império Dragão](/faccoes/nacoes/imperio-dragao)
