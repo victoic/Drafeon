@@ -2,7 +2,7 @@
 title: Ancião Das Tres Mãos
 description: 
 published: true
-date: 2021-05-26T17:03:50.087Z
+date: 2021-05-26T17:04:35.474Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:30:27.266Z
@@ -32,6 +32,5 @@ Em caso de traição dos ideais da sociedade, os demais anciões podem convocar 
 `Tipo` Acadêmico, Honorófico
 `Nomes Alternativos` Ancião
 `Duração do Termo` Vitalíceo
-`Titulares Atuais` [Brisa](http://), [Elgani](http://), [Lanezza](http://), [Patrio](http://), [Rasbenn](http://)
-`Organizações Relacionadas` [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
-
+`Titulares Atuais` [Brisa](/individuos/brisa), [Elgani](/individuos/elgani), [Lanezza](/individuos/lanezza), [Patrio](/individuos/patrio), [Rasbenn](/individuos/rasbenn)
+`Organizações Relacionadas` [Três Mãos](/faccoes/faccoes-independentes/tres-maos)
