@@ -2,8 +2,10 @@
 title: Rankings E Títulos
 description: 
 published: true
-date: 2019-11-11T16:27:21.259Z
+date: 2021-05-26T16:41:22.817Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:25:32.615Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Rankings E Títulos -->
@@ -49,4 +51,5 @@ tags:
 
 # **Mágico**
 ## Fey
-* [Arquefey](http://localhost/rankings-e-titulos/arquefey#arquefey)
+* [Arquefada](/rankings-e-titulos/magico/arquefada#arquefada)
+- [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal)
