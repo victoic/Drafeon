@@ -2,7 +2,7 @@
 title: Rankings E Títulos
 description: 
 published: true
-date: 2021-05-26T17:03:16.101Z
+date: 2021-05-26T17:17:31.516Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:25:32.615Z
@@ -15,7 +15,7 @@ dateCreated: 2019-11-11T16:25:32.615Z
 ## Os Monges de Kammeh-Tu
 [Os Monges de Kammeh-Tu](/faccoes/faccoes-independentes/os-monges-de-kammeh-tu)
 ### Cargos Políticos
-[Rei](/rankings-e-titulos/os-monges-de-kameeh-tu/rei-cidade-dourada)
+[Rei](/rankings-e-titulos/monges-de-kameeh-tu/rei-cidade-dourada)
 
 ## Três Mãos
 [Três Mãos](/faccoes/faccoes-independentes/tres-maos)
