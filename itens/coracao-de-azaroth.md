@@ -2,14 +2,18 @@
 title: Coração De Azaroth
 description: 
 published: true
-date: 2019-11-11T16:30:12.752Z
+date: 2021-05-26T18:14:30.793Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:30:11.257Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Coração De Azaroth -->
 
 # Coração De Azaroth
-O Coração de Azaroth é um baú mágico criado para contenção do coração do demônio Azaroth, capturado pela Ordem de Ouro após um ritual celestial. 
+O Coração de Azaroth é um baú mágico criado para contenção do coração do [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal) [Azaroth](/individuos/azaroth), capturado pela Ordem de Ouro após um ritual celestial. 
+
+Em 1753, o Coração de Azaroth caiu sobe posse de [Lakip](/individuos/lakip-brillabouso) e o gnomo foi corrompido pela influência de Azaroth, passando a buscar as chaves para libertar Azaroth.
 
 ## Mecânicas & Funcionamento Interno
 O baú necessita de três chaves únicas, além da quebra do ritual de proteção celestial, para sua abertura.
