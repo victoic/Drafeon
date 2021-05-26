@@ -2,7 +2,7 @@
 title: Arquimago
 description: 
 published: true
-date: 2021-05-26T17:07:58.075Z
+date: 2021-05-26T17:11:53.565Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:30:31.423Z
