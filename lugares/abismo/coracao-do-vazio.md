@@ -2,7 +2,7 @@
 title: Coração do Vazio
 description: 
 published: true
-date: 2021-05-26T16:28:29.492Z
+date: 2021-05-26T16:30:51.017Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-25T22:00:32.305Z
@@ -15,4 +15,4 @@ Coração do Vazio é comumente catalogado como a 176ª camada do [Abismo](/luga
 
 # Informações
 `Tipo` Camada do Abismo
-`Organização Dominante` [Fraz-Urb'luu](/individuos/senhorabissal/fraz-urbluu)
+`Organização Dominante` [Fraz-Urb'luu](/individuos/senhor-abissal/fraz-urbluu)
