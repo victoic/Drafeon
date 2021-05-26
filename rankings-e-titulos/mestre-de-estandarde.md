@@ -2,8 +2,10 @@
 title: Mestre De Estandarde
 description: 
 published: true
-date: 2019-11-11T16:30:43.553Z
+date: 2021-05-26T17:13:52.745Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:30:41.297Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Mestre De Estandarde -->
@@ -17,5 +19,5 @@ Com a criação de um Mestre de Estandarde, vem a criação de um estandarde rec
 
 # Infomações
 `Tipo` Cívico, Militar
-`Responde Diretamente a` [Drak](http://localhost/rankings-e-titulos/drak#drak)
+`Responde Diretamente a` [Drak](/rankings-e-titulos/imperio-dragao/drak)
 
