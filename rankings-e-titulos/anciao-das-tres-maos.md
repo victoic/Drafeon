@@ -2,8 +2,10 @@
 title: Ancião Das Tres Mãos
 description: 
 published: true
-date: 2019-11-11T16:30:29.145Z
+date: 2021-05-26T17:03:50.087Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:30:27.266Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Ancião Das Tres Mãos -->
