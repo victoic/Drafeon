@@ -2,7 +2,7 @@
 title: Membro Das Três Mãos
 description: 
 published: true
-date: 2021-05-26T17:04:01.411Z
+date: 2021-05-26T17:04:48.546Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:30:39.544Z
@@ -30,6 +30,6 @@ Em caso de traição dos ideais da sociedade, os demais anciões podem convocar 
 
 `Tipo` Acadêmico, Honorófico
 `Duração do Termo` Vitalíceo
-`Reporta Diretamente a` [Ancião das Três Mãos](http://localhost/rankings-e-titulos/anciao-das-tres-maos#anciao-das-tres-maos)
-`Organizações Relacionadas` [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
+`Reporta Diretamente a` [Ancião das Três Mãos](/rankings-e-titulos/tres-maos/anciao-das-tres-maos)
+`Organizações Relacionadas` [Três Mãos](/faccoes/faccoes-independentes/tres-maos)
 
