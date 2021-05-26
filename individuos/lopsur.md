@@ -2,12 +2,14 @@
 title: Lopsur
 description: Senhor das Escamas
 published: true
-date: 2019-11-12T16:08:03.187Z
+date: 2021-05-26T16:43:20.263Z
 tags: fada
+editor: markdown
+dateCreated: 2019-11-12T15:58:09.645Z
 ---
 
 # Lopsur
-Lopsur é um fada, Arquefey e auto proclamado Senhor das Escamas e governante sobre os [Túneis dos Paredões](http://localhost/lugares/faeria/tuneis-dos-paredoes#tuneis-dos-paredoes), no Feydark.
+Lopsur é um fada, Arquefada e auto proclamado Senhor das Escamas e governante sobre os [Túneis dos Paredões](http://localhost/lugares/faeria/tuneis-dos-paredoes#tuneis-dos-paredoes), no Feydark.
 
 Lopsur se mostra nas superfícies como um longo e magro humanoide careca e olhos largos e finos e longas orelhas pontudas, com um pequeno nariz apontado para cima. Em sua forma humanoide usa uma tiara com gotas de esmeralda penduradas ao seu redor.
 
@@ -22,4 +24,4 @@ Em 1753, Lopsur pós em prática em conjunto com as bruxas do [Conciliábulo Neg
 `Altura` 1,88 m
 `Peso` 64 Kg
 `Organizações Associadas` 
-`Títulos` Senhor das Escamas, [Arquefey](http://localhost/en/rankings-e-titulos/arquefey)
+`Títulos` Senhor das Escamas, [Arquefada](/rankings-e-titulos/magico/arquefada)
