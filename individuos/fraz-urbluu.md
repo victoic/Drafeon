@@ -2,7 +2,7 @@
 title: Fraz-Urb'luu
 description: Príncipe da Enganação
 published: true
-date: 2021-05-26T18:59:06.014Z
+date: 2021-05-27T20:42:26.125Z
 tags: demônio
 editor: markdown
 dateCreated: 2021-05-26T17:20:40.890Z
@@ -16,6 +16,8 @@ Fraz-Urb'luu é o [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal) da m
 Fraz-Urb'luu, em conjunto com seu irmão [Azaroth](/individuos/azaroth), comanda a 176ª camada do [Abismo](/lugares/abismo), o [Coração do Vazio](/lugares/abismo/coracao-do-vazio). No entanto, dado que ambos possuem domínio sobre enganaç~çao e intrigra, eles cooperam apenas quando contra outros Lordes Abissais. Em momentos de calmaria os demônios desconfiam e planejam um contra o outro.
 
 Em um desses tempos, Fraz-Urb'luu conseguiu aprisionar Azaroth, se tornando senhor único do Coração do Vazio, e o reformando a sua imagem.
+
+Ambos Azaroth e Fraz-Urb'luu foram criados como uma única entidade demoníaca, a qual o nome é desconhecido, a criatura desconfiava de tudo, incluindo si mesmo de maneira tão extrema que se dividiu em duas.
 
 # Informações
 `Data de Nascimento` ?  
