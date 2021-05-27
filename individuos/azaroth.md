@@ -2,7 +2,7 @@
 title: Azaroth
 description: Príncipe Enganado
 published: true
-date: 2021-05-26T19:25:56.148Z
+date: 2021-05-27T20:41:53.492Z
 tags: demônio
 editor: markdown
 dateCreated: 2021-05-26T17:20:54.256Z
@@ -16,6 +16,10 @@ Azaroth é o [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal) da intrig
 Após ter seu coração removido como parte de um ritual no [Plano Material](/lugares/plano-material), um vácuo preenche o centro de seu tórax.
 
 Azaroth, comandava a 176ª camada do [Abismo](/lugares/abismo), o [Coração do Vazio](/lugares/abismo/coracao-do-vazio), em conjunto com seu irmão [Fraz-Urb'luu](/individuos/fraz-urbluu). Azaroth foi aprisionado por Fraz-Urb'luu na camada onde reinavam e desde então Azaroth planeja sua vingança e influencia mortais em outros planos para escapar de sua prisão.
+
+Azaroth distorce a realidade para seus cultistas, fazendo-os acreditar que seus atos corruptos são benignos em favor de seus deuses, enquanto tornam suas vidas miseráveis e revelam a verdade no último momento possível.
+
+Ambos Azaroth e Fraz-Urb'luu foram criados como uma única entidade demoníaca, a qual o nome é desconhecido, a criatura desconfiava de tudo, incluindo si mesmo de maneira tão extrema que se dividiu em duas.
 
 # Informações
 `Data de Nascimento` ?  
