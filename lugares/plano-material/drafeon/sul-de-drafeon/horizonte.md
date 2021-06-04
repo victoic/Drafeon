@@ -2,7 +2,7 @@
 title: Horizonte
 description: 
 published: true
-date: 2021-03-05T14:55:46.781Z
+date: 2021-06-04T20:31:45.367Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-28T19:22:11.214Z
@@ -27,7 +27,7 @@ Um dragão metálico faz morada na cidade.
 ## Governo
 A cidade é sempre governada pelo Arquimago do Império, atualmente este cargo é ocupado por [Yrcri Magnus](http://localhost/en/individuos/yrcri-magnus). A cidade funciona como uma região geopolítica isolada, sendo a única cidade da região que não está sob comando do [Senhor de Região](http://localhost/en/rankings-e-titulos/senhor-de-regiao) do Sul de Drafeon e sob comando direto do [Imperador](http://localhost/en/rankings-e-titulos/imperador-dragao).
 
-Além do Arquimago, uma corte de intelectuais e arcanistas auxilia no governo da cidade, estes são conhecidos como [Duques]() e formam a [Corte do Horizonte](). Duques são arbitrareamente alocados pelo Arquimago e possuem número e resposabilidades individualmente atribuídas. Suas responsabilidades são explicítas e os duques costumam ser conhecidos por tal.
+Além do Arquimago, uma corte de intelectuais e arcanistas auxilia no governo da cidade, estes são conhecidos como [Duques](/rankings-e-titulos/imperio-dragao/duque) e formam a [Corte do Horizonte](/faccoes/nacoes/imperio-dragao/corte-de-horizonte). Duques são arbitrareamente alocados pelo Arquimago e possuem número e resposabilidades individualmente atribuídas. Suas responsabilidades são explicítas e os duques costumam ser conhecidos por tal.
 
 ### Leis
 Dado o foco arcano da cidade e presença das academias arcanas, um conjunto de leis foi introduzido para evitar que catástrofes acontecessem novamente.
@@ -46,7 +46,7 @@ A cidade superior é protegida por um imenso círculo arcano de proteção, que 
 Ambas as academias arcanas da cidade possuem guardas e planejamentos para realizar a defesa da cidade em caso de um ataque externo.
 
 ## Infraestrutura
-A principal estrutura da cidade é a enorme torre do Arquimago, localizada na cidade superior, sendo esta a primeira estrutura construída pela própria Cellicia. No entanto o maior motivo de tráfego de pessoas em Horizonte são suas duas renomadas academias arcanas: [Academia Arcana de Horizonte]() e [Instituto Bilumini]().
+A principal estrutura da cidade é a enorme torre do Arquimago, localizada na cidade superior, sendo esta a primeira estrutura construída pela própria Cellicia. No entanto o maior motivo de tráfego de pessoas em Horizonte são suas duas renomadas academias arcanas: [Academia Arcana de Horizonte](/faccoes/nacoes/imperio-dragao/academia-arcana-de-horizonte) e [Instituto Bilumini](/faccoes/faccoes-independentesinstituto-bilumini).
 
 A cidade é dividida em três, sendo duas dessas cidade flutuantes:
 * Cidade Superior: uma cidade flutuante localizada à altura do topo da montanha, esta é a região administrativa da cidade, prédios governamentais e a torre do Arquimago, com poucas residências.
@@ -58,9 +58,9 @@ Os níveis da cidade não são perfeitamente alinhados horizontalmente, porém s
 ## Bens
 
 ## Guildas e Facções
-[Academia Arcana de Horizonte]()
-[Instituto Bilumini]()
-[Corte do Horizonte]()
+[Academia Arcana de Horizonte](/faccoes/nacoes/imperio-dragao/academia-arcana-de-horizonte)
+[Instituto Bilumini](/faccoes/faccoes-independentesinstituto-bilumini)
+[Corte do Horizonte](/faccoes/nacoes/imperio-dragao/corte-de-horizonte)
 
 ## Arquitetura
 A arquitetura é predominantemente feita de rochas e mármores polidas de forma que as fazem parecer naturais, dado o uso de magia na construção de boa parte dos edifícios.
