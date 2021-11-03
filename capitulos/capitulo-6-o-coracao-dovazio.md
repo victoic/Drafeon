@@ -2,7 +2,7 @@
 title: Capítulo 6
 description: O Coração do Vazio
 published: true
-date: 2021-11-03T14:28:24.715Z
+date: 2021-11-03T14:29:21.220Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-03T14:09:19.772Z
@@ -34,7 +34,7 @@ Olga aponta que essa será o momento perfeito para que recuperem seus itens, já
 
 Seus itens estão sendo guardados por Zalgaan, um Incubus, e após o derrotarem eles recuperam seus artefatos. No entanto, ao saírem da cidade, eles veem [Irien](/individuos/irien-galaniell) e [Lakip](/individuos/lakip-brillabouso) em um dos jardins das casas inabitadas da cidade. O grupo observa de longe conforme os dois se abraçam e entram na casa. Veles se aproxima e escuta de fora da casa os gritos de desespero de Lakip, após alguns momentos irien retorna e se revela como Fraz-Urb'luu, que nota mas ignora o elfo.
 
-O grupo adentra a casa e salvam Lakip, conforme Fraz-Urb'luu alerta pelos ares da presença do grupo em sua cidade.
+O grupo adentra a casa e salvam Lakip, conforme Fraz-Urb'luu alerta pelos ares da presença do grupo em sua cidade. O grupo volta à casa de Olga, onde são informados que para libertar Azaroth precisarão de sua adaga, que se encontra em Ossopus. O grupo parte ao sul em busca da lâmina.
 
 # Relações
 ## Aliados
