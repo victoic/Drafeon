@@ -2,8 +2,10 @@
 title: Capítulo 4
 description: Edahsh, O Eclipse Eterno
 published: true
-date: 2020-04-16T15:49:58.945Z
+date: 2021-11-03T14:48:14.605Z
 tags: 
+editor: markdown
+dateCreated: 2020-04-15T00:29:31.265Z
 ---
 
 # Capítulo 4: Edahsh, O Eclipse Eterno
@@ -33,7 +35,7 @@ Após derrotar os adoradores de Edahsh e concluir a missão, os grupo busca clé
 
 Zid ensina que o grupo deve realizar um ritual onde Saile nasceu, em [Pico do Bico](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas/pico-do-bico), lá Saile deve ser derrotado em combate e então a forma física de Edahsh despertará e o grupo deve derrotá-lo.
 
-Em 15 de Azemis do ano 1754 da Era de Drafeon, Edahsh foi trazido em sua forma física incompleta ao [Plano Material](http://localhost/en/lugares/plano-material), onde o grupo de aventureiros iniciou a batalha não só por suas vidas mas por toda Drafeon.
+Em 15 de Azemis do ano 1754 da Era de Drafeon, Edahsh foi trazido em sua forma física incompleta ao [Plano Material](http://localhost/en/lugares/plano-material), onde o grupo de aventureiros iniciou a batalha não só por suas vidas mas por toda Drafeon. O grupo derrota o demônio, o enviando de volta ao Abismo.
 
 # Relações
 ## Aliados
