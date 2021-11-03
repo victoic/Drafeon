@@ -2,7 +2,7 @@
 title: Horizonte
 description: 
 published: true
-date: 2021-06-04T20:31:45.367Z
+date: 2021-11-03T13:58:54.515Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-28T19:22:11.214Z
@@ -11,21 +11,21 @@ dateCreated: 2019-11-28T19:22:11.214Z
 ![bandeira_de_horizonte.png](/uploads/bandeiras/bandeira_de_horizonte.png){.align-abstopright}
 
 # Horizonte
-Horizonte é a maior cidade Sul de Drafeon. A cidade possui um grande foco arcano e acadêmico, recebendo aspirantes e estudiosos arcanos de toda Drafeon para suas intituições acadêmicas. Horizonte é o lar do [Arquimago](http://localhost/en/rankings-e-titulos/arquimago) de Império Dragão.
+Horizonte é a maior cidade Sul de Drafeon. A cidade possui um grande foco arcano e acadêmico, recebendo aspirantes e estudiosos arcanos de toda Drafeon para suas intituições acadêmicas. Horizonte é o lar do [Arquimago](/rankings-e-titulos/arquimago) de Império Dragão.
 
-A cidade foi fundada em 303 da Era de Drafeon pela primeira arquimago do império, [Cellicia](http://localhost/en/individuos/cellicia), após descobrir uma enorme corrente arcana que envolvia a cordilheira onde a cidade foi construída. Se iniciou, no entanto, como um simples local de estudo e concentração para Cellicia e ao longo do tempo se tornou sua morada e a cidade começou a se desenvolver ao seu redor.
+A cidade foi fundada em 303 da Era de Drafeon pela primeira arquimago do império, [Cellicia](/individuos/cellicia), após descobrir uma enorme corrente arcana que envolvia a cordilheira onde a cidade foi construída. Se iniciou, no entanto, como um simples local de estudo e concentração para Cellicia e ao longo do tempo se tornou sua morada e a cidade começou a se desenvolver ao seu redor.
 
 A bandeira de Horizonte é formada por três faixas, uma azul, uma laranja e uma roxa, que representam a visão do horizonte avistada da cidade no pôr do sol. Na bandeira se encontra a montanha onde a cidade está localizada com as correntes arcanas passando pela montanha. Acima da montanha se encontram três linhas, representando os três níveis da cidade.
 
 ## Demografia
-Tal como todas as capitais do Império Dragão, Horizonte é uma cidade heterogênea. Dada sua localização central na região Sul, próximo às vilas humanas da [Baixada do Rio](http://localhost/en/lugares/plano-material/drafeon/sul-de-drafeon/baixada-do-rio#baixada-do-rio), humanos compõem a maioria da cidade por uma pequena margem.
+Tal como todas as capitais do Império Dragão, Horizonte é uma cidade heterogênea. Dada sua localização central na região Sul, próximo às vilas humanas da [Baixada do Rio](/lugares/plano-material/drafeon/sul-de-drafeon/baixada-do-rio#baixada-do-rio), humanos compõem a maioria da cidade por uma pequena margem.
 
 As academias arcanas atraem pessoas de toda Drafeon, incluindo habitantes de outros impérios que desejam ter conhecimento mais mecânico da magia que envolve o mundo, tal como o que os Arquimagos possuem.
 
 Um dragão metálico faz morada na cidade.
 
 ## Governo
-A cidade é sempre governada pelo Arquimago do Império, atualmente este cargo é ocupado por [Yrcri Magnus](http://localhost/en/individuos/yrcri-magnus). A cidade funciona como uma região geopolítica isolada, sendo a única cidade da região que não está sob comando do [Senhor de Região](http://localhost/en/rankings-e-titulos/senhor-de-regiao) do Sul de Drafeon e sob comando direto do [Imperador](http://localhost/en/rankings-e-titulos/imperador-dragao).
+A cidade é sempre governada pelo Arquimago do Império, atualmente este cargo é ocupado por [Yrcri Magnus](/individuos/yrcri-magnus). A cidade funciona como uma região geopolítica isolada, sendo a única cidade da região que não está sob comando do [Senhor de Região](/rankings-e-titulos/senhor-de-regiao) do Sul de Drafeon e sob comando direto do [Imperador](/rankings-e-titulos/imperador-dragao).
 
 Além do Arquimago, uma corte de intelectuais e arcanistas auxilia no governo da cidade, estes são conhecidos como [Duques](/rankings-e-titulos/imperio-dragao/duque) e formam a [Corte do Horizonte](/faccoes/nacoes/imperio-dragao/corte-de-horizonte). Duques são arbitrareamente alocados pelo Arquimago e possuem número e resposabilidades individualmente atribuídas. Suas responsabilidades são explicítas e os duques costumam ser conhecidos por tal.
 
@@ -77,7 +77,7 @@ Grandes campos rodeiam a cidade por todo o sul. Ao noroeste e nordeste se inicia
 `População` 64.000
 `Gentílico` Horizontense 
 `Sub-locações` 
-`Governante` [Yrcri Magnus](http://localhost/en/individuos/yrcri-magnus)
+`Governante` [Yrcri Magnus](/individuos/yrcri-magnus)
 `Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Organizações Incluídas` 
 
