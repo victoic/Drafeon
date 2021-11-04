@@ -2,7 +2,7 @@
 title: Coração do Vazio
 description: 
 published: true
-date: 2021-11-04T14:52:48.949Z
+date: 2021-11-04T15:36:40.338Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-25T22:00:32.305Z
@@ -27,8 +27,8 @@ Dois outros Lordes Abissais habitam nesta camada, [Azaroth](/individuos/azaroth)
 - Selva Babante, uma mata horrível preenchida por vapor e árvores parasíticas de troncos de carne que constantemente babam muco e veneno das bocas gaguejantes que preenchem os troncos, tornando essa região a mais nauseante do Coração do Vazio. O "chão" do local é estranhamente quente, macio e borrachudo, quase como uma imensa camada de carne com grossos pelos. Todo tipo de aberração vive aqui, incluindo um gigantesco nalfeshnee conhecido apenas como o jardineiro.
  
 ### Desertos
-- Arrebatamento Vermelho
-- Dunas de Sangue
+- Arrebatamento Vermelho, esta vasta planície serve como terreno de matança para os humanos capturados pelos agentes de Fraz-Urb'luu. Todo tipo de dispositivo de tortura pode ser encontrado espelhados pela vastidão das planícies e o chão é uma almogamia fedorenta de lama e sangue. Vrocks são os principais toturadores e executores encontrados no local.
+- Dunas de Sangue, este grande deserto de partículas vermelho-sangue é conhecido por seu clima implacável, a temperatura nunca está abaixo calor severo e comumente alcança níveis extremos. Inspeção aprofundada na "areia" revela que são partículas de sangue seco. Uma grande variedade de mortos-vivos povoa o local, incluindo múmias poderosas, habitando ruínas misteriosas.
 
 ### Codilheiras
 - Dente do Demônio
