@@ -2,7 +2,7 @@
 title: Coração do Vazio
 description: 
 published: true
-date: 2021-11-04T15:36:40.338Z
+date: 2021-11-04T15:55:25.135Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-25T22:00:32.305Z
@@ -31,8 +31,8 @@ Dois outros Lordes Abissais habitam nesta camada, [Azaroth](/individuos/azaroth)
 - Dunas de Sangue, este grande deserto de partículas vermelho-sangue é conhecido por seu clima implacável, a temperatura nunca está abaixo calor severo e comumente alcança níveis extremos. Inspeção aprofundada na "areia" revela que são partículas de sangue seco. Uma grande variedade de mortos-vivos povoa o local, incluindo múmias poderosas, habitando ruínas misteriosas.
 
 ### Codilheiras
-- Dente do Demônio
-- Esfoladores
+- Dentes do Demônio, compondo cerca de um terço da camada estão estas montanhas retorcidas e deslocadas. Estas foram as primeiras construções de Fraz-Urb'luu após se retorno ao Abismo em golpes de fúria durante anos. As rochas que formam as montanhas são afiadas como navalhas, exploradores precisam de precaução extra para não ser delacerado. As criaturas que habitam estas montanhas são um mistério, mas o mais provável são criaturas buscando esconderijo por perderem o favor de Fraz-Urb'luu.
+- Esfoladores, os esfoladores são uma série de vulcões que constantemente exalam cinzas em chamas e lava nos céus do Coração do Vazio. As montanhas em torno dos vulcões são empoleiradas como colunas de enormes lâminas.
 
 ### Cânions
 - O Corte Eterno
