@@ -2,7 +2,7 @@
 title: Coração do Vazio
 description: 
 published: true
-date: 2021-11-03T20:50:57.499Z
+date: 2021-11-04T14:22:40.891Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-25T22:00:32.305Z
@@ -21,9 +21,9 @@ Dois outros Lordes Abissais habitam nesta camada, [Azaroth](/individuos/azaroth)
 ## Geografia
 
 ## Florestas
-- Bosque Raiz-Morta
-- Floresta Cicatriz
-- Pântano Grade
+- Bosque Raiz-Morta, espalhada pelas terras baixas e pés de serras que cercam o Dente do Demônio, essas florestas consistem de árvores retorcidas e doentes, pricipalmente variantes abissais de ipês e chuva-de-ouro. Os chãos das florestas parecem estar cobertos de ossos, mas mais de perto é possível ver que estes são na verdade as horríveis raízes das árvores. Inúmeros monstros-plantas corrompidos vagam pelo local e há rumores que um círculo de 10 Treants demoníacos governam as matas.
+- Floresta Cicatriz, estas são florestas modificadas para assemelharem àquelas do Plano Material e é mantida, em sua maioria, livre de perigos por Fraz-Urb'luu pois, esta serve como seu terreno de caça pessoal. Fraz-Urb'luu libera parte dos humanos das muralhas de Zoragmelok aqui para que prosperem por anos, para que criem sociedades primitivas, até que ele os caça.
+- Pântano Grade, 
 - Selva Babante
  
 ### Desertos
