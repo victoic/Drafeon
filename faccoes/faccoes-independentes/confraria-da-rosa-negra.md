@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2021-02-19T20:54:31.208Z
+date: 2021-11-04T17:42:04.003Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-19T20:54:31.208Z
@@ -25,6 +25,8 @@ O grupo recuperou o [Coração de Azaroth](http://localhost/itens/coracao-de-aza
 O grupo destruiu o [Conciliábulo Negro](http://localhost/en/faccoes/faccoes-independentes/conciliabulo-negro), salvando a cidade de [Vila das Pontes](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes), liberando a [Tribo Carazul](http://localhost/en/faccoes/faccoes-independentes/tribo-carazul) e recuperando a ninhada de [Kza Buatyk Szkar](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/bahia-escura/kzs-buatyk-szkar). E evitando a entrada de um Arquifada no Plano Material.
 
 Derrotaram [Edahsh](http://localhost/en/individuos/edahsh), O Eclipse Eterno, que habitava um dos membros do grupo.
+
+Derrotaram [Lakip Brillabouso](/individuos/lakip-brillabouso) e [Edaiden](/individuos/edaiden), e impediram o ritual de invocação de [Azaroth](/individuos/azaroth).
 
 # Membros
 Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confraria da Rosa Negra.
