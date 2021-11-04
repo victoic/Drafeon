@@ -2,7 +2,7 @@
 title: Coração do Vazio
 description: 
 published: true
-date: 2021-11-04T15:55:25.135Z
+date: 2021-11-04T16:13:18.137Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-25T22:00:32.305Z
@@ -30,22 +30,22 @@ Dois outros Lordes Abissais habitam nesta camada, [Azaroth](/individuos/azaroth)
 - Arrebatamento Vermelho, esta vasta planície serve como terreno de matança para os humanos capturados pelos agentes de Fraz-Urb'luu. Todo tipo de dispositivo de tortura pode ser encontrado espelhados pela vastidão das planícies e o chão é uma almogamia fedorenta de lama e sangue. Vrocks são os principais toturadores e executores encontrados no local.
 - Dunas de Sangue, este grande deserto de partículas vermelho-sangue é conhecido por seu clima implacável, a temperatura nunca está abaixo calor severo e comumente alcança níveis extremos. Inspeção aprofundada na "areia" revela que são partículas de sangue seco. Uma grande variedade de mortos-vivos povoa o local, incluindo múmias poderosas, habitando ruínas misteriosas.
 
+### Cânions
+- O Corte Eterno, essa longa faixa de terra consiste da matéria prima do Coração do Vazio, uma camada de um fino pó branco. Por razões desconhecidas até por Fraz-Urb'luu, essa faixa específica resiste qualquer tentativa de ser moldada.
+
 ### Codilheiras
 - Dentes do Demônio, compondo cerca de um terço da camada estão estas montanhas retorcidas e deslocadas. Estas foram as primeiras construções de Fraz-Urb'luu após se retorno ao Abismo em golpes de fúria durante anos. As rochas que formam as montanhas são afiadas como navalhas, exploradores precisam de precaução extra para não ser delacerado. As criaturas que habitam estas montanhas são um mistério, mas o mais provável são criaturas buscando esconderijo por perderem o favor de Fraz-Urb'luu.
 - Esfoladores, os esfoladores são uma série de vulcões que constantemente exalam cinzas em chamas e lava nos céus do Coração do Vazio. As montanhas em torno dos vulcões são empoleiradas como colunas de enormes lâminas.
 
-### Cânions
-- O Corte Eterno
-
-### Assentamentos
-- Athawyn
-- Querur
-- Karantis
-- Karugo
-- Ossopus
-- Tomeza
-- Varmet
-- Zoragmelok
+## Assentamentos
+- Athawyn, a cidade mais degradada e decadente em Coração do Vazio depois da própria Zoragmelok, Athawyn é um emaranhado estonteante de torres curvas e cúpulas maciças, todas feitas de pedra vermelha. É servido por vários escravos humanos que foram considerados impróprios para o Arrebatamento Vermelho. Súcubos e skurchurs servem como os senhores da cidade, que era governada por Nyrashlia, um poderoso bardo Súcubo. Athawyn é a única cidade em Hollow's Heart não governada por um Rajah do Vazio, mas os caóticos rakshasas não pareciam se ressentir disso e frequentemente visitavam a cidade para se entregar a suas oferendas mais carnais.
+- Querur, a cidade irmã de Varmet, Querur, é habitada por cerca de 3.000 orcs e ogros com ocupações semelhantes de navegação e escravidão. É governado pelo Rajah do Vazio de cabeça de lobo Proaliak, que tem grande prazer em comer corações que ainda batem.
+- Karantis, construído em uma mesa com vista para o Mar Oco, este templo de ferro e pórfiro do tamanho de uma cidade é o coração do culto Fraz-Urb'luu. É governado pelo Rajah do Vazio Kiltikairit com cabeça de gorila.
+- Karugo, uma pequena cidade habitada por cerca de 7.500 pessoas, governada pelo Rajah do Vázio Liorkian com cabeça de corvo. O objetivo principal da cidade é processar os muitos humanos capturados pelos servos de Fraz-Urb'luu. Esses humanos foram capturados de ilhas no Mar Vázio ou, mais freqüentemente, sequestrados de vários mundos do Plano Material por demônios ou cultistas. Um humano saudável era vendido por cerca de 100po em seus mercados, enquanto humanos doentes eram vendidos a preços bastante reduzidos e frequentemente acabavam como escravos ou como comida em Athawyn.
+- Ossopus, talvez a cidade mais miserável de Hollow's Heart, Bonepus é um assentamento de cerca de 1.560 governados pelo Hollow Rajah Rontakus com cabeça de crocodilo, que devorava seus súditos com frequência suficiente para que a fecundidade dos goblins mal pudesse acompanhar seu apetite. Os prédios da cidade encharcada e gotejante são feitos de madeira apodrecida e tiras de pele e couro mal preservadas esticadas sobre armações de gravetos retorcidos, colhidos na vizinha Floresta Cicatriz.
+- Tomeza, uma cidade criada como prisão para os demônios inimigos de Fraz-Urb'luu é feita para ser inexcapável. Nesta esta preso Azaroth. É governada pelo Glabrezu Virrazar.
+- Varmet, uma grande cidade com uma população de cerca de 3.200, a maioria dos quais eram marinheiros que passaram semanas navegando no Mar Oco em busca de escravos nas ilhas de lá. É governado pelo Rajah do Vazio Zurathani com cabeça de javali, que usa seus interesses artísticos para criar estátuas horríveis para as ruas da cidade.
+- Zoragmelok, a cidade mais poderosa em Coração do Vázio, Zoragmelok é a fortaleza pessoal e covil do próprio Fraz-Urb'luu, mas era habitada apenas por suas consortes súcubos e as almas de muitos peticionários enganados. Zoragmelok é uma cidade extensa e quase circular de arquitetura impossível, cheia de torres saca-rolhas, cúpulas imponentes e anfiteatros colossais. Em seu centro havia uma enorme fortaleza que mudava constantemente de acordo com os caprichos de seu dono; este é o palácio pessoal de Fraz-Urb'luu, que ele compartilhava apenas com seus muitos consortes. As paredes de Zoragmelok eram criações imponentes de adamantina cobertas por ganchos e navalhas, sobre as quais incontáveis humanos estavam pendurados, mantidos quase sem vida por um pequeno exército de clérigos harpias que aplicavam comida, água e cura conforme necessário para prolongar seu sofrimento. Ocasionalmente, uma vítima escapava da parede e desaparecia em Floresta Cicatriz.
 
 # Informações
 `Tipo` Camada do Abismo
