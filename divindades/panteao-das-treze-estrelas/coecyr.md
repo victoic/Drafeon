@@ -2,7 +2,7 @@
 title: Coecyr
 description: 
 published: true
-date: 2021-11-05T02:49:40.448Z
+date: 2021-11-05T19:18:12.337Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:12.840Z
@@ -15,10 +15,13 @@ Coecyr é o deus do equilíbrio e, como tal, sempre se interesseou por criar mec
 
 A representação mais comum de Coecyr é a de um humanoide cujo a pele é feita de cascalhos, seus pés são raízes que se conectam aos seres vivos. O rosto de Coecyr não possui nenhuma característica além de uma boca.
 
-O símbolo dedicado a Coecyr é uma planta de Raiz da Vida.
-
 ## Domínios Divinos
 Deus da natureza e do equilíbrio Domínio da Natureza, Domínio da Ordem, Domínio da Tempestade
+
+## Símbolos e Sigilos Divinos
+O símbolo dedicado a Coecyr é uma planta de Raiz da Vida.
+
+![símbolo_-_coecyr.png](/uploads/simbolos-divinos/símbolo_-_coecyr.png =30%x){.align-center}
 
 ## Conquistas e Feitos
 Coecyr é a criadora dos animais que habitam o mundo, além de criadora do plano Faéria e seus habitantes. Deu vida também aos elfos e firbolgs.
