@@ -2,13 +2,15 @@
 title: Ahena
 description: 
 published: true
-date: 2020-04-16T17:51:12.776Z
+date: 2021-11-05T02:48:00.887Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:31:06.017Z
 ---
 
 <!-- SUBTITLE: Deusa do tempo e do destino -->
 
-![ahena.png](/uploads/simbolos-divinos/ahena.png){.align-abstopright}
+![símbolo_-_ahena.png](/uploads/simbolos-divinos/símbolo_-_ahena.png){.align-abstopright}
 # Ahena
 Ahena é facilmente identificada possuindo um terceiro olho entre os dois normalmente encontrados em humanoides. Suas roupas se estendem e os fios se separam criando o tecido do destino de todos os seres.
 
