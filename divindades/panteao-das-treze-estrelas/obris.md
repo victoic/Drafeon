@@ -2,8 +2,10 @@
 title: Obris
 description: 
 published: true
-date: 2020-04-16T19:25:23.060Z
+date: 2021-11-05T19:23:47.406Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:31:22.561Z
 ---
 
 <!-- SUBTITLE: Deus da Ordem, Honra e Dever -->
@@ -19,6 +21,8 @@ Deus da Ordem, Honra e Dever Domínio da Guerra, Domínio da Luz, Domínio da Vi
 
 ## Símbolos e Sigilos Divinos
 O símbolo de Obris são os Três Pilares Celestiais: Ordem, Honra e Dever. São representados como mastros de luz.
+
+![obris.png](/uploads/simbolos-divinos/obris.png =30%x){.align-center}
 
 # Informações
 `Classificação Divina` Deus
