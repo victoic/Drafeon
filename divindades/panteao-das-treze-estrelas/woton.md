@@ -2,7 +2,7 @@
 title: Woton
 description: 
 published: true
-date: 2021-11-05T05:26:25.278Z
+date: 2021-11-05T19:25:09.622Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:26.718Z
@@ -18,7 +18,9 @@ Woton possui o corpo de um lobo de onde dois pares de asas dacrônicas e um tors
 Deusa das Bestas e Aberrações Domínio da Guerra, Domínio da Natureza.
 
 ## Símbolos e Sigilos Divinos
-O símbolo de Woton é a Cabeça de Dragão.
+O símbolo de Woton é a cabeça de um dragão vermelho.
+
+![símbolo_-_woton.png](/uploads/simbolos-divinos/símbolo_-_woton.png =30%x){.align-center}
 
 ## Conquistas e Feitos
 Woton é mãe das raças bestiais, incluindo os dragões, halflings, orcs e outros.
