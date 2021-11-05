@@ -2,7 +2,7 @@
 title: Nituhnna
 description: 
 published: true
-date: 2021-11-05T03:43:13.734Z
+date: 2021-11-05T19:23:12.082Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:20.967Z
@@ -20,7 +20,9 @@ Deusa do Conhecimento, Habilidade e Artesenato Domínio do Conhecimento, Domíni
 ## Símbolos e Sigilos Divinos
 A pena de escrita é o símbolo de Nituhnna.
 
-# Conquistas e Feitos
+![símbolo_-_nituhnna.png](/uploads/simbolos-divinos/símbolo_-_nituhnna.png =30%x){.align-center}
+
+## Conquistas e Feitos
 Nituhnna criou os Gnomos como resultado de um romance com Nahenna, assim como os Halfling como resultado de um romance com Woton.
 
 # Informações
