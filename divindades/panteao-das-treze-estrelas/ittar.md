@@ -2,7 +2,7 @@
 title: Ittar
 description: 
 published: true
-date: 2021-11-05T02:51:57.252Z
+date: 2021-11-05T19:21:57.989Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:16.895Z
@@ -19,6 +19,8 @@ Deus dos elementos Domínio da Natureza, Domínio da Ordem
 
 ## Símbolos e Sigilos Divinos
 O símbolo de Ittar é a Rede Elemental, onde os quatro planos elementais se conectam.
+
+![símbolo_-_ittar.png](/uploads/simbolos-divinos/símbolo_-_ittar.png =30%x){.align-center}
 
 ## Conquistas e Feitos
 Ittar criou os quatro planos elementais a partir de partes de seu corpo, um para cada elemento. Criou também a partir de seu corpo as criaturas que habitam esses planos.
