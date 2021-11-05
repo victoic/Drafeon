@@ -2,12 +2,14 @@
 title: Woton
 description: 
 published: true
-date: 2020-04-16T19:27:24.067Z
+date: 2021-11-05T05:26:25.278Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:31:26.718Z
 ---
 
 <!-- SUBTITLE: Deusa das Bestas e Aberrações -->
-![woton.png](/uploads/simbolos-divinos/woton.png){.align-abstopright}
+![símbolo_-_woton.png](/uploads/simbolos-divinos/símbolo_-_woton.png){.align-abstopright}
 
 # Woton
 Woton possui o corpo de um lobo de onde dois pares de asas dacrônicas e um torso humanoide se fazem presentes. O torso possui pele acinzentada e grossa, com quatro braços que se transformam em cabeças de dragão, uma para cada cor dos dragões cromáticos. No torso também se encontra uma cabeça orc feminina porém peluda.
