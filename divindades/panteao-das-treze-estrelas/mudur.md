@@ -2,7 +2,7 @@
 title: Mudur
 description: 
 published: true
-date: 2021-11-05T02:53:16.431Z
+date: 2021-11-05T19:22:34.675Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:18.484Z
@@ -27,6 +27,8 @@ Deus da Guera e do Combate
 
 ## Símbolos e Sigilos Divinos
 O símbolo de Mudur é o Martelo da Guerra.
+
+![símbolo_-_mudur.png](/uploads/simbolos-divinos/símbolo_-_mudur.png =30%x){.align-center}
 
 ## Conquistas e Feitos
 Mudur criou os anões, esculpindo-os com seu martelo a partir de uma montanha.
