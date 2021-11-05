@@ -2,7 +2,7 @@
 title: Zifelia
 description: 
 published: true
-date: 2021-11-05T19:12:18.102Z
+date: 2021-11-05T19:25:46.911Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:29.340Z
@@ -21,6 +21,8 @@ Deusa da beleza, juventude e do amor Domínio da Vida, Domínio da Luz, Domínio
 
 ## Símbolos e Sigilos Divinos
 A Flor do Sol é o símbolo de Zifelia.
+
+![símbolo_-_zifelia.png](/uploads/simbolos-divinos/símbolo_-_zifelia.png =30%x){.align-center}
 
 ## Conquistas e Feitos
 Durante a Era dos Deuses, Zifelia em um momento de paixão com [Coercy](http://localhost/divindades/panteao-das-treze-estrelas/coecyr#coecyr) deu vida aos Elfos. Ela se orgulha muito dos seus filhos, de como mantém sua juventude por séculos e de como são belos. A maldição que [Upzot-Myf]() jogou sobre os Elfos, criando os Drow a tornou muito triste.
