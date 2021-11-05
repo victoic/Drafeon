@@ -2,7 +2,7 @@
 title: Aaos
 description: 
 published: true
-date: 2021-11-05T02:47:23.607Z
+date: 2021-11-05T19:15:41.694Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:05.987Z
@@ -21,6 +21,8 @@ Deus dos Sonhos e da Morte Domínio da Vida, Domínio da Natureza
 
 ## Símbolos e Sigilos Divinos
 Aaos possui como principal símbolo uma máscara branca, muitas vezes de porcelana.
+
+![símbolo_-_aaos.png](/uploads/simbolos-divinos/símbolo_-_aaos.png =30%x){.align-center}
 
 # Conquistas e Feitos
 Durante a Era dos Deuses, Aaos sonhou que possuía um filho, a quem poderia ensinar sobre a vida e a morte e sobre o segredo dos sonhos. Ao acordar ele havia criado Cojiil uma criatura divina belíssima e faminta pelo conhecimento que seu pai poderia lhe dar. Porém, após Bee'rus amaldiçoar Cojiil transformando-o no primeiro Beholder, Aaos tomou repúdio por sua criação, vendo o que seu belo filho havia se tornado.
