@@ -2,7 +2,7 @@
 title: Ahena
 description: 
 published: true
-date: 2021-11-05T02:48:00.887Z
+date: 2021-11-05T19:16:14.256Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:06.017Z
@@ -19,6 +19,8 @@ Deusa do tempo e do destino Domínio do Conhecimento, Domínio da Vida, Domínio
 
 ## Simbólos e Sigilos Divinos
 Os símbolos de Ahena são comumente encontrados como um olho roxo aberto.
+
+![símbolo_-_ahena.png](/uploads/simbolos-divinos/símbolo_-_ahena.png =30%x){.align-center}
 
 # Conquistas e Feitos
 Ahena foi a criadora dos humanos.
