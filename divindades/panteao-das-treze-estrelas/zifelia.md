@@ -2,12 +2,14 @@
 title: Zifelia
 description: 
 published: true
-date: 2020-04-16T17:48:20.516Z
+date: 2021-11-05T19:12:18.102Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-11T16:31:29.340Z
 ---
 
 <!-- SUBTITLE: Deusa da Beleza, Juventude e do Amor -->
-![zifelia.png](/uploads/simbolos-divinos/zifelia.png){.align-abstopright}
+![símbolo_-_zifelia.png](/uploads/simbolos-divinos/símbolo_-_zifelia.png){.align-abstopright}
 
 # Zifelia
 Zifelia se mostra como uma mulher belíssima, com cabelos que ultrapassam seu corpo e que são, na verdade, o pôr do sol. Ela possui uma Flor do Sol em seus cabelos. A aparência específica de Zifelia é dependente de quem a observa.
