@@ -2,7 +2,7 @@
 title: Opzot-Ulo
 description: 
 published: true
-date: 2021-11-05T04:25:46.345Z
+date: 2021-11-05T19:24:26.106Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:25.107Z
@@ -19,6 +19,8 @@ Deus das Pragas e da Insanidade Domínio dos Truques, Domínio da Guerra.
 
 ## Símbolos e Sigilos Divinos
 O Símbolo de Opzot-Ulo é o de uma aranha verde com uma espiral em seu abdômen, conhecida como A Aranha.
+
+![símbolo_-_opzot-ulo.png](/uploads/simbolos-divinos/símbolo_-_opzot-ulo.png =30%x){.align-center}
 
 ## Conquistas e Feitos
 Opzot-Ulo deu vida a [Upzot-Myf](), A Grande Aranha e criou a raça dos Yuan-Ti.
