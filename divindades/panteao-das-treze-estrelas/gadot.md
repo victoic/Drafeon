@@ -2,7 +2,7 @@
 title: Gadot
 description: 
 published: true
-date: 2021-11-05T02:51:23.650Z
+date: 2021-11-05T19:21:23.322Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-11T16:31:14.381Z
@@ -24,6 +24,8 @@ Deusa dos andarilhos, estradas e necessitados Domínio da Luz, Domínio da Vida
 
 ## Símbolos e Sigilos Divinos
 O símbolo de Gadot é a Bússola de Ouro.
+
+![símbolo_-_gadot.png](/uploads/simbolos-divinos/símbolo_-_gadot.png =30%x){.align-center}
 
 # Informações
 `Classificação Divina` Deusa
