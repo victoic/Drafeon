@@ -2,7 +2,7 @@
 title: Kratires
 description: 
 published: true
-date: 2022-09-10T21:15:38.117Z
+date: 2022-09-10T22:14:59.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-10T21:15:38.117Z
@@ -16,8 +16,8 @@ A origem das crateras é desconhecido, apesar de diversas expedições arqueoló
 # Informações
 `Tipo` Vilarejo
 `Gentílico` Kratirense
-`Governante` [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur)
-`Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Governante` [Hilke Lamperotami](/individuos/hilke-lamperotami)
+`Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 
 
 > CUIDADO! Spoilers abaixo.
