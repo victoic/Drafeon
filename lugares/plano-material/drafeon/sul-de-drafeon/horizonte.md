@@ -2,10 +2,10 @@
 title: Horizonte
 description: 
 published: true
-date: 2021-11-03T13:58:54.515Z
+date: 2022-12-04T01:09:29.565Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-28T19:22:11.214Z
+dateCreated: 2022-04-30T18:18:14.482Z
 ---
 
 ![bandeira_de_horizonte.png](/uploads/bandeiras/bandeira_de_horizonte.png){.align-abstopright}
@@ -78,7 +78,7 @@ Grandes campos rodeiam a cidade por todo o sul. Ao noroeste e nordeste se inicia
 `Gentílico` Horizontense 
 `Sub-locações` 
 `Governante` [Yrcri Magnus](/individuos/yrcri-magnus)
-`Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Organizações Incluídas` 
 
 # Mapa de Horizonte
