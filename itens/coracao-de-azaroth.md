@@ -19,12 +19,12 @@ Em 1753, o Coração de Azaroth caiu sobe posse de [Lakip](/individuos/lakip-bri
 O baú necessita de três chaves únicas, além da quebra do ritual de proteção celestial, para sua abertura.
 
 ## Significância
-O baú guarda o único modo de ressurreição de um dos demônios mais poderosos existentes. Sua segurança é de importância para toda [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon).
+O baú guarda o único modo de ressurreição de um dos demônios mais poderosos existentes. Sua segurança é de importância para toda [Drafeon](/lugares/plano-material/drafeon#drafeon).
 
 # Informações
 `Tipo` Artefato Único
-`Fabricante` [Ordem de Ouro](http://localhost/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)
-`Organização Proprietária` [Ordem de Ouro](http://localhost/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)
+`Fabricante` [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)
+`Organização Proprietária` [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)
 `Raridade` Único
 `Peso` 20 Kg
 `Dimensões` 20x40x20 cm

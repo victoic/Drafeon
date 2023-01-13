@@ -17,7 +17,7 @@ Suas lendas dizem que a cada dez eclipses solares duplos, um recém nascido é e
 
 Não se sabe da veracidade dessas lendas pois são raros os relatos escritos do tempo do último de tal eclipse, mas as descrições desenhadas dos Aarakocra o mostram como uma sombra, controlando uma pequena ave.
 
-Durante a Era de Drafeon, Edahsh foi ligado a um Aarakocra chamada Kras e passou a controlá-lo para realizar assassinatos em seu nome. Ainda criança, Edahsh levou o Aarakocra a uma fenda infernal, onde hordas de demônios menores enfrentavam uma campanha da [Ordem de Ouro](http://localhost/en/faccoes/faccoes-independentes/ordem-de-ouro).
+Durante a Era de Drafeon, Edahsh foi ligado a um Aarakocra chamada Kras e passou a controlá-lo para realizar assassinatos em seu nome. Ainda criança, Edahsh levou o Aarakocra a uma fenda infernal, onde hordas de demônios menores enfrentavam uma campanha da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro).
 
 Durante o combate com um Elfo Negro que portava armas de fogo, o Aarakocra foi gravemente ferido e após matar o elfo, Kras caiu de exaustão. Ao acordar, a campanha da Ordem de Ouro havia sido dezimada, mas Kras não lembrava seu próprio nome, ao achar a arma estranha do elfo e ter como sua única lembrança o grito "Saile!", Kras acreditou ser esta sua identidade.
 
@@ -25,7 +25,7 @@ Durante o combate com um Elfo Negro que portava armas de fogo, o Aarakocra foi g
 Aarakocras possuídos por Edahsh são chamados de casulos, recebem este nome por serem recípulos onde Edahsh amadurece ao absorver almas assassinadas, quando o casulo está completamente maduro, Edahsh causará a morte do casulo, duas vezes e seu corpo será libertado ao mundo.
 
 Casulos de Edahsh conhecidos:
-- [Saile](http://localhost/en/individuos/personagens-de-jogadores/saile)
+- [Saile](/individuos/personagens-de-jogadores/saile)
 
 
 # Informações

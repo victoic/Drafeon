@@ -11,9 +11,9 @@ dateCreated: 2021-03-06T22:53:39.946Z
 <!-- SUBTITLE: Visão geral sobre Oito Montes -->
 
 # Oito Montes
-Oito Montes é uma serra localizada ao extremo oeste do [Sul de Drafeon](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon). Como seu nome indica, é formada por oito montes que desenham um círculo, onde se encontra um grande lago ao centro e nasce o [Rio Ittar](http://localhost/en/lugares/plano-material/drafeon/sul-de-drafeon/rio-ittar).
+Oito Montes é uma serra localizada ao extremo oeste do [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon). Como seu nome indica, é formada por oito montes que desenham um círculo, onde se encontra um grande lago ao centro e nasce o [Rio Ittar](/lugares/plano-material/drafeon/sul-de-drafeon/rio-ittar).
 
-Oito Montes é um dos pontos do [Plano Material](http://localhost/lugares/plano-material) onde mesclagem de planos acontecem, neste caso com os [Planos Elementais](http://localhost/en/lugares#planos-elementais).
+Oito Montes é um dos pontos do [Plano Material](/lugares/plano-material) onde mesclagem de planos acontecem, neste caso com os [Planos Elementais](/lugares#planos-elementais).
 
 Primeiramente habitada por Orcs, a região interna de Oito Monte é úmida e semi-pantanosa. Cada um dos oito montes possui clima distinto por sua proximidade com os planos elementais por essas características foram nomeados:
 
@@ -31,6 +31,6 @@ Primeiramente habitada por Orcs, a região interna de Oito Monte é úmida e sem
 # Informações
 `Nomes Alternativos` Du Spegedamok (Orc)
 `Tipo` Serra de Montes
-`Sub-locações` [Oito Montes (Vilarejo)](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)
+`Sub-locações` [Oito Montes (Vilarejo)](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)
 
 

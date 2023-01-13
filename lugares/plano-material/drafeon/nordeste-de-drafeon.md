@@ -13,7 +13,7 @@ Your content here
 
 # Informações
 `Tipo` Região
-`Organizações Incluidas` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica), [Drieper](/faccoes/nacoes/corte-elfica/drieper)
-`Organizações Dominantes` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica), [Drieper](/faccoes/nacoes/corte-elfica/drieper)
-`Sub-locações` [Drieper](/faccoes/nacoes/corte-elfica/drieper), [Kammeh-Tu](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu#kammeh-tu)
-[`Etnias`](http://localhost/lugares/plano-material/drafeon/nordeste-de-drafeon/etnias-do-nordeste-de-drafeon#etnias-do-nordeste-de-drafeon)
+`Organizações Incluidas` [Corte Élfica](/faccoes/nacoes/corte-elfica), [Drieper](/faccoes/nacoes/corte-elfica/drieper)
+`Organizações Dominantes` [Corte Élfica](/faccoes/nacoes/corte-elfica), [Drieper](/faccoes/nacoes/corte-elfica/drieper)
+`Sub-locações` [Drieper](/faccoes/nacoes/corte-elfica/drieper), [Kammeh-Tu](/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu#kammeh-tu)
+[`Etnias`](/lugares/plano-material/drafeon/nordeste-de-drafeon/etnias-do-nordeste-de-drafeon#etnias-do-nordeste-de-drafeon)

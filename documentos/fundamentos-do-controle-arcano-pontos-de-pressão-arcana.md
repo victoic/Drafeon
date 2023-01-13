@@ -31,4 +31,4 @@ A partir do livro é possível aprender os seguintes feitiços:
 `Tipo` Manual, Mágico/Oculto
 `Meio` Papel 
 `Data de Ratificação` Em Azemis de 1741 da Era de Drafeon 
-`Autores` [Norros Folhaovento](http://localhost/en/individuos/norros-folhaovento) e [Hamadate Iccerial](http://localhost/en/individuos/hamadate-iccerial)
+`Autores` [Norros Folhaovento](/individuos/norros-folhaovento) e [Hamadate Iccerial](/individuos/hamadate-iccerial)

@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Blingoi Pés-Descalços -->
 
 # Blingoi Pés-Descalços
-Blingoi Pés-Descalços é uma gnoma, residente de [Sem Vento](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/sem-vento#sem-vento) e dona, junto com seu esposo [Tunoet Pés-Descalços](http://localhost/individuos/tunoet-pes-descalcos#tunoet-pes-descalcos), da Pés-Descalços Seivadores de Cascus, uma companhia de Seiva-Cascus.
+Blingoi Pés-Descalços é uma gnoma, residente de [Sem Vento](/lugares/plano-material/drafeon/sudeste-de-drafeon/sem-vento#sem-vento) e dona, junto com seu esposo [Tunoet Pés-Descalços](/individuos/tunoet-pes-descalcos#tunoet-pes-descalcos), da Pés-Descalços Seivadores de Cascus, uma companhia de Seiva-Cascus.
 
 # Informações
 `Nascimento` 1533
@@ -18,5 +18,5 @@ Blingoi Pés-Descalços é uma gnoma, residente de [Sem Vento](http://localhost/
 `Cabelo` Cabelos castanhos, longos e lisos
 `Altura` 1,0 m
 `Peso` 24 Kg
-`Organizações Associadas` [Pés-Descalcos Seivadores de Cascus](http://localhost/faccoes/faccoes-independentes/pes-descalcos-seivadores-de-cascus#pes-descalcos-seivadores-de-cascus)
+`Organizações Associadas` [Pés-Descalcos Seivadores de Cascus](/faccoes/faccoes-independentes/pes-descalcos-seivadores-de-cascus#pes-descalcos-seivadores-de-cascus)
 

@@ -9,5 +9,5 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Veiculos -->
 
 # Veiculos
-[Escuna](http://localhost/veiculos/escuna#escuna)
+[Escuna](/veiculos/escuna#escuna)
 

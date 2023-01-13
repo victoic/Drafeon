@@ -14,7 +14,7 @@ Uma escuna é um tipo de navio veleiro, movido por propulsão eólica. É caract
 Escunas possuem entre 6 e 12 armas, comumente bestas de guerra. O casco do navio é de madeira e as estalagens se encontram no convés inferior, protegendo a tripulação de projéteis.
 
 # Informações
-`Usado por` [O Tulmuto (Navio)](http://localhost/veiculos/escuna/o-tumulto-navio#o-tumulto-navio)
+`Usado por` [O Tulmuto (Navio)](/veiculos/escuna/o-tumulto-navio#o-tumulto-navio)
 `Price` 12.500 PO
 `Comprimento` Aproximadamente 20 m
 `Viga` Aproximadamente 5 m

@@ -9,7 +9,7 @@ tags:
 # Ilaf
 Ilaf é uma velha Aarakocra andarilha. Ela é uma estudiosa das lendas e mitos da cultura Aarakocra.
 
-Em [Azemis de 1754](http://localhost/en/capitulos/capitulo-4-edahsh-o-eclipse-eterno), Ilaf ajudou um grupo de aventureiros a realizar o ritual de invocação de [Edahsh](http://localhost/en/individuos/edahsh), para que o tentassem derrotar.
+Em [Azemis de 1754](/capitulos/capitulo-4-edahsh-o-eclipse-eterno), Ilaf ajudou um grupo de aventureiros a realizar o ritual de invocação de [Edahsh](/individuos/edahsh), para que o tentassem derrotar.
 
 # Informações
 `Data de Nascimeto` 1730 

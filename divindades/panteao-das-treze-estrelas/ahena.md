@@ -32,6 +32,6 @@ Ahena foi a criadora dos humanos.
 `Olhos` Três, roxos
 `Cabelo` Longo e de efeito celestial, representando padrões de estrelas
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
 
 

@@ -15,8 +15,8 @@ Ugak possui pele verde musgo, olhos puxados e pequenas orelhas pontiagudas. Sua 
 
 # Informações
 `Nascimento` 537
-`Morte` 560, Morta por [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur) no dia de seu casamento.
-`Residência` [Poço Raso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso)
+`Morte` 560, Morta por [Makil Drasonur](/individuos/makil-drasonur#makil-drasonur) no dia de seu casamento.
+`Residência` [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso)
 `Local de Nascimento` 
 `Sexo Biológico` Feminino
 `Olhos` Amarelos com bordas vermelhas 

@@ -30,5 +30,5 @@ Modelos semelhantes, com pequenas variações de tempo, são tomadas em subdivis
 
 # Informações
 `Tipo` Democracia
-`Organização Dominante` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
+`Organização Dominante` [Corte Élfica](/faccoes/nacoes/corte-elfica#corte-elfica)
 `Sub-Locações` [Kammeh-Tu](/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu)

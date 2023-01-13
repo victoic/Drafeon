@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Vargus -->
 
 # Vargus
-Vargus é um orc da tribo [Carazul](http://localhost/faccoes/faccoes-independentes/tribo-carazul#tribo-carazul) do [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon). Ele ganhou o título de líder da tribo ao derrotar em combate o líder anterior. Vargus foi enfeitçado pelo Conciliábulo Negro, tornando sua tribo em guerreiros para os desejos das bruxas.
+Vargus é um orc da tribo [Carazul](/faccoes/faccoes-independentes/tribo-carazul#tribo-carazul) do [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon). Ele ganhou o título de líder da tribo ao derrotar em combate o líder anterior. Vargus foi enfeitçado pelo Conciliábulo Negro, tornando sua tribo em guerreiros para os desejos das bruxas.
 
 # Informações
 `Data de Nascimento` 1733
@@ -18,4 +18,4 @@ Vargus é um orc da tribo [Carazul](http://localhost/faccoes/faccoes-independent
 `Cabelos` Negros longos
 `Altura` 1,85 m
 `Peso` 75 Kg
-`Organizações Associadas` [Conciliábulo Negro](http://localhost/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
+`Organizações Associadas` [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)

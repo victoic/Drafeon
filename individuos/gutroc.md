@@ -12,7 +12,7 @@ tags:
 Gutroc foi um orc, pintor de famosos quadros mágicos abstratos durante a Era dos Mortos. Diversos de seus quadros mágicos ganharam valor e reconhecimento após sua morte, são considerados obras primas e vendidos por grandes fortunas.
 
 ## Pinturas
-* [Lança e O Morto, A](http://localhost/itens/a-lanca-e-o-morto#a-lanca-e-o-morto)
+* [Lança e O Morto, A](/itens/a-lanca-e-o-morto#a-lanca-e-o-morto)
 
 # Informações
 `Vida` ? - ?

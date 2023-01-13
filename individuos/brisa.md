@@ -14,6 +14,6 @@ Brisa é um genesi do ar, nascido em 1655 da Era de Drafeon. Brisa é um dos Anc
 # Informações
 `Nascimento` 1655 
 `Sexo Biológico` Masculino
-`Organizações Associadas` [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
-`Títulos` [Ancião das Tres Mãos](http://localhost/rankings-e-titulos/anciao-das-tres-maos#anciao-das-tres-maos)
+`Organizações Associadas` [Três Mãos](/faccoes/faccoes-independentes/tres-maos#tres-maos)
+`Títulos` [Ancião das Tres Mãos](/rankings-e-titulos/anciao-das-tres-maos#anciao-das-tres-maos)
 

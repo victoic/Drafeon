@@ -40,5 +40,5 @@ Mudur criou os anões, esculpindo-os com seu martelo a partir de uma montanha.
 `Olhos` Completamente brancos
 `Cabelo` Longos cabelos brancos lisos
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
 

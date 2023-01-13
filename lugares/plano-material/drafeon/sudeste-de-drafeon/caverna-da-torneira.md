@@ -7,16 +7,16 @@ tags:
 ---
 
 # Caverna da Torneira
-Caverna da Torneira é uma caverna rochosa encontrada no [Sudeste de Drafeon](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon), próximo à [Costa do Repouso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso#costa-do-repouso). A caverna possui o nome dada sua formação, que lembra uma torneira.
+Caverna da Torneira é uma caverna rochosa encontrada no [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon), próximo à [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso#costa-do-repouso). A caverna possui o nome dada sua formação, que lembra uma torneira.
 
 A caverna é parcialmente submersa, possuindo um extenso canal imerso que leva a uma câmara secundária.
 
-A caverna é a habitação da Naga Espiritual [Akhes](http://localhost/en/individuos/akhes).
+A caverna é a habitação da Naga Espiritual [Akhes](/individuos/akhes).
 
 # Informações
 `Nomes Alternativos` 
 `Tipo` Caverna
-`Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 
 
 ---

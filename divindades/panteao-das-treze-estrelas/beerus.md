@@ -32,6 +32,6 @@ Bee'rus possui como símbolo a Adaga de Bee'rus, uma adaga de lâmina de vidro v
 `Olhos` 
 `Cabelo` 
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
 
 

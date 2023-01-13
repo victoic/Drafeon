@@ -14,5 +14,5 @@ Drownia é um dos três reinos que formam a Confederação Triárquica da [Corte
 
 # Informações
 `Tipo` Reino
-`Organização Dominante` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
+`Organização Dominante` [Corte Élfica](/faccoes/nacoes/corte-elfica#corte-elfica)
 `Sub-Locações`

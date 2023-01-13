@@ -17,5 +17,5 @@ Rasbenn é um gnomo, nascido em 1371 da Era de Drafeon. Rasbenn é um dos Anciõ
 `Cabelos` Ruivos
 `Altura` 0,89 m
 `Peso` 27 Kg
-`Organizações Associadas` [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
-`Títulos` [Ancião das Três Mãos](http://localhost/rankings-e-titulos/anciao-das-tres-maos#anciao-das-tres-maos)
+`Organizações Associadas` [Três Mãos](/faccoes/faccoes-independentes/tres-maos#tres-maos)
+`Títulos` [Ancião das Três Mãos](/rankings-e-titulos/anciao-das-tres-maos#anciao-das-tres-maos)

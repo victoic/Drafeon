@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Arghull Krescrashmir -->
 
 # Arghull Krescrashmir
-Arghull Krescrashmir é um draconato escritor de [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon). É mais conhecido pela escrita de [Contos & Fábulas de Yrcri Magnus](http://localhost/documentos/contos-fabulas-de-yrcri-magnus#contos-fabulas-de-yrcri-magnus). Arghull sempre foi fascinado pelos indivíduos poderosos que habitam Drafeon. Em sua juventude passou a dedicar-se à relatar as histórias propagadas pelo mundo dos feitos envolvendo esses indivíduos.
+Arghull Krescrashmir é um draconato escritor de [Drafeon](/lugares/plano-material/drafeon#drafeon). É mais conhecido pela escrita de [Contos & Fábulas de Yrcri Magnus](/documentos/contos-fabulas-de-yrcri-magnus#contos-fabulas-de-yrcri-magnus). Arghull sempre foi fascinado pelos indivíduos poderosos que habitam Drafeon. Em sua juventude passou a dedicar-se à relatar as histórias propagadas pelo mundo dos feitos envolvendo esses indivíduos.
 
 # Informações
 `Data de Nascimento` 1725

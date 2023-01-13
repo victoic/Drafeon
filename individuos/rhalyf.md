@@ -7,7 +7,7 @@ tags:
 ---
 
 # Rhalyf
-Rhalyf é um Alto Elfo, nativo da [Corte Élfica](http://localhost/en/faccoes/nacoes/corte-elfica) e atualmente habitante de [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). Rhalyf é membro da guilda de mercadores [Mão de Toutaris](http://localhost/en/faccoes/faccoes-independentes/mao-de-toutaris), onde atua como negociador geral.
+Rhalyf é um Alto Elfo, nativo da [Corte Élfica](/faccoes/nacoes/corte-elfica) e atualmente habitante de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). Rhalyf é membro da guilda de mercadores [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris), onde atua como negociador geral.
 
 Rhalyf possui pequena afinidade arcana.
 
@@ -18,4 +18,4 @@ Rhalyf possui pequena afinidade arcana.
 `Cabelos` Curtos cabelos louros
 `Altura` 1,77 m
 `Peso` 60 Kg
-`Organizações Associadas` [Mão de Toutaris](http://localhost/en/faccoes/faccoes-independentes/mao-de-toutaris)
+`Organizações Associadas` [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris)

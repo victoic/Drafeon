@@ -22,4 +22,4 @@ Arquefada é o nome dado aos mais poderosos e antigas Fadas de Faéria.
 `Fonte de Autoridade` A autoridade vem do poder que o Fey possui
 `Duração do Termo` Vitalíceo
 `Titulares Anterios` [Sanwu Konn]()
-`Lugar Relacionado` [Faéria](http://localhost/lugares/faeria#faeria)
+`Lugar Relacionado` [Faéria](/lugares/faeria#faeria)

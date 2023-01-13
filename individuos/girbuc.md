@@ -21,5 +21,5 @@ Girbuc é na verdade o Senhor Bastão, líder da gangue.
 `Cabelos` Curtos cabelos castanhos claros
 `Altura` 1,01 m
 `Peso` 28 Kg
-`Organizações Associadas` [Ordem de Déz](http://localhost/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez)
+`Organizações Associadas` [Ordem de Déz](/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez)
 

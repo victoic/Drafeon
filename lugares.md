@@ -51,4 +51,4 @@ Os três planos onde demônios, diabos e celestiais foram criados durante a [bat
 * [Nove Infernos](/lugares/nove-infernos)
 
 ## Demiplanos
-* [Emberez](http://localhost/lugares/emberez#emberez)
+* [Emberez](/lugares/emberez#emberez)

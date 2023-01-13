@@ -19,6 +19,6 @@ Dur lul Bul Tur Bur Tul Bur é cheio de cicatrizes por todo o corpo. Ele possui 
 `Cabelos` Careca
 `Altura` 1,12 m
 `Peso`18 Kg
-`Organizações Associadas` [Tribo Fauxa Azuu](http://localhost/faccoes/faccoes-independentes/tribo-fauxa-azuu#tribo-fauxa-azuu)
+`Organizações Associadas` [Tribo Fauxa Azuu](/faccoes/faccoes-independentes/tribo-fauxa-azuu#tribo-fauxa-azuu)
 `Títulos` Líder da Tribo Fauxa Azuu
 

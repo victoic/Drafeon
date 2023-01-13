@@ -13,7 +13,7 @@ Teodoufo, tal como muitos dos sacerdotes locais, foi abondonado quando bebê nas
 
 # Informações
 `Data de Nascimento` 1714
-`Local de Nascimento` [Porto Preciez](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez#porto-preciez)
+`Local de Nascimento` [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez#porto-preciez)
 `Sexo Biológico` Masculino
 `Olhos` Castanhos escuros
 `Cabelo` Careca

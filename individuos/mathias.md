@@ -7,7 +7,7 @@ tags:
 ---
 
 # Mathias
-Mathias é um Elfo da Floresta habitante de [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). Ele é dono de uma joaelheria chamada [Pedra do Porto](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo/pedra-do-porto).
+Mathias é um Elfo da Floresta habitante de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). Ele é dono de uma joaelheria chamada [Pedra do Porto](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo/pedra-do-porto).
 
 
 # Informações

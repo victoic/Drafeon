@@ -20,5 +20,5 @@ Seu nome, do Orc, significa Corpo Estranho Guardiã dos Ares.
 `Cabelos` Longos cabelos negros, trançados
 `Altura` 1,83 m
 `Peso` 82 Kg
-`Organizações Associadas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao), [Bapul Nokhitsop](/faccoes/faccoes-independentes/bapul-nokhitsop)
+`Organizações Associadas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Bapul Nokhitsop](/faccoes/faccoes-independentes/bapul-nokhitsop)
 `Títulos` [Senhor de Cidade](/rankings-e-titulos/senhor-de-cidade), Nabop

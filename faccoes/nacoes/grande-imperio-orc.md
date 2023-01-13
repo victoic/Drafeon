@@ -15,8 +15,8 @@ O Grande Império Orc foi uma tentativa dos povos Orcs de Drafeon de se unirem p
 `550 da Era de Drafeon - 563 da Era de Drafeon`
 `Tipo` Geopolítico, Império
 `Nomes Alternativos` Traidores Verdes
-`Líder` [Utorolto](http://localhost/individuos/utorolto#utorolto)
+`Líder` [Utorolto](/individuos/utorolto#utorolto)
 `Sistema Governamental` Tribalismo
-`Localização` [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon)
-`Nações Vizinhas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Localização` [Drafeon](/lugares/plano-material/drafeon#drafeon)
+`Nações Vizinhas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 

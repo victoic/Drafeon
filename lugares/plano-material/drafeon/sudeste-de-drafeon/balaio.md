@@ -15,6 +15,6 @@ Balaio é uma grande ilha rochosa, possuindo penhascos por todas as suas costas.
 
 # Informações
 `Tipo` Ilha
-`Sub-locações` [Os Muros do Penhasco](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/balaio/os-muros-do-penhasco#os-muros-do-penhasco)
-`Organização Dominante` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao) 
+`Sub-locações` [Os Muros do Penhasco](/lugares/plano-material/drafeon/sudeste-de-drafeon/balaio/os-muros-do-penhasco#os-muros-do-penhasco)
+`Organização Dominante` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
 

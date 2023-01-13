@@ -58,4 +58,4 @@ Chicoteadores Serpentinn são obrigatoriamente Yuan-Ti, escolhidos entre crianç
 # Informações
 `Tipo` Infantaria
 `Nível de Treinamento Geral` Semi-profissional
-`Usado por` [Exército Serpentinn](http://localhost/faccoes/nacoes/exercito-serpentinn#exercito-serpentinn) 
+`Usado por` [Exército Serpentinn](/faccoes/nacoes/exercito-serpentinn#exercito-serpentinn) 

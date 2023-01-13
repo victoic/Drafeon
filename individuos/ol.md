@@ -7,9 +7,9 @@ tags:
 ---
 
 # Ol
-Ol é um humano carroceiro, morador de [Porto Preciez](http://localhost/en/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez).
+Ol é um humano carroceiro, morador de [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez).
 
-Em 1754 ele foi contratado por um grupo de aventureiros para levá-los à [Grande Champ](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ).
+Em 1754 ele foi contratado por um grupo de aventureiros para levá-los à [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ).
 
 # Informações
 `Data de Nascimento` 1718

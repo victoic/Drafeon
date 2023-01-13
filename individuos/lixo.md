@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Lixo -->
 
 # Lixo
-Lixo é um Povo Lagarto, ex-escravo de [Turufe Padepedra](http://localhost/individuos/turufe-padepedra#turufe-padepedra) em [Vila das Pontes](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes). Seu nome em dracônico, dado pela sua tribo, foi Mirulk, Bosta foi um nome de escravo que o foi dado.
+Lixo é um Povo Lagarto, ex-escravo de [Turufe Padepedra](/individuos/turufe-padepedra#turufe-padepedra) em [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes). Seu nome em dracônico, dado pela sua tribo, foi Mirulk, Bosta foi um nome de escravo que o foi dado.
 
 Lixo foi libertado por um grupo de aventureiros em 1753.
 

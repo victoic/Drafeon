@@ -26,7 +26,7 @@ O vilarejo sobrevive de pequenas fazendas onde o pântano foi drenado e caça e 
 ### Lojas
 * Braços Exaltados - Uma loja ferreira. Propriedade do Anão Gritio;
 * Flechas Dormentes - A modesta taverna e pousada do vilarejo, porém movimentada por ser a única. Propriedade de Gallisa Elfiel;
-* [Gira-Gira Azul](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo/gira-gira-azul#gira-gira-azul) - Uma loja geral. A loja é propriedade de [Mariouro Chifremadeira](http://localhost/individuos/mariouro-chifremadeira#mariouro-chifremadeira)
+* [Gira-Gira Azul](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo/gira-gira-azul#gira-gira-azul) - Uma loja geral. A loja é propriedade de [Mariouro Chifremadeira](/individuos/mariouro-chifremadeira#mariouro-chifremadeira)
 .
 
 ## Geografia

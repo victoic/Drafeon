@@ -7,7 +7,7 @@ tags:
 ---
 
 # Eda Myzirrim
-Eda é uma Drow nascida em [Morronescutorte](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/morronescutorte#morronescutorte) na [Corte Élfica](http://localhost/en/faccoes/nacoes/corte-elfica). Ela e suas duas irmãs, Ganee e Ceve, são exímias feiticeiras da escola arcana. Nascidas na poderosa Myzirrim, elas cultuam Upzot-Myf. Em 1753 Eda e suas irmãs se uniram a [Lakip](http://localhost/en/individuos/lakip-brillabouso) em sua conquista de [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo).
+Eda é uma Drow nascida em [Morronescutorte](/lugares/plano-material/drafeon/norte-de-drafeon/morronescutorte#morronescutorte) na [Corte Élfica](/faccoes/nacoes/corte-elfica). Ela e suas duas irmãs, Ganee e Ceve, são exímias feiticeiras da escola arcana. Nascidas na poderosa Myzirrim, elas cultuam Upzot-Myf. Em 1753 Eda e suas irmãs se uniram a [Lakip](/individuos/lakip-brillabouso) em sua conquista de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo).
 
 
 # Informações

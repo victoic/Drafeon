@@ -34,6 +34,6 @@ As muralhas de Kammeh-Tu são encravadas com desenhos que representam a lenda.
 
 # Informações
 `Data do Primeira Registro` Durante a Era do Caos
-`Lugares Relacionados` [Cidade Dourada](/lugares/faeria/cidade-dourada), [Faéria](http://localhost/lugares/faeria#faeria), [Kammeh-Tu](/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu)
+`Lugares Relacionados` [Cidade Dourada](/lugares/faeria/cidade-dourada), [Faéria](/lugares/faeria#faeria), [Kammeh-Tu](/lugares/plano-material/drafeon/norte-de-drafeon/kammeh-tu)
 `Pessoas Relacionadas` [Sanwu Konn](/individuos/sanwu-konn)
 `Organizações Relacionadas` [Os Monges de Kammeh-Tu](/faccoes/faccoes-independentes/os-monges-de-kammeh-tu)

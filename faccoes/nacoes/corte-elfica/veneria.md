@@ -26,5 +26,5 @@ Veneria é comandada por um rei ou rainha em susseção de escada, com suas subd
 
 # Informações
 `Tipo` Reino
-`Organização Dominante` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
+`Organização Dominante` [Corte Élfica](/faccoes/nacoes/corte-elfica#corte-elfica)
 `Sub-Locações`

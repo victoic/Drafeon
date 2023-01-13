@@ -25,7 +25,7 @@ A Flor do Sol é o símbolo de Zifelia.
 ![símbolo_-_zifelia.png](/uploads/simbolos-divinos/símbolo_-_zifelia.png =30%x){.align-center}
 
 ## Conquistas e Feitos
-Durante a Era dos Deuses, Zifelia em um momento de paixão com [Coercy](http://localhost/divindades/panteao-das-treze-estrelas/coecyr#coecyr) deu vida aos Elfos. Ela se orgulha muito dos seus filhos, de como mantém sua juventude por séculos e de como são belos. A maldição que [Upzot-Myf]() jogou sobre os Elfos, criando os Drow a tornou muito triste.
+Durante a Era dos Deuses, Zifelia em um momento de paixão com [Coercy](/divindades/panteao-das-treze-estrelas/coecyr#coecyr) deu vida aos Elfos. Ela se orgulha muito dos seus filhos, de como mantém sua juventude por séculos e de como são belos. A maldição que [Upzot-Myf]() jogou sobre os Elfos, criando os Drow a tornou muito triste.
 
 # Informações
 `Classificação Divina` Deusa
@@ -34,4 +34,4 @@ Durante a Era dos Deuses, Zifelia em um momento de paixão com [Coercy](http://l
 `Olhos` Olhos rosas vibrantes
 `Cabelo` Cabelos laranjas como o pôr do sol.
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)

@@ -11,7 +11,7 @@ dateCreated: 2019-11-11T16:31:12.840Z
 <!-- SUBTITLE: Deus da Natureza e do Equilíbrio -->
 ![símbolo_-_coecyr.png](/uploads/simbolos-divinos/símbolo_-_coecyr.png){.align-abstopright}
 # Coecyr
-Coecyr é o deus do equilíbrio e, como tal, sempre se interesseou por criar mecanismos autosustentáveis e eternos, em seus experimentos criou a natureza, incluindo a maioria das crituras, plantas e outras formas de vida que habitam o [Plano Material](http://localhost/lugares/plano-material#plano-material). Mas a interrupção dos demais deuses neste plano de existência afetaram seus experimentos, para circunver este problema, Coecyr criou um novo plano, que ficou conhecido como [Faéria](http://localhost/lugares/faeria#faeria). Neste novo plano Coecyr populou formas de vida mais puras.
+Coecyr é o deus do equilíbrio e, como tal, sempre se interesseou por criar mecanismos autosustentáveis e eternos, em seus experimentos criou a natureza, incluindo a maioria das crituras, plantas e outras formas de vida que habitam o [Plano Material](/lugares/plano-material#plano-material). Mas a interrupção dos demais deuses neste plano de existência afetaram seus experimentos, para circunver este problema, Coecyr criou um novo plano, que ficou conhecido como [Faéria](/lugares/faeria#faeria). Neste novo plano Coecyr populou formas de vida mais puras.
 
 A representação mais comum de Coecyr é a de um humanoide cujo a pele é feita de cascalhos, seus pés são raízes que se conectam aos seres vivos. O rosto de Coecyr não possui nenhuma característica além de uma boca.
 
@@ -32,5 +32,5 @@ Coecyr é a criadora dos animais que habitam o mundo, além de criadora do plano
 `Sexo Biológico` Masculino 
 `Olhos` Não possui
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
 

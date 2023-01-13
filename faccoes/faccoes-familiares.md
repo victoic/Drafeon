@@ -11,9 +11,9 @@ tags:
 # Facções Familiares
 
 ## Famílias de Porto Novo
-[Família Brillabouso](http://localhost/faccoes/faccoes-familiares/familia-brillabouso#familia-brillabouso)
-[Família Carvalho-Negro](http://localhost/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro)
-[Família Faralei](http://localhost/faccoes/faccoes-familiares/familia-faralei#familia-faralei)
-[Família Raça D'Ouro](http://localhost/faccoes/faccoes-familiares/familia-raca-douro#familia-raca-douro)
+[Família Brillabouso](/faccoes/faccoes-familiares/familia-brillabouso#familia-brillabouso)
+[Família Carvalho-Negro](/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro)
+[Família Faralei](/faccoes/faccoes-familiares/familia-faralei#familia-faralei)
+[Família Raça D'Ouro](/faccoes/faccoes-familiares/familia-raca-douro#familia-raca-douro)
 
 
