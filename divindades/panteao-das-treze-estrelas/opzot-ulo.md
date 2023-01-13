@@ -32,4 +32,4 @@ Opzot-Ulo deu vida a [Upzot-Myf](), A Grande Aranha e criou a raça dos Yuan-Ti.
 `Olhos` Oito olhos vermelhos
 `Cabelo` Não possui
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)

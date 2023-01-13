@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Povo Lagarto Do Sudeste De Drafeon -->
 
 # Povo Lagarto Do Sudeste De Drafeon
-Os Povos Lagarto do [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon) habitam os pântanos e florestas da região, em tribos rudimentares que sobrevivem da caça e agrupecuária básica. As tribos locais acreditam em [Motemi'Bissz'](http://localhost/divindades/outros-deuses/motemibissz#motemibissz) como principal divindade protetora.
+Os Povos Lagarto do [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon) habitam os pântanos e florestas da região, em tribos rudimentares que sobrevivem da caça e agrupecuária básica. As tribos locais acreditam em [Motemi'Bissz'](/divindades/outros-deuses/motemibissz#motemibissz) como principal divindade protetora.
 
 ## Tradições de Nomeação
 Nomes de família não são utilizados pelo Povo Lagarto do Sudeste de Drafeon.

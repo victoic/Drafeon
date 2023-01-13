@@ -13,7 +13,7 @@ A Escritura da Mansão de Leomund é um contrato mágico que permite até 10 ind
 
 Para realizar o ritual, cada um dos futuros proprietários da mansão deve contribuir com uma lembrança física de sua terra natal.
 
-A Mansão conjurada acompanha um servo, chamado [Servo](http://localhost/en/individuos/servo), que realiza tarefas dentro da mansão. A saída do servo da mansão acarreta em seu desaparecimento permanente.
+A Mansão conjurada acompanha um servo, chamado [Servo](/individuos/servo), que realiza tarefas dentro da mansão. A saída do servo da mansão acarreta em seu desaparecimento permanente.
 
 Itens próprios da mansão não podem ser removidos, os demais são ejetados da mansão com seu desaparecimento.
 
@@ -42,4 +42,4 @@ A Escritura possui uma série de termos relativos a conjuração bem sucedida da
 `Tipo` Contrato, Privado
 `Meio` Papel 
 `Data de Ratificação` ?
-`Autores` [Leomund](http://localhost/en/individuos/leomund)
+`Autores` [Leomund](/individuos/leomund)

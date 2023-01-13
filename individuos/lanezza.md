@@ -17,6 +17,6 @@ Lanezza é uma aasimar, nascida em 1605 da Era de Drafeon. Ela é uma das Anciã
 `Cabelos` Louros
 `Altura` 1,59 m
 `Peso` 50 Kg
-`Organizações Associadas` [Três Mãos](http://localhost/faccoes/faccoes-independentes/tres-maos#tres-maos)
-`Títulos` [Ancião das Três Mãos](http://localhost/rankings-e-titulos/anciao-das-tres-maos#anciao-das-tres-maos)
+`Organizações Associadas` [Três Mãos](/faccoes/faccoes-independentes/tres-maos#tres-maos)
+`Títulos` [Ancião das Três Mãos](/rankings-e-titulos/anciao-das-tres-maos#anciao-das-tres-maos)
 

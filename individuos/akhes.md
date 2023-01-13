@@ -9,7 +9,7 @@ tags:
 ![naga_espiritual_-_token.png](/uploads/retratos/naga_espiritual_-_token.png){.align-center}
 
 # Akhes
-Akhes é uma Naga Espiritual. Atualmente ele faz seu cóvil em [Carverna da Torneira](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/caverna-da-torneira), no [Sudeste de Drafeon](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon), onde passa seu tempo estudando livros arcanos deixados por seus criadores e coletando antigos artefatos.
+Akhes é uma Naga Espiritual. Atualmente ele faz seu cóvil em [Carverna da Torneira](/lugares/plano-material/drafeon/sudeste-de-drafeon/caverna-da-torneira), no [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon), onde passa seu tempo estudando livros arcanos deixados por seus criadores e coletando antigos artefatos.
 
 Akhes possui alguns seguidores a quem ela ensina uma seleta parte de seus conhecimentos.
 

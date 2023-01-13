@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Purvo Brillabouso -->
 
 # Purvo Brillabouso
-Purvo é um gnomo, residente e Chefe da Guarda de [Porto Novo](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
+Purvo é um gnomo, residente e Chefe da Guarda de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
 
 # Informações
 `Títulos` Chefe da Guarda
@@ -19,4 +19,4 @@ Purvo é um gnomo, residente e Chefe da Guarda de [Porto Novo](http://localhost/
 `Cabelos` Louros, curtos
 `Altura` 0,92 m
 `Peso` 30 Kg
-`Organizações Associadas` [Família Brillabouso](http://localhost/faccoes/faccoes-familiares/familia-brillabouso#familia-brillabouso), [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Organizações Associadas` [Família Brillabouso](/faccoes/faccoes-familiares/familia-brillabouso#familia-brillabouso), [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)

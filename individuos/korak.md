@@ -7,7 +7,7 @@ tags:
 ---
 
 # Korak
-Korak é um meio-orc, Capitão Detetive da [Guarda Imperial](http://localhost/en/faccoes/nacoes/guarda-imperial) em [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). É é musculoso e carrancudo e está sempre fumando.
+Korak é um meio-orc, Capitão Detetive da [Guarda Imperial](/faccoes/nacoes/guarda-imperial) em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). É é musculoso e carrancudo e está sempre fumando.
 
 ## História
 Korak entrou para a Guarda Imperial de Porto Novo após sua esposa ser assassinada e o assassino não ser encontrado. Ele rapidamente subiu os ranking do ramo investigativo da Guarda, por seu uso de contatos informantes no submundo e raça ao entrar em um caso.
@@ -23,5 +23,5 @@ Entre os anos 1753 e 1754 da Era de Drafeon ele foi encarregado de investigar um
 `Cabelos` Careca
 `Altura` 1,72 m
 `Peso` 86 Kg
-`Organizações Associadas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao), [Guarda Imperial](http://localhost/en/faccoes/nacoes/guarda-imperial)
+`Organizações Associadas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Guarda Imperial](/faccoes/nacoes/guarda-imperial)
 `Títulos` Capitao Detetive

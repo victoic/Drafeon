@@ -22,5 +22,5 @@ O nome do local vem de uma rara planta que Mariouro encontrou em suas expediçõ
 
 # Informações
 `Tipo` Loja 
-`Localização` [Poço Raso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso)
-`Proprietário` [Mariouro Chifremadeira](http://localhost/individuos/mariouro-chifremadeira#mariouro-chifremadeira)
+`Localização` [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso)
+`Proprietário` [Mariouro Chifremadeira](/individuos/mariouro-chifremadeira#mariouro-chifremadeira)

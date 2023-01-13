@@ -13,6 +13,6 @@ O Muro das Pontas é uma cadeia de montanhas no Sudeste de Drafeon, que divide o
 
 # Informações
 `Tipo` Cadeia de Montanhas
-`Sub-locações` [Pico do Bico](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas/pico-do-bico)
+`Sub-locações` [Pico do Bico](/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas/pico-do-bico)
 
 

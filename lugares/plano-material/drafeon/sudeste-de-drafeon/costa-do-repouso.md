@@ -17,6 +17,6 @@ Em 1753 a vila foi sede do grande torneio do Larinov, onde diversos grupos de av
 `Tipo` Vila
 `População` 25 
 `Gentílico` Costense
-`Sub-locações` [Mão da Forja](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso/mao-da-forja#mao-da-forja)
-`Organização Dominante` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao) 
+`Sub-locações` [Mão da Forja](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso/mao-da-forja#mao-da-forja)
+`Organização Dominante` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
 

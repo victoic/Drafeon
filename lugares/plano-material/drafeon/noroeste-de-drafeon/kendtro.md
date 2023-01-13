@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Kêndtro -->
 
 # Kêndtro
-Kêndtro é a capital e maior cidade do Império Dragão. A cidade foi fundada por [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur), o [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao) como morada e capital para o Império que fundara. 
+Kêndtro é a capital e maior cidade do Império Dragão. A cidade foi fundada por [Makil Drasonur](/individuos/makil-drasonur#makil-drasonur), o [Imperador Dragão](/rankings-e-titulos/imperador-dragao#imperador-dragao) como morada e capital para o Império que fundara. 
 
 O nome significa "centro" em Gnomês.
 
@@ -19,6 +19,6 @@ A cidade é historicamente de alta diversidade étnica, sendo receptiva a todas 
 # Informações
 `Tipo` Capital
 `Gentílico` Kêndtroano
-`Governante` [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur)
-`Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Governante` [Makil Drasonur](/individuos/makil-drasonur#makil-drasonur)
+`Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 

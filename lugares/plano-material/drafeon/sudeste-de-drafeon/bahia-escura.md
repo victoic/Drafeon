@@ -14,6 +14,6 @@ Este é o maior pântano da região. Em seu exterior ele se encontra com os bosq
 # Informações
 `Nomes Alternativos` Bua'tyk Szkar
 `Tipo` Pântano
-`Sub-locações` [Kzs Bua'tyk Szkar](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/bahia-escura/kzs-buatyk-szkar)
-`Organização Dominante` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao) 
+`Sub-locações` [Kzs Bua'tyk Szkar](/lugares/plano-material/drafeon/sudeste-de-drafeon/bahia-escura/kzs-buatyk-szkar)
+`Organização Dominante` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
 

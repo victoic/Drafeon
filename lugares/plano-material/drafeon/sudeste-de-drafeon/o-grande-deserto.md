@@ -9,9 +9,9 @@ tags:
 <!-- SUBTITLE: Visão geral sobre O Grande Deserto -->
 
 # O Grande Deserto
-O Grande Deserto é um deserto costeiro localizado ao leste do [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon). Nesse deserto se localiza o Império Serpentinn.
+O Grande Deserto é um deserto costeiro localizado ao leste do [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon). Nesse deserto se localiza o Império Serpentinn.
 
 # Informações
 `Tipo` Deserto
-`Organizações Dominantes` [Império Serpentinn](http://localhost/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn)
+`Organizações Dominantes` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn)
 

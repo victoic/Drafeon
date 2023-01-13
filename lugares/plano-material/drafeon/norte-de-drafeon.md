@@ -14,8 +14,8 @@ dateCreated: 2019-11-11T16:33:23.332Z
 
 # Informações
 `Tipo` Região
-`Organizações Incluidas` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica), [Veneria](http://localhost/faccoes/nacoes/corte-elfica/veneria)
-`Organizações Dominantes` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica), [Veneria](http://localhost/faccoes/nacoes/corte-elfica/veneria)
-`Sub-locações` [Veneria](http://localhost/faccoes/nacoes/corte-elfica/veneria), [Ginnungagap](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/ginnungagap#ginnungagap), [Morronescutorte](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/morronescutorte#morronescutorte)
-[`Etnias`](http://localhost/lugares/plano-material/drafeon/norte-de-drafeon/etnias-do-norte-de-drafeon#etnias-do-norte-de-drafeon)
+`Organizações Incluidas` [Corte Élfica](/faccoes/nacoes/corte-elfica), [Veneria](/faccoes/nacoes/corte-elfica/veneria)
+`Organizações Dominantes` [Corte Élfica](/faccoes/nacoes/corte-elfica), [Veneria](/faccoes/nacoes/corte-elfica/veneria)
+`Sub-locações` [Veneria](/faccoes/nacoes/corte-elfica/veneria), [Ginnungagap](/lugares/plano-material/drafeon/norte-de-drafeon/ginnungagap#ginnungagap), [Morronescutorte](/lugares/plano-material/drafeon/norte-de-drafeon/morronescutorte#morronescutorte)
+[`Etnias`](/lugares/plano-material/drafeon/norte-de-drafeon/etnias-do-norte-de-drafeon#etnias-do-norte-de-drafeon)
 

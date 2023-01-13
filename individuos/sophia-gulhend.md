@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: A Sacerdotisa Mor -->
 
 # Sophia Gul'hend
-Sophia é uma meia-elfa, sacerdotisa líder do culto de [Aaos](http://localhost/divindades/panteao-das-treze-estrelas/aaos#aaos). Ele é casada com [Makil Drasonur](http://localhost/individuos/makil-drasonur#makil-drasonur), o [Imperador Dragão](http://localhost/rankings-e-titulos/imperador-dragao#imperador-dragao) desde 1723.
+Sophia é uma meia-elfa, sacerdotisa líder do culto de [Aaos](/divindades/panteao-das-treze-estrelas/aaos#aaos). Ele é casada com [Makil Drasonur](/individuos/makil-drasonur#makil-drasonur), o [Imperador Dragão](/rankings-e-titulos/imperador-dragao#imperador-dragao) desde 1723.
 
 # Informações
 `Nascimento` 1651
@@ -19,6 +19,6 @@ Sophia é uma meia-elfa, sacerdotisa líder do culto de [Aaos](http://localhost/
 `Cabelo Cabelos` Longos cabelos pretos e lisos.
 `Altura` 1,66 m
 `Peso` 54 Kg
-`Organizações Associadas` [Império Dragão](http://localhost/faccoes/imperio-dragao#imperio-dragao)
+`Organizações Associadas` [Império Dragão](/faccoes/imperio-dragao#imperio-dragao)
 `Títulos` [Sacerdotisa Mor]()
 

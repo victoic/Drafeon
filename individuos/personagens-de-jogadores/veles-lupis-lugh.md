@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Veles Lupis Lugh -->
 
 # Veles Lupis Lugh
-Veles é um Drow, membro da Mão de Toutaris especializado em artes e aventureiro. Atualmente reside em [Porto Novo](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
+Veles é um Drow, membro da Mão de Toutaris especializado em artes e aventureiro. Atualmente reside em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
 
 ## História
 Veles, artista e apostador nato, sempre viveu dos riscos das cartas, seja em tavernas, seja com as guildas mercantes. Com o passar dos anos, aos membros das guildas com quem jogava, logo ele via a oportunidade de divulgar sua arte e talvez ganhar algo com isso.
@@ -29,4 +29,4 @@ Usando os seus contatos com os mercantes, ele conseguiu sair do subterrâneo, e 
 `Pele` Cinza
 `Altura` 1,65 m
 `Peso` 69 Kg
-`Organizações Associadas` [Mão de Toutaris](http://localhost/faccoes/faccoes-independentes/mao-de-toutaris#mao-de-toutaris)
+`Organizações Associadas` [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris#mao-de-toutaris)

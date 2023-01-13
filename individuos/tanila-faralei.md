@@ -7,7 +7,7 @@ tags:
 ---
 
 # Tanila Faralei
-Tanila Faralei é uma Elfa da Floresta, habitante de [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) e Grande Capitã da [Guarda Imperial](http://localhost/en/faccoes/nacoes/guarda-imperial) de Porto Novo.
+Tanila Faralei é uma Elfa da Floresta, habitante de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) e Grande Capitã da [Guarda Imperial](/faccoes/nacoes/guarda-imperial) de Porto Novo.
 
 
 # Informações
@@ -17,5 +17,5 @@ Tanila Faralei é uma Elfa da Floresta, habitante de [Porto Novo](http://localho
 `Cabelos` Longos cabelos ruivos
 `Altura` 1,76 m
 `Peso` 67 Kg
-`Organizações Associadas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao), [Guarda Imperial](http://localhost/en/faccoes/nacoes/guarda-imperial)
+`Organizações Associadas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Guarda Imperial](/faccoes/nacoes/guarda-imperial)
 `Títulos` Grade Capitã

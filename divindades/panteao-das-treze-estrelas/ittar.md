@@ -30,5 +30,5 @@ Ittar criou os quatro planos elementais a partir de partes de seu corpo, um para
 `Alinhamento` Leal e mal 
 `Sexo Biológico` Não possui 
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
 

@@ -18,5 +18,5 @@ Acoplado à loja se encontra a casa do proprietário, também de pedra, a entrad
 
 `Nomes Alternativos` Loja do Boris 
 `Tipo` Ferreiro
-`Proprietário` [Boris Enimis](http://localhost/individuos/boris-enimis#boris-enimis)
+`Proprietário` [Boris Enimis](/individuos/boris-enimis#boris-enimis)
 

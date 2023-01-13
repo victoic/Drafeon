@@ -10,7 +10,7 @@ dateCreated: 2020-01-15T15:04:43.481Z
 
 ![símbolo_-_guarda_imperial.png](/uploads/simbolos/símbolo_-_guarda_imperial.png){.align-abstopright}
 # Guarda Imperial
-A Guarda Imperial, comumente conhecida como Guarda, é uma organização militar do [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao), presente na maioria dos assentamentos do Império com variados níveis de presença e treinamento.
+A Guarda Imperial, comumente conhecida como Guarda, é uma organização militar do [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), presente na maioria dos assentamentos do Império com variados níveis de presença e treinamento.
 
 A Guarda age sob comando do Senhor do assentamento (de Terras, Grande Senhor de Terras, de Cidades ou de Região) onde está localizada. A Guarda possui responsabilidades de proteção, investigação e escoltamento de pessoal.
 

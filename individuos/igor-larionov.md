@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Igor Larionov -->
 
 # Igor Larionov
-Igor Larionov é um velho gnomo aventureiro aposentado, habitante de [Costa do Repouso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso#costa-do-repouso), que gasta seu tempo aprimorando suas antigas invenções feitas enquanto se aventuram ou criam novas. Igor recebeu muitos treinamentos em diversas habilidade, mas mecânicas e arcana sempre lhe chamaram mais atenção, se especializando nestas e foi empregado por diversos indivíduos poderosos para a criação de itens poderosíssimos.
+Igor Larionov é um velho gnomo aventureiro aposentado, habitante de [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso#costa-do-repouso), que gasta seu tempo aprimorando suas antigas invenções feitas enquanto se aventuram ou criam novas. Igor recebeu muitos treinamentos em diversas habilidade, mas mecânicas e arcana sempre lhe chamaram mais atenção, se especializando nestas e foi empregado por diversos indivíduos poderosos para a criação de itens poderosíssimos.
 
 Certas invenções de Igor são bastante famosas:
 * Criador de um mecanismo mágico de refrigeração que é um sucesso entre nobres do sul de Drafeon;

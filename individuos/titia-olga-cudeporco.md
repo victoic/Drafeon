@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Titia Olga Cudeporco -->
 
 # Titia Olga Cudeporco
-Titia Olga Cudeporco é uma bruxa da noite que habita a [Bahia Escura](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/bahia-escura#bahia-escura). Titia Olga deseja se tornar uma avó e não consegue resistir de flertar com um homem bonito. A bruxa exige que todas as suas barganhas sejam escritas e assinadas com o sangue da outra parte.
+Titia Olga Cudeporco é uma bruxa da noite que habita a [Bahia Escura](/lugares/plano-material/drafeon/sudeste-de-drafeon/bahia-escura#bahia-escura). Titia Olga deseja se tornar uma avó e não consegue resistir de flertar com um homem bonito. A bruxa exige que todas as suas barganhas sejam escritas e assinadas com o sangue da outra parte.
 
 Em 1753 da Era de Drafeon, Titia Olga realizou uma ritual como parte de uma disputa para se torna o terceiro membro do Conciliábulo Negro. Dividido em 7 etapas, o ritural permitiu que a bruxa influenciasse os moradores de Vila das Pontes de maneiras crueis, finalizando por causar insanidade na maior parte dos moradores, os tornando canibais furiosos.
 
@@ -30,6 +30,6 @@ Em 1753 da Era de Drafeon, Titia Olga realizou uma ritual como parte de uma disp
 `Cabelo` Pretos lisos
 `Altura` 1,99 m
 `Peso` 72 Kg
-`Organizações Associadas` [Conciliábulo Negro](http://localhost/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
-`Títulos` [Titia](http://)
+`Organizações Associadas` [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
+`Títulos` [Titia]()
 

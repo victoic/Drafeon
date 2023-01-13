@@ -10,10 +10,10 @@ tags:
 
 # Fauna E Flora
 ## Fauna
-[Raças Inteligentes](http://localhost/fauna-e-flora/racas-inteligentes#racas-inteligentes)
-[Urso Uivante](http://localhost/fauna-e-flora/urso-uivante#urso-uivante)
+[Raças Inteligentes](/fauna-e-flora/racas-inteligentes#racas-inteligentes)
+[Urso Uivante](/fauna-e-flora/urso-uivante#urso-uivante)
 
 ## Flora
-[Pé-Cascus](http://localhost/fauna-e-flora/pe-cascus#pe-cascus)
-[Madeira Ferro (Flora)](http://localhost/fauna-e-flora/madeira-ferro-flora#madeira-ferro-flora)
+[Pé-Cascus](/fauna-e-flora/pe-cascus#pe-cascus)
+[Madeira Ferro (Flora)](/fauna-e-flora/madeira-ferro-flora#madeira-ferro-flora)
 

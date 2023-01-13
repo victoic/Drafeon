@@ -15,9 +15,9 @@ Apesar da idade, ele ainda aparenta ser forte e bem saudável. Ele também não 
 
 ## História
 
-Zerke foi levado de sua família alguns dias após nascer. Sua tribo vivia na miséria, e em uma das buscas por alimentos que frequentemente seus pais faziam, encontraram por acaso na estrada um grupo escoltando um humano, Senhor das terras de [Montravu](http://localhost/en/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu), que ficou encantado com a aparência bela do filhote e ofereceu uma quantia generosa em troca de levá-lo como seu animal de estimação. Seus pais, percebendo que talvez nunca mais tivessem tal oportunidade novamente, o venderam para prolongar um pouco mais o fim da tribo.
+Zerke foi levado de sua família alguns dias após nascer. Sua tribo vivia na miséria, e em uma das buscas por alimentos que frequentemente seus pais faziam, encontraram por acaso na estrada um grupo escoltando um humano, Senhor das terras de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu), que ficou encantado com a aparência bela do filhote e ofereceu uma quantia generosa em troca de levá-lo como seu animal de estimação. Seus pais, percebendo que talvez nunca mais tivessem tal oportunidade novamente, o venderam para prolongar um pouco mais o fim da tribo.
 
-Zerke cresceu em um grande castelo cercado de regalias. Ainda jovem demonstrou ser curioso e gostar de aprender, e frequentemente estava próximo do Senhor que o comprara, o [Senhor de Cidade](http://localhost/en/rankings-e-titulos/senhor-de-cidade) [Daraman Montravu](http://localhost/en/individuos/daraman-montravu). Tal comportamento, aliado ao fato de não ter herdeiros, permitiu que Montravu o visse como algo além de um mero animal de estimação e este passou a trata-lo como filho. Por esta razão, Zerke recebeu tratamento de nobre, aprendendo técnicas de luta e conhecimentos sobre magias, vivendo toda sua vida ao lado do humano que o comprou, e dirigia-se a ele como pai.
+Zerke cresceu em um grande castelo cercado de regalias. Ainda jovem demonstrou ser curioso e gostar de aprender, e frequentemente estava próximo do Senhor que o comprara, o [Senhor de Cidade](/rankings-e-titulos/senhor-de-cidade) [Daraman Montravu](/individuos/daraman-montravu). Tal comportamento, aliado ao fato de não ter herdeiros, permitiu que Montravu o visse como algo além de um mero animal de estimação e este passou a trata-lo como filho. Por esta razão, Zerke recebeu tratamento de nobre, aprendendo técnicas de luta e conhecimentos sobre magias, vivendo toda sua vida ao lado do humano que o comprou, e dirigia-se a ele como pai.
 
 Apesar de toda sua existência ter sido bem tranquila e confortável, a curiosidade de Zerke o fazia ansiar por presenciar batalhas e aventuras das quais ouvia falar em histórias no castelo, e apesar das insistências, esta permissão nunca lhe foi dada por seu pai adotivo que o superprotegia.  Tal decisão embora entristecesse o velho Aarakocra, não o impedia que seguisse sua vida feliz, de certo modo.
 
@@ -37,4 +37,4 @@ Até que em uma noite em uma taverna qualquer, ouviu falar em um aventureiro, um
 `Cabelo` Penas brancas
 `Altura` 1,60 m
 `Peso` 38,55 Kg
-`Organizações Associadas` [Confraria da Rosa Negra](http://localhost/faccoes/faccoes-independentes/confraria-da-rosa-negra)
+`Organizações Associadas` [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra)

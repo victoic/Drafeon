@@ -11,7 +11,7 @@ dateCreated: 2019-11-11T16:29:17.577Z
 <!-- SUBTITLE: Visão geral sobre Sanwu Konn -->
 
 # Sanwu Konn
-Sanwu Konn, foi um humano nascido na Era das Raças, com traços de macaco: peludo, com orelhas grandes e uma calda. Ele foi expulso da família ainda bebê, como uma abominação e uma maldição demoníaca, sendo deixado dois dias de viagem dentro da [Floresta Selvagem](http://). Sanwu é um humano que possui características de primata. É possui estatura mediana e porte físico forte. É incrivelmente ágil.
+Sanwu Konn, foi um humano nascido na Era das Raças, com traços de macaco: peludo, com orelhas grandes e uma calda. Ele foi expulso da família ainda bebê, como uma abominação e uma maldição demoníaca, sendo deixado dois dias de viagem dentro da [Floresta Selvagem](). Sanwu é um humano que possui características de primata. É possui estatura mediana e porte físico forte. É incrivelmente ágil.
 
 Sanwu sempre acreditou na bondade e paz interior, acreditava que para o entendimento do mundo era necessário meditação e contato com a natureza. Ele adorava comida e subir em árvore e era um devoto de Coecyr.
 

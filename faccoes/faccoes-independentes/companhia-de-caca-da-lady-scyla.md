@@ -19,8 +19,8 @@ Lema da Companhia De Caca Da Lady Scyla
 
 # Informações
 `Tipo` Grupo de Aventureiros
-`Líder` [Scyla Faralei](http://localhost/en/individuos/scyla-faralei)
-`Localização` [Porto Novo](http://localhost/en/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo)
+`Líder` [Scyla Faralei](/individuos/scyla-faralei)
+`Localização` [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo)
 `Membros Notáveis`
 
 

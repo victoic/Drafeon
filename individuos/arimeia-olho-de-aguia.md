@@ -22,6 +22,6 @@ Arimeia possui excelentes habilidades espaciais e de navegação. Conhece as cos
 `Altura` 1,67 m
 `Peso` 54 Kg
 `Citações e Bordões` "Onde desembarcam?" - Arimeia 'Olho de Águia'
-`Veículos Possuídos` [O Tumulto](http://localhost/faccoes/faccoes-independentes/o-tumulto-faccao#o-tumulto)
-`Organizações Associadas` [O Tumulto](http://localhost/veiculos/escuna/o-tumulto-navio#o-tumulto-navio)
+`Veículos Possuídos` [O Tumulto](/faccoes/faccoes-independentes/o-tumulto-faccao#o-tumulto)
+`Organizações Associadas` [O Tumulto](/veiculos/escuna/o-tumulto-navio#o-tumulto-navio)
 

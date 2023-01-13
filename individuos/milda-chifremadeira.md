@@ -7,7 +7,7 @@ tags:
 ---
 
 # Milda Chifremadeira
-Milda Chifremadeira é uma Halfling, irmã caçula de [Mariouro Chifremadeira](http://localhost/individuos/mariouro-chifremadeira#mariouro-chifremadeira). Milda aprende alquimia com sua irmã.
+Milda Chifremadeira é uma Halfling, irmã caçula de [Mariouro Chifremadeira](/individuos/mariouro-chifremadeira#mariouro-chifremadeira). Milda aprende alquimia com sua irmã.
 
 Em 1753 Milda foi sequestrada por um grupo de kobolds famintos. Ela foi salva por um grupo de aventureiros, juntamente com sua irmã Mariouro Chifremadeira, no dia seguinte.
 

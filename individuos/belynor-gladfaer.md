@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Belynor Gladfaer -->
 
 # Belynor Gladfaer
-Belynor Gladfaer foi um meio-elfo membro da Ordem de Ouro. Em 20 de Gadot de 1753 da Era de Drafeon, ele foi morto por uma Aparição durante a exploração da Tumba de Azaroth. Seu corpo se encontra enterrado na ilha de [Felicidade](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/felicidade#felicidade).
+Belynor Gladfaer foi um meio-elfo membro da Ordem de Ouro. Em 20 de Gadot de 1753 da Era de Drafeon, ele foi morto por uma Aparição durante a exploração da Tumba de Azaroth. Seu corpo se encontra enterrado na ilha de [Felicidade](/lugares/plano-material/drafeon/sudeste-de-drafeon/felicidade#felicidade).
 
 Belynor nasceu em um dos vilarejos da ilha de Felicidade, fugindo com sua família após a invasão do dragão vermelho. Belynor começou a mostrar sinais de domínio arcano ainda jovem. Em sua adolescência se juntou à Ordem de Ouro para impedir eventos como os que ocorreram em sua terra natal.
 
@@ -21,4 +21,4 @@ Belynor nasceu em um dos vilarejos da ilha de Felicidade, fugindo com sua famíl
 `Cabelos` Cabelos curtos e bagunçado, castanho escuro
 `Altura` 1,65 m
 `Peso` 63  Kg
-`Organizações Relacionadas` [Ordem de Ouro](http://localhost/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)
+`Organizações Relacionadas` [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)

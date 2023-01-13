@@ -25,5 +25,5 @@ O Gonshad possui um Gonshad Saalar, esse pode ser:
 
 # Informações
 `Nível de Treinamento Geral` Semi-profissional
-`Usado por` [Exército Serpentinn](http://localhost/faccoes/nacoes/exercito-serpentinn#exercito-serpentinn)
+`Usado por` [Exército Serpentinn](/faccoes/nacoes/exercito-serpentinn#exercito-serpentinn)
 

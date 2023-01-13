@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Tunoet Pés-Descalços -->
 
 # Tunoet Pés-Descalços
-Tunoet Pés-Descalços é um gnomo, residente de [Sem Vento](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/sem-vento#sem-vento). Tunoet, juntamente com sua esposa [Blingoi Pés-Descalços](http://localhost/individuos/blingoi-pes-descalcos#blingoi-pes-descalcos), são donos, administradores e coletores da Pés-Descalços Seivadores de Cascus, uma companhia de seivadores de [Seiva-Cascus](http://localhost/fauna-e-flora/pe-cascus#pe-cascus).
+Tunoet Pés-Descalços é um gnomo, residente de [Sem Vento](/lugares/plano-material/drafeon/sudeste-de-drafeon/sem-vento#sem-vento). Tunoet, juntamente com sua esposa [Blingoi Pés-Descalços](/individuos/blingoi-pes-descalcos#blingoi-pes-descalcos), são donos, administradores e coletores da Pés-Descalços Seivadores de Cascus, uma companhia de seivadores de [Seiva-Cascus](/fauna-e-flora/pe-cascus#pe-cascus).
 
 # Informações
 `Data de Nascimento` 1548 
@@ -19,5 +19,5 @@ Tunoet Pés-Descalços é um gnomo, residente de [Sem Vento](http://localhost/lu
 `Pele` Morena
 `Altura` 0,89 m
 `Peso` 20 Kg
-`Organizações Associadas` [Pés-Descalços Seivadores de Cascus](http://localhost/faccoes/faccoes-independentes/pes-descalcos-seivadores-de-cascus#pes-descalcos-seivadores-de-cascus)
+`Organizações Associadas` [Pés-Descalços Seivadores de Cascus](/faccoes/faccoes-independentes/pes-descalcos-seivadores-de-cascus#pes-descalcos-seivadores-de-cascus)
 

@@ -34,5 +34,5 @@ O símbolo utilizado por adoradores de Fateus é o de uma nuvem de tempestade at
 `Sexo Biológico` Masculino 
 `Olhos` De água
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
 

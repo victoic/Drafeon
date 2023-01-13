@@ -19,7 +19,7 @@ Glegércio fez um acordo com Titia Olga Cudeporco, para que Ziza Puen se apaixon
 
 # Informações
 `Data de Nascimento` 1725 
-`Local de Nascimento` [Vila das Pontes](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes)
+`Local de Nascimento` [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes)
 `Sexo Biológico` Masculino
 `Olhos` Olhos verdes
 `Cabelos` Cabelos médios ruivos.

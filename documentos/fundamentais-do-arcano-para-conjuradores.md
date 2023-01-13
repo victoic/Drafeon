@@ -9,7 +9,7 @@ dateCreated: 2020-08-14T17:14:22.305Z
 ---
 
 # Fundamentais do Arcano para Conjuradores
-Fundamentais do Arcano para Conjuradores é um livro escrito por Veles L. Lugh. A versão original do livro, escrita pelo aventureiro durante suas viagens pelo [Sul de Drafeon](http://localhost/en/lugares/plano-material/drafeon/sul-de-drafeon), possui uma capa de couro branco com uma ilustração de uma rosa negra.
+Fundamentais do Arcano para Conjuradores é um livro escrito por Veles L. Lugh. A versão original do livro, escrita pelo aventureiro durante suas viagens pelo [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon), possui uma capa de couro branco com uma ilustração de uma rosa negra.
 
 O livro contêm explicações arcanas básicas para conjuradores iniciantes, apontando de forma altamente didática os passos a serem seguidos para obter conhecimento de feitiços específicos.
 
@@ -39,4 +39,4 @@ A explanação das escolas arcanas e truques, no segundo capítulo, apesar de n�
 `Tipo` Manual, Mágico/Oculto
 `Meio` Papel 
 `Data de Ratificação` Em Fateus de 1754 da Era de Drafeon 
-`Autores` [Veles Lugh](http://localhost/en/individuos/personagens-de-jogadores/veles-lupis-lugh)
+`Autores` [Veles Lugh](/individuos/personagens-de-jogadores/veles-lupis-lugh)

@@ -9,11 +9,11 @@ tags:
 <!-- SUBTITLE: O Martelo -->
 
 # Boris Enimis
-Boris é um gnomo habitante da cidade de [Costa do Repouso](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso#costa-do-repouso), ao [Sudeste de Drafeon](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon). Boris foi um conhecido aventureiro em [Drafeon](http://localhost/lugares/plano-material/drafeon#drafeon), hoje é um grande ferreiro dono da [Mão da Forja](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso/mao-da-forja#mao-da-forja). 
+Boris é um gnomo habitante da cidade de [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso#costa-do-repouso), ao [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon). Boris foi um conhecido aventureiro em [Drafeon](/lugares/plano-material/drafeon#drafeon), hoje é um grande ferreiro dono da [Mão da Forja](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso/mao-da-forja#mao-da-forja). 
 
 Boris recebeu um curto treinamento de ferreiro enquanto criança, concluiu seus estudos na área após fazer fortuna como aventureiro. Foi um mercenário para diversas organizações, legais e ilegais. Foi integralmente aprendiz de um ferreiro por três meses. Após se aposentar de suas aventuras abriu uma forja em Costa do Repouso.
 
-Suas motivações foram alcançadas ao se vingar do [Grande Senhor de Terras](http://localhost/rankings-e-titulos/grande-senhor-de-terras#grande-senhor-de-terras) que enganou seu pai e honrar seu nome criando uma famosa forja.
+Suas motivações foram alcançadas ao se vingar do [Grande Senhor de Terras](/rankings-e-titulos/grande-senhor-de-terras#grande-senhor-de-terras) que enganou seu pai e honrar seu nome criando uma famosa forja.
 
 Boris possui três aprendizes gnomos em sua forja: Pavel, Vassily e Katarina.
 

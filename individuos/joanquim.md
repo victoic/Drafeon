@@ -7,9 +7,9 @@ tags:
 ---
 
 # Joanquim
-Joanquim é um jovem humano, habitante de [Águas Negras](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/aguas-negras). Aos 11 anos Joanquim construiu com a ajuda de seu pai um catamarã e o usa para ganhar moedas transportando pessoas e carga entre as margens do rio que ligam a cidade a estrada principal do [Sul de Drafeon](http://localhost/en/lugares/plano-material/drafeon/sul-de-drafeon).
+Joanquim é um jovem humano, habitante de [Águas Negras](/lugares/plano-material/drafeon/sul-de-drafeon/aguas-negras). Aos 11 anos Joanquim construiu com a ajuda de seu pai um catamarã e o usa para ganhar moedas transportando pessoas e carga entre as margens do rio que ligam a cidade a estrada principal do [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon).
 
-> Veles, um aventureiro, preparou [um livro de magia](http://localhost/en/documentos/fundamentais-do-arcano-para-conjuradores) para ensinar o básico do arcanismo para Joanquim.
+> Veles, um aventureiro, preparou [um livro de magia](/documentos/fundamentais-do-arcano-para-conjuradores) para ensinar o básico do arcanismo para Joanquim.
 {.is-info}
 
 

@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Grox -->
 
 # Grox
-Grox é um Povo Lagarto, habitante de [Porto Novo](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo). Ele trabalha descarregando caixas nas docas ou, quando possível, transportando viajantes em carruagens.
+Grox é um Povo Lagarto, habitante de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo). Ele trabalha descarregando caixas nas docas ou, quando possível, transportando viajantes em carruagens.
 
 # Informações
 `Data de Nascimento` 1730 

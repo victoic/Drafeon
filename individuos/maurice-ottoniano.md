@@ -10,11 +10,11 @@ tags:
 
 # Maurice Ottoniano
 
-Maurice Ottoniano é um velho humano morador de [Grande Champ](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ). Maurice possui um museu de contos na cidade e é conhecido por ser um coletor de histórias religiosas e demoníacas.
+Maurice Ottoniano é um velho humano morador de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ). Maurice possui um museu de contos na cidade e é conhecido por ser um coletor de histórias religiosas e demoníacas.
 
 # Informações
 `Data de Nascimento` 1690 
-`Local de Nascimento` [Grande Champ](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ)
+`Local de Nascimento` [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ)
 `Sexo Biológico` Masculino
 `Olhos` Olhos pretos (cego de um olho)
 `Cabelos` Cabelos brancos

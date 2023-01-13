@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Ginnungagap -->
 
 # Ginnungagap
-Ginnungagap é uma cidade no Underdark da Corte Élfica. A cidade é composta majoritariamente por [Drows](http://localhost/fauna-e-flora/racas-inteligentes/elfo-negro#elfo-negro).
+Ginnungagap é uma cidade no Underdark da Corte Élfica. A cidade é composta majoritariamente por [Drows](/fauna-e-flora/racas-inteligentes/elfo-negro#elfo-negro).
 
 A cidade é dividida em diversas camadas, primeiramente existe uma divisão sexual e racial, fêmeas Elfas Negras possuem os maiores privilégios, seguidas dos machos da espécie, outras raças, com exceção de outros elfos, são vistas como servos naturais.   Dentre as fêmeas Elfas Negras, duas castas são presentes:
 * Upzot-Kreea: "Cria de Upzot", são fêmeas divinamente escolhidas por [Upzot-Myf](), fundadoras da cidade. Ocupam os cargos mais importantes de administração e militares;
@@ -25,4 +25,4 @@ A cidade se encontra em uma imensa câmara aberta no Underdark e se estende por 
 
 # Informações
 `Tipo` Cidade
-`Organização Dominante` [Corte Élfica](http://localhost/faccoes/nacoes/corte-elfica#corte-elfica)
+`Organização Dominante` [Corte Élfica](/faccoes/nacoes/corte-elfica#corte-elfica)

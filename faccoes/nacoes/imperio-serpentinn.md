@@ -15,11 +15,11 @@ O Império Serpentinn é um antigo e isolado império que habita O Grande Desert
 `Tipo` Geopolítico, Império
 `Gentílico` Serpentinn 
 `Líder` 
-`Organizações Subsidiárias` [Exército Serpentinn](http://localhost/faccoes/nacoes/exercito-serpentinn#exercito-serpentinn)
+`Organizações Subsidiárias` [Exército Serpentinn](/faccoes/nacoes/exercito-serpentinn#exercito-serpentinn)
 `Sistema Governamental` Monarquia, Absoluta 
 `Estrutura de Poder` Estado Unitário 
 `Sistema Econômico` Tradicional 
-`Localização` [O Grande Deserto](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto#o-grande-deserto). 
-`Nações Vizinhas` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
-[`Rankings e Títulos`](http://localhost/rankings-e-titulos#imperio-serpentinn)
+`Localização` [O Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto#o-grande-deserto). 
+`Nações Vizinhas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
+[`Rankings e Títulos`](/rankings-e-titulos#imperio-serpentinn)
 

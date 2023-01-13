@@ -32,5 +32,5 @@ Woton é mãe das raças bestiais, incluindo os dragões, halflings, orcs e outr
 `Olhos` Amarelos com iris felinas
 `Cabelo` Não possui
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
 

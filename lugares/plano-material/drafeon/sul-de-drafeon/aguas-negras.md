@@ -9,7 +9,7 @@ dateCreated: 2020-09-23T00:01:51.162Z
 ---
 
 # Águas Negras
-Águas Negras é uma cidade no Sul de Drafeon, localizada em uma baía na margem leste do [Rio Bom](http://localhost/lugares/plano-material/drafeon/sul-de-drafeon/rio-bom). Águas Negras é uma cidade isolada das demais da região, se encontrando na margem oposta do Rio Bom às principais estradas.
+Águas Negras é uma cidade no Sul de Drafeon, localizada em uma baía na margem leste do [Rio Bom](/lugares/plano-material/drafeon/sul-de-drafeon/rio-bom). Águas Negras é uma cidade isolada das demais da região, se encontrando na margem oposta do Rio Bom às principais estradas.
 
 A chegada na cidade pelas estradas se dá por meio de serviços de transporte náuticos. Uma grossa corda liga a margem das estradas às docas da cidade, por esta catamarãs levam cargas e indivíduos entre as margens.
 
@@ -25,4 +25,4 @@ A cidade possui grande produção de pesca e as madeiras sobre o rio permitem a 
 `Tipo` Cidade
 `População` 1450
 `Gentílico` Boia
-`Organizações Dominantes` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)

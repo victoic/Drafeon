@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Madame Kszu -->
 
 # Madame Kszu
-Madame Kszu é um habitante de [Porto Novo](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo). Ela é uma idosa mulher humana, proprietária de uma loja de ingredientes e componentes mágicos.
+Madame Kszu é um habitante de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo). Ela é uma idosa mulher humana, proprietária de uma loja de ingredientes e componentes mágicos.
 
 ## Segredos
 Madame Kszu é na verdade uma Povo Lagarto que se disfarça magicamente como humana para atrair uma maior quantidade de clientes à sua loja.

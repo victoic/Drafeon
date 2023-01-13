@@ -31,4 +31,4 @@ O símbolo de Obris são os Três Pilares Celestiais: Ordem, Honra e Dever. São
 `Olhos` Três olhos de puro fogo. 
 `Cabelo` Careca 
 `Altura` Qualquer uma 
-`Organizações Associadas` [Panteão das Treze Estrelas](http://localhost/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)
+`Organizações Associadas` [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas#panteao-das-treze-estrelas)

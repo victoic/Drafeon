@@ -9,8 +9,8 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Onastin Pethorn -->
 
 # Onastin Pethorn
-Onastin Pethorn é um Elfo da Floresta, residente de [Vila das Pontes](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes) e filho de [Elautin Pethorn](http://localhost/individuos/elautin-pethorn#elautin-pethorn).
-Filho de [Valindrae Pethorn](http://localhost/individuos/validrae-pethorn#validrae-pethorn) e Elautin Pethorn. Irmão de [Arau'tan Pethorn](http://localhost/individuos/arautan-pethorn#arautan-pethorn), [Aydannae Pethorn](http://localhost/individuos/aydannae-pethor#aydannae-pethor) e [Valatha Pethorn](http://localhost/individuos/valatha-pethorn#valatha-pethorn).
+Onastin Pethorn é um Elfo da Floresta, residente de [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes) e filho de [Elautin Pethorn](/individuos/elautin-pethorn#elautin-pethorn).
+Filho de [Valindrae Pethorn](/individuos/validrae-pethorn#validrae-pethorn) e Elautin Pethorn. Irmão de [Arau'tan Pethorn](/individuos/arautan-pethorn#arautan-pethorn), [Aydannae Pethorn](/individuos/aydannae-pethor#aydannae-pethor) e [Valatha Pethorn](/individuos/valatha-pethorn#valatha-pethorn).
 
 # Informações
 `Vida` 1740 

@@ -9,7 +9,7 @@ tags:
 # Pacificadora
 Pacificadora é um poderoso modelo de arma de fogo de longo alcance. O modelo faz uso de substâncias inflamáveis e um método de combustão para lançar um longo projétil, mantido em uma câmara sob grande pressão, a velocidades altíssimas.
 
-O modelo foi inventado e desenvolvido pelo Aarakocra [Saile Isael](http://localhost/individuos/personagens-de-jogadores/saile#saile), em cima de partes quebradas de uma arma desenvolvida pelo Elfo Negro Saile. 
+O modelo foi inventado e desenvolvido pelo Aarakocra [Saile Isael](/individuos/personagens-de-jogadores/saile#saile), em cima de partes quebradas de uma arma desenvolvida pelo Elfo Negro Saile. 
 
 ## Materiais e Componentes
 A arma é composta por uma câmara onde os projéteis são armazenados, essa câmera se estende em um barril por onde o projétil percorre ao ser disparado, o barril possui o objetivo de estabilizar a direção do projétil. A câmera e seus subcomponentes costumam ser forjados em metal, normalmente aço.

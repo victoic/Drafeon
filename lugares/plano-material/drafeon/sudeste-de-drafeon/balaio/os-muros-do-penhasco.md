@@ -16,5 +16,5 @@ A prisão é centralizada em torno de uma imensa caverna, nesta os prisioneiros 
 
 # Informações
 `Tipo` Prisão
-`Organização Proprietária` [Império Dragão](http://localhost/faccoes/nacoes/imperio-dragao#imperio-dragao) 
+`Organização Proprietária` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
 

@@ -9,7 +9,7 @@ tags:
 <!-- SUBTITLE: Visão geral sobre Ozidius Sackropper -->
 
 # Ozidius Sackropper
-Ozidius é um tiefling, aventureiro. Atualmente reside em [Porto Novo](http://localhost/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
+Ozidius é um tiefling, aventureiro. Atualmente reside em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
 
 ## História
 Os Sackropper são uma família que habita uma vila escondida em meio ao Muro das Pontas, tal como as outras quatro famílias que compõe a vila, são Tiefling que nasceram com o dom arcano de maneira única: seus chifres são feitos de minerais preciosos repletos de poder arcano e a séculos passaram a ser perseguidos por mercenários por isso. Para fugir da perseguição, se isolaram o mais longe que puderam. As cinco famílias passaram a viver em comunidade, treinando seus jovens para entenderem e dominarem seus dons.
