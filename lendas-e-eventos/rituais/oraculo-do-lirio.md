@@ -2,7 +2,7 @@
 title: Oráculo do Lírio
 description: Ritual para visualização do emaranhado do destino
 published: true
-date: 2024-08-13T23:56:38.970Z
+date: 2024-08-13T23:58:39.784Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T23:56:38.970Z
