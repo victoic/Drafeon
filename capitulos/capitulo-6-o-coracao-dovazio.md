@@ -2,7 +2,7 @@
 title: Capítulo 6
 description: O Coração do Vazio
 published: true
-date: 2024-08-13T21:32:12.754Z
+date: 2024-08-13T21:32:40.864Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:38.531Z
@@ -49,11 +49,12 @@ Fraz-Urb'luu vai até a maçaneta da prisão e nada acontecerá. Um silêncio to
 O grupo é determinado a segurar Fraz-Urb'luu e seu exército quando a barreira protetora quebrar enquanto os aliados de Azaroth realizam o ritual de libertação.
 
 Os aliados de Azaroth que realizam o ritual são: 
--     Virrazar, um Glabrezu responsável por Tomeza. 
--     Arquivista, um Dybbuk possuindo um corpo humano, ele é responsável pelos arquivos de Tomeza. 
--     Liorkian, uma Rakshasa, líder de Karugo. 
--     Ulgrath, um poderoso Yolochol. 
--     Casquente, um Ente demoníaco e membro do círculo de Entes que permeia o Bosque Raiz-Morta. 
+
+- Virrazar, um Glabrezu responsável por Tomeza. 
+- Arquivista, um Dybbuk possuindo um corpo humano, ele é responsável pelos arquivos de Tomeza. 
+- Liorkian, uma Rakshasa, líder de Karugo. 
+- Ulgrath, um poderoso Yolochol. 
+- Casquente, um Ente demoníaco e membro do círculo de Entes que permeia o Bosque Raiz-Morta. 
 
 Ao ser libertado, Azaroth expande suas asas, voando, e olhos lentamente se abrem por todo seu corpo, incluindo nas asas. Ele esticará uma de suas mãos em direção ao portador da Adaga e todos os olhos ao mesmo tempo miram o portador. Imóvel ele espera sua arma ser devolvida. A barreira que envolve a prisão se desfaz, não mais sendo alimentada pela energia de Azaroth. 
 
