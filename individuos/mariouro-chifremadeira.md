@@ -2,7 +2,7 @@
 title: Mariouro Chifremadeira
 description: 
 published: true
-date: 2024-08-13T23:29:03.234Z
+date: 2024-08-13T23:49:39.441Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:52:11.569Z
