@@ -2,8 +2,10 @@
 title: Mariouro Chifremadeira
 description: 
 published: true
-date: 2019-11-11T16:29:07.987Z
+date: 2024-08-13T23:29:03.234Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:52:11.569Z
 ---
 
 <!-- SUBTITLE: A quick summary of Mariouro Chifremadeira -->
@@ -13,8 +15,11 @@ Uma Halfling jovem que costuma se vestir com roupas arrumadas, de tecidos colori
 
 Em 1753, Mariouro viu sua irmã caçula, Milda Chifremadeira, ser sequestrada por um grupo de kobolds famintos. Ela partiu e busca de sua irmã, juntamente com um grupo de aventureiros, recuperando-a em vida no dia seguinte.
 
+Em 1755, Mariouro foi morta por um ataque de elementais em Poço Raso.
+
 # Informações
 `Nascimento` 1731
+`Morte` 1755
 `Local de Nascimento` [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso)
 `Sexo Biológico` Feminino
 `Olhos Grandes` Grandes olhos azuis
