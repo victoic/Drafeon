@@ -2,10 +2,10 @@
 title: Capitulos
 description: 
 published: true
-date: 2021-11-03T14:00:32.260Z
+date: 2024-08-14T04:02:18.869Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-11T16:25:05.861Z
+dateCreated: 2024-08-13T19:47:58.090Z
 ---
 
 <!-- SUBTITLE: Visao geral dos arcos da história -->
@@ -17,3 +17,4 @@ dateCreated: 2019-11-11T16:25:05.861Z
 [Capítulo 4: Edahsh, O Eclipse Eterno](/capitulos/capitulo-4-edahsh-o-eclipse-eterno#capitulo-4-edahsh-o-eclipse-eterno)
 [Capítulo 5: A Volta de Azaroth](/capitulos/capitulo-5-a-volta-de-azaroth)
 [Capítulo 6: O Coração do Vazio](/capitulos/capitulo-6-o-coracao-dovazio)
+[Capítulo 7: Azura, A Deusa da Tempestade](/capitulos/capitulo-7-azura-a-deusa-da-tempestade)
