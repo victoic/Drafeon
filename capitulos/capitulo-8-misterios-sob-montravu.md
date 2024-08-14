@@ -2,7 +2,7 @@
 title: Capítulo 8
 description: Mistério sob Montravu
 published: true
-date: 2024-08-14T13:56:50.330Z
+date: 2024-08-14T15:12:57.892Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T04:58:02.672Z
@@ -11,7 +11,7 @@ dateCreated: 2024-08-14T04:58:02.672Z
 # Capítulo 8: Mistério sob Montravu
 
 >  `Início: 11 de fevereiro de 2023`
->  `Fim:    28 de janeiro de 2023`
+>  `Fim:    15 de abril de 2023`
 {.is-info}
 
 Após derrotar [Azura](/individuos/Azura), o grupo decide investigar [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu) para entender o motivo de [Zerke Montravu](/individuos/personagens-de-jogadores/zerke-montravu) estar respondendo misteriosamente todas as tentativas de contato. O grupo também participa do jantar do [dia de homenagem aos mortos](/lendas-e-eventos/datas-comemorativas/dia-de-homenagem-aos-mortos) no palácio do imperador, em [Kêndrtro](/lugares/plano-material/drafeon/sudoeste-de-drafeon/kendtro).
@@ -63,11 +63,38 @@ Magnus se aproxima da natureza, criando um novo tipo de conexão arcana com a na
 John se despede do grupo e volta a buscar criaturas poderosas para derrotar.
 
 ## Baile do Império Dragão
-Magnus, Hêllen, Veles, e Zerke, são convocados à Kêndtro por [Makil Drasonur](/individuos/makil-drasonur) para o jantar de dia de homenagem aos mortos. Lá conhecem o imperador e sua esposa [Sophia-Gul'hend](/individuos/sophia-gulhend), sacerdotisa-mor das treze estrelas. O grupo será oferecido o título de "[Heróis do Império](/rankings-e-titulos/heroi-do-imperio)", pelos esforços terminar a invasão de [Lakip Brillabouso](/individuos/lakip-brillabouso) em Porto Novo e impedir o surgimento de um [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal) no [Império](/faccoes/nacoes/imperio-dragao).
-
-O título é honorífico e garante portas abertas sempre que precisarem visitar a capital do império, quando de passagem. Mas traz consigo a esperança que possam ser convocados em caso de extrema necessidade do Império.
+Magnus, Hêllen, Veles, e Zerke, são convocados à Kêndtro por [Makil Drasonur](/individuos/makil-drasonur) para o jantar de dia de homenagem aos mortos. Lá conhecem o imperador e sua esposa [Sophia-Gul'hend](/individuos/sophia-gulhend), sacerdotisa-mor das treze estrelas. O grupo será oferecido o título de "[Heróis do Império](/rankings-e-titulos/heroi-do-imperio)", pelos esforços terminar a invasão de [Lakip Brillabouso](/individuos/lakip-brillabouso) em Porto Novo e impedir o surgimento de um [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal) no [Império](/faccoes/nacoes/imperio-dragao). O título é honorífico e garante portas abertas sempre que precisarem visitar a capital do império, quando de passagem. Mas traz consigo a esperança que possam ser convocados em caso de extrema necessidade do Império.
 
 O jantar acumulou a presença dos quatro senhores de região, do imperador, da sacerdotisa-mor. Alguns outros convidados também estarão presentes incluindo alguns dos [Draks](/rankings-e-titulos/imperio-dragao/drak). O arquimago não estará.
+
+Durante o início do jantar, convidados vão sendo apresentados por um mensageiro que se encontra na entrada do salão. Nikolina Aximakes, uma adolescente draconata entediada da importante família Aximakes começa a falar com os heróis.
+
+> "porque eu estou incrivelmente cansada de seus pais a arrastando para essas coisas e eu odeio o vestido com babados que eu tenho que usar e eu preferiria estar lá fora matando monstros, e eu estou muito desinteressada na festa." - Nikolina Aximakes
+
+Nikolina passa a festa perseguindo o grupo e insistindo para que eles o levem em uma aventura. Sophia Gul'hend se apresenta Hêllen e deseja ao grupo uma boa festa.
+
+Após a maior parte dos convidados chegar, é anunciado que uma competição de dança para escolher os dois convidados que sentarão ao lado de [Artos](/individuos/artos) vai iniciar, duplas que queiram participar devem se dirigir ao centro do salão. Amy e Veles formam uma dupla para competir, Zerke convida a Nikolina, Hêllen e Folhiares formam uma dupla e o Magnus convida a Galisse. Zerke e Nikolina impressionam todos com sua sincronia na competição e são considerados os vencederos. Os vencedores ganham broches com pequenos textos escritos "Eu sentei ao lado de Artos". 
+
+Após a competição, uma comoção começa a ser notada, um enorme humano (Humbert Cordier) parece bêbado e furioso pois perdeu a chance de participar pois havia ido ao banheiro. Durante o jantar, um novo convidado será apresentado: 
+> "Da terras longínquas da Corte Élfica, a embaixadora de Drownia, Blagovesta Poukadoch."
+
+Cerca de 40 minutos atrasado, é apresentada a entrada de um novo convidado: 
+> "Unificador das espécies, governante de Kêndtro, protetor de Drafeon, nosso Imperador: Imperador Makil Drasonur." 
+
+Um gnomo em belíssimas roupas adornadas com joias e uma grande coroa de platina entra no salão enquanto dá um gole em um grande copo de metal. Ele ligeiramente acena para alguns dos convidados que falam com ele enquanto faz seu caminho ao trono na ponta da mesa central. Makil passa a festa parecendo entediado e bêbado, faz pequenas conversas com Sophia, no máximo.
+
+Após a chegada do imperador banda é interrompida, e uma jovem humana começa a exclamar:
+> "Caros nobres de Drafeon e terras vizinhas, além das festividades o dia de hoje também é reservado para fazer o bem. Eu me chamo Geritia, e sou representante da Fundação de Ajuda aos Goblins de Joelhos Pontudos. 
+> Hoje nós receberemos doações em nome de nossa bondosa fundação que busca ajudar essas pobres criaturas infortúnios que nascem com trágicos joelhos mais pontudos que o normal, e só buscam uma aparência comum em suas vidas. Nossos coletores receberão doações dos generosos entre nós, obrigado, de volta à festa." 
+> Isidoros, bastante bêbado, confunde um dos PJs com alguém que eles conheciam e continua insistindo nesse fato, contando cada vez mais histórias bizarras de tudo que fizeram juntos. 
+
+Um atrito surge entre Amy e o Imperador Makil Drasonur durante a festa, mas Sophia acalma o Makil.
+
+Magnus, Hêllen, Veles, e Zerke, Folhiares, Ebbo, e Nimbar recebem a medalha e título de Herói do Império Dragão. Durante a entrega, Blagovesta irá pedir a palavra após a nomeação dos heróis. 
+
+> "É bom saber que até uma propriedade da corte de Drownia é capaz de conseguir tais feitos. Como prêmio adicional aos feitos que se estendem às suas terras natais, Drownia estende o passeio dado a Peutr, aproveite."
+
+O grupo parte do jantar após a desonra proferida por Blagovesta, se separando novamente e retomando seus projetos individuais.
 
 ### Convidados
 #### Senhores de Região: 
@@ -126,8 +153,6 @@ O jantar acumulou a presença dos quatro senhores de região, do imperador, da s
 - [Irien Galaniell](/individuos/irien-galaniell)
 - [Ulyana Arabath](/individuos/ulyana-arabath)
 - [Dominique Partieu III](/individuos/dominique-partieu-iii)
-- [Porta-Voz]()
-- [Anjo Azul]()
 - [Milda Chifremadeira](/individuos/milda-chifremadeira)
 
 ## Adversários
