@@ -2,7 +2,7 @@
 title: Capítulo 8
 description: Mistério sob Montravu
 published: true
-date: 2024-08-14T13:56:44.135Z
+date: 2024-08-14T13:56:50.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T04:58:02.672Z
@@ -93,7 +93,7 @@ O jantar acumulou a presença dos quatro senhores de região, do imperador, da s
 - [Fara Folhiares](/individuos/fara-folhiares)
 - [Nimbar](/individuos/nimbar)
 
-#### Convidado do Grupo:
+#### Convidados do Grupo:
 - [Aldror](/individuos/aldror) (Hêllen)
 - Amy (Veles)
 - [Ravod](/individuos/ravod) (Veles)
