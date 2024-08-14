@@ -2,10 +2,10 @@
 title: Zerke Montravu
 description: 
 published: true
-date: 2021-02-19T19:39:33.790Z
+date: 2024-08-14T11:38:22.301Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-19T19:39:33.790Z
+dateCreated: 2024-08-13T19:56:57.941Z
 ---
 
 # Zerke Montravu
@@ -31,7 +31,7 @@ Até que em uma noite em uma taverna qualquer, ouviu falar em um aventureiro, um
 
 # Informações
 `Nascimento` 1732
-`Local de Nascimento` M
+`Local de Nascimento` ?
 `Sexo Biológico` Masculino
 `Olhos` Brancos
 `Cabelo` Penas brancas
