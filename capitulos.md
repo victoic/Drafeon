@@ -2,7 +2,7 @@
 title: Capitulos
 description: 
 published: true
-date: 2024-08-14T04:19:06.121Z
+date: 2024-08-14T18:41:17.806Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:47:58.090Z
@@ -20,3 +20,4 @@ dateCreated: 2024-08-13T19:47:58.090Z
 [Capítulo 7: Azura, A Deusa da Tempestade](/capitulos/capitulo-7-azura-a-deusa-da-tempestade)
 [Capítulo 8: Mistérios sob Montravu](/capitulos/capitulo-8-misterios-sob-montravu)
 [Capítulo 9: A Sombra do Tarrasque](/capitulos/capitulo-9-a-sombra-do-tarrasque)
+[Capítulo 10: A Guerra](/capitulos/capitulo-10-a-guerra)
