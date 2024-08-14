@@ -2,10 +2,10 @@
 title: Coecyr
 description: 
 published: true
-date: 2021-11-05T19:18:12.337Z
+date: 2024-08-14T18:25:33.800Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-11T16:31:12.840Z
+dateCreated: 2024-08-13T19:54:55.169Z
 ---
 
 <!-- SUBTITLE: Deus da Natureza e do Equilíbrio -->
@@ -25,6 +25,17 @@ O símbolo dedicado a Coecyr é uma planta de Raiz da Vida.
 
 ## Conquistas e Feitos
 Coecyr é a criadora dos animais que habitam o mundo, além de criadora do plano Faéria e seus habitantes. Deu vida também aos elfos e firbolgs.
+
+# Ritual de Despedida de Coecyr
+Seguidores de Coecyr no Império Dragão realizam um ritual de quatro etapas para se despedir dos mortos.
+
+**Cerimônia de limpeza:** antes do ritual de partida começar, o corpo do falecido é limpo com água purificada e ervas sagradas para purificar o espírito e liberar quaisquer apegos remanescentes ao mundo mortal.
+
+**Reunião da comunidade:** a comunidade se reúne em um bosque sagrado ou clareira na floresta, cercada pela beleza da natureza. Família, amigos e membros da ordem religiosa se reúnem para homenagear os que partiram e oferecer apoio aos enlutados.
+
+**Oferendas a Coecyr:** oferendas de frutas, flores e outros elementos naturais são colocadas em um altar dedicado a Coecyr, o deus da natureza e do equilíbrio. Essas oferendas simbolizam gratidão pela vida do falecido e a interconexão de todos os seres vivos.
+
+**Liberação do espírito:** o sacerdote ou sacerdotisa presidente lidera um canto ou oração cerimonial, invocando as bênçãos de Coecyr para guiar o espírito do falecido em sua jornada. Os participantes dão as mãos e formam um círculo ao redor do corpo, oferecendo orações por paz e aceitação.
 
 # Informações
 `Classificação Divina` Deus
