@@ -2,7 +2,7 @@
 title: Capítulo 7
 description: Azura, A Dragão Deus
 published: true
-date: 2024-08-14T02:55:35.202Z
+date: 2024-08-14T11:58:18.537Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -25,7 +25,7 @@ Ao retornarem do [Abismo](/lugares/abismo) ao [Plano Material](/lugares/plano-ma
 
 O grupo tira cinco semanas de descanso, nesse tempo: ocorre o funeral para Alfonse, membro do grupo de resgate enviado ao abismo que faleceu em campo; Lakip é preso; os membros do grupo são convidados para participar de um jantar no castelo de [Kêndtro](/lugares/plano-material/drafeon/sudoeste-de-drafeon/kendtro) no dia de homenagem aos mortos (1º de Aaos); [A Caravana](/faccoes/faccoes-independentes/a-caravana), uma enorme parada nômade com jogos e eventos, chega à [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo); Rumores sobre o líder de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu) abrigar aasimares perseguidos se espalha pelo [Império Dragão](/faccoes/nacoes/imperio-dragao).
 
-Durante a presença dA Caravana em Porto Novo, o grupo desvenda a presença de doppelgangers e uma trama de assassinatos e leilões desonestos.
+Durante a presença dA Caravana em Porto Novo, o grupo desvenda a presença de doppelgangers e uma trama de assassinatos e leilões desonestos. Enquanto o grupo descansava, Azura se aproximava da quantidade de almas de aasimares necessária para sua ascenção, restando apenas 50.
 
 ## Aasimares Perseguidos
 
@@ -77,7 +77,7 @@ O grupo é teleportado para próximo a Bagrami, onde são recebido como convidad
 
 O voa a encontro de Azura e combate se faz conforme Azura surge no céu sobre a Roc. Após se mostrar mentalmente indecisa quanto a quem deveria auxiliar no combate, porém após a morte de Hellên, Sarina foi responsável pelo ataque final em Azura. O corpo da dragão azul ficou caído no deserto.
 
-Após o combate, o Zerke, Wladimir e Magnus prontamente levaram o corpo de Hêllen para Vivlotik, solicitando um ritual de ressureição aos sacerdotes das treze estrelas. Com o retorno de Hêllen e morte de Azura, Hêllen começou a perder suas aptidões mágicas e resolveu se afastar da vida de aventuras. Enquanto Hêllen foi levado, Veles e Amy ficaram para extrair partes do corpo de Azura.
+Após o combate, o Zerke, Wladimir e Magnus prontamente levaram o corpo de Hêllen para Vivlotik, solicitando um ritual de ressureição aos sacerdotes das treze estrelas. Com a ressurreição de Hêllen e morte de Azura, Hêllen começou a perder suas aptidões arcanas. Enquanto Hêllen foi levado, Veles e Amy ficaram para extrair partes do corpo de Azura.
 
 - 19x2 escamas
 - 5x2 dentes
