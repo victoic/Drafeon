@@ -2,7 +2,7 @@
 title: Capitulos
 description: 
 published: true
-date: 2024-08-14T04:02:18.869Z
+date: 2024-08-14T04:19:06.121Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:47:58.090Z
@@ -18,3 +18,5 @@ dateCreated: 2024-08-13T19:47:58.090Z
 [Capítulo 5: A Volta de Azaroth](/capitulos/capitulo-5-a-volta-de-azaroth)
 [Capítulo 6: O Coração do Vazio](/capitulos/capitulo-6-o-coracao-dovazio)
 [Capítulo 7: Azura, A Deusa da Tempestade](/capitulos/capitulo-7-azura-a-deusa-da-tempestade)
+[Capítulo 8: Mistérios sob Montravu](/capitulos/capitulo-8-misterios-sob-montravu)
+[Capítulo 9: A Sombra do Tarrasque](/capitulos/capitulo-9-a-sombra-do-tarrasque)
