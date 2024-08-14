@@ -2,7 +2,7 @@
 title: Capítulo 8
 description: Mistério sob Montravu
 published: true
-date: 2024-08-14T13:31:49.004Z
+date: 2024-08-14T13:56:44.135Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T04:58:02.672Z
@@ -63,6 +63,47 @@ Magnus se aproxima da natureza, criando um novo tipo de conexão arcana com a na
 John se despede do grupo e volta a buscar criaturas poderosas para derrotar.
 
 ## Baile do Império Dragão
+Magnus, Hêllen, Veles, e Zerke, são convocados à Kêndtro por [Makil Drasonur](/individuos/makil-drasonur) para o jantar de dia de homenagem aos mortos. Lá conhecem o imperador e sua esposa [Sophia-Gul'hend](/individuos/sophia-gulhend), sacerdotisa-mor das treze estrelas. O grupo será oferecido o título de "[Heróis do Império](/rankings-e-titulos/heroi-do-imperio)", pelos esforços terminar a invasão de [Lakip Brillabouso](/individuos/lakip-brillabouso) em Porto Novo e impedir o surgimento de um [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal) no [Império](/faccoes/nacoes/imperio-dragao).
+
+O título é honorífico e garante portas abertas sempre que precisarem visitar a capital do império, quando de passagem. Mas traz consigo a esperança que possam ser convocados em caso de extrema necessidade do Império.
+
+O jantar acumulou a presença dos quatro senhores de região, do imperador, da sacerdotisa-mor. Alguns outros convidados também estarão presentes incluindo alguns dos [Draks](/rankings-e-titulos/imperio-dragao/drak). O arquimago não estará.
+
+### Convidados
+#### Senhores de Região: 
+- [Irien Galaniell](/individuos/irien-galaniell), Sudeste 
+- [Ebbo Martel](/individuos/ebbo-martel), Sul 
+- [Andrea Andreas](/individuos/andrea-andreas), gnomo, Sudoeste
+- [Killthos](/individuos/killthos), Oeste
+
+#### Draks: 
+- [Tessor, o Protetor](/individuos/tessor) (Dragão de cobre, forma de gnomo com olhos reptilianos e pele reluzente) 
+- [Ester](/individuos/ester), humana, pele bronzeada, cabelos pretos e curtos. 
+- [Quaiote, a Quieta](/individuos/quaiote) (Dragão de prata, fêmea, forma de gnoma com diversas correntes e joias de prata) 
+- [Olkis](/individuos/olkis), gnomo, cabelos pretos ondulados médios, olhos castanhos. 
+
+#### Embaixadores:
+- [Blagovesta](/individuos/blagovesta), Drow, embaixadora de Drownia. Vestido justo de tonalidades roxas e verdes. 
+- [Damianka](/individuos/damianka), Drieper, embaixadora de Drieper. Vestido azul e amarelo. 
+
+#### Outros: 
+- [Humbert Cordier](/individuos/humbert-cordier), humano dono de grandes fazendas de cânhamo e grande produtor de cordas. 
+- [Nikolina Aximakes](/individuos/nikolina-aximakes), draconata jovem (16-18), admiradora de heróis e incrivelmente entediada. 
+- [Isidoros](/individuos/isidoros), gnomo, parte de uma das caravanas de um convidado.
+- [Fara Folhiares](/individuos/fara-folhiares)
+- [Nimbar](/individuos/nimbar)
+
+#### Convidado do Grupo:
+- [Aldror](/individuos/aldror) (Hêllen)
+- Amy (Veles)
+- [Ravod](/individuos/ravod) (Veles)
+- [Galisse](/individuos/galisse) (Veles)
+- [Garos Ponta de Lança](/individuos/garos) (Magnus)
+- [Kraz](/individuos/personagens-de-jogadores/saile) (Zerke)
+- [Ser](/individuos/ser-glorkan) (Zerke)
+- [Amadan](/individuos/personagens-de-jogadores/amadan) (Zerke)
+- Giuli (Zerke)
+
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
