@@ -2,7 +2,7 @@
 title: Capítulo 7
 description: Azura, A Dragão Deus
 published: true
-date: 2024-08-14T02:54:26.844Z
+date: 2024-08-14T02:55:35.202Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -18,7 +18,7 @@ Após retornarem ao plano material e tomarem um merecido descanso, o grupo é ab
 
 ## Interlúdio
 >  `Início: 05 de março de 2022`
->  `Fim:    30 de março de 2023`
+>  `Fim:    30 de março de 2022`
 {.is-info}
 
 Ao retornarem do [Abismo](/lugares/abismo) ao [Plano Material](/lugares/plano-material), junto com [Lakip Brillabouso](/individuos/lakip-brillabouso), que cai ao chão chorando por sua incapacidade de se vingar de Azaroth.
