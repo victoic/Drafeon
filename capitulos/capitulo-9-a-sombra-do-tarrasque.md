@@ -2,7 +2,7 @@
 title: Capítulo 9
 description: A Sombra do Terrasque
 published: true
-date: 2024-08-14T18:40:10.669Z
+date: 2024-08-14T18:47:35.361Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T18:40:10.669Z
@@ -104,6 +104,8 @@ Na sala, se encontram relatórios sobre a cidade que apontam que Cal'Gu vinha se
 Voltando a Vivlotik, o grupo imediatamente vai até a Torre das 13 Estrelas para realizar o ritual de ressureição do John. O grupo realiza o ritual com auxília das sacerdotizas [Elodie](/individuos/elodie) e [Cirdea](/individuos/cirdea), com cada membro do grupo oferecendo sua tentativa de manter o espírito do John no plano-material. O Veles, lembrando-o de que ainda existem muitas criaturas poderosas a serem enfrentadas, o Zerke, apelando ao estado de sua armadura que não estava honrado para um guerreiro como o John morrer nela, e o Magnus, mostrando sua ira ao esmurrar a mesa de ritual, lembrando que o John e o Magnus haviam de testar suas forças em combate.
 
 > A ira do Magnus quebrou a mesa, o que acresceu do valor cobrado ao grupo pelo ritual.
+{.is-info}
+
 > A alma do John vagava entre os planos. Tu ao seu redor era escuridão. A cada passo, o John escutava como se andasse em um lago raso, as ondas se espalhando. Uma leveza caia sobre o John, sem mais necessidade de combate, ele solta sua espada, remove placa a placa de sua armadura, se preparando para seu merecido descanso. Criaturas e monstros derrotadados aparecem ao seu redor, mas conforme o John caminha, a escuridão envolve essas memórias de sua vida passada. 
 > Sobre o barulho de seus passos e de seus itens caindo na água, o John ouve sussurros, esses sussurros se materializam, mas o primeiro pensamento do John o manda ignorar as vozes, nem ao menos tentar entender quem são. Mas as vozes se tornam mais fortes, John escuta o Veles o convocando para voltar e terminar suas aventuras. John escuta o Zerke, mas em seu entendimento suas palavras o encorajam, lembram-o da vida de combates que ele teve e que o estado de sua armadura mostra isso, como ela deveria estar no fim de sua vida. As outras vozes são silenciadas por baixo dos gritos do Magnus, ordenando que o John não pode ir embora sem lutar com ele.
 > Essas vozes aparecem como luzes atrás do John, convidando-o a voltar. Mas o conforto e o alívio que o John sente naquele lugar são muito melhores.
