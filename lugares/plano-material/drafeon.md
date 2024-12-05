@@ -2,7 +2,7 @@
 title: Drafeon
 description: 
 published: true
-date: 2024-08-16T10:10:22.828Z
+date: 2024-12-05T17:00:27.107Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:57:09.616Z
@@ -23,7 +23,7 @@ Um grande lago, chamado Mar do Meio se encontra no centro da terra. Diversas gra
 # Informações
 `Nomes Alternativos` Império Dragão, País do Dragão 
 `Tipo` Massa de Terra 
-`Organizações Incluidas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Grande Império Orc ](), [Império Serpetinn](), [Corte Élfica](), [Reino Anão]()
+`Organizações Incluidas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Grande Império Orc ](), [Império Serpetinn](/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn), [Corte Élfica](), [Reino Anão]()
 `Organizações Governante` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Dono/Governante` [Makil Drasonur](/individuos/makil-drasonur#makil-drasonur) 
 `Sub-locações` [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon), [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon), [Sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), [Leste de Drafeon](/lugares/plano-material/drafeon/leste-de-drafeon), [Noroeste de Drafeon](/lugares/plano-material/drafeon/noroeste-de-drafeon), [Norte de Drafeon](/lugares/plano-material/drafeon/norte-de-drafeon), [Nordeste de Drafeon](/lugares/plano-material/drafeon/nordeste-de-drafeon), [Mar do Meio](/lugares/plano-material/drafeon/mar-do-meio#mar-do-meio), [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo#mar-do-limbo)
