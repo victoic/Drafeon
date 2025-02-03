@@ -2,7 +2,7 @@
 title: Capítulo 02
 description: Criando Raízes
 published: true
-date: 2025-02-03T12:06:11.881Z
+date: 2025-02-03T12:06:16.416Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:29.651Z
