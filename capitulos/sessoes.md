@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-03T14:30:43.100Z
+date: 2025-02-03T14:34:18.032Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -19,3 +19,5 @@ dateCreated: 2025-02-03T14:30:43.100Z
 
 ## [Capítulo 10](/capitulos/capitulo-10-a-guerra)
 
+- 18/05/2024 | Data narrativa:
+  > O grupo é enviado para investigar desaparacimentos de navios do império que viajavam em direção ao Império Serpentinn. No caminho são atacados por criaturas marítimas gigantes e emboscados por Yuanti.
