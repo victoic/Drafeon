@@ -2,7 +2,7 @@
 title: Capítulo 03
 description: A Bruxa Do Pântano
 published: true
-date: 2025-02-03T19:38:53.785Z
+date: 2025-02-03T19:55:49.390Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:31.846Z
@@ -75,4 +75,25 @@ Enquanto isso [Lakip Brillabouso](/individuos/lakip-brillabouso) busca e encontr
 
 [Kraz](/individuos/personagens-de-jogadores/saile), sob domínio do demônio [Edahsh](/individuos/edahsh), cai em momentos de perda da consciencia e realiza atos terríveis contra populações locais, principalmente uma série de 80 assassinatos em Porto Novo.
 
+# O Grupo
+- [Magnus Ponta de Lança](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca)
+- [Saile](/individuos/personagens-de-jogadores/saile)
+- [Amadán](/individuos/personagens-de-jogadores/amadan)
+- [Ozidius Sackropper](/individuos/personagens-de-jogadores/ozidius-sackropper)
+- [Drecnis Ragnoom](/individuos/personagens-de-jogadores/drecnis-ragnoom)
 
+# Relações
+## Aliados
+- [Chakkaxishk](/individuos/chakkaxishk)
+- [Irien Galaniell](/individuos/irien-galaniell)
+- [Elautin Pethorn](/individuos/elautin-pethorn)
+
+## Neutros
+- [Vabrud Coletor](/individuos/vabrud-coletor)
+- [Glergécio Coletor](/individuos/glergecio-coletor)
+
+## Adversários
+- [Titia Olga Cudeporco](/individuos/titia-olga-cudeporco)
+- [Baba Sut](/individuos/baba-sut)
+- [Vovó Matrilda Bufenta](/individuos/vovo-matrilda-bufenta)
+- [Tarufe Padepedra](/individuos/turufe-padepedra)
