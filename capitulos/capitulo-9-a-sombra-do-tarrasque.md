@@ -1,8 +1,8 @@
 ---
-title: Capítulo 9
+title: Capítulo 09
 description: A Sombra do Terrasque
 published: true
-date: 2024-08-14T18:47:35.361Z
+date: 2025-02-03T14:10:24.616Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T18:40:10.669Z
