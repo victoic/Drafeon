@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-02-03T23:50:29.729Z
+date: 2025-02-03T23:54:34.169Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -32,21 +32,23 @@ Derrotaram [Lakip Brillabouso](/individuos/lakip-brillabouso) e [Edaiden](/indiv
 Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confraria da Rosa Negra.
 
 ## Membros Atuais
+- [**Addran Martel**](/individuos/personagens-de-jogadores/addran-martel)
 - [**Magnus Ponta de Lança**](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca)*, desde Obris de 1753
 - [**Veles Lupis Lugh**](/individuos/personagens-de-jogadores/veles-lupis-lugh), desde Woton de 1753
-- [**Hêllen Starindust**](/individuos/personagens-de-jogadores/hellen-starindust), desde Zitia de 1753
 - [**Zerke Montravu**](/individuos/personagens-de-jogadores/zerme-montravu), desde Coecyr de 1754
 
 ## Membros Antigos
-- [**Aldror**](/individuos/aldror)*, de Obris de 1753 a Obris de 1753
+- [**Aldror**](/individuos/personagens-de-jogadores/aldror)*, de Obris de 1753 a Obris de 1753
 - [**Amadán Shalfey**](/individuos/personagens-de-jogadores/amadan)*, de Obris 1753 a Woton de 1753
-- **Arprax Alt'ash***, de Obris de 1753 a Mudur de 1753
-- **Dagor Tilgo**, de Azemis de 1754 a Fateus de 1754
-- **Dexter Kenway**, de Mudur de 1753 a Mudur de 1753
+- **[Arprax Alt'ash](/individuos/personagens-de-jogadores/arprax-altash)***, de Obris de 1753 a Mudur de 1753
+- **[Dagor Tilgo](/individuos/personagens-de-jogadores/dagor-tilgo)**, de Azemis de 1754 a Fateus de 1754
+- **[Dexter Kenway](/individuos/personagens-de-jogadores/dexter-kenway)**, de Mudur de 1753 a Mudur de 1753
 - [**Drecnis Ragnoom**](/individuos/personagens-de-jogadores/drecnis-ragnoom), de Woton de 1753 a Bee'rus de 1753
+- [**Hêllen Starindust**](/individuos/personagens-de-jogadores/hellen-starindust), desde Zitia de 1753
+- [**Jonathan Bellevere**](/individuos/personagens-de-jogadores/john), 
 - [**Kraz**](/individuos/personagens-de-jogadores/saile)*, de Obris de 1753 a Fateus de 1754
 - [**Ozidius Sackropper**](/individuos/personagens-de-jogadores/ozidius-sackropper), de Woton de 1753 a Bee'rus de 1753
-- **Son Kong**, de Mudur de 1753 a Mudur de 1753
+- **[Son Kong](/individuos/personagens-de-jogadores/son-kong)**, de Mudur de 1753 a Mudur de 1753
 
 > *Membros do grupo original formado na taverna Flechas Dormentes, em Poço Raso.
 {.is-info}
