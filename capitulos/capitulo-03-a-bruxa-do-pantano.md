@@ -2,7 +2,7 @@
 title: Capítulo 03
 description: A Bruxa Do Pântano
 published: true
-date: 2025-02-03T12:56:33.687Z
+date: 2025-02-03T13:21:01.303Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:31.846Z
@@ -23,7 +23,20 @@ Em meio ao pântano da [Bahia Escura](/lugares/plano-material/drafeon/sudeste-de
 
 Mas algo muito mais sinistro está por trás de tudo. Conflitos morais são apresentados, quem são os verdadeiros inimigos?
 
-## Formação do Clã de Bruxas
+## Formação do Conciliábulo Negro
+[Titia Olga Cudeporco](/individuos/titia-olga-cudeporco), uma bruxa da noite habitante da região em torno de Bahia Escura, inicia preparativos para um ritual maléfico ao tomar conhecimento de uma competição para formação de um clã de bruxas.
+
+O clã, denominado [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro) e iniciado pela bruxa da areia [Baba Sut](/individuos/baba-sut) e a bruxa annis [Vovó Matrilda Bufenta](/individuos/vovo-matrilda-bufenta), determinou um ritual e a primeira bruxa a concluí-lo seria incluída no clã.
+
+## Ritual de Convite Malificente
+O ritual se dividia em 7 etapas:
+1. Três devem cair ao desespero
+1. O desprezo e o ódio permeará sobre os vizinhos
+1. A fome será saciada pela própria carne e seus restos desenharão o círculo
+1. Sangue dos rivais será derramado, preenchendo o círculo
+1. Quando os primordiais se complementarem o ritual deve ter início (20/7)
+1. Um beijo de amor enganado iniciará o ritual
+1. Com o encanto final o convite será aberto
 
 ### Recompensas
 Como recompensa por eliminar todas as três bruxas, os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) receberam:
