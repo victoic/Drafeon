@@ -2,10 +2,10 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2021-11-04T17:42:04.003Z
+date: 2025-02-03T23:50:13.505Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-19T20:54:31.208Z
+dateCreated: 2024-08-13T19:55:40.483Z
 ---
 
 # Confraria da Rosa Negra
@@ -39,14 +39,14 @@ Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confrari
 
 ## Membros Antigos
 - [**Amadán Shalfey**](/individuos/personagens-de-jogadores/amadan)*, de Obris 1753 a Woton de 1753
-- [**Kraz**](/individuos/personagens-de-jogadores/saile)*, de Obris de 1753 a Fateus de 1754
 - **Arprax Alt'ash***, de Obris de 1753 a Mudur de 1753
 - [**Aldror**](/individuos/aldror)*, de Obris de 1753 a Obris de 1753
-- **Dexter Kenway**, de Mudur de 1753 a Mudur de 1753
-- **Son Kong**, de Mudur de 1753 a Mudur de 1753
-- [**Ozidius Sackropper**](/individuos/personagens-de-jogadores/ozidius-sackropper), de Woton de 1753 a Bee'rus de 1753
-- [**Drecnis Ragnoom**](/individuos/personagens-de-jogadores/drecnis-ragnoom), de Woton de 1753 a Bee'rus de 1753
 - **Dagor Tilgo**, de Azemis de 1754 a Fateus de 1754
+- **Dexter Kenway**, de Mudur de 1753 a Mudur de 1753
+- [**Drecnis Ragnoom**](/individuos/personagens-de-jogadores/drecnis-ragnoom), de Woton de 1753 a Bee'rus de 1753
+- [**Kraz**](/individuos/personagens-de-jogadores/saile)*, de Obris de 1753 a Fateus de 1754
+- [**Ozidius Sackropper**](/individuos/personagens-de-jogadores/ozidius-sackropper), de Woton de 1753 a Bee'rus de 1753
+- **Son Kong**, de Mudur de 1753 a Mudur de 1753
 
 > *Membros do grupo original formado na taverna Flechas Dormentes, em Poço Raso.
 {.is-info}
