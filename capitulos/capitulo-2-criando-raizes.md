@@ -2,12 +2,18 @@
 title: Capítulo 2
 description: Criando Raízes
 published: true
-date: 2020-04-14T23:45:46.517Z
+date: 2025-02-03T12:05:49.655Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:48:29.651Z
 ---
 
 # Capítulo 2: Criando Raízes
 Após receberem um terreno como recompensa da [Família Carvalho-Negro](/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro), o grupo é convidado para uma reunião com Lakip Brillabouso, o Mestre de Região da [Ordem de Ouro]() no [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon).
+
+>  `Início: 28 de Abril de 2018`
+>  `Fim: XX de XX de 2018   `
+{.is-info}
 
 Lakip explica que membros de sua expedição sumiram na ilha de Felicidade, onde um dragão havia se estabelecido. O grupo é pedido para encontrá-los. O grupo aluga um navio e se desloca à ilha, sendo atacados por piratas no caminho e quase perdendo um membro para o grande Mar do Meio. No local o grupo descobre que os membros da expedição havia encontrado um antigo templo criado e esquecido pela Ordem de Ouro, e que haviam adentrado tal templo antes de desaparecerem. O grupo explora o templo, lutando com criaturas fantasmagóricas e desvendando segredos. A expedição havia sido atacada e maioria dos membros mortos, com exceção de Malimoz de Lathat e Peslyvia Luz-da-noite, que foram encontrados vivos. O grupo encontra um artefato sagrado, o Coração de Azaroth, e o retorna para Porto Novo, junto com os membros vivos da expedição. Encontram também uma escritura mágica para uma mansão. O guia enviado pela Ordem de Ouro, Hichendy, é morto em combate.
 
