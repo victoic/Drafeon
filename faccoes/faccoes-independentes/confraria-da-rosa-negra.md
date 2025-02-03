@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-02-03T23:50:13.505Z
+date: 2025-02-03T23:50:29.729Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -38,9 +38,9 @@ Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confrari
 - [**Zerke Montravu**](/individuos/personagens-de-jogadores/zerme-montravu), desde Coecyr de 1754
 
 ## Membros Antigos
+- [**Aldror**](/individuos/aldror)*, de Obris de 1753 a Obris de 1753
 - [**Amadán Shalfey**](/individuos/personagens-de-jogadores/amadan)*, de Obris 1753 a Woton de 1753
 - **Arprax Alt'ash***, de Obris de 1753 a Mudur de 1753
-- [**Aldror**](/individuos/aldror)*, de Obris de 1753 a Obris de 1753
 - **Dagor Tilgo**, de Azemis de 1754 a Fateus de 1754
 - **Dexter Kenway**, de Mudur de 1753 a Mudur de 1753
 - [**Drecnis Ragnoom**](/individuos/personagens-de-jogadores/drecnis-ragnoom), de Woton de 1753 a Bee'rus de 1753
