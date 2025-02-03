@@ -2,7 +2,7 @@
 title: Capítulo 03
 description: A Bruxa Do Pântano
 published: true
-date: 2025-02-03T13:45:06.226Z
+date: 2025-02-03T17:24:54.052Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:31.846Z
@@ -27,6 +27,16 @@ Mas algo muito mais sinistro está por trás de tudo. Conflitos morais são apre
 [Titia Olga Cudeporco](/individuos/titia-olga-cudeporco), uma bruxa da noite habitante da região em torno de Bahia Escura, inicia preparativos para um ritual maléfico ao tomar conhecimento de uma competição para formação de um clã de bruxas.
 
 O clã, denominado [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro) e iniciado pela bruxa da areia [Baba Sut](/individuos/baba-sut) e a bruxa annis [Vovó Matrilda Bufenta](/individuos/vovo-matrilda-bufenta), determinou um ritual e a primeira bruxa a concluí-lo seria incluída no clã.
+
+Titia Olga iniciou o ritual aproveitando-se da presença do escravocrata [Turufe Padepedra](/individuos/turufe-padepedra) no vilarejo de [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes) para roubar ovos do [Povo Lagarto](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias-do-sudeste-de-drafeon/povo-lagarto-do-sudeste-de-drafeon), fazendo-os acreditar que os moradores de Vila das Pontes eram culpados. Ao mesmo tempo, desaparecia com mercadorias dos moradores de Vila das Pontes, fazendo-os acreditar que os culpados eram o povo lagarto. A bruxa passou a se alimentar dos pesadelos de moradores selecionados da vila, ganhando controle sobre seus inconscientes.
+
+Após a chegada da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), naquele momento ainda sem nome, a bruxa os tomou como irrelevantes e passou perturbar seus sonos, especialmente os de [Magnus Ponta de Lança](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca).
+
+O grupo investigou ambos os lados, dos moradores de Vila das Pontes e do povo lagarto de [Kzs Bua'tyk Szkar](/lugares/plano-material/drafeon/sudeste-de-drafeon/bahia-escura/kzs-buatyk-szkar). Descobriu um grupo de povo lagarto escravizado no companhia de mineração [Pa-de-Pedra](/faccoes/faccoes-independentes/pa-de-pedra), após um combate contra o dono, Tarufe, sua esposa, [Gromehilda](/individuos/gromehilda-padepedra) fugiu.
+
+Gradativamente a maldição de Titia Olga foi tomando posse sobre os moradores de Vila das Pontes, paranoia e fome afetou a população. O grupo é levado até a toca de Titia Olga, onde descobrem sobre o ritual e que a bruxa matou e se apossou da aparência de [Ziza Puen](/individuos/ziza-puen), eganando ambos Glegécio e seu irmão Vabrud. Ao voltarem ao vilarejo para tentar evitar o ritual, Glegécio havia matado seu irmão e o beijo falso de amor já havia ocorrido entre Geglécio e Titia Olga.
+
+Em um combate contra a bruxa, o grupo foi derrotado, mas para impedir a morte de seus companheiros, Magnus Ponta de Lança fez um pacto macabro com a bruxa, que tomou posse de sua alma. Reagrupando, o grupo se prepará para caçar Titia Olga em sua toca, em um novo combate, o grupo finalmente sucede e volta a Porto Novo para buscar informações sobre as demais bruxas.
 
 ## Ritual de Convite Malificente
 O ritual se dividia em 7 etapas:
