@@ -1,8 +1,8 @@
 ---
-title: Capítulo 8
+title: Capítulo 08
 description: Mistério sob Montravu
 published: true
-date: 2024-08-14T15:12:57.892Z
+date: 2025-02-03T14:09:45.974Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T04:58:02.672Z
