@@ -2,7 +2,7 @@
 title: Capitulo 01
 description: Os Carvalho-Negro
 published: true
-date: 2025-02-03T12:06:33.160Z
+date: 2025-02-03T20:03:29.713Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:27.439Z
@@ -23,10 +23,18 @@ Retornando para Poço Raso, são recompensados e oferecidos entradas para uma da
 ## Temas
 Ocasiões ocorrem que mantém o grupo junto, criando laços entre os membros.
 
+# O Grupo
+- [Magnus Ponta de Lança](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca)
+- [Amadán](/individuos/personagens-de-jogadores/amadan)
+- [Saile](/individuos/personagens-de-jogadores/saile)
+- [Aldror](/individuos/aldror)
+- [Arprax](/individuos/arprax)
+
 # Relações
 
 ## Aliados
-[Lopaohz Carvalho-Negro](/individuos/lopaohz-carvalho-negro#lopaohz-carvalho-negro); [Mariouro Chifremadeira](/individuos/mariouro-chifremadeira#mariouro-chifremadeira);
+- [Lopaohz Carvalho-Negro](/individuos/lopaohz-carvalho-negro#lopaohz-carvalho-negro)
+- [Mariouro Chifremadeira](/individuos/mariouro-chifremadeira#mariouro-chifremadeira);
 
 ## Adversários
-Marquês de Maschera;
+- [Marquês de Maschera](/lugares/emberez/ibrido);
