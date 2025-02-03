@@ -2,7 +2,7 @@
 title: Capítulo 03
 description: A Bruxa Do Pântano
 published: true
-date: 2025-02-03T17:24:54.052Z
+date: 2025-02-03T19:37:24.559Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:31.846Z
@@ -34,9 +34,11 @@ Após a chegada da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/conf
 
 O grupo investigou ambos os lados, dos moradores de Vila das Pontes e do povo lagarto de [Kzs Bua'tyk Szkar](/lugares/plano-material/drafeon/sudeste-de-drafeon/bahia-escura/kzs-buatyk-szkar). Descobriu um grupo de povo lagarto escravizado no companhia de mineração [Pa-de-Pedra](/faccoes/faccoes-independentes/pa-de-pedra), após um combate contra o dono, Tarufe, sua esposa, [Gromehilda](/individuos/gromehilda-padepedra) fugiu.
 
+Na casa de Tarufe, o grupo encontra ovos desaparecidos e os retornam ao povo lagarto, que os agradecem e prometem recompensas e auxílio para derrotar as bruxas.
+
 Gradativamente a maldição de Titia Olga foi tomando posse sobre os moradores de Vila das Pontes, paranoia e fome afetou a população. O grupo é levado até a toca de Titia Olga, onde descobrem sobre o ritual e que a bruxa matou e se apossou da aparência de [Ziza Puen](/individuos/ziza-puen), eganando ambos Glegécio e seu irmão Vabrud. Ao voltarem ao vilarejo para tentar evitar o ritual, Glegécio havia matado seu irmão e o beijo falso de amor já havia ocorrido entre Geglécio e Titia Olga.
 
-Em um combate contra a bruxa, o grupo foi derrotado, mas para impedir a morte de seus companheiros, Magnus Ponta de Lança fez um pacto macabro com a bruxa, que tomou posse de sua alma. Reagrupando, o grupo se prepará para caçar Titia Olga em sua toca, em um novo combate, o grupo finalmente sucede e volta a Porto Novo para buscar informações sobre as demais bruxas.
+Em um combate contra a bruxa, o grupo foi derrotado após o clã ser completo e Baba Sut e Vovó Matrilda aparecerem, mas para impedir a morte de seus companheiros, Magnus Ponta de Lança fez um pacto macabro com a bruxa, que tomou posse de sua alma.
 
 ## Ritual de Convite Malificente
 O ritual se dividia em 7 etapas:
@@ -49,13 +51,16 @@ O ritual se dividia em 7 etapas:
 1. Com o encanto final o convite será aberto
 
 # Caçada às Bruxas
-Baba Sut em Sem Vento
-Matrilda em Ga'te Kwiasz (Orcs)
+Reagrupando após a derrota contra Titia Olga, o grupo viaja até Porto Novo para buscar informações sobre as bruxas e melhor se prepararem. No caminho, encontram [Ozidius Sackropper](/individuos/personagens-de-jogadores/ozidius-sackropper), que se junta a confraria.
 
-# Festa de Recompensa
+Após pesquisarem sobre cada uma das bruxas o grupo parte de volta ao covil de Titia Olga onde a encontram e a derrotam. Partindo com informações sobre onde fica o covil de Vovó Matrilda, foram até Sem Vento, de onde desbravaram ao sul até encontrar o [Estreito de Ga'te Kwiasz](), onde entraram em combate com os goblins da [Tribo Fauxa Azuu](/faccoes/nacoes/tribos-orc/tribo-fauxa-azuu) e os orcs da [Tribo Carazul](/faccoes/nacoes/tribos-orc/tribo-carazul), ambos se encontravam sob domínio de Vovó Matrilda.
 
-## Recompensas
-Como recompensa por eliminar todas as três bruxas, os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) receberam:
+Após derrotarem [Vargus](/individuos/vargus), o líder orc enfeitiçado pelas bruxas, os aventureiros da Confraria da Rosa Negra partiram ao covil de Vovó Matrilda, onde derrotaram Vovó Matrilda e Baba Sut em combate. Dentro do covil, o grupo encontrou um espelho encantado, ao ativá-lo, entraram em contato com uma entidade chamada [Senhor de Escamas](/individuos/lopsur), um arquifada que achava falar com Baba Sut. Ao perceber que as bruxas haviam sido derrotadas, o arquifada interrompeu o contato.
+
+# Recompensas
+O grupo é recompensado pelo povo lagarto por recuperar os ovos desaparecidos, que se encontravam com Tarufe e Titia Olga. Entre as recompensas se encontravam um lagarto gigante, presenteado ao Magnus e nomeado Calanguinho e o colar do líder [Chakkaxishk](/individuos/chakkaxishk).
+
+Pelo império, como recompensa por eliminar todas as três bruxas, os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) receberam:
 - 500 peças de platina, cada, as moedas são todas marcadas com a bandeira de Porto Novo em um dos lados.
 - Um saco com o símbolo do Império Dragão amarrado com uma fio dourado contendo: 4 Safiras Estrela verde; 5 Pérolas Negras; 9 Ametistas; 6 Topázios
 - Uma caixa de madeira, marcada com um escudo branco e azul com estrelas amarelas, o símbolo da familia Raça D'Ouro. Na caixa se encontram 6 Poções de Cura Maior
