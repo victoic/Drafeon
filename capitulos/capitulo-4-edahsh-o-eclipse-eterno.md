@@ -1,14 +1,19 @@
 ---
-title: Capítulo 4
+title: Capítulo 04
 description: Edahsh, O Eclipse Eterno
 published: true
-date: 2021-11-03T14:48:14.605Z
+date: 2025-02-03T13:52:13.771Z
 tags: 
 editor: markdown
-dateCreated: 2020-04-15T00:29:31.265Z
+dateCreated: 2024-08-13T19:48:34.040Z
 ---
 
 # Capítulo 4: Edahsh, O Eclipse Eterno
+
+>  `Início: 14 de Janeiro de 2020`
+>  `Fim: 17 de Abril de 2020`
+{.is-info}
+
 O Grupo retorna a uma vida comum após a [caçada às bruxas](/capitulos/capitulo-3-a-bruxa-do-pantano#capitulo-3-a-bruxa-do-pantano). Três meses se passam, no entanto [Saile](/individuos/personagens-de-jogadores/saile) comete uma série de assassinatos enquanto controlado por [Edahsh](/individuos/edahsh), o que leva o grupo a procurar uma maneira de terminar a possessão do Aarakocra.
 
 ## Três Meses
