@@ -2,7 +2,7 @@
 title: Capítulo 03
 description: A Bruxa Do Pântano
 published: true
-date: 2025-02-03T19:37:24.559Z
+date: 2025-02-03T19:38:53.785Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:31.846Z
@@ -56,6 +56,8 @@ Reagrupando após a derrota contra Titia Olga, o grupo viaja até Porto Novo par
 Após pesquisarem sobre cada uma das bruxas o grupo parte de volta ao covil de Titia Olga onde a encontram e a derrotam. Partindo com informações sobre onde fica o covil de Vovó Matrilda, foram até Sem Vento, de onde desbravaram ao sul até encontrar o [Estreito de Ga'te Kwiasz](), onde entraram em combate com os goblins da [Tribo Fauxa Azuu](/faccoes/nacoes/tribos-orc/tribo-fauxa-azuu) e os orcs da [Tribo Carazul](/faccoes/nacoes/tribos-orc/tribo-carazul), ambos se encontravam sob domínio de Vovó Matrilda.
 
 Após derrotarem [Vargus](/individuos/vargus), o líder orc enfeitiçado pelas bruxas, os aventureiros da Confraria da Rosa Negra partiram ao covil de Vovó Matrilda, onde derrotaram Vovó Matrilda e Baba Sut em combate. Dentro do covil, o grupo encontrou um espelho encantado, ao ativá-lo, entraram em contato com uma entidade chamada [Senhor de Escamas](/individuos/lopsur), um arquifada que achava falar com Baba Sut. Ao perceber que as bruxas haviam sido derrotadas, o arquifada interrompeu o contato.
+
+O grupo partiu de volta a Porto Novo, com Ozidius abandonando a Confraria da Rosa Negra para buscar seus próprios objetivos e um velho draconato, [Drecnis](/individuos/personagens-de-jogadores/drecnis-ragnoom), se junta ao grupo. Em Porto Novo, o grupo recebe um convite para uma festa comemorativa de suas ações.
 
 # Recompensas
 O grupo é recompensado pelo povo lagarto por recuperar os ovos desaparecidos, que se encontravam com Tarufe e Titia Olga. Entre as recompensas se encontravam um lagarto gigante, presenteado ao Magnus e nomeado Calanguinho e o colar do líder [Chakkaxishk](/individuos/chakkaxishk).
