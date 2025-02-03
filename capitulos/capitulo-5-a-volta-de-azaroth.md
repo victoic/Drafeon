@@ -1,14 +1,19 @@
 ---
-title: Capítulo 5
+title: Capítulo 05
 description: A Volta de Azaroth
 published: true
-date: 2021-11-03T16:06:01.987Z
+date: 2025-02-03T14:06:54.271Z
 tags: 
 editor: markdown
-dateCreated: 2021-11-03T16:06:01.987Z
+dateCreated: 2024-08-13T19:48:36.258Z
 ---
 
 # Capítulo 5: A Volta de Azaroth
+
+>  `Início: 01 de Maio de 2020`
+>  `Fim: 01 de Agosto de 2021`
+{.is-info}
+
 O grupo precisa encontrar uma maneira de impedir o retorno do [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal) Azaroth, enquanto Lakip busca as três chaves do [Coração de Azaroth](/itens/coracao-de-azaroth) para libertá-lo.
 
 
