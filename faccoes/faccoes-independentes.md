@@ -2,27 +2,43 @@
 title: Faccoes Independentes
 description: 
 published: true
-date: 2020-07-13T16:24:29.081Z
+date: 2025-02-03T20:18:45.335Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:48:58.290Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Faccoes Independentes -->
 
 # Faccoes Independentes
-* [Asas da Liberdade](/faccoes/faccoes-independentes/asas-da-liberdade#asas-da-liberdade)
-* [Companhia de Caça da Lady Scyla](/faccoes/faccoes-independentes/companhia-de-caca-da-lady-scyla#companhia-de-caca-da-lady-scyla)
-* [Companhia de Mensagens e Encomendas Faralei](/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei#companhia-de-mensagens-e-encomendas-faralei)
-* [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
+
+## Facções Criminosas
 * [Eremitas de Vanfalenard](/faccoes/faccoes-independentes/eremitas-de-vanfalenard#eremitas-de-vanfalenard)
-* [Filhas de Zifelia](/faccoes/faccoes-independentes/filhas-de-zifelia#filhas-de-zifelia)
+* [Ordem de Déz](/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez)
+
+## Facções Malignas
+* [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
+
+## Facções Mercadoras
+* [Companhia de Mensagens e Encomendas Faralei](/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei#companhia-de-mensagens-e-encomendas-faralei)
 * [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris#mao-de-toutaris)
-* [Os Monges de Kammeh-Tu](/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
 * [Pá de Pedra](/faccoes/faccoes-independentes/pa-de-pedra#pa-de-pedra)
 * [Pés-Descalços Seivadores de Cascus](/faccoes/faccoes-independentes/pes-descalcos-seivadores-de-cascus#pes-descalcos-seivadores-de-cascus)
-* [Ordem de Déz](/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez)
-* [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)
-* [Três Mãos](/faccoes/faccoes-independentes/tres-maos#tres-maos)
 * [O Tumulto (Facção)](/faccoes/faccoes-independentes/o-tumulto-faccao#o-tumulto)
+
+## Facções Mercenárias
+* [Companhia de Caça da Lady Scyla](/faccoes/faccoes-independentes/companhia-de-caca-da-lady-scyla#companhia-de-caca-da-lady-scyla)
+* [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro)
+
+## Facções Religiosas
+* [Filhas de Zifelia](/faccoes/faccoes-independentes/filhas-de-zifelia#filhas-de-zifelia)
+* [Os Monges de Kammeh-Tu](/faccoes/faccoes-independentes/os-monges-de-kammeh-tu#os-monges-de-kammeh-tu)
+
+## Facções Supra-governamentais
+* [Asas da Liberdade](/faccoes/faccoes-independentes/asas-da-liberdade#asas-da-liberdade)
+* [Três Mãos](/faccoes/faccoes-independentes/tres-maos#tres-maos)
+
+## Sub-nações
 * [Tribo do Alto Desfiladeiro](/faccoes/faccoes-independentes/tribo-do-alto-desfiladeiro#tribo-do-alto-desfiladeiro)
 * [Tribo Carazul](/faccoes/faccoes-independentes/tribo-carazul#tribo-carazul)
 * [Tribo Fauxa Azuu](/faccoes/faccoes-independentes/tribo-fauxa-azuu#tribo-fauxa-azuu)
