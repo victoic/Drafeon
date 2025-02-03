@@ -2,7 +2,7 @@
 title: Capítulo 02
 description: Criando Raízes
 published: true
-date: 2025-02-03T12:06:16.416Z
+date: 2025-02-03T12:13:02.268Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:29.651Z
@@ -11,7 +11,7 @@ dateCreated: 2024-08-13T19:48:29.651Z
 # Capítulo 2: Criando Raízes
 
 >  `Início: 28 de Abril de 2018`
->  `Fim: XX de XX de 2018   `
+>  `Fim: 27 de Outrubro de 2018   `
 {.is-info}
 
 Após receberem um terreno como recompensa da [Família Carvalho-Negro](/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro), o grupo é convidado para uma reunião com Lakip Brillabouso, o Mestre de Região da [Ordem de Ouro]() no [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon).
