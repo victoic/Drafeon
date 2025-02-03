@@ -2,7 +2,7 @@
 title: Capítulo 03
 description: A Bruxa Do Pântano
 published: true
-date: 2025-02-03T13:21:01.303Z
+date: 2025-02-03T13:45:06.226Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:31.846Z
@@ -38,7 +38,13 @@ O ritual se dividia em 7 etapas:
 1. Um beijo de amor enganado iniciará o ritual
 1. Com o encanto final o convite será aberto
 
-### Recompensas
+# Caçada às Bruxas
+Baba Sut em Sem Vento
+Matrilda em Ga'te Kwiasz (Orcs)
+
+# Festa de Recompensa
+
+## Recompensas
 Como recompensa por eliminar todas as três bruxas, os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) receberam:
 - 500 peças de platina, cada, as moedas são todas marcadas com a bandeira de Porto Novo em um dos lados.
 - Um saco com o símbolo do Império Dragão amarrado com uma fio dourado contendo: 4 Safiras Estrela verde; 5 Pérolas Negras; 9 Ametistas; 6 Topázios
