@@ -1,14 +1,21 @@
 ---
-title: Capítulo 3
+title: Capítulo 03
 description: A Bruxa Do Pântano
 published: true
-date: 2020-04-14T23:45:24.573Z
+date: 2025-02-03T12:17:29.622Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:48:31.846Z
 ---
 
 <!-- SUBTITLE: A Bruxa Do Pântano -->
 
 # Capítulo 3: A Bruxa Do Pântano
+
+>  `Início: 10 de Novembro de 2018`
+>  `Fim: XX de XX de 2018   `
+{.is-info}
+
 Mercadorias exportadas de [Vila das Pontes]() deixaram de ser entregues para a [Família Carvalho-Negro](/faccoes/faccoes-familiares/familia-carvalho-negro#familia-carvalho-negro) de [Porto Novo]().. Entre as mercadorias se encontram turfa, um dos principais combustíveis da cidade, e ferro do pântano, um metal barato altamente utilizado para itens mundanos por artesãos da cidade porteira. Pessoas passam frio nos subúrbios de Porto Novo, o custo de lenha e metais brutos sobe exponencialmente. [Lopaohz Carvalho-Negro]() pede ao grupo confiável de aventureiros que descubra o motivo e tente resolvê-lo.
 
 Em meio ao pântano da [Bahia Escura]() se encontra o vilarejo. Sua atmosfera é pesada, seu povo é desconfiado e parece abatido. Os responsáveis pela exportação do metal barato ([Pá de Pedra]()) dizem que sua mercadoria que deveria ter sido exportada simplesmente sumiu, culpando os malditos Povo Lagarto que infestam o pântano. Os responsáveis pela exportação da turfa (os irmão [Glergécio]() e [Vabrud Coletor]()), parecem cansados e doentes, dizem estar descansando, mas voltaram a produzir em breve. O Povo Lagarto de [Kzs Bua'tyk Szkar]() culpa os de sangue quente pelas maldições que os afetam. 
