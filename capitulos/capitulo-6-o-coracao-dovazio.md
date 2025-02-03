@@ -1,14 +1,19 @@
 ---
-title: Capítulo 6
+title: Capítulo 06
 description: O Coração do Vazio
 published: true
-date: 2024-08-13T21:32:40.864Z
+date: 2025-02-03T14:08:24.637Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:38.531Z
 ---
 
 # Capítulo 6: O Coração do Vazio
+
+>  `Início: 14 de Agosto de 2021`
+>  `Fim: 20 de Fevereiro de 2022`
+{.is-info}
+
 Após derrotarem [Lakip](/individuos/lakip-brillabouso) e [Edaiden](/individuos/edaiden) e impedir o ritual de retorno de [Azaroth](/individuos/azaroth) ao [Plano Material](/lugares/plano-material), o grupo é transportado ao [Abismo](/lugares/abismo), na 176ª camada, [Coração do Vazio](/lugares/abismo/coracao-do-vazio).
 
 O grupo precisa sobreviver no local, enquanto foge de [Fraz-Urb'luu](/individuos/fraz-urbluu) e busca uma maneira de retornar ao Plano Material.
