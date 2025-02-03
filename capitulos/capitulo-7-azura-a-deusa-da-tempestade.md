@@ -1,8 +1,8 @@
 ---
-title: Capítulo 7
+title: Capítulo 07
 description: Azura, A Dragão Deus
 published: true
-date: 2024-08-14T13:07:48.630Z
+date: 2025-02-03T14:09:17.165Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
