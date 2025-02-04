@@ -1,11 +1,11 @@
 ---
-title: 'Ih Lich
+title: ih-lich
 description: 
 published: true
-date: 2020-12-18T01:24:45.233Z
-tags: morto-vivo
+date: 2025-02-04T00:13:48.205Z
+tags: 
 editor: markdown
-dateCreated: 2020-12-18T01:23:16.232Z
+dateCreated: 2024-08-13T19:51:21.258Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre 'Ih Lich -->
