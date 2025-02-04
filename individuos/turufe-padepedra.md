@@ -2,8 +2,10 @@
 title: Turufe Padepedra
 description: 
 published: true
-date: 2019-11-11T16:29:52.269Z
+date: 2025-02-04T03:39:54.476Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:53:34.757Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Turufe Padepedra -->
@@ -15,10 +17,10 @@ Turufe mantinha como escravos três Povo Lagarto: [Bosta](/individuos/bosta#bost
 
 Turufe é um anão rico para o vilarejo onde mora, possui uma grande casa. Ele mantêm também três Homens-Lagarto como escravos, sendo um desses o que causou sua cicatriz. Turufe posui um corpo forte, uma grande cicatriz lhe cruza o rosto. Tarufe possui um grande nariz. Seu volumoso bigode trançado se mescla com sua barba.
 
-Em 1753, um grupo de aventureiros chegou em Vila das Pontes para investigar o motivo da cessão de exportações de turfa para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo). Durante a investigação o grupo descobriu que Turufe mantinha como escavro três Povo Lagarto e ao tentar soltar os escravos entraram em combate com Turufe e seus guardas e o mataram. Gromehilda e seus filhos fugiram.
+Em 1753 ED, um grupo de aventureiros chegou em Vila das Pontes para investigar o motivo da cessão de exportações de turfa para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo). Durante a investigação o grupo descobriu que Turufe mantinha como escavro três Povo Lagarto e ao tentar soltar os escravos entraram em combate com Turufe e seus guardas e o mataram. Gromehilda e seus filhos fugiram.
 
 # Informações
-`Vida` 1660 - 1753 
+`Vida` 1660 ED - 1753 ED
 `Local de Nascimento` [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes)
 `Sexo Biológico` Masculino
 `Olhos` Olhos pretos
