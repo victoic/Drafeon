@@ -2,8 +2,10 @@
 title: Ser Glorkan
 description: 
 published: true
-date: 2020-04-16T16:36:44.286Z
+date: 2025-02-04T03:44:01.481Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:53:12.742Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Ser Glorkan -->
@@ -13,10 +15,10 @@ Ser Glarkon, Humano, é um velho mercador da cidade de [Porto Novo](/lugares/pla
 
 Ser Glorkan se auto proclama O Grande Ser.
 
-Em 1753, [Cis](/individuos/cis) foi contratada por Ser como sua assistente, Ser vê grande potencial nela e a ensina a cria itens mágicos e gerenciar a loja.
+Em 1753 ED, [Cis](/individuos/cis) foi contratada por Ser como sua assistente, Ser vê grande potencial nela e a ensina a cria itens mágicos e gerenciar a loja.
 
 # Informações
-`Data de Nascimento` 1692
+`Data de Nascimento` 1692 ED
 `Sexo Biológico` Masculino
 `Olhos` Castanhos
 `Cabelos` Branco, careca no topo
