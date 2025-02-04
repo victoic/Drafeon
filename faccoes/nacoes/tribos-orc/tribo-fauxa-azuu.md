@@ -2,10 +2,10 @@
 title: Tribo Fauxa Azuu
 description: 
 published: true
-date: 2021-03-06T23:49:07.805Z
+date: 2025-02-04T04:00:36.310Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-11T16:32:11.627Z
+dateCreated: 2024-08-13T19:58:09.883Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Tribo Fauxa Azuu -->
@@ -13,7 +13,7 @@ dateCreated: 2019-11-11T16:32:11.627Z
 # Tribo Fauxa Azuu
 Tribo Fauxa Azuu é uma tribo de goblins localizada no [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon). A tribo se encontra nas paredes e árvores do fundo do Estreito de Ga'te Kwiasz, em sua parte mais profunda, os goblins habitam cavernas naturais e constroem habitações básicas nas copas das árvores. A tribo se deu esse nome por utilizarem rochas brancas das paredes do desfiladeiro para confeccionar um tipo de tinta branca que é utilizada para pintar faixas no rosto e corpo dos membros da tribo.
 
-[Nuk da Parede](/individuos/nuk-da-parede#nuk-da-parede) foi um dos governantes da tribo até ser morto por um aventureiro em 1753.
+[Nuk da Parede](/individuos/nuk-da-parede#nuk-da-parede) foi um dos governantes da tribo até ser morto por um aventureiro em 1753 ED.
 
 ## Estrutura
 A tribo é liderada pelo goblin mais velho, o que cria conflitos e batalhas entre os goblins mais velhos da tribo.
