@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T03:19:27.560Z
+date: 2025-02-04T03:25:58.824Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -13,7 +13,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 ## [Capítulo 01](/capitulos/capitulo-01-os-carvalho-negro)
 
 - 10/03/2018 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
-> Início da campanha 1. Jogadores iniciais incluem: Victor (DM), José (Magnus), Elias (Saile/Kraz), Matheus (Arprax), Thiago (Amadán), Stark (Aldror), "Miranha" (???). O grupo salva [Milda Chifremadeira](/individuos/milda-chifremadeira) de um ataque de kobolds e conhece [Lopaohz Carvalho-Negro](/individuos/lopaohz-carvalho-negro).
+> Início da campanha 1. Jogadores iniciais incluem: Victor (DM), José (Magnus), Elias (Saile/Kraz), Matheus (Arprax), Thiago (Amadán), Stark (Aldror), Luís (Dexter) O grupo salva [Milda Chifremadeira](/individuos/milda-chifremadeira) de um ataque de kobolds e conhece [Lopaohz Carvalho-Negro](/individuos/lopaohz-carvalho-negro).
 {.is-info}
 - 17/03/2018 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
 > [Lopaohz Carvalho-Negro](/individuos/lopaohz-carvalho-negro) contrata o grupo para buscar escamas de dragão vermelho no [Monte Vermelho](/lugares/plano-material/drafeon/sudeste-de-drafeon/monte-vermelho) para curar a filha do líder de sua família, o [Conde Carvalho-Negro](/individuos/conde-carvalho-negro).
