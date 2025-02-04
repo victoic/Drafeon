@@ -2,7 +2,7 @@
 title: Grande Champ
 description: 
 published: true
-date: 2025-02-04T19:58:05.476Z
+date: 2025-02-04T20:11:59.572Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T19:51:09.270Z
@@ -27,6 +27,8 @@ Majoritariamente, Grande Champ foi uma cidade agrária, com grandes desenvolvime
 A vila possui uma torre de pedra no centro da cidade, a construção é  governamental e abriga servidores da cidade e guarda local. A praça central, onde se localiza a torre, é também centro comercial.
 
 O Museu de Contos, um museu sobre celestiais e corruptores, de [Maurice Ottoniano](/individuos/maurice-ottoniano), se encontra na praça central da cidade.
+
+Pousada dos Campos é uma pousada em uma construção de pedra com pilares em arco na sua entrada.
 
 # Informações
 `Tipo` Cidade 
