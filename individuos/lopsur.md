@@ -2,10 +2,10 @@
 title: Lopsur
 description: Senhor das Escamas
 published: true
-date: 2021-05-26T16:43:20.263Z
+date: 2025-02-04T03:47:14.806Z
 tags: fada
 editor: markdown
-dateCreated: 2019-11-12T15:58:09.645Z
+dateCreated: 2024-08-13T19:51:58.037Z
 ---
 
 # Lopsur
@@ -15,7 +15,7 @@ Lopsur se mostra nas superfícies como um longo e magro humanoide careca e olhos
 
 Sua verdadeira forma, no entanto, é a de uma gargantuosa serpente de escamas negras com padrões verdes. A serpente possui dez pares de presas venenosas e não possui olhos.
 
-Em 1753, Lopsur pós em prática em conjunto com as bruxas do [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro) para mesclar os planos. Lopsur objetiva poder atravessar para o [Plano Material](/lugares/plano-material) para caçar uma fada que matou sua ninhada e conseguiu fugir de [Faéria](/lugares/faeria). Em troca, Lopsur prometeu um dos ovos de sua próxima ninhada às bruxas.
+Em 1753 ED, Lopsur pós em prática em conjunto com as bruxas do [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro) para mesclar os planos. Lopsur objetiva poder atravessar para o [Plano Material](/lugares/plano-material) para caçar uma fada que matou sua ninhada e conseguiu fugir de [Faéria](/lugares/faeria). Em troca, Lopsur prometeu um dos ovos de sua próxima ninhada às bruxas.
 
 # Informações
 `Data de Nascimento` ? 
