@@ -2,8 +2,10 @@
 title: Araven Carvalho-Negro
 description: 
 published: true
-date: 2019-11-11T16:27:48.222Z
+date: 2025-02-04T03:54:32.186Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:49:33.458Z
 ---
 
 <!-- SUBTITLE: A Flor do Carvalho -->
@@ -14,7 +16,7 @@ Araven Carvalho-Negro foi um humano, residente de [Porto Novo](/lugares/plano-ma
 Arevan morreu em combate com as forças do [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro), em [Sem Vento](/lugares/plano-material/drafeon/sudeste-de-drafeon/sem-vento#sem-vento), defendendo a retirada de seus companheiros.
 
 # Informações
-`Vida` 1728 - 1753
+`Vida` 1728 ED - 1753 ED
 `Sexo Biológico` Masculino
 `Olhos` Negros
 `Cabelos` Cabelos negros médios, levemente cachado
