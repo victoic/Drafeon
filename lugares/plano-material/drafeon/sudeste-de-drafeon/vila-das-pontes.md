@@ -2,7 +2,7 @@
 title: Vila Das Pontes
 description: 
 published: true
-date: 2025-02-04T03:34:18.314Z
+date: 2025-02-04T03:34:41.160Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:59:38.630Z
@@ -22,7 +22,7 @@ Os Puen são humanos fazendeiros e caçadores.
 Os Mãos Verdes são humanos mineradores.
 Os Catullian são Elfos da Floresta, mineradores.
 
-Uma sexta família habitava a vila, mas fugiram da cidade após a morte do líder da família ([Turufe Padepedra](/individuos/turufe-padepedra#turufe-padepedra)) por um grupo de aventureiros durante um ritual macabro realizado por uma bruxa em 1753. No mesmo ano [Vabrud Coletor](/individuos/vabrud-coletor#vabrud-coletor) foi morto pela bruxa.
+Uma sexta família habitava a vila, mas fugiram da cidade após a morte do líder da família ([Turufe Padepedra](/individuos/turufe-padepedra#turufe-padepedra)) por um grupo de aventureiros durante um ritual macabro realizado por uma bruxa em 1753 ED. No mesmo ano [Vabrud Coletor](/individuos/vabrud-coletor#vabrud-coletor) foi morto pela bruxa.
 
 ## Indústria
 A vila sobrevive, em sua maioria, subexistindo da caça e da coleta de água das chuvas. Porém possui também exportação, principalmente para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo), de turfa e ferro de pântano. Exportação de ervas e couros também é grande na localidade.
