@@ -2,8 +2,10 @@
 title: Vila Das Pontes
 description: 
 published: true
-date: 2019-11-11T16:34:19.656Z
+date: 2025-02-04T03:34:18.314Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:59:38.630Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Vila Das Pontes -->
@@ -11,7 +13,7 @@ tags:
 # Vila Das Pontes
 Vila das Pontes é um pequeno vilarejo ao Sudeste de Drafeon. Seu nome vem das pontes que interconectam as construções do vilarejo.
 
-Em 1753 a vila sofreu uma ataque da bruxa [Titia Olga Cudeporco](/individuos/titia-olga-cudeporco#titia-olga-cudeporco), durante o ataque muitos moradores da vila morreram e parte da vila foi destruída, o [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), junto com um grupo de aventureiros, enviaram uma expedição para auxiliar a reconstrução da vila.
+Em 1753 ED a vila sofreu uma ataque da bruxa [Titia Olga Cudeporco](/individuos/titia-olga-cudeporco#titia-olga-cudeporco), durante o ataque muitos moradores da vila morreram e parte da vila foi destruída, o [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), junto com um grupo de aventureiros, enviaram uma expedição para auxiliar a reconstrução da vila.
 
 ## Demografia
 Cinco famílias habitam o vilarejo. Os Pethorn são uma família de Elfos da Floresta, possuem uma taverna no vilarejo. O líder da família é [Elautin Pethorn](/individuos/elautin-pethorn#elautin-pethorn) é também o líder da vila, possuindo o título de [Senhor de Terras](/rankings-e-titulos/senhor-de-terras#senhor-de-terras).
