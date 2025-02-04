@@ -2,7 +2,7 @@
 title: Documentos
 description: 
 published: true
-date: 2025-02-04T19:29:58.600Z
+date: 2025-02-04T19:31:46.153Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:02.505Z
@@ -14,6 +14,7 @@ dateCreated: 2024-08-13T19:48:02.505Z
 
 ## Livros
 - [Confraria das Rosas Negras e o Retorno de Edahsh](/documentos/confraria-das-rosas-negras-e-o-retorno-de-edahsh)
+- [Confraria das Rosas Negras e o Conciliábulo das Bruxas](/documentos/confraria-das-rosas-negras-e-o-conciliabulo-das-bruxas)
 - [Contos & Fábulas de Yrcri Magnus](/documentos/contos-fabulas-de-yrcri-magnus#contos-fabulas-de-yrcri-magnus)
 - [Diário de Ivrandruth](/documentos/diario-ivrandruth)
 - [Fundamentos do Controle Arcano: Pontos de Pressão Arcana](/documentos/fundamentos-do-controle-arcano-pontos-de-pressão-arcana)
