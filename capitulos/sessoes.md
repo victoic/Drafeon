@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T03:25:58.824Z
+date: 2025-02-04T03:32:27.472Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -79,7 +79,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > ![a_queda_de_saile_-_blurred.png](/uploads/arte/a_queda_de_saile_-_blurred.png){.align-center}
 {.is-info}
 - 05/10/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
-- 19/10/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
+- 19/10/2019 | Data narrativa: XX de Woton 1753 ED - XX de Woton 1753 ED
 > O grupo chega a [Tribo do Alto Desfiladeiro](/faccoes/nacoes/tribos-orc/tribo-do-alto-desfiladeiro) onde libertam [Drecnis Ragnoom](/individuos/personagens-de-jogadores/drecnis-ragnoom), que se junta ao grupo em busca das bruxas.
 {.is-info}
 - 02/11/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
@@ -89,26 +89,26 @@ dateCreated: 2025-02-03T14:30:43.100Z
 - 30/11/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
 > Reforço dos povo lagarto chega ao combate contra as bruxas.
 {.is-info}
-- 14/12/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
+- 14/12/2019 | Data narrativa: XX de Bee'rus de 1753 ED - XX de Bee'rus de 1753 ED
 > O grupo derrota [Baba Sut](/individuos/baba-sut) e [Titia Olga](/individuos/titia-olga-cudeporco), enquanto [Vovó Matrilda](/individuos/vovo-matrilda-bufenta) escapa. O grupo contata, sem conhecimento, o [Senhor de Escamas](/individuos/lopsur), que mata Vovó Matrilda ao perceber que fracassaram. O [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro) chega ao fim.
 {.is-info}
-- 10/01/2020 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
+- 10/01/2020 | Data narrativa: XX de Bee'rus de 1753 ED - XX de Bee'rus de 1753 ED
 > O grupo recebe uma festa de comemoração em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) e [Drecnis](/individuos/personagens-de-jogadores/drecnis-ragnoom) deixa o grupo sem avisos.
 
 ## [Capítulo 04](/capitulos/capitulo-04-edahsh-o-eclipse-eterno)
 - 14/01/2020 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
 > Grupo toma um descanso de 3 meses. Nesse tempo: [Ozidius](/individuos/personagens-de-jogadores/ozidius-sackropper) deixa o grupo; Saile, dominado por [Edahsh](/individuos/edahsh), assassina 80 pessoas; [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) recruta [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust) para o grupo; [Amadán](/individuos/personagens-de-jogadores/amadan) pesquisa sobre o [Senhor de Escamas](/individuos/lopsur).
 {.is-info}
-- 31/01/2020 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
+- 31/01/2020 | Data narrativa: XX de Azemis de 1754 ED
 > [Ser Glorkan](/individuos/ser-glorkan) envia o grupo em uma missão para entregar mercadorias em [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso)
-- 06/03/2020 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
+- 06/03/2020 | Data narrativa: XX de Azemis de 1754 ED
 > O grupo enfrentou uma Naga Espiritual.
 {.is-info}
-- 20/03/2020 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
-- 04/04/2020 | Data narrativa: 15 de Azemis de 1753 ED
+- 20/03/2020 | Data narrativa: XX de Azemis de 1754 ED
+- 04/04/2020 | Data narrativa: 15 de Azemis de 1754 ED
 > O grupo realiza o ritual para invocar e combate [Edahsh](/individuos/edahsh).
 {.is-info}
-- 17/04/2020 | Data narrativa: 15 de Azemis de 1753 ED - 16 de Azemis de 1753 ED
+- 17/04/2020 | Data narrativa: 15 de Azemis de 1754 ED - 16 de Azemis de 1754 ED
 > [Edahsh](/individuos/edahsh) é derrotado. [Saile](/individuos/personagens-de-jogadores/saile) retoma sua memória e se renomeia Kraz. O grupo retorna a Porto Novo.
 {.is-info}
 
