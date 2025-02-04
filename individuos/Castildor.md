@@ -2,20 +2,20 @@
 title: Castildor
 description: 
 published: true
-date: 2021-02-19T19:35:05.327Z
+date: 2025-02-04T03:43:12.547Z
 tags: 
 editor: markdown
-dateCreated: 2020-01-07T16:59:46.048Z
+dateCreated: 2024-08-13T19:49:11.398Z
 ---
 
 # Castildor
 Castildor é um Alto Elfo morador e guarda de elite da cidade de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo).
 
-Em 1753, ele ajudou a repelir o ataque do [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro) à Porto Novo e, após o ataque, ficou encarregado de vigiar e defender o portão principal da muralha.
+Em 1753 ED, ele ajudou a repelir o ataque do [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro) à Porto Novo e, após o ataque, ficou encarregado de vigiar e defender o portão principal da muralha.
 
 
 # Informações
-`Nascimento` 1511
+`Nascimento` 1511 ED
 `Local de Nascimento` ?
 `Sexo Biológico` Masculino
 `Olhos` Pretos
