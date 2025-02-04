@@ -2,8 +2,10 @@
 title: Igor Larionov
 description: 
 published: true
-date: 2019-11-11T16:28:42.341Z
+date: 2025-02-04T03:55:11.059Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:51:18.374Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Igor Larionov -->
@@ -19,10 +21,10 @@ Certas invenções de Igor são bastante famosas:
 ## História
 Igor nasceu em uma proeminente família de arquivistas, recebendo muitos cuidados e treinamentos por toda sua infância. Fascinado por artefatos mágicos começou a explorar o mundo em busca destes, tentando entendê-los. Ainda jovem começou a criar os seus próprios itens mágicos, pelos quais se tornou famoso. Após se aposentar de suas aventuras passou as e dedicar inteiramente à criação de artefatos de grande poder.
 
-Em 1753, Igor realizou uma competição onde diversos grupos de aventureiros participaram para obter um item mágico misterioso criado pelo inventor. O item permitia que seu possuidor conseguisse trocar o item pela posse mais valiosa outra pessoa possui consigo.
+Em 1753 ED, Igor realizou uma competição onde diversos grupos de aventureiros participaram para obter um item mágico misterioso criado pelo inventor. O item permitia que seu possuidor conseguisse trocar o item pela posse mais valiosa outra pessoa possui consigo.
 
 # Informações
-`Data de Nascimento` 1363 
+`Data de Nascimento` 1363 ED 
 `Sexo Biológico` Masculino
 `Olhos` Negros
 `Cabelos` Turfos de cabelos brancos em volta de sua cabeça
