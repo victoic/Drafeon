@@ -1,0 +1,24 @@
+---
+title: Grande Champ
+description: 
+published: true
+date: 2025-02-04T19:51:09.270Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-04T19:51:09.270Z
+---
+
+# Grande Champ
+> Humano para "Campo Largo"
+> Assimilição do francês
+{.is-info}
+
+
+Grande Champ é uma cidade do [Império Dragão](/faccoes/nacoes/imperio-dragao), encontrado no [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon). A cidade se encontra à 45 Km de distância ao noroeste de [Estrada do Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/estrada-do-horizonte) e 45 Km de distância ao leste de [Ici](/lugares/plano-material/drafeon/sul-de-drafeon/ici).
+
+Majoritariamente, Grande Champ é uma cidade agrária, com grandes desenvolvimentos arcanos para acréscimo da produção, incluindo [torres de irrigação arcana](/itens/estruturas/torre-de-irrigacao-arcana). O centro da cidade aglomera trabalhadores e artesão que produzem a partir da produção agrária local.
+
+## Infraestrutura
+A vila possui uma torre de pedra no centro da cidade, a construção é  governamental e abriga servidores da cidade e guarda local. A praça central, onde se localiza a torre, é também centro comercial.
+
+O Museu de Contos, um museu sobre celestiais e corruptores, de [Maurice Ottoniano](/individuos/maurice-ottoniano), se encontra na praça central da cidade.
