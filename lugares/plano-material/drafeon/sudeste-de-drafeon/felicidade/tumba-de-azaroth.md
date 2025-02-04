@@ -2,8 +2,10 @@
 title: Tumba De Azaroth
 description: 
 published: true
-date: 2019-11-11T16:34:29.751Z
+date: 2025-02-04T03:58:19.352Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T20:00:18.184Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Tumba De Azaroth -->
@@ -16,7 +18,7 @@ A tomba foi construída no interior de uma caverna, sendo escavada a partir das 
 
 ## História
 A tumba foi construída após a Ordem de Ouro conseguir destruir com um ritual celestial o demônio Azeroth.
-Em 1753 um grupo de aventureiros enviados pela Ordem foi enviado para a ilha de Felicidade para procurar um grupo que havia desaparecido, suas investigações o levaram à tumba, onde encontraram os membros perdidos e recuperaram o Coração de Azaroth para a Ordem de Ouro, que foi transportado para o quartel general da Ordem em Porto Novo sob responsabilidade de [Lakip Brillabouso](/individuos/lakip-brillabouso#lakip-brillabouso).
+Em 1753 ED um grupo de aventureiros enviados pela Ordem foi enviado para a ilha de Felicidade para procurar um grupo que havia desaparecido, suas investigações o levaram à tumba, onde encontraram os membros perdidos e recuperaram o Coração de Azaroth para a Ordem de Ouro, que foi transportado para o quartel general da Ordem em Porto Novo sob responsabilidade de [Lakip Brillabouso](/individuos/lakip-brillabouso#lakip-brillabouso).
 
 # Informações
 `Tipo` Tumba
