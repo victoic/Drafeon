@@ -2,7 +2,7 @@
 title: Dexter Kenway
 description: 
 published: true
-date: 2025-02-04T03:38:19.942Z
+date: 2025-02-04T03:38:34.329Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T01:12:36.736Z
@@ -25,7 +25,7 @@ A história a seguir foi escrita por Luís.
 > E com isso estou a 1 ano fugindo e buscando redenção do meu passado.
 
 # Informações
-`Vida` 1721 - 1753  
+`Vida` 1721 - Gadot 1753  
 `Sexo Biológico` Masculino
 `Olhos` Pretos
 `Cabelos` Pretos, médios e lisos
