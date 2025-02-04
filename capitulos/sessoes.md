@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T03:13:15.021Z
+date: 2025-02-04T03:19:27.560Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -63,7 +63,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > [Amadán](/individuos/personagens-de-jogadores/amadan) sai do grupo, [Veles Lupis Lugh](/individuos/personagens-de-jogadores/veles-lupis-lugh) entra?
 {.is-danger}
 - 13/04/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
-> [Titia Olga Cudeporco](/individuos/titia-olga-cudeporco) faz um pacto com [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) para salvar seus companheiros. Titia Olga é morta em combate, mas grupo precisa recuar de Baba Sut e Vovó Matrilda.
+> [Titia Olga Cudeporco](/individuos/titia-olga-cudeporco) faz um pacto com [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) para salvar seus companheiros. O grupo precisa recuar.
 {.is-info}
 - 27/04/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
 > [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) recebe o Calaguinho e um colar de presente de [Chakkaxishk](/individuos/chakkaxishk). O grupo visita a [Ordem de Déz](/faccoes/faccoes-independentes/ordem-de-dez).
@@ -84,13 +84,13 @@ dateCreated: 2025-02-03T14:30:43.100Z
 {.is-info}
 - 02/11/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
 - 16/11/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
-> O grupo chega a [Tribo Carazul](/faccoes/nacoes/tribos-orc/tribo-carazul). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) usa o colar dado [Chakkaxishk](/individuos/chakkaxishk) para descrever o local onde as bruxas se encontram, sem saber se isso funcionaria. Se inicia o combate contra [Baba Sut](/individuos/baba-sut) e [Vovó Matrilda Bufenta](/individuos/vovo-matrilda-bufenta).
+> O grupo chega a [Tribo Carazul](/faccoes/nacoes/tribos-orc/tribo-carazul). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) usa o colar dado [Chakkaxishk](/individuos/chakkaxishk) para descrever o local onde as bruxas se encontram, sem saber se isso funcionaria. Se inicia o combate contra [Titia Olga](/individuos/titia-olga-cudeporco), [Baba Sut](/individuos/baba-sut) e [Vovó Matrilda Bufenta](/individuos/vovo-matrilda-bufenta).
 {.is-info}
 - 30/11/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
 > Reforço dos povo lagarto chega ao combate contra as bruxas.
 {.is-info}
 - 14/12/2019 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
-> O grupo derrota o [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro) e contata, sem conhecimento, o [Senhor de Escamas](/individuos/lopsur).
+> O grupo derrota [Baba Sut](/individuos/baba-sut) e [Titia Olga](/individuos/titia-olga-cudeporco), enquanto [Vovó Matrilda](/individuos/vovo-matrilda-bufenta) escapa. O grupo contata, sem conhecimento, o [Senhor de Escamas](/individuos/lopsur), que mata Vovó Matrilda ao perceber que fracassaram. O [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro) chega ao fim.
 {.is-info}
 - 10/01/2020 | Data narrativa: XX de Obris 1753 ED - XX de Obris 1753 ED
 > O grupo recebe uma festa de comemoração em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) e [Drecnis](/individuos/personagens-de-jogadores/drecnis-ragnoom) deixa o grupo sem avisos.
