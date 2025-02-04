@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T13:28:19.487Z
+date: 2025-02-04T15:34:13.370Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -76,7 +76,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 - 15/06/2019 | Data narrativa: XX de Mudur de 1753 ED
 - 29/06/2019 | Data narrativa: XX de Mudur de 1753 ED
 - 03/08/2019 | Data narrativa: XX de Mudur de 1753 ED
-> [Saile](/individuos/personagens-de-jogadores/saile) tem visões da realidade se rasgando e uma criatura poderosa surgindo enquanto ele cai em uma escuridão sem fim.
+> [Saile](/individuos/personagens-de-jogadores/saile) tem visões da realidade se rasgando e uma criatura poderosa surgindo enquanto ele cai em uma escuridão sem fim. Ele acorda com sua primeira pena preta, a cada assassinato sob controle de [Edahsh](/individuos/edahsh), uma de suas penas se torna preta.
 > ![a_queda_de_saile_-_blurred.png](/uploads/arte/a_queda_de_saile_-_blurred.png){.align-center}
 {.is-info}
 - 05/10/2019 | Data narrativa: XX de Mudur de 1753 ED
@@ -116,12 +116,32 @@ dateCreated: 2025-02-03T14:30:43.100Z
 {.is-info}
 
 ## [Capítulo 05](/capitulos/capitulo-05-a-volta-de-azaroth)
-- 01/05/2020 | Data narrativa: 18 de Azemis de 1753 ED
+- 01/05/2020 | Data narrativa: 18 de Azemis de 1754 ED
 > [Lakip Brillabouso](/individuos/lakip-brillabouso) retorna com o corpo de um dragão vermelho [Edainde](/individuos/edaiden) e se tranca no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro).
 {.is-info}
-- 15/05/2020 | Data narrativa: 18 de Azemis de 1753 ED - 23 de Azemis de 1753 ED
+- 15/05/2020 | Data narrativa: 18 de Azemis de 1754 ED - 23 de Azemis de 1754 ED
 > [Irien](/individuos/irien-galaniell) ordena a retirada do dragão morto da cidade, devido o fedor. [Lakip](/individuos/lakip-brillabouso) transforma o dragão morto, [Edaiden](/individuos/edaiden) em um dracolich sob seu controle. Lakip e Edaiden destroem parte da cidade, tomamando controle dela. O grupo foge com [Ser](/individuos/ser-glorkan) por um portal para [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez), lá [Dagor Tilgo](/individuos/personagens-de-jogadores/dagor-tilgo) se junta ao grupo.
 {.is-info}
+- 29/05/2020 | Data narrativa: 23 de Azemis de 1754 ED
+> [Ser Glorkan](/individuos/ser-glorkan) arranja uma reunião com [Ebbo Martel](/individuos/ebbo-martel), [Senhor de Região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao) do [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon) para informar sobre o ataque e planejar próximos passos.
+{.is-info}
+- 26/06/2020 | Data narrativa: 23 de Azemis de 1754 ED - 24 de Azemis de 1754 ED
+> Sob direcionamento de [Alcuin](/individuos/alcuin), o grupo parte em busca de um velho chamado [Maurice](/individuos/maurice-ottoniano), na cidade de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon), para entender possíveis influências demoníacas que caíram sobre [Lakip](/individuos/lakip-brillabouso) e a [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro).
+> O grupo chega até [Vila da Ponte](/lugares/plano-material/drafeon/sul-de-drafeon/vila-da-ponte), onde os [Eremitas de Vanfalenard](/faccoes/faccoes-independentes/eremitas-de-vanfalenard) realizavam roubos em fazendas locais para se alimentar. O grupo convenceu os eremitas a se mudarem para a região de [Colinas Chuvosas](/lugares/plano-material/drafeon/sul-de-drafeon).
+{.is-info}
+- 17/07/2020 | Data narrativa: 24 de Azemis de 1754 ED - 28 de Azemis de 1754 ED
+- 31/07/2020 | Data narrativa: 28 de Azemis de 1754 ED - 29 de Azemis de 1754 ED
+> Grupo enfreta [Grasbuls](/fauna-e-flora/grasbul).
+{.is-info}
+- 14/08/2020 | Data narrativa: 29 de Azemis de 1754 ED - 06 de Fateus de 1754 ED
+> O grupo chega a [Remo](/lugares/plano-material/drafeon/sul-de-drafeon/remo). Em Remo, o grupo participa das competições comemorativas do Festival da Tormenta, incluindo uma competição de bebida.
+> [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust) possui um sonho com um dragão cercado de corpos e um raio vivo conversando com ele. O Grupo faz a viagem de [Remo](/lugares/plano-material/drafeon/sul-de-drafeon/remo) a [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon).
+{.is-info}
+- 28/08/2020 | Data narrativa: 02 de Fateus de 1754 ED - 02 de Fateus de 1754 ED
+> Em Grand Champ o grupo inicia a busca por [Maurice](/individuos/maurice-ottoniano).
+> A infâme cena do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) revelando segredos do grupo a uma velha pedestre fofoqueira, [Matilde](/individuos/matilde).
+{.is-info}
+- 25/09/2020 | Data narrativa: 02 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
