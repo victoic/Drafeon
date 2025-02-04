@@ -2,7 +2,7 @@
 title: Vabrud Coletor
 description: 
 published: true
-date: 2025-02-04T03:59:24.859Z
+date: 2025-02-04T03:59:50.421Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:53:41.392Z
@@ -20,7 +20,8 @@ Vabrud fez um acordo com Titia Olga Cudeporco, para que Ziza Puen se apaixonasse
 * Matar seu irmão.
 
 # Informações
-`Vida` 1725 ED - 1753 ED 
+`Data de Nascimento` 1725 ED 
+`Data de Morte` 1753 ED 
 `Local de Nascimento` [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes)
 `Sexo Biológico` Masculino
 `Olhos` Olhos verdes
