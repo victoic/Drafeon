@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T00:44:31.315Z
+date: 2025-02-04T00:45:04.875Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -20,7 +20,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
-- 15/04/2023 | Data narrativa: ?? de ?? de 1755 ED
+- 18/03/2023 | Data narrativa: ?? de ?? de 1755 ED
 > Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sul-de-drafeon/montravu). [John](/individuos/personagens-de-jogadores/john) se une à Confraria da Rosa Negra.
 {.is-info}
 
