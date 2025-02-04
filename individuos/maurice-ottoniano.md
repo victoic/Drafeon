@@ -2,7 +2,7 @@
 title: Maurice Ottoniano
 description: 
 published: true
-date: 2025-02-04T19:39:06.500Z
+date: 2025-02-04T19:39:33.628Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:52:16.050Z
@@ -18,7 +18,7 @@ Ele é dono do [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon), u
 
 ## Publicações
 - ["Confraria das Rosas Negras e o Retorno de Edahsh"](/documentos/confraria-da-rosa-negra-e-o-retorno-de-edahsh), escrito por Maurice, [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Kraz](/individuos/personagens-de-jogadores/saile) em 07 de Fateus de 1754 ED.
-- [""](/documentos/), escrito por Maurice, [Magnus Ponta de Lança](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) e [Kraz](/individuos/personagens-de-jogadores/saile).
+- ["Confraria das Rosas Negras e o Conciliábulo das Bruxas"](/documentos/confraria-das-rosas-negras-e-o-conciliabulo-das-bruxas), escrito por Maurice, [Magnus Ponta de Lança](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) e [Kraz](/individuos/personagens-de-jogadores/saile).
 
 # Informações
 `Data de Nascimento` 1690 
