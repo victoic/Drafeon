@@ -2,8 +2,10 @@
 title: Cuspe
 description: 
 published: true
-date: 2019-11-11T16:28:12.224Z
+date: 2025-02-04T03:42:07.347Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:50:16.463Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Cuspe -->
@@ -11,10 +13,10 @@ tags:
 # Cuspe
 Cuspe é um Povo Lagarto, ex-escravo de [Turufe Padepedra](/individuos/turufe-padepedra#turufe-padepedra) em [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes). Ele quem fez a cicatriz no rosto de Turufe. Seu nome em dracônico, dado pela sua tribo, foi Usk, Cuspe foi um nome de escravo que o foi dado.
 
-Cuspe foi libertado por um grupo de aventureiros em 1753.
+Cuspe foi libertado por um grupo de aventureiros em 1753 ED.
 
 # Informações
-`Nascimento` 1720  
+`Nascimento` 1720 ED
 `Local de Nascimento` Rio Largo
 `Sexo Biológico` Masculino
 `Olhos Grandes` Amarelos, reptilianos
