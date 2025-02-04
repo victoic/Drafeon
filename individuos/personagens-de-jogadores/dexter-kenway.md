@@ -2,14 +2,14 @@
 title: Dexter Kenway
 description: 
 published: true
-date: 2025-02-04T01:12:36.736Z
+date: 2025-02-04T03:38:19.942Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T01:12:36.736Z
 ---
 
 # Dexter Kenway
-Dexter foi um humano, membro inicialmente da [Asas da Liberdade](/faccoes/faccoes-independentes/asas-da-liberdade) e posteriormente da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra). Dexter morreu em XX de YY de 1753 ED.
+Dexter foi um humano, membro inicialmente da [Asas da Liberdade](/faccoes/faccoes-independentes/asas-da-liberdade) e posteriormente da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra). Dexter morreu em XX de Gadot de 1753 ED.
 
 ## História
 A história a seguir foi escrita por Luís.
