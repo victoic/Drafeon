@@ -2,7 +2,7 @@
 title: Magnus Ponta De Lança
 description: 
 published: true
-date: 2025-02-04T01:29:15.639Z
+date: 2025-02-04T03:58:55.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:47.300Z
@@ -11,11 +11,11 @@ dateCreated: 2024-08-13T19:56:47.300Z
 <!-- SUBTITLE: Visão geral sobre Magnus Ponta De Lança -->
 
 # Magnus Ponta De Lança
-Magnus é um Draconato, membro de um grupo de aventureiros e Membro das Três Mãos.
+Magnus foi um Draconato, membro de um grupo de aventureiros e Membro das Três Mãos.
 
 Magnus foi adotado quando criança por [Garos](/individuos/garos#garos-ponta-de-lanca), que o ensinou desde jovem os caminhos da verdade, liberdade e igualdade. Quando jovem descobriu que seu pai adotivo fazia parte dAs Três Mãos, sendo então iniciado como membro da sociedade secreta, os dois passaram então a viajar levando o conhecimento e liberdade por onde passavam. Após eventos onde os dois tiveram de se separar, Magnus se uniu a um grupo de aventureiros no [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon).
 
-Em 1753 Magnus se juntou a um grupo de avetureiros para realizar algumas missões em nome de [Lopaohz Carvalho-Negro](/individuos/lopaohz-carvalho-negro#lopaohz-carvalho-negro), ainda no mesmo ano passou a fazer parte de uma equipe de caça a bruxas.
+Em Obris de 1753 ED Magnus se juntou a um grupo de avetureiros para realizar algumas missões em nome de [Lopaohz Carvalho-Negro](/individuos/lopaohz-carvalho-negro#lopaohz-carvalho-negro), ainda no mesmo ano passou a fazer parte de uma equipe de caça a bruxas.
 
 ## Criaturas Domadas
 - **Mímico:** domado durante a primeira passagem pela Mansão;
@@ -23,7 +23,7 @@ Em 1753 Magnus se juntou a um grupo de avetureiros para realizar algumas missõe
 - **Filhote de Cobra Coral Gigante:** domada durante a batalha naval no [Estreito de Mudur](/capitulos/capitulo-10-a-guerra).
 
 # Informações
-`Data de Nascimento` 1735  
+`Data de Nascimento` 1735 ED
 `Sexo Biológico` Masculino
 `Olhos` Glóbulos negros e íris vermelha, reptilianos
 `Cabelos` Careca
