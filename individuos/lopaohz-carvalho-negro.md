@@ -2,8 +2,10 @@
 title: Lopaohz Carvalho-Negro
 description: 
 published: true
-date: 2020-04-16T17:40:57.466Z
+date: 2025-02-04T04:01:30.554Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:51:55.815Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Lopaohz Carvalho-Negro -->
@@ -17,12 +19,12 @@ Lopaohz nasceu na Família Carvalho-Negro antes de obterem a influência que pas
 
 Quando jovem, dado o estado financeiro de sua família enquanto criança, Lopaohz não recebeu nenhum tipo de educação. Após a criação de sua fortuna, porém, Lopaohz se dedicou ao aprendizado de diversas línguas (Comum, Élfico, Dracônico, Gnomo, Gigante, Anão).
 
-Em 1753 Lopaohz contratou um grupo de aventureiros para buscar escamas de um dragão vermelho, como tentativa de cura da filha de seu primo [Conde Carvalho-Negro](/individuos/conde-carvalho-negro#conde-carvalho-negro). O grupo obteve a escama e foi capaz de salvar a jovem moça, como recompensa Lopaohz os ofereceu, além de moedas, um convite para uma exclusiva festa em [Ibrido](/lugares/emberez/ibrido#ibrido).
+Em Obris de 1753 ED Lopaohz contratou um grupo de aventureiros para buscar escamas de um dragão vermelho, como tentativa de cura da filha de seu primo [Conde Carvalho-Negro](/individuos/conde-carvalho-negro#conde-carvalho-negro). O grupo obteve a escama e foi capaz de salvar a jovem moça, como recompensa Lopaohz os ofereceu, além de moedas, um convite para uma exclusiva festa em [Ibrido](/lugares/emberez/ibrido#ibrido).
 
 Lopaohz continou a trabalhar com este grupo, os enviando para investigar a escassez de importações de turfa, um comum combustível local, da cidade de [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes), onde o grupo descobriu os planos da bruxa [Titia Olga Cudeporco](/individuos/titia-olga-cudeporco#titia-olga-cudeporco). Lopaohz foi responsável por apresentar o grupo para Conde Carvalho-Negro e [Irien Galaniell](/individuos/irien-galaniell#irien-galaniell), em uma reunião onde uma equipe de caça as bruxas foi criada.
 
 # Informações
-`Data de Nascimento` 1705 
+`Data de Nascimento` 1705 ED
 `Cidade Natal` [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo)
 `Sexo Biológico` Masculino
 `Olhos` Castanhos claros e pequenos
