@@ -2,8 +2,10 @@
 title: Hichendy
 description: 
 published: true
-date: 2019-11-11T16:28:40.823Z
+date: 2025-02-04T03:48:26.835Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:51:12.815Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Hichendy -->
@@ -16,10 +18,11 @@ Hichendy é magro e alto, ele possui um olhar determinado e alegre. Hichendy pos
 ## História
 Hichendy foi abandonado quando criança por seus pais. Encontrado ainda criança como um pedinte nas ruas, Arimeia 'Olho de Águia' o deu um lar em seu navio, o treinando como tripulante. Os dois se tornaram próximos e com o tempo Arimeia o deu o cargo de Intendente de sue navio, o segundo em comando.
 
-Em 1753 a tripulação dO Tumulto levou um grupo de aventureiros até a ilha de [Felicidade](/lugares/plano-material/drafeon/sudeste-de-drafeon/felicidade#felicidade), onde Hichendy foi fatalmente ferido, um dos membros do grupo de aventureiros foi rápido o suficiente para curá-lo magicamente.
+Em 1753 ED a tripulação dO Tumulto levou um grupo de aventureiros até a ilha de [Felicidade](/lugares/plano-material/drafeon/sudeste-de-drafeon/felicidade#felicidade), onde Hichendy foi fatalmente ferido, um dos membros do grupo de aventureiros foi rápido o suficiente para curá-lo magicamente.
 
 # Informações
-`Data de Nascimento` 1736 
+`Data de Nascimento` 1736 ED
+`Data de Morte` 1753 ED
 `Sexo Biológico` Masculino
 `Olhos` Negros
 `Cabelos` Curto e preto, raspado nas laterais
