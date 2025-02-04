@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T20:00:33.369Z
+date: 2025-02-04T20:01:28.375Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -116,27 +116,34 @@ dateCreated: 2025-02-03T14:30:43.100Z
 {.is-info}
 
 ## [Capítulo 05](/capitulos/capitulo-05-a-volta-de-azaroth)
+
 - 01/05/2020 | Data narrativa: 18 de Azemis de 1754 ED
 > [Lakip Brillabouso](/individuos/lakip-brillabouso) retorna com o corpo de um dragão vermelho [Edainde](/individuos/edaiden) e se tranca no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro).
 {.is-info}
+
 - 15/05/2020 | Data narrativa: 18 de Azemis de 1754 ED - 23 de Azemis de 1754 ED
 > [Irien](/individuos/irien-galaniell) ordena a retirada do dragão morto da cidade, devido o fedor. [Lakip](/individuos/lakip-brillabouso) transforma o dragão morto, [Edaiden](/individuos/edaiden) em um dracolich sob seu controle. Lakip e Edaiden destroem parte da cidade, tomamando controle dela. O grupo foge com [Ser](/individuos/ser-glorkan) por um portal para [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez), lá [Dagor Tilgo](/individuos/personagens-de-jogadores/dagor-tilgo) se junta ao grupo.
 {.is-info}
+
 - 29/05/2020 | Data narrativa: 23 de Azemis de 1754 ED
 > [Ser Glorkan](/individuos/ser-glorkan) arranja uma reunião com [Ebbo Martel](/individuos/ebbo-martel), [Senhor de Região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao) do [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon) para informar sobre o ataque e planejar próximos passos.
 {.is-info}
+
 - 26/06/2020 | Data narrativa: 23 de Azemis de 1754 ED - 24 de Azemis de 1754 ED
 > Sob direcionamento de [Alcuin](/individuos/alcuin), o grupo parte em busca de um velho chamado [Maurice](/individuos/maurice-ottoniano), na cidade de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon), para entender possíveis influências demoníacas que caíram sobre [Lakip](/individuos/lakip-brillabouso) e a [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro). O grupo contrata [Ol](/individuos/ol) como carroceiro e guia.
 > O grupo chega até [Vila da Ponte](/lugares/plano-material/drafeon/sul-de-drafeon/vila-da-ponte), onde os [Eremitas de Vanfalenard](/faccoes/faccoes-independentes/eremitas-de-vanfalenard) realizavam roubos em fazendas locais para se alimentar. O grupo convenceu os eremitas a se mudarem para a região de [Colinas Chuvosas](/lugares/plano-material/drafeon/sul-de-drafeon).
 {.is-info}
 - 17/07/2020 | Data narrativa: 24 de Azemis de 1754 ED - 28 de Azemis de 1754 ED
+
 - 31/07/2020 | Data narrativa: 28 de Azemis de 1754 ED - 29 de Azemis de 1754 ED
 > Grupo enfreta [Grasbuls](/fauna-e-flora/grasbul).
 {.is-info}
+
 - 14/08/2020 | Data narrativa: 29 de Azemis de 1754 ED - 04 de Fateus de 1754 ED
 > O grupo chega a [Remo](/lugares/plano-material/drafeon/sul-de-drafeon/remo). Em Remo, o grupo participa das competições comemorativas do Festival da Tormenta, incluindo uma competição de bebida.
 > [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust) possui um sonho com um dragão cercado de corpos e um raio vivo conversando com ele. O Grupo faz a viagem de [Remo](/lugares/plano-material/drafeon/sul-de-drafeon/remo) a [Ici](/lugares/plano-material/drafeon/sul-de-drafeon).
 {.is-info}
+
 - 28/08/2020 | Data narrativa: 04 de Fateus de 1754 ED - 07 de Fateus de 1754 ED
 > Em Ici, o grupo se hospeda na [Casa de Chervie](http://168.75.73.213:3000/en/lugares/plano-material/drafeon/sul-de-drafeon/ici#estabelecimentos). O grupo parte de [Ici](/lugares/plano-material/drafeon/sul-de-drafeon/ici) a Grand Champ.
 > Nuvens de tempestade escuras e de comportamento anormal são observadas por [Dagor](/individuos/personagens-de-jogadores/dagor-tilgo) e [Kraz](/individuos/personagens-de-jogadores/saile). Dagor percebe ainda que a tempestade parece mais violenta que as encontradas antes e identifica formas estranhas surgirem entre as nuvens durante o impacto de raios. O grupo se abriga da tempestade, pausando a viagem. O grupo enfrenta elementais trazidos pela tempestade, após o combate, chegam no dia seguinte em Grande Champ.
@@ -144,10 +151,10 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo chega ao Museu de Contos, onde contam a história da [aventura de edahsh](/capitulos/capitulo-04-edahsh-o-eclipse-eterno) como entrada, que foi escrita por Maurice como ["A Confraria das Rosas Negras e o Retorno de Edahsh"](), cravando o nome do grupo como [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) sugerido pelo [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Maurice informa que seu livro sobre Azaroth foi roubado por [Alain]((/individuos/alain) e pede que o grupo o pegue de volta.
 {.is-info}
 
+- 25/09/2020 | Data narrativa: 02 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
 > A infâme cena do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) revelando segredos do grupo a uma velha pedestre fofoqueira, [Matilde](/individuos/matilde). Magnus também surpreendeu ao iniciar uma campanha de busca por alguém disposto a apostar queda-de-braço com ele pelas ruas de Ici.
 > , onde iniciam a busca por [Maurice](/individuos/maurice-ottoniano).
 {.is-info}
-- 25/09/2020 | Data narrativa: 02 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
