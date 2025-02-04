@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T04:34:01.462Z
+date: 2025-02-04T04:46:28.894Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -96,6 +96,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 {.is-info}
 - 10/01/2020 | Data narrativa: XX de Bee'rus - XX de Gadot de 1753 ED
 > O grupo recebe uma festa de comemoração em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) e [Drecnis](/individuos/personagens-de-jogadores/drecnis-ragnoom) deixa o grupo sem avisos.
+{.is-info}
 
 ## [Capítulo 04](/capitulos/capitulo-04-edahsh-o-eclipse-eterno)
 - 14/01/2020 | Data narrativa: XX de Ahena de 1753 ED - XX de Azemis de 1754 ED
@@ -103,6 +104,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 {.is-info}
 - 31/01/2020 | Data narrativa: XX de Azemis de 1754 ED
 > [Ser Glorkan](/individuos/ser-glorkan) envia o grupo em uma missão para entregar mercadorias em [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso)
+{.is-info}
 - 06/03/2020 | Data narrativa: XX de Azemis de 1754 ED
 > O grupo enfrentou uma Naga Espiritual.
 {.is-info}
@@ -118,7 +120,9 @@ dateCreated: 2025-02-03T14:30:43.100Z
 - 01/05/2020 | Data narrativa: 18 de Azemis de 1753 ED
 > [Lakip Brillabouso](/individuos/lakip-brillabouso) retorna com o corpo de um dragão vermelho [Edainde](/individuos/edaiden) e se tranca no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro).
 {.is-info}
-
+- 15/05/2020 | Data narrativa: 18 de Azemis de 1753 ED - 23 de Azemis de 1753 ED
+> [Irien](/individuos/irien-galaniell) ordena a retirada do dragão morto da cidade, devido o fedor. [Lakip](/individuos/lakip-brillabouso) transforma o dragão morto, [Edaiden](/individuos/edaiden) em um dracolich sob seu controle. Lakip e Edaiden destroem parte da cidade, tomamando controle dela. O grupo foge com [Ser](/individuos/ser-glorkan) por um portal para [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez), lá [Dagor Tilgo](/individuos/personagens-de-jogadores/dagor-tilgo) se junta ao grupo.
+{.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
