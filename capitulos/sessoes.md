@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T04:46:28.894Z
+date: 2025-02-04T13:28:19.487Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -64,8 +64,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 - 16/03/2019 | Data narrativa: 16 de Mudur de 1753 ED
 - 13/04/2019 | Data narrativa: 17 de Mudur de 1753 ED
 > [Titia Olga Cudeporco](/individuos/titia-olga-cudeporco) faz um pacto com [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) para salvar seus companheiros. O grupo precisa recuar.
-> [Amadán](/individuos/personagens-de-jogadores/amadan) sai do grupo, [Veles Lupis Lugh](/individuos/personagens-de-jogadores/veles-lupis-lugh) entra?
-{.is-danger}
+> [Amadán](/individuos/personagens-de-jogadores/amadan) deixa o grupo para auxiliar a reconstrução de [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes). [Veles Lupis Lugh](/individuos/personagens-de-jogadores/veles-lupis-lugh) se junta ao grupo.
 {.is-info}
 - 27/04/2019 | Data narrativa: XX de Mudur de 1753 ED
 > [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) recebe o Calaguinho e um colar de presente de [Chakkaxishk](/individuos/chakkaxishk). O grupo visita a [Ordem de Déz](/faccoes/faccoes-independentes/ordem-de-dez).
