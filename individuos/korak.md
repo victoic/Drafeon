@@ -2,8 +2,10 @@
 title: Korak
 description: 
 published: true
-date: 2020-04-16T15:25:37.034Z
+date: 2025-02-04T03:50:59.859Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:51:40.049Z
 ---
 
 # Korak
@@ -17,7 +19,7 @@ Alguns anos após sua entrada na Guarda ele foi promovido a Capitão Detetive.
 Entre os anos 1753 e 1754 da Era de Drafeon ele foi encarregado de investigar uma série de 50 assassinatos na cidade.
 
 # Informações
-`Data de Nascimento` 1714 
+`Data de Nascimento` 1714 ED
 `Sexo Biológico` Masculino
 `Olhos` Olhos negros esverdeados
 `Cabelos` Careca
