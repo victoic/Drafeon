@@ -2,8 +2,10 @@
 title: Sul de Drafeon
 description: 
 published: true
-date: 2020-08-14T16:32:57.615Z
-tags: região, lugar
+date: 2025-02-04T14:42:46.629Z
+tags: lugar, região
+editor: markdown
+dateCreated: 2024-08-13T19:58:27.882Z
 ---
 
 # Sul de Drafeon
@@ -17,6 +19,8 @@ Em 303 foi construída a Torre do Arquimago na região que em breve se tornaria 
 {.is-info}
 
 ## Geografia
+![planicies_-_sul_de_drafon.png](/uploads/arte/planicies_-_sul_de_drafon.png){.align-center}
+
 O Sul de Drafeon possui clima mediterrâneo, com invernos chuvosos e verões quentes. Diversos rios cruzam a região, partindo das cordilheiras de montanhas de Costa Profunda e Oito Montes. Sendo o maior deste Rio Bom que surge dos altos da Floresta Tubarão.
 
 Grandes planícies ocupam grande parte do centro da região, no que é conhecido como Baixada do Rio. Grandes campos selvagens ocupam a Baixada do Rio. No oeste e norte da região se encontram grandes bosques. No leste, uma pequena floresta densa cria um gradiente dos pântanos do [Sudeste](/lugares/plano-material/drafeon/sudeste-de-drafeon#sudeste-de-drafeon) aos campos do Sul.
