@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T20:01:28.375Z
+date: 2025-02-04T23:55:39.103Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -145,16 +145,19 @@ dateCreated: 2025-02-03T14:30:43.100Z
 {.is-info}
 
 - 28/08/2020 | Data narrativa: 04 de Fateus de 1754 ED - 07 de Fateus de 1754 ED
-> Em Ici, o grupo se hospeda na [Casa de Chervie](http://168.75.73.213:3000/en/lugares/plano-material/drafeon/sul-de-drafeon/ici#estabelecimentos). O grupo parte de [Ici](/lugares/plano-material/drafeon/sul-de-drafeon/ici) a Grand Champ.
+> Em Ici, o grupo se hospeda na [Casa de Chervie](http://168.75.73.213:3000/en/lugares/plano-material/drafeon/sul-de-drafeon/ici#estabelecimentos). O grupo parte de [Ici](/lugares/plano-material/drafeon/sul-de-drafeon/ici) a Grand Champ. Magnus surpreendeu ao iniciar uma campanha de busca por alguém disposto a apostar queda-de-braço com ele pelas ruas de Ici.
 > Nuvens de tempestade escuras e de comportamento anormal são observadas por [Dagor](/individuos/personagens-de-jogadores/dagor-tilgo) e [Kraz](/individuos/personagens-de-jogadores/saile). Dagor percebe ainda que a tempestade parece mais violenta que as encontradas antes e identifica formas estranhas surgirem entre as nuvens durante o impacto de raios. O grupo se abriga da tempestade, pausando a viagem. O grupo enfrenta elementais trazidos pela tempestade, após o combate, chegam no dia seguinte em Grande Champ.
 >
-> O grupo chega ao Museu de Contos, onde contam a história da [aventura de edahsh](/capitulos/capitulo-04-edahsh-o-eclipse-eterno) como entrada, que foi escrita por Maurice como ["A Confraria das Rosas Negras e o Retorno de Edahsh"](), cravando o nome do grupo como [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) sugerido pelo [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Maurice informa que seu livro sobre Azaroth foi roubado por [Alain]((/individuos/alain) e pede que o grupo o pegue de volta.
+> O grupo chega ao Museu de Contos, onde contam a história da [aventura de edahsh](/capitulos/capitulo-04-edahsh-o-eclipse-eterno) como entrada, que foi escrita por Maurice como ["A Confraria das Rosas Negras e o Retorno de Edahsh"](), cravando o nome do grupo como [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) sugerido pelo [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Maurice informa que seu livro sobre Azaroth foi roubado por [Alain](/individuos/alain) e pede que o grupo o pegue de volta.
 {.is-info}
 
-- 25/09/2020 | Data narrativa: 02 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
-> A infâme cena do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) revelando segredos do grupo a uma velha pedestre fofoqueira, [Matilde](/individuos/matilde). Magnus também surpreendeu ao iniciar uma campanha de busca por alguém disposto a apostar queda-de-braço com ele pelas ruas de Ici.
-> , onde iniciam a busca por [Maurice](/individuos/maurice-ottoniano).
+- 25/09/2020 | Data narrativa: 07 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
+> O grupo se hospeda na [Pousada dos Campos](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). Magnus vagou a cidade buscando informação sobre [Alain](/individuos/alain), isso levou a infâme cena dele revelando segredos do grupo a uma velha pedestre fofoqueira, [Matilde](/individuos/matilde), que o leva em direção à guarda local para que ele fale às autoridades, mas o [Kraz](/individuos/personagens-de-jogadores/saile) os intercepta.
+>
+> Parte do grupo se infiltra na residência de Alain em busca do baú roubado de [Maurice](/individuos/maurice-ottoniano). Enquanto isso, o Kraz vai até a guarda local para investigar Alain. [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) investiga a residência de Alain enquanto [Dagor](/individuos/personagens-de-jogadores/dagor-tilgo) e [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) distraem o filho do chefe da guarda.
 {.is-info}
+
+- 09/10/2020 | Data narrativa: 07 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
