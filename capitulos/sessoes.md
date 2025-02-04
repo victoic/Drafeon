@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T15:34:13.370Z
+date: 2025-02-04T15:46:24.786Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -126,20 +126,20 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > [Ser Glorkan](/individuos/ser-glorkan) arranja uma reunião com [Ebbo Martel](/individuos/ebbo-martel), [Senhor de Região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao) do [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon) para informar sobre o ataque e planejar próximos passos.
 {.is-info}
 - 26/06/2020 | Data narrativa: 23 de Azemis de 1754 ED - 24 de Azemis de 1754 ED
-> Sob direcionamento de [Alcuin](/individuos/alcuin), o grupo parte em busca de um velho chamado [Maurice](/individuos/maurice-ottoniano), na cidade de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon), para entender possíveis influências demoníacas que caíram sobre [Lakip](/individuos/lakip-brillabouso) e a [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro).
+> Sob direcionamento de [Alcuin](/individuos/alcuin), o grupo parte em busca de um velho chamado [Maurice](/individuos/maurice-ottoniano), na cidade de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon), para entender possíveis influências demoníacas que caíram sobre [Lakip](/individuos/lakip-brillabouso) e a [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro). O grupo contrata [Ol](/individuos/ol) como carroceiro e guia.
 > O grupo chega até [Vila da Ponte](/lugares/plano-material/drafeon/sul-de-drafeon/vila-da-ponte), onde os [Eremitas de Vanfalenard](/faccoes/faccoes-independentes/eremitas-de-vanfalenard) realizavam roubos em fazendas locais para se alimentar. O grupo convenceu os eremitas a se mudarem para a região de [Colinas Chuvosas](/lugares/plano-material/drafeon/sul-de-drafeon).
 {.is-info}
 - 17/07/2020 | Data narrativa: 24 de Azemis de 1754 ED - 28 de Azemis de 1754 ED
 - 31/07/2020 | Data narrativa: 28 de Azemis de 1754 ED - 29 de Azemis de 1754 ED
 > Grupo enfreta [Grasbuls](/fauna-e-flora/grasbul).
 {.is-info}
-- 14/08/2020 | Data narrativa: 29 de Azemis de 1754 ED - 06 de Fateus de 1754 ED
+- 14/08/2020 | Data narrativa: 29 de Azemis de 1754 ED - 04 de Fateus de 1754 ED
 > O grupo chega a [Remo](/lugares/plano-material/drafeon/sul-de-drafeon/remo). Em Remo, o grupo participa das competições comemorativas do Festival da Tormenta, incluindo uma competição de bebida.
-> [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust) possui um sonho com um dragão cercado de corpos e um raio vivo conversando com ele. O Grupo faz a viagem de [Remo](/lugares/plano-material/drafeon/sul-de-drafeon/remo) a [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon).
+> [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust) possui um sonho com um dragão cercado de corpos e um raio vivo conversando com ele. O Grupo faz a viagem de [Remo](/lugares/plano-material/drafeon/sul-de-drafeon/remo) a [Ici](/lugares/plano-material/drafeon/sul-de-drafeon).
 {.is-info}
-- 28/08/2020 | Data narrativa: 02 de Fateus de 1754 ED - 02 de Fateus de 1754 ED
-> Em Grand Champ o grupo inicia a busca por [Maurice](/individuos/maurice-ottoniano).
-> A infâme cena do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) revelando segredos do grupo a uma velha pedestre fofoqueira, [Matilde](/individuos/matilde).
+- 28/08/2020 | Data narrativa: 04 de Fateus de 1754 ED - 07 de Fateus de 1754 ED
+> O grupo parte de [Ici](/lugares/plano-material/drafeon/sul-de-drafeon/ici) a Grand Champ, onde iniciam a busca por [Maurice](/individuos/maurice-ottoniano).
+> A infâme cena do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) revelando segredos do grupo a uma velha pedestre fofoqueira, [Matilde](/individuos/matilde). Magnus também surpreendeu ao iniciar uma campanha de busca por alguém disposto a apostar queda-de-braço com ele pelas ruas de Ici.
 {.is-info}
 - 25/09/2020 | Data narrativa: 02 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
 
