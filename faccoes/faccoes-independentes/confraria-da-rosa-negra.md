@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-02-04T00:35:01.843Z
+date: 2025-02-04T03:27:17.238Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -42,7 +42,7 @@ Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confrari
 - [**Amadán Shalfey**](/individuos/personagens-de-jogadores/amadan)*, de Obris 1753 a Woton de 1753
 - **[Arprax Alt'ash](/individuos/personagens-de-jogadores/arprax-altash)***, de Obris de 1753 a Mudur de 1753
 - **[Dagor Tilgo](/individuos/personagens-de-jogadores/dagor-tilgo)**, de Azemis de 1754 a Fateus de 1754
-- **[Dexter Kenway](/individuos/personagens-de-jogadores/dexter-kenway)**, de Mudur de 1753 a Mudur de 1753
+- [**Dexter Kenway**](/individuos/personagens-de-jogadores/dexter-kenway)*, de Mudur de 1753 a Mudur de 1753
 - [**Drecnis Ragnoom**](/individuos/personagens-de-jogadores/drecnis-ragnoom), de Woton de 1753 a Bee'rus de 1753
 - [**Hêllen Starindust**](/individuos/personagens-de-jogadores/hellen-starindust), desde Zitia de 1753
 - [**Jonathan Bellevere**](/individuos/personagens-de-jogadores/john), 1755 a 
