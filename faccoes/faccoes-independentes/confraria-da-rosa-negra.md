@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-02-03T23:54:34.169Z
+date: 2025-02-04T00:35:01.843Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -45,12 +45,12 @@ Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confrari
 - **[Dexter Kenway](/individuos/personagens-de-jogadores/dexter-kenway)**, de Mudur de 1753 a Mudur de 1753
 - [**Drecnis Ragnoom**](/individuos/personagens-de-jogadores/drecnis-ragnoom), de Woton de 1753 a Bee'rus de 1753
 - [**Hêllen Starindust**](/individuos/personagens-de-jogadores/hellen-starindust), desde Zitia de 1753
-- [**Jonathan Bellevere**](/individuos/personagens-de-jogadores/john), 
+- [**Jonathan Bellevere**](/individuos/personagens-de-jogadores/john), 1755 a 
 - [**Kraz**](/individuos/personagens-de-jogadores/saile)*, de Obris de 1753 a Fateus de 1754
 - [**Ozidius Sackropper**](/individuos/personagens-de-jogadores/ozidius-sackropper), de Woton de 1753 a Bee'rus de 1753
 - **[Son Kong](/individuos/personagens-de-jogadores/son-kong)**, de Mudur de 1753 a Mudur de 1753
 
-> *Membros do grupo original formado na taverna Flechas Dormentes, em Poço Raso.
+> \* Membros do grupo original formado na taverna Flechas Dormentes, em [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo).
 {.is-info}
 
 # Informações
