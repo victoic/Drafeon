@@ -2,7 +2,7 @@
 title: Hichendy
 description: 
 published: true
-date: 2025-02-04T03:48:26.835Z
+date: 2025-02-05T19:04:06.569Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:51:12.815Z
@@ -22,7 +22,7 @@ Em 1753 ED a tripulação dO Tumulto levou um grupo de aventureiros até a ilha 
 
 # Informações
 `Data de Nascimento` 1736 ED
-`Data de Morte` 1753 ED
+`Data de Morte` 
 `Sexo Biológico` Masculino
 `Olhos` Negros
 `Cabelos` Curto e preto, raspado nas laterais
