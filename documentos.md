@@ -2,7 +2,7 @@
 title: Documentos
 description: 
 published: true
-date: 2025-02-05T11:11:03.051Z
+date: 2025-02-05T11:29:10.982Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:02.505Z
@@ -19,9 +19,10 @@ dateCreated: 2024-08-13T19:48:02.505Z
 - [Fundamentos do Controle Arcano: Pontos de Pressão Arcana](/documentos/fundamentos-do-controle-arcano-pontos-de-pressão-arcana)
 - [Fundamentais do Arcano para Conjuradores](/documentos/fundamentais-do-arcano-para-conjuradores)
 - [Ordem de Ouro, A](/documentos/a-ordem-de-ouro-(livro))
+- [Livro Dourado da Ordem](/documentos/livro-dourado-da-ordem)
 
 ### Diários
-- [Diário de Ivrandruth](/documentos/diario-ivrandruth)
+- [Diário de Ivrandruth](/documentos/diario-de-ivrandruth)
 - [Diário de Titia Olga Cudeporco](/documentos/diário-da-titia-olga-cudeporco)
 
 ## Contratos
