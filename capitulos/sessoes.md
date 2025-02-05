@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T20:07:19.910Z
+date: 2025-02-05T20:07:44.745Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -194,8 +194,11 @@ dateCreated: 2025-02-03T14:30:43.100Z
 {.is-info}
 
 - 20/11/2020 | Data narrativa: 19 de Fateus de 1754 ED - 19 de Fateus de 1754 ED
+
 > O grupo derrota o ataque dos [aumakuas](/fauna-e-flora/especies-inteligentes/aumakua) e uma discussão filosófica é iniciada pelo [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) sobre o consumo dos aumakuas.
 {.is-info}
+
+
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
