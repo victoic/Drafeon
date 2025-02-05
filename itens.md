@@ -2,15 +2,18 @@
 title: Itens
 description: 
 published: true
-date: 2021-02-19T19:10:58.221Z
+date: 2025-02-05T22:11:04.374Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-11T16:25:23.058Z
+dateCreated: 2024-08-13T19:48:13.494Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Itens -->
 
 # Itens
+
+## Armaduras
+[Escudo de Atração Balística](/itens/escudo-de-atracao-balistica)
 
 ## Armas
 [Pistola](/itens/pistola#pistola)
