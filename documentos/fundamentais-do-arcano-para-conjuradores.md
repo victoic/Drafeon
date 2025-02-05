@@ -1,11 +1,11 @@
 ---
 title: Fundamentais do Arcano para Conjuradores
-description: 
+description: Escrito Veles Lupis Lugh
 published: true
-date: 2020-12-18T21:01:09.165Z
+date: 2025-02-05T12:50:10.574Z
 tags: livro
 editor: markdown
-dateCreated: 2020-08-14T17:14:22.305Z
+dateCreated: 2024-08-13T19:48:51.699Z
 ---
 
 # Fundamentais do Arcano para Conjuradores
@@ -39,4 +39,4 @@ A explanação das escolas arcanas e truques, no segundo capítulo, apesar de n�
 `Tipo` Manual, Mágico/Oculto
 `Meio` Papel 
 `Data de Ratificação` Em Fateus de 1754 da Era de Drafeon 
-`Autores` [Veles Lugh](/individuos/personagens-de-jogadores/veles-lupis-lugh)
+`Autores` [Veles Lupis Lugh](/individuos/personagens-de-jogadores/veles-lupis-lugh)
