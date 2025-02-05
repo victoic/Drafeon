@@ -2,10 +2,10 @@
 title: Ivrandruth
 description: 
 published: true
-date: 2020-12-18T01:54:43.105Z
+date: 2025-02-05T11:09:53.628Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-18T01:54:43.105Z
+dateCreated: 2024-08-13T19:51:33.149Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Ivrandruth -->
@@ -31,7 +31,8 @@ Ivrandruth jurou aliança a ['Ih Lich](/individuos/ih-lich) e foi transformado e
 
 Ivrandruth foi morto durante o ataque a [Ilha dos Mortos](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos), mas havia instalado mecanismo arcanos para que seu corpo fosse lentamente recuperado com as forças vitais acumuladas pela [Árvore das Almas](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos/arvore-das-almas)
 # Informações
-`Vida` 1120 da Era dos Elfos - 1054 da Era dos Mortos
+`Data de Nascimento` 1120 da Era dos Elfos
+`Data de Morte` 1054 da Era dos Mortos
 `Olhos` Verdes (elfo), Nenhum (demônio)
 `Cabelos` Loiros, longos (elfo), Nenhum (demônio)
 `Altura` 1,80 m (elfo), 2,30 m (demônio)
