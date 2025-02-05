@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T12:55:12.476Z
+date: 2025-02-05T12:56:22.875Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -166,7 +166,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 >
 > Maurice, sob posse de seus itens, lê o [diário de Ivrandruth](/documentos/diario-de-ivrandruth), [a ordem de ouro](/documentos/a-ordem-de-ouro-livro) e [a era dos mortos](/documentos/a-era-dos-mortos-livro) para o grupo, informando-os sobre a história de [Ivrandruth](/individuos/ivrandruth) e as três chaves para abrir o [Coração de Azaroth](/itens/coracao-de-azaroth).
 >
-> O grupo envia uma mensagem com os conhecimentos obtidos para Porto Preciez pela [Companhia de Mensagens e Encomendas Faralei](/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei). São convocados para uma reunião com [Matil Martel](/individuos/matil-martel)
+> O grupo envia uma mensagem com os conhecimentos obtidos para Porto Preciez pela [Companhia de Mensagens e Encomendas Faralei](/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei). São convocados para uma reunião com [Matil Martel](/individuos/matil-martel).
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
