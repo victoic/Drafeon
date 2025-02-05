@@ -2,7 +2,7 @@
 title: Faccoes Independentes
 description: 
 published: true
-date: 2025-02-03T20:18:45.335Z
+date: 2025-02-05T20:43:36.374Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:58.290Z
@@ -15,6 +15,7 @@ dateCreated: 2024-08-13T19:48:58.290Z
 ## Facções Criminosas
 * [Eremitas de Vanfalenard](/faccoes/faccoes-independentes/eremitas-de-vanfalenard#eremitas-de-vanfalenard)
 * [Ordem de Déz](/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez)
+* [Os Oitavos](/faccoes/faccoes-independentes/os-oitavos)
 
 ## Facções Malignas
 * [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
