@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T20:35:51.534Z
+date: 2025-02-05T20:48:15.241Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -199,9 +199,12 @@ dateCreated: 2025-02-03T14:30:43.100Z
 
 > O grupo derrota o ataque dos [aumakuas](/fauna-e-flora/especies-inteligentes/aumakua) e uma discussão filosófica é iniciada pelo [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) sobre o consumo dos aumakuas.
 >
-> No dia seguinte, um enorme redemoinho surge no caminho e o grupo, junto com a tripulação, junto esforços para auxiliar a desviar o navio do redemoinho.
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) faz cópias dos mapas de [Arimeia](/individuos/arimeia-olho-de-aguia).
+>
+> No dia seguinte, um enorme redemoinho surge no caminho e o grupo, junto com a tripulação, junto esforços para auxiliar a desviar o navio do redemoinho. O grupo chega a [Ilha dos Mortos](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos). Se aproximando dos penhascos, o grupo enxerga um outro navio, portando uma bandeira negra com uma estrela branca de oito pontas, um navio dos [Oitavos](/faccoes/faccoes-independentes/os-oitavos).
 {.is-info}
 
+- 18/12/2020 | Data narrativa: 19 de Fateus de 1754 ED - 20 de Fateus de 1754 ED
 
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
