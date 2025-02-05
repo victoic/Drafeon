@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T12:59:44.062Z
+date: 2025-02-05T13:01:07.765Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -168,6 +168,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 >
 > O grupo envia uma mensagem com os conhecimentos obtidos para Porto Preciez pela [Companhia de Mensagens e Encomendas Faralei](/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei). São convocados para uma reunião com [Matil Martel](/individuos/matil-martel), onde [Alcuin](/individuos/alcuin) confirma a cooperação do grupo com o [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon). O grupo parte em direção a [Estrada do Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/estrada-do-horizonte) com destino a [Baía Forte](/lugares/plano-material/drafeon/sul-de-drafeon/baia-forte), ainda com [Ol](/individuos/ol) como guia.
 {.is-info}
+
+- 23/10/2020 | Data narrativa: 09 de Fateus de 1754 ED - ?? de Fateus de 1754 ED
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
