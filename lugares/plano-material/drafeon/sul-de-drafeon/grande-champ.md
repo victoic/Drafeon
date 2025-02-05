@@ -2,7 +2,7 @@
 title: Grande Champ
 description: 
 published: true
-date: 2025-02-04T23:38:59.431Z
+date: 2025-02-05T10:45:22.104Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T19:51:09.270Z
@@ -19,7 +19,7 @@ Majoritariamente, Grande Champ foi uma cidade agrária, com grandes desenvolvime
 
 ## Governo
 
-Entre 1671 e ?? (atual) o [Senhor de Cidade](/rankings-e-titulos/imperio-dragao/senhor-de-cidade) de Grande Champ foi [Remyi Fournier](/individuos/remyi-fournier). No entanto, com a idade avançada de Remyi, a guarda local não-oficialmente passou a controlar de forma corrupta a cidade.
+Entre 1671 e ?? (atual) o [Senhor de Cidade](/rankings-e-titulos/imperio-dragao/senhor-de-cidade) de Grande Champ foi [Matil Fournier](/individuos/matil-fournier). No entanto, com a idade avançada de Remyi, a guarda local não-oficialmente passou a controlar de forma corrupta a cidade.
 
 ## Moradores Notáveis
 - [Alain](/individuos/alain), chefe da guarda;
