@@ -2,7 +2,7 @@
 title: Veles Lupis Lugh
 description: 
 published: true
-date: 2025-02-05T10:50:26.148Z
+date: 2025-02-05T12:50:53.779Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:54.959Z
@@ -24,6 +24,9 @@ Usando os seus contatos com os mercantes, ele conseguiu sair do subterrâneo, e 
 
 ## Apelidos
 - Kedjer Eligan: Nome de nascimento de Veles. Em 07 de Fateus de 1754 ED, Veles usou esse nome para se infiltrar na guarda local de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ).
+
+## Produções
+- [Fundamentais do Arcano para Conjuradores](/documentos/fundamentais-do-arcano-para-conjuradores), um livro iniciante de conjuração, descrevendo os processos básicos e magias iniciais.
 
 # Informações
 `Nascimento` 1632 
