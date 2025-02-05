@@ -2,7 +2,7 @@
 title: A Ordem de Ouro (Livro)
 description: 
 published: true
-date: 2025-02-05T12:08:28.175Z
+date: 2025-02-05T12:11:31.215Z
 tags: livro
 editor: markdown
 dateCreated: 2025-02-05T12:08:28.175Z
@@ -17,6 +17,7 @@ dateCreated: 2025-02-05T12:08:28.175Z
 
 A Ordem de Ouro é um livro histórico e de ordem, que descreve a criação da Ordem de Ouro com 10 heróis que se juntaram para enfrentar a ameaça de [Azaroth](/individuos/azaroth) na [Era do Caos](/linha-do-tempo). Após isso, o livro passa a descrever o código de honra e conduta que os 10 heróis tomaram para que a ação fosse possível, descrevendo esse código como mandamentos para a Ordem de Ouro.
 
+> Ao ver seu mestre perder os movimentos, no entanto, o terceiro general fugiu com medo da morte certa que o aguardava. Ouvindo como últimas palavras de seu mestre os gritos de ira, traição e jura de vingança. Com duas das três chaves para o [Coração de Azaroth](/itens/coracao-de-azaroth), o grupo derrotou o demônio e essa foi a última vez que Azaroth foi visto.
 
 # Informações
 `Tipo` Manuscrito, Livro
