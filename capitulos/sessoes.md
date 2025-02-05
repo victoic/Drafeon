@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T16:05:18.517Z
+date: 2025-02-05T18:02:50.064Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -169,11 +169,17 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo envia uma mensagem com os conhecimentos obtidos para Porto Preciez pela [Companhia de Mensagens e Encomendas Faralei](/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei). São convocados para uma reunião com [Matil Martel](/individuos/matil-martel), onde [Alcuin](/individuos/alcuin) confirma a cooperação do grupo com o [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon). O grupo parte em direção a [Estrada do Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/estrada-do-horizonte) com destino a [Baía Forte](/lugares/plano-material/drafeon/sul-de-drafeon/baia-forte), ainda com [Ol](/individuos/ol) como guia.
 {.is-info}
 
-- 23/10/2020 | Data narrativa: 09 de Fateus de 1754 ED - 12 de Fateus de 1754 ED
+- 23/10/2020 | Data narrativa: 09 de Fateus de 1754 ED - 15 de Fateus de 1754 ED
 > Grupo chega a [Estrada do Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/estrada-do-horizonte), onde se hospedam na [Pousada e Taverna do Faz tudo](/lugares/plano-material/drafeon/sul-de-drafeon/estrada-do-horizonte#Infraestrutura).
 >
 > O grupo chegou a [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) tentou investigar a cidade em busca de sua irmã [Sarina](/individuos/sarina-starindust), um anão local negou a história contada pelo Hêllen. Desconfiado das palavras do anão, o grupo investigou a cidade durante a noite, chegando ao orfanato abandonado onde cresceu.
-> No orfanato, Hêllen encontrou
+> No orfanato, Hêllen conseguiu lembrar do ritual onde as crianças que viviam  no orfanato foram assassinadas, no entanto a cidade fez seus companheiros duvidarem das lembranças do Hêllen. Hêllen nota que as casas dos moradores de Cruzamente faltavam móveis ou mantimentos, suspeitando, Hêllen tenta se ferir ao ponto de inconsciência para que sua irmã Sarina pudesse o detectar. Sem o sucesso e encontrado pelo resto do grupo, eles partem em direção a [Casa Notri](/lugares/plano-material/drafeon/sul-de-drafeon/casa-notri).
+>
+> Descansando uma noite em Casa Notri, o grupo viaja em direção a [Mergulho](/lugares/plano-material/drafeon/sul-de-drafeon-mergulho).
+{.is-info}
+
+- 06/11/2020 | Data narrativa: 15 de Fateus de 1754 ED - 15 de Fateus de 1754 ED
+> No caminho para [Mergulho](/lugares/plano-material/drafeon/sul-de-drafeon/mergulho) o grupo sofre uma emboscada enviada pelas [drow](/individuos/eda-myzirrim).
 {.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
