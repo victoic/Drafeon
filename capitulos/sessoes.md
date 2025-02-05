@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T21:24:01.339Z
+date: 2025-02-05T21:57:32.372Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -208,6 +208,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 
 - 18/12/2020 | Data narrativa: 19 de Fateus de 1754 ED - 20 de Fateus de 1754 ED
 
+> Derrotando os piratas, o grupo nota ventos estranhos passarem pelas árvores após cada morte. Após saírem da cidade o grupo foge de um ataque de zumbis. O grupo chega a uma árvore morta-viva gigante, [Rulupu](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos/rulupu), encontrando uma câmara abaixo das raízes da árvore o grupo chega ao salão de ressurreição de [Ivrandruth](/individuos/ivrandruth).
+{.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
