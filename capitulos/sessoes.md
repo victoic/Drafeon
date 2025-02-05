@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T18:35:31.687Z
+date: 2025-02-05T18:39:06.640Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -179,8 +179,11 @@ dateCreated: 2025-02-03T14:30:43.100Z
 {.is-info}
 
 - 06/11/2020 | Data narrativa: 15 de Fateus de 1754 ED - 16 de Fateus de 1754 ED
-> No caminho para [Mergulho](/lugares/plano-material/drafeon/sul-de-drafeon/mergulho) o grupo sofre uma emboscada de escravos e [aranhas de fase](/fauna-e-flora/aranha-de-fase) enviada pelas [drow](/individuos/eda-myzirrim).
+> No caminho para [Mergulho](/lugares/plano-material/drafeon/sul-de-drafeon/mergulho) o grupo sofre uma emboscada de escravos e [aranhas de fase](/fauna-e-flora/aranha-de-fase) enviada pelas [drow](/individuos/eda-myzirrim). O grupo chega a Mergulho.
 {.is-info}
+
+- 06/11/2020 | Data narrativa: 16 de Fateus de 1754 ED - 16 de Fateus de 1754 ED
+
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
