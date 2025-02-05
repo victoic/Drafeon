@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T11:11:18.033Z
+date: 2025-02-05T11:12:14.235Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -162,7 +162,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 - 09/10/2020 | Data narrativa: 07 de Fateus de 1754 ED - 08 de Fateus de 1754 ED
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), inicialmente sob os codenomes Kedger Eligan e ???, se passam por [emissários de região](/rankings-e-titulos/emissario-de-regiao) do Sul de Drafeon para confiscar o baú de itens do [Maurice](/individuos/maurice-ottoniano) da guarda local de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ). 
 >
-> Maurice, sob posse de seus itens, lê o [diário de Ivrandruth]
+> Maurice, sob posse de seus itens, lê o [diário de Ivrandruth](/documentos/diario-de-ivrandruth) para o grupo.
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
