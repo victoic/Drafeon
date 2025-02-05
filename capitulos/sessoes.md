@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T20:07:44.745Z
+date: 2025-02-05T20:35:51.534Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -190,12 +190,16 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo realiza uma tentativa frustrada de roubar uma loja de itens mágicos.
 > [Dagor](/individuos/personagens-de-jogadores/dagor-tilgo) deixa o grupo, esperando um informante do [império](/faccoes/nacoes/imperio-dragao) para descrever as descobertas do grupo.
 >
+> Navios mercadores ambulantes cruzam caminho com o grupo, Hêllen compra uma canoa dobrável.
+>
 > O grupo parte em alto mar em direção a Ilha dos Mortos, onde [Hichendy](/individuos/hichendy) ajuda o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) a se acalmar. No terceiro dia de viagem, [aumakuas](/fauna-e-flora/especies-inteligentes/aumakua) atacam o [navio](/veiculos/escuna/o-tumulto-navio).
 {.is-info}
 
-- 20/11/2020 | Data narrativa: 19 de Fateus de 1754 ED - 19 de Fateus de 1754 ED
+- 04/12/2020 | Data narrativa: 19 de Fateus de 1754 ED - 20 de Fateus de 1754 ED
 
 > O grupo derrota o ataque dos [aumakuas](/fauna-e-flora/especies-inteligentes/aumakua) e uma discussão filosófica é iniciada pelo [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) sobre o consumo dos aumakuas.
+>
+> No dia seguinte, um enorme redemoinho surge no caminho e o grupo, junto com a tripulação, junto esforços para auxiliar a desviar o navio do redemoinho.
 {.is-info}
 
 
