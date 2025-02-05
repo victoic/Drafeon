@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T19:12:05.646Z
+date: 2025-02-05T19:47:13.275Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -192,6 +192,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 >
 > O grupo parte em alto mar em direção a Ilha dos Mortos, onde [Hichendy](/individuos/hichendy) ajuda o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) a se acalmar. No terceiro dia de viagem, [aumakuas](/fauna-e-flora/aumakua) atacam o [navio](/veiculos/escuna/o-tumulto-navio).
 {.is-info}
+
+- 20/11/2020 | Data narrativa: 19 de Fateus de 1754 ED - 19 de Fateus de 1754 ED
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
