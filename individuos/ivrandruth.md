@@ -2,7 +2,7 @@
 title: Ivrandruth
 description: 
 published: true
-date: 2025-02-05T11:09:53.628Z
+date: 2025-02-05T11:13:39.712Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:51:33.149Z
@@ -27,7 +27,7 @@ No ritual de invocação de Azaroth e seus generais para o plano material, os ab
 ## Era dos Mortos
 Ao surgir do [Império dos Mortos](/faccoes/nacoes/imperios-dos-mortos) Ivrandruth viu uma chance de se manter no plano material e impedir que sua alma fosse para sempre torturada por Azaroth como punição por sua traição.
 
-Ivrandruth jurou aliança a ['Ih Lich](/individuos/ih-lich) e foi transformado em um Demônio Mort-Vivo, com suas ações no combate as raças vivas foi promovido a um dos generais.
+Ivrandruth jurou aliança a ['Ih Lich](/individuos/ih-lich) e foi transformado em um Demônio Morto-Vivo, com suas ações no combate as raças vivas foi promovido a um dos generais.
 
 Ivrandruth foi morto durante o ataque a [Ilha dos Mortos](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos), mas havia instalado mecanismo arcanos para que seu corpo fosse lentamente recuperado com as forças vitais acumuladas pela [Árvore das Almas](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos/arvore-das-almas)
 # Informações
