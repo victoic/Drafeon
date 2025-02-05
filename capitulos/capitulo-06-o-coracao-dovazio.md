@@ -2,7 +2,7 @@
 title: Capítulo 06
 description: O Coração do Vazio
 published: true
-date: 2025-02-03T14:08:24.637Z
+date: 2025-02-05T14:46:43.445Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:38.531Z
