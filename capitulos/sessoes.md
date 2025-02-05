@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T18:49:58.109Z
+date: 2025-02-05T19:09:05.817Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -182,8 +182,15 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > No caminho para [Mergulho](/lugares/plano-material/drafeon/sul-de-drafeon/mergulho) o grupo sofre uma emboscada de escravos e [aranhas de fase](/fauna-e-flora/aranha-de-fase) enviada pelas [drow](/individuos/eda-myzirrim). O grupo chega a Mergulho.
 {.is-info}
 
-- 20/11/2020 | Data narrativa: 16 de Fateus de 1754 ED - 16 de Fateus de 1754 ED
-> O grupo descansa na pousada [Fundo do Poço](/lugares/plano-material/drafeon/sul-de-drafeon/mergulho) e parte para [Baía Forte](/lugares/plano-material/drafeon/sul-de-drafeon/baia-forte).
+- 20/11/2020 | Data narrativa: 16 de Fateus de 1754 ED - 19 de Fateus de 1754 ED
+> O grupo descansa na pousada [Fundo do Poço](/lugares/plano-material/drafeon/sul-de-drafeon/mergulho) e parte para [Baía Forte](/lugares/plano-material/drafeon/sul-de-drafeon/baia-forte). Chegando em seu destino final, o grupo descansa na pousada [Costa Elegante](/lugares/plano-material/drafeon/sul-de-drafeon/baia-forte#pousadas) após o [Veles] reclamar da última noite do grupo em terra firme ser em uma pousada qualquer (O Pescador).
+>
+> Na manhã seguinte, Hêllen manda fazer vestimentas em tecidos mais elegantes. O grupo se despede do [Ol](/individuos/ol) e contrata [Arimeia](/individuos/arimeia-olho-de-aguia) para levá-los a [Ilha dos Mortos](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos).
+>
+> O grupo realiza uma tentativa frustrada de roubar uma loja de itens mágicos.
+> [Dagor](/individuos/personagens-de-jogadores/dagor-tilgo) deixa o grupo, esperando um informante do [império](/faccoes/nacoes/imperio-dragao) para descrever as descobertas do grupo.
+>
+> O grupo parte em alto mar em direção a Ilha dos Mortos, onde [Hichendy](/individuos/hichendy) ajuda o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) a se acalmar. No terceiro dia de viagem, uma criatura marítma ataca o [navio](/veiculos/escuna/o-tumulto-navio).
 {.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
