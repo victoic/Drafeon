@@ -2,7 +2,7 @@
 title: Outros Deuses
 description: 
 published: true
-date: 2025-02-05T12:39:35.440Z
+date: 2025-02-05T12:40:27.045Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:40.747Z
@@ -15,5 +15,5 @@ Além dos grandes deuses do [Panteão das Treze Estrelas](/divindades/panteao-da
 
 - [Motemi'Bissz'](/divindades/outros-deuses/motemibissz#motemibissz), Deusa do Rio e do Povo-Lagarto
 - [Vhaeraun](/divindades/outros-deuses/vhaeraun#vhaeraun), Deus da Noite e dos [drow](/fauna-e-flora/especies-inteligentes/elfo-negro) machos;
-- [Upzot-Myf](/divindades/outros-deuses/upzot-myf), Deus da Criação e Vingança dos drow;
+- [Upzot-Myf](/divindades/outros-deuses/upzot-myf), deusa da Criação e Vingança dos drow;
 
