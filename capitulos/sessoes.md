@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T12:24:45.775Z
+date: 2025-02-05T12:48:24.707Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -134,6 +134,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo chega até [Vila da Ponte](/lugares/plano-material/drafeon/sul-de-drafeon/vila-da-ponte), onde os [Eremitas de Vanfalenard](/faccoes/faccoes-independentes/eremitas-de-vanfalenard) realizavam roubos em fazendas locais para se alimentar. O grupo convenceu os eremitas a se mudarem para a região de [Colinas Chuvosas](/lugares/plano-material/drafeon/sul-de-drafeon).
 {.is-info}
 - 17/07/2020 | Data narrativa: 24 de Azemis de 1754 ED - 28 de Azemis de 1754 ED
+> O grupo é informado sobre avistamentos de navios, tripulados pelas [drow](/fauna-e-flora/especies-inteligentes/elfo-negro) [Eda](/individuos/eda-myzirrim), [Ganee](/individuos/ganee-myzirrim) e [Ceve](/individuos/ceve-myzirrim) em direção à [Ilha dos Mortos](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos).
+{.is-info}
 
 - 31/07/2020 | Data narrativa: 28 de Azemis de 1754 ED - 29 de Azemis de 1754 ED
 > Grupo enfreta [Grasbuls](/fauna-e-flora/grasbul).
@@ -151,7 +153,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo chega ao Museu de Contos, onde contam a história da [aventura de edahsh](/capitulos/capitulo-04-edahsh-o-eclipse-eterno) como entrada, que foi escrita por Maurice como ["A Confraria das Rosas Negras e o Retorno de Edahsh"](), cravando o nome do grupo como [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) sugerido pelo [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Maurice informa que seu livro sobre Azaroth foi roubado por [Alain](/individuos/alain) e pede que o grupo o pegue de volta.
 {.is-info}
 
-- 25/09/2020 | Data narrativa: 07 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
+- 25/09/2020 | Data narrativa: 07 de Fateus de 1754 ED - 07 de Fateus de 1754 ED
 > O grupo se hospeda na [Pousada dos Campos](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). Magnus vagou a cidade buscando informação sobre [Alain](/individuos/alain), isso levou a infâme cena dele revelando segredos do grupo a uma velha pedestre fofoqueira, [Matilde](/individuos/matilde), que o leva em direção à guarda local para que ele fale às autoridades, mas o [Kraz](/individuos/personagens-de-jogadores/saile) os intercepta.
 >
 > Parte do grupo se infiltra na residência de Alain em busca do baú roubado de [Maurice](/individuos/maurice-ottoniano). Enquanto isso, o Kraz vai até a guarda local para investigar Alain, convencendo um rato a buscar pelos livros de Maurice. [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) investiga a residência de Alain enquanto [Dagor](/individuos/personagens-de-jogadores/dagor-tilgo) e [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) distraem o filho do chefe da guarda.
@@ -159,10 +161,12 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo infiltra a guarda em busca dos itens de Maurice, e ao achá-lo, reagrupa na pousada para continuar no dia seguinte.
 {.is-info}
 
-- 09/10/2020 | Data narrativa: 07 de Fateus de 1754 ED - 08 de Fateus de 1754 ED
+- 09/10/2020 | Data narrativa: 07 de Fateus de 1754 ED - 09 de Fateus de 1754 ED
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), inicialmente sob os codenomes Kedger Eligan e ???, se passam por [emissários de região](/rankings-e-titulos/emissario-de-regiao) do Sul de Drafeon para confiscar o baú de itens do [Maurice](/individuos/maurice-ottoniano) da guarda local de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ). 
 >
-> Maurice, sob posse de seus itens, lê o [diário de Ivrandruth](/documentos/diario-de-ivrandruth), [a ordem de ouro]( para o grupo
+> Maurice, sob posse de seus itens, lê o [diário de Ivrandruth](/documentos/diario-de-ivrandruth), [a ordem de ouro](/documentos/a-ordem-de-ouro-livro) e [a era dos mortos](/documentos/a-era-dos-mortos-livro) para o grupo, informando-os sobre a história de [Ivrandruth](/individuos/ivrandruth) e as três chaves para abrir o [Coração de Azaroth](/itens/coracao-de-azaroth).
+>
+> O grupo envia uma mesagem com os conhecimentos obtidos para Porto Preciez pela [Companhia de Mensagens e Encomendas Faralei](/faccoes/faccoes-independentes/companhia-de-mensagens-e-encomendas-faralei). 
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
