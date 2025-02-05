@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T21:10:46.502Z
+date: 2025-02-05T21:21:57.301Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -203,7 +203,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 >
 > No dia seguinte, um enorme redemoinho surge no caminho e o grupo, junto com a tripulação, junto esforços para auxiliar a desviar o navio do redemoinho. O grupo chega a [Ilha dos Mortos](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos). Se aproximando dos penhascos, o grupo enxerga um outro navio, portando uma bandeira negra com uma estrela branca de oito pontas, um navio dos [Oitavos](/faccoes/faccoes-independentes/os-oitavos).
 >
-> Desembarcando na ilha, em direção a duas torres que vigiam no topo dos penhascos, uma delas destruída. Investigando, encontram corpos de guardas do [Império](/faccoes/nacoes/imperio-dragao), o grupo salva um [guarda](/individuos/marceau) que continuava vivo e, em seguida, adentram a ilha.
+> Desembarcando na ilha, em direção a duas torres que vigiam no topo dos penhascos, uma delas destruída. Investigando, encontram corpos de guardas do [Império](/faccoes/nacoes/imperio-dragao), o grupo salva um [guarda](/individuos/marceau) que continuava vivo e, em seguida, adentram a ilha chegando a antiga cidade de [Barsipia](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos/barsipia).
 {.is-info}
 
 - 18/12/2020 | Data narrativa: 19 de Fateus de 1754 ED - 20 de Fateus de 1754 ED
