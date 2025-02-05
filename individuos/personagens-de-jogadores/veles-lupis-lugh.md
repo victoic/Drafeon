@@ -2,8 +2,10 @@
 title: Veles Lupis Lugh
 description: 
 published: true
-date: 2020-08-11T15:56:28.531Z
+date: 2025-02-05T10:34:17.227Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:56:54.959Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Veles Lupis Lugh -->
@@ -19,6 +21,9 @@ Com as conexões que ele desenvolveu ele acabou se atraindo por algo que para mu
 Não muito depois, os poucos que seguiam esta entidade foram descobertos, e por ser considerado um crime dos mais graves cultuar alguém além de Upzot-Myf, todos foram caçados e os que não foram executados onde estavam foram levados como sacrifício, Veles havia sido um desses, e no seu próprio desespero para fugir, usou os poucos aprendizados arcanos que possuía para sua fulga, seja por sua sorte ou por algum milagre, ele conseguiu roubar as chaves da sua prisão e matar seu carcereiro, fugindo o mais rápido que podia, e sabendo que só havia um lugar que ele poderia ir que seria seguro para ele, à superfície.
 
 Usando os seus contatos com os mercantes, ele conseguiu sair do subterrâneo, e hoje habita as tavernas de Porto Novo vivendo pelas suas apostas ou pelas ocasionais missões e tarefas que lhe parecem que lhe trazem algum lucro e alguma emoção para sua vida
+
+## Apelidos
+- Kedjer Eligan: em 07 de Fateus de 1754 ED, Veles usou esse nome falso para se infiltrar na guarda local de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ).
 
 # Informações
 `Nascimento` 1632 
