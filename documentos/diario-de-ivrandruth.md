@@ -2,7 +2,7 @@
 title: Diário de Ivrandruth
 description: 
 published: true
-date: 2025-02-05T11:25:44.531Z
+date: 2025-02-05T11:26:36.619Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T11:13:43.133Z
@@ -20,11 +20,11 @@ O diário se divide em três etapas:
 
 > "Azaroth me mostrou sua ascenção, ele realmente me confia como seu servo mais poderoso. Me mostrou sua crueldade enquanto ainda um demônio menor, suas inúmeras caçadas. Para cada seus gloriosos ataques eu sentia a partir dos olhos das vítimas, sentia suas dores. Aqueles ao redor logo perceberam sua grandeza, os que não perceberam perceberão em breve". - Diário de Ivrandruth
 
-> "Abrimos um portal para Azaroth, com as almas dos vermes mortais de Drafeon ele se tornará maior que os deuses dormentes em breve. Ele cruzou o portal com seus dois generais e me tornará o terceiro em breve. Nossas puras essências de caos o protegerão neste plano, ele vingará enquanto vivermos.
+> "Abrimos um portal para Azaroth, com as almas dos vermes mortais de Drafeon ele se tornará maior que os deuses dormentes em breve. Ele cruzou o portal com seus dois generais e me tornará o terceiro em breve. Nossas puras essências de caos o protegerão neste plano, ele vingará enquanto vivermos". - Diário de Ivrandruth
 
 - Em sua dedicação à libertação de Azaroth, o diário detalha as etapas de sua sua transformação em corruptor como maior servo de Azaroth e sua vida após essa transformação;
 
-> "Finalmente sou o que nasci para ser, meu corpo mostra meu verdadeiro poder e tal como meu mestre, minhas demonstrações de ira e crueldade me fortalecem. Não tenho mais necessidade dessas fraquezas élficas do meu passado, pois agora serei parte da realeza dos planos.
+> "Finalmente sou o que nasci para ser, meu corpo mostra meu verdadeiro poder e tal como meu mestre, minhas demonstrações de ira e crueldade me fortalecem. Não tenho mais necessidade dessas fraquezas élficas do meu passado, pois agora serei parte da realeza dos planos". - Diário de Ivrandruth
 
 - Com a queda do [Antigo Império Élfico](/linha-do-tempo), o diário detalha a busca por imortalidade completa, afastamento de Ivrandruth do culto de Azaroth e aproximação dele ao [exército dos mortos](/individuos/ih-lich), suas pesquisas em vegetação morta-viva, e ascenção à general do exército dos mortos.
 
