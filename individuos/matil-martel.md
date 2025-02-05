@@ -2,7 +2,7 @@
 title: Matil Martel
 description: 
 published: true
-date: 2025-02-05T12:52:51.516Z
+date: 2025-02-05T12:54:44.237Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T23:42:30.032Z
@@ -13,7 +13,7 @@ Matil Fournier foi um humano, morador e [Senhor de Cidade](/rankings-e-titulos/i
 
 Conforme sua idade avançou, pela falta de presença de herdeiros e de suas capacidades de governar de fato a cidade, Remyi se tornou num "fantoche" conforme a guarda local de Grande Champ, em especial [Alain](/individuos/alain), passaram a governar de forma corrupta a cidade.
 
-Matil possui uma voz grave e presença forte.
+Matil possui uma voz grave e presença forte. Foi tio em terceiro-grau de [Ebbo Martel](/individuos/ebbo-martel)
 
 # Informações
 `Data de Nascimento` 1764
