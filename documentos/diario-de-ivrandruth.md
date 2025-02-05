@@ -2,7 +2,7 @@
 title: Diário de Ivrandruth
 description: 
 published: true
-date: 2025-02-05T11:26:36.619Z
+date: 2025-02-05T12:07:45.610Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T11:13:43.133Z
@@ -27,4 +27,5 @@ O diário se divide em três etapas:
 > "Finalmente sou o que nasci para ser, meu corpo mostra meu verdadeiro poder e tal como meu mestre, minhas demonstrações de ira e crueldade me fortalecem. Não tenho mais necessidade dessas fraquezas élficas do meu passado, pois agora serei parte da realeza dos planos". - Diário de Ivrandruth
 
 - Com a queda do [Antigo Império Élfico](/linha-do-tempo), o diário detalha a busca por imortalidade completa, afastamento de Ivrandruth do culto de Azaroth e aproximação dele ao [exército dos mortos](/individuos/ih-lich), suas pesquisas em vegetação morta-viva, e ascenção à general do exército dos mortos.
+
 
