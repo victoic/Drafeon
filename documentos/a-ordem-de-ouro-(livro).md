@@ -2,7 +2,7 @@
 title: A Ordem de Ouro (Livro)
 description: 
 published: true
-date: 2025-02-05T12:11:31.215Z
+date: 2025-02-05T12:22:15.918Z
 tags: livro
 editor: markdown
 dateCreated: 2025-02-05T12:08:28.175Z
