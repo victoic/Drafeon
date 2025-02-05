@@ -2,7 +2,7 @@
 title: Ordem De Déz
 description: 
 published: true
-date: 2025-02-04T01:50:41.888Z
+date: 2025-02-05T20:46:51.803Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:52.184Z
@@ -24,6 +24,6 @@ Ordem de Déz é uma organização criminosa do [Sudeste de Drafeon](), baseadas
 
 # Informações
 `Tipo` Ilícito, Gangue
-`Localização` [Porto Novo]()
+`Localização` [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo)
 `Membros Notáveis`
 
