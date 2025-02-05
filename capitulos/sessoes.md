@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-04T23:55:39.103Z
+date: 2025-02-05T00:23:43.042Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -154,7 +154,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 - 25/09/2020 | Data narrativa: 07 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
 > O grupo se hospeda na [Pousada dos Campos](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). Magnus vagou a cidade buscando informação sobre [Alain](/individuos/alain), isso levou a infâme cena dele revelando segredos do grupo a uma velha pedestre fofoqueira, [Matilde](/individuos/matilde), que o leva em direção à guarda local para que ele fale às autoridades, mas o [Kraz](/individuos/personagens-de-jogadores/saile) os intercepta.
 >
-> Parte do grupo se infiltra na residência de Alain em busca do baú roubado de [Maurice](/individuos/maurice-ottoniano). Enquanto isso, o Kraz vai até a guarda local para investigar Alain. [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) investiga a residência de Alain enquanto [Dagor](/individuos/personagens-de-jogadores/dagor-tilgo) e [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) distraem o filho do chefe da guarda.
+> Parte do grupo se infiltra na residência de Alain em busca do baú roubado de [Maurice](/individuos/maurice-ottoniano). Enquanto isso, o Kraz vai até a guarda local para investigar Alain, convencendo um rato a buscar pelos livros de Maurice. [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) investiga a residência de Alain enquanto [Dagor](/individuos/personagens-de-jogadores/dagor-tilgo) e [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) distraem o filho do chefe da guarda.
 {.is-info}
 
 - 09/10/2020 | Data narrativa: 07 de Fateus de 1754 ED - 01 de Fateus de 1754 ED
