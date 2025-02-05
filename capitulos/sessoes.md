@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-05T22:17:48.577Z
+date: 2025-02-05T22:18:35.743Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -214,7 +214,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 
 - 02/01/2021 | Data narrativa: 20 de Fateus de 1754 ED - 20 de Fateus de 1754 ED
 
-> O grupo explora o salão de descanço do exército de [Ivrandruth](/individuos/ivrandruth) salão de ressurreição de Ivrandruth. Magnus encontra um [Escudo de Atração Balística](/itens/escudo-de-atracao-balistica). 
+> O grupo explora o salão de descanço do exército de [Ivrandruth](/individuos/ivrandruth) salão de ressurreição de Ivrandruth. Magnus encontra um [Escudo de Atração Balística](/itens/escudo-de-atracao-balistica).
 >
 > Derrotando Ivrandruth, o grupo obtém uma das chaves do [Coração de Azaroth](/itens/coracao-de-azaroth).
 {.is-info}
