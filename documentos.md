@@ -2,7 +2,7 @@
 title: Documentos
 description: 
 published: true
-date: 2025-02-05T12:23:23.795Z
+date: 2025-02-05T12:23:50.596Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:02.505Z
@@ -18,7 +18,7 @@ dateCreated: 2024-08-13T19:48:02.505Z
 - [Contos & Fábulas de Yrcri Magnus](/documentos/contos-fabulas-de-yrcri-magnus#contos-fabulas-de-yrcri-magnus)
 - [Fundamentos do Controle Arcano: Pontos de Pressão Arcana](/documentos/fundamentos-do-controle-arcano-pontos-de-pressão-arcana)
 - [Fundamentais do Arcano para Conjuradores](/documentos/fundamentais-do-arcano-para-conjuradores)
-- [Ordem de Ouro, A](/documentos/a-ordem-de-ouro-(livro))
+- [Ordem de Ouro, A](/documentos/a-ordem-de-ouro-livro)
 - [A Era dos Mortos](/documentos/a-era-dos-mortos-livro)
 
 ### Diários
