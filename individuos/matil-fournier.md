@@ -1,17 +1,19 @@
 ---
-title: Matil Fournier
+title: Matil Martel
 description: 
 published: true
-date: 2025-02-05T10:45:13.203Z
+date: 2025-02-05T12:52:51.516Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T23:42:30.032Z
 ---
 
-# Matil Fournier
+# Matil Martel
 Matil Fournier foi um humano, morador e [Senhor de Cidade](/rankings-e-titulos/imperio-dragao/senhor-de-cidade) de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ).
 
 Conforme sua idade avançou, pela falta de presença de herdeiros e de suas capacidades de governar de fato a cidade, Remyi se tornou num "fantoche" conforme a guarda local de Grande Champ, em especial [Alain](/individuos/alain), passaram a governar de forma corrupta a cidade.
+
+Matil possui uma voz grave e presença forte.
 
 # Informações
 `Data de Nascimento` 1764
