@@ -2,7 +2,7 @@
 title: Documentos
 description: 
 published: true
-date: 2025-02-05T12:15:03.283Z
+date: 2025-02-05T12:23:23.795Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:02.505Z
@@ -19,7 +19,7 @@ dateCreated: 2024-08-13T19:48:02.505Z
 - [Fundamentos do Controle Arcano: Pontos de Pressão Arcana](/documentos/fundamentos-do-controle-arcano-pontos-de-pressão-arcana)
 - [Fundamentais do Arcano para Conjuradores](/documentos/fundamentais-do-arcano-para-conjuradores)
 - [Ordem de Ouro, A](/documentos/a-ordem-de-ouro-(livro))
-- [Registros da Era dos Mortos](/documentos/registros-da-era-dos-mortos)
+- [A Era dos Mortos](/documentos/a-era-dos-mortos-livro)
 
 ### Diários
 - [Diário de Ivrandruth](/documentos/diario-de-ivrandruth)
