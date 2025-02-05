@@ -2,7 +2,7 @@
 title: Veles Lupis Lugh
 description: 
 published: true
-date: 2025-02-05T10:34:17.227Z
+date: 2025-02-05T10:50:26.148Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:54.959Z
@@ -11,7 +11,7 @@ dateCreated: 2024-08-13T19:56:54.959Z
 <!-- SUBTITLE: Visão geral sobre Veles Lupis Lugh -->
 
 # Veles Lupis Lugh
-Veles é um Drow, membro da Mão de Toutaris especializado em artes e aventureiro. Atualmente reside em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
+Veles Lupis Lugh, nascido Kedger Eligan, foi um Drow, membro da Mão de Toutaris especializado em artes e aventureiro. Atualmente reside em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo).
 
 ## História
 Veles, artista e apostador nato, sempre viveu dos riscos das cartas, seja em tavernas, seja com as guildas mercantes. Com o passar dos anos, aos membros das guildas com quem jogava, logo ele via a oportunidade de divulgar sua arte e talvez ganhar algo com isso.
@@ -23,7 +23,7 @@ Não muito depois, os poucos que seguiam esta entidade foram descobertos, e por 
 Usando os seus contatos com os mercantes, ele conseguiu sair do subterrâneo, e hoje habita as tavernas de Porto Novo vivendo pelas suas apostas ou pelas ocasionais missões e tarefas que lhe parecem que lhe trazem algum lucro e alguma emoção para sua vida
 
 ## Apelidos
-- Kedjer Eligan: em 07 de Fateus de 1754 ED, Veles usou esse nome falso para se infiltrar na guarda local de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ).
+- Kedjer Eligan: Nome de nascimento de Veles. Em 07 de Fateus de 1754 ED, Veles usou esse nome para se infiltrar na guarda local de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ).
 
 # Informações
 `Nascimento` 1632 
