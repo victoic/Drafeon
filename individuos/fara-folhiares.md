@@ -2,7 +2,7 @@
 title: Fara Folhiares
 description: 
 published: true
-date: 2025-02-06T13:29:36.750Z
+date: 2025-02-06T13:32:44.113Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:14.304Z
@@ -19,9 +19,9 @@ Em ? Folhiares iniciou um envolvimento possivelmente romântico com [Hêllen Sta
 `Data de Nascimento` ?
 `Local de Nascimento` [Rochedo](/lugares/plano-material/drafeon/sul-de-drafeon/rochedo)
 `Sexo Biológico` Feminino
-`Olhos` Pretos
-`Cabelos` Cabelos curtos e pretos
-`Altura` 1,21 m
-`Peso` 18 Kg
-`Organizações Associadas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
-`Títulos` [Imperador Dragão](/rankings-e-titulos/imperador-dragao#imperador-dragao)
+`Olhos` Pretos, óculos
+`Cabelos` Cabelos longos e pretos
+`Altura` 1,23 m
+`Peso` 19 Kg
+`Organizações Associadas` [Academia Arcana de Horizonte](/faccoes/nacoes/imperio-dragao/academia-arcana-de-horizonte)
+`Títulos` [Docente Completa e Chefe Bibliotecária](/rankings-e-titulos/academia-arcana-de-horizonte)
