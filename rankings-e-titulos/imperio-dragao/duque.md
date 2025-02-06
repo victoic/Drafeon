@@ -2,7 +2,7 @@
 title: Duque
 description: Membro do conselho de horizonte
 published: true
-date: 2025-02-06T12:52:42.515Z
+date: 2025-02-06T12:54:55.254Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T12:52:42.515Z
@@ -19,6 +19,8 @@ Existem cinco áreas principais no conselho, cada uma com uma cadeira e conseque
 - Duque do Mercado: responsável pelas relações comerciais com outras regiões e exteriores;
 - Duque do Bem Estar: responsável pelo desenvolvimento infraestrutural e garantia de um nível social determinado dentro da cidade;
 - Duque da Defesa: responsável pela segurança da cidade e manutenção de um exército arcano a disposição do [Império](/faccoes/nacoes/imperio-dragao), é o maior líder da guarda arcana.
+
+É importante notar que o Duque da Defesa comumente também é um [Drak](/rankings-e-titulos/imperio-dragao/drak), apesar da associação não ser obrigatória.
 
 # Infomações
 `Tipo` Cívico, Governamental
