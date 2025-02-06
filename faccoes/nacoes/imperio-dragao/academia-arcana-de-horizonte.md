@@ -2,7 +2,7 @@
 title: Acadamia Arcana de Horizonte
 description: 
 published: true
-date: 2025-02-06T14:09:25.548Z
+date: 2025-02-06T14:17:27.096Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:13:19.561Z
@@ -16,7 +16,8 @@ A academia se localiza cidade média, próximo ao [Instituto Bilumini](/faccoes/
 ## Membros Notáveis
 - [Fara Folhiares](/individuos/fara-folhiares), docente completo, chefe bibliotecário;
 - [Nimbar Tatsetul](/individuos/nimbar-tatsetul), docente completo;
-- [Vandal Folhas](/individuo/vandal-folhas), doccente completo, chefe do departamento druidico;
+- [Vandal Folhas](/individuo/vandal-folhas), docente completo, chefe do departamento druidico;
+- [Netica Andreza](/individuos/neotica-andreza), docente completo, chefe do departamento necromântico ;
 
 # Informações
 `Tipo` Educacional, Mágico
