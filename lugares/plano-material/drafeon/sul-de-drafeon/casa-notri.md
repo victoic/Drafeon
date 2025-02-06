@@ -2,7 +2,7 @@
 title: Casa Notri
 description: 
 published: true
-date: 2025-02-05T17:50:27.378Z
+date: 2025-02-06T17:09:42.641Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-05T17:50:27.378Z
@@ -34,6 +34,6 @@ No entanto, em épocas baixas de uvas, outras frutas são produzidas, como moran
 
 # Informações
 `Tipo` Cidade 
-`População` 2102
+`População` 602
 `Naturalidade` Casa-notriase
 `Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
