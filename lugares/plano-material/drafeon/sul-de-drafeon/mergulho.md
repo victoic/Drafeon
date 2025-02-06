@@ -2,7 +2,7 @@
 title: Mergulho
 description: 
 published: true
-date: 2025-02-05T18:48:48.071Z
+date: 2025-02-06T17:09:06.218Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-05T17:53:08.686Z
@@ -19,6 +19,6 @@ A cidade recebe o nome de sua localização às margens do [rio Ittar](/lugares/
 
 # Informações
 `Tipo` Cidade 
-`População` 12714
+`População` 4714
 `Naturalidade` Mergulhense
 `Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
