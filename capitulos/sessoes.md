@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T22:10:59.344Z
+date: 2025-02-06T22:28:13.646Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -277,9 +277,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Isso aqui foi sacanagem, pois não houve aviso a mim que aconteceria! - Victor
 {.is-danger}
 
-- 26/02/2021 | Data narrativa: 21 de Coecyr de 1754 ED - 22 de Coecyr de 1754 ED
+- 26/02/2021 | Data narrativa: 21 de Coecyr de 1754 ED - 23 de Coecyr de 1754 ED
 
-> O grupo encontra um [cotassi](/fauna-e-flora/especies-inteligentes/elfo-da-floresta) e um [drow](/fauna-e-flora/especies-inteligentes/elfo-negro), caçadores que habitam a [floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte): [Tiliran](/individuos/tiliran) e [Evantiné](/individuos/evantine). Tiliran passa a guiar o grupo pela floresta.
+> O grupo encontra um [cotassi](/fauna-e-flora/especies-inteligentes/elfo-da-floresta) e um [drow](/fauna-e-flora/especies-inteligentes/elfo-negro), caçadores que habitam a [floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte): [Tiliran](/individuos/tiliran) e [Evantiné](/individuos/evantine). Tiliran passa a guiar o grupo pela floresta. A cada dia, o grupo encontra grupos de goblins perdidos todos os dias.
+{.is-info}
+
+- 10/04/2021 | Data narrativa: 23 de Coecyr de 1754 ED - 23 de Coecyr de 1754 ED
+
+> Novamente o grupo encontra um grupo de goblins novamente, descobrem que estão encontrando o mesmo grupo todos os dias, eles desejam se tornar grandes magos em [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
 {.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
