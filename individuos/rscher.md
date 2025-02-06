@@ -2,7 +2,7 @@
 title: Rscher
 description: 
 published: true
-date: 2025-02-06T00:01:44.057Z
+date: 2025-02-06T01:53:56.804Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T00:01:44.057Z
@@ -16,7 +16,7 @@ Em 20 de Fateus de 1754 ED, durante a exploração de [Ilha dos Mortos](/lugares
 # Informações
 `Data de Nascimento` ?
 `Data de Levantamento` 20 de Fateus de 1754 ED
-`Data de Morte` ?
+`Data de Morte` 20 de Fateus de 1754 ED
 `Olhos` brancos
 `Cabelos` longos cabelos pretos
 `Altura` 1,78 m
