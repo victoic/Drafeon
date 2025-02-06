@@ -2,10 +2,10 @@
 title: Horizonte
 description: 
 published: true
-date: 2022-12-04T01:09:29.565Z
+date: 2025-02-06T12:22:52.627Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-30T18:18:14.482Z
+dateCreated: 2024-08-13T19:59:47.730Z
 ---
 
 ![bandeira_de_horizonte.png](/uploads/bandeiras/bandeira_de_horizonte.png){.align-abstopright}
@@ -27,7 +27,7 @@ Um dragão metálico faz morada na cidade.
 ## Governo
 A cidade é sempre governada pelo Arquimago do Império, atualmente este cargo é ocupado por [Yrcri Magnus](/individuos/yrcri-magnus). A cidade funciona como uma região geopolítica isolada, sendo a única cidade da região que não está sob comando do [Senhor de Região](/rankings-e-titulos/senhor-de-regiao) do Sul de Drafeon e sob comando direto do [Imperador](/rankings-e-titulos/imperador-dragao).
 
-Além do Arquimago, uma corte de intelectuais e arcanistas auxilia no governo da cidade, estes são conhecidos como [Duques](/rankings-e-titulos/imperio-dragao/duque) e formam a [Corte do Horizonte](/faccoes/nacoes/imperio-dragao/corte-de-horizonte). Duques são arbitrareamente alocados pelo Arquimago e possuem número e resposabilidades individualmente atribuídas. Suas responsabilidades são explicítas e os duques costumam ser conhecidos por tal.
+Além do Arquimago, uma corte de intelectuais e arcanistas auxilia no governo da cidade, estes são conhecidos como [Duques](/rankings-e-titulos/imperio-dragao/duque) e formam a [Conselho do Horizonte](/faccoes/nacoes/imperio-dragao/conselho-de-horizonte). Duques são arbitrareamente alocados pelo Arquimago e possuem número e resposabilidades individualmente atribuídas, mas comumente representam arcanistas de distintas classes e organizações da cidade. Suas responsabilidades são explicítas e os duques costumam ser conhecidos por tal.
 
 ### Leis
 Dado o foco arcano da cidade e presença das academias arcanas, um conjunto de leis foi introduzido para evitar que catástrofes acontecessem novamente.
