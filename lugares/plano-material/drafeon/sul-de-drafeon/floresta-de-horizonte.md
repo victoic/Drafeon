@@ -2,7 +2,7 @@
 title: Floresta de Horizonte
 description: 
 published: true
-date: 2025-02-06T21:00:01.737Z
+date: 2025-02-06T21:09:21.472Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-06T19:43:36.044Z
@@ -15,10 +15,14 @@ Floresta de Horizonte é uma floresta localizada ao sudoeste de [Horizonte](/lug
 - Durante as correntezas arcanas, itens mágicos podem ser ativados sem interação. 
 - As árvores crescem e se curvam em ângulos bruscos fazendo voltas no ar, algumas delas terminando de volta no chão, sem copa.
 - Climas anomalos ao da região (neve, calor extremo, etc).
+- Cogumelos crescendo em ambientes irregulares para estes;
 
 ## Fauna
 - [Aranha de Fase Atiradora](/fauna-e-flora/aranha-de-fase-atiradora)
 - [Urso de Horizonte](/fauna-e-flora/urso-de-horizonte)
+
+## Fungos
+- [Cogumelo Chapéu](/fauna-e-flora/cogumelo-chapeu)
 
 # Informações
 `Tipo` Floresta, Mágica
