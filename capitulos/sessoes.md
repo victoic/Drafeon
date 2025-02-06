@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T03:02:37.143Z
+date: 2025-02-06T11:59:50.399Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -236,6 +236,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente da casa de Boris e a vista pacífica da cidade. Conforme os dois cruzam, no outro lado do portal, Kraz e Ser andam conversando e sorrindo. O portal se fecha com os membros da Confraria da Rosa Negra comprimentando o seu antigo companheiro.
 
 - 30/01/2021 | Data narrativa: 24 de Fateus de 1754 ED - 24 de Fateus de 1754 ED
+
+> [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) se aprofunda em suas investigações sobre os acontecimentos de sua infância involvendo um dragão azul. O resto do grupo é levado pelo [Ser](/individuos/ser-glorkan) à [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte), em sua primeira cidade a capital arcana do [Império Dragão](/faccoes/nacoes/imperio-dragao).
 
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
