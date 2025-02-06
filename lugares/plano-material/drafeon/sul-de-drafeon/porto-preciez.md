@@ -2,8 +2,10 @@
 title: Porto Preciez
 description: 
 published: true
-date: 2020-05-15T22:26:06.428Z
+date: 2025-02-06T13:53:51.832Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:59:59.426Z
 ---
 
 ![bandeira_de_porto_preciez.png](/uploads/bandeiras/bandeira_de_porto_preciez.png){.align-abstopright}
@@ -23,6 +25,8 @@ A cidade possui um grande templo dedicado a [Obris](/divindades/panteao-das-trez
 Além deste, outros templos menores povoam a Corte Rosada cultuando as demais divindades do panteão.
 
 [Bar dos Bardos](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez/bar-dos-bardos), a maior taverna da cidade, pertencente à Casa de Artes, se localiza na Corte do Rei.
+
+Um resgate de animais chamado **Bichinhos do Porto** é mantido pela humana [Noel Fonteau](/individuos/noel-fonteau).
 
 ## Guildas e Facções
 [Guilda do Mercado](/faccoes/faccoes-independentes/guilda-do-mercado), grande guilda mercadora da região;
