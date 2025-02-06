@@ -2,7 +2,7 @@
 title: Conselho de Horizonte
 description: 
 published: true
-date: 2025-02-06T12:45:51.405Z
+date: 2025-02-06T12:58:55.421Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T12:45:51.405Z
@@ -18,6 +18,8 @@ Cada conselheiro recebe o título de [duque](/rankings-e-titulos/imperio-dragao/
 - Duque do Mercado: responsável pelas relações comerciais com outras regiões e exteriores;
 - Duque do Bem Estar: responsável pelo desenvolvimento infraestrutural e garantia de um nível social determinado dentro da cidade;
 - Duque da Defesa: responsável pela segurança da cidade e manutenção de um exército arcano a disposição do [Império](/faccoes/nacoes/imperio-dragao), é o maior líder da guarda arcana.
+
+Como conjunto, o conselho pode também realizar conferências para discutir questões excepicionais na ausência ou deliberação do Arquimago.
 
 ## Membros
 - [Narish](/individuos/narish-han), draconato preto, de personalidade introvertidade e observador, duque da alimentação;
