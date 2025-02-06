@@ -2,7 +2,7 @@
 title: Horizonte
 description: 
 published: true
-date: 2025-02-06T13:29:31.786Z
+date: 2025-02-06T13:35:22.952Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:59:47.730Z
@@ -56,7 +56,8 @@ A cidade é dividida em três, sendo duas dessas cidade flutuantes:
 Os níveis da cidade não são perfeitamente alinhados horizontalmente, porém se intersectam, de forma que a maior parte de cada um dos níveis abaixo do superior recebe luz solar, no entanto algumas partes ficam sob a sombra da montanha e dos níveis superiores. Estas regiões são iluminadas magicamente.
 
 Na cidade média se encontram as principais lojas de itens mágicos da cidade:
-- **La Profetie**: loja da humana [Josseline Maisonaise](/individuos/josseline-maisonaise) 
+- **La Profetie**: loja da humana [Josseline Maisonaise](/individuos/josseline-maisonaise);
+- **Lanterna do Gênio**: loja do [veneri](/fauna-e-flora/especies-inteligentes/elfo-veneri) [Alaise](/individuos/alaise);
 
 ## Bens
 
