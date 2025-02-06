@@ -2,7 +2,7 @@
 title: Zerke Montravu
 description: 
 published: true
-date: 2024-08-14T11:38:22.301Z
+date: 2025-02-06T16:41:44.969Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:57.941Z
@@ -11,7 +11,7 @@ dateCreated: 2024-08-13T19:56:57.941Z
 # Zerke Montravu
 Zerke Montravu é um velho aarakocra, originário de Montravu. Sua plumagem chama a atenção por ser completamente composta por um único tom de branco muito claro. 
 
-Apesar da idade, ele ainda aparenta ser forte e bem saudável. Ele também não carrega consigo nenhuma cicatriz ou marca que indique qualquer tipo de sofrimento ou que tenha travado árduas batalhas, o que seria bem comum para alguém de sua raça tribal.
+Zerke manca do pé direito, onde lhe falta um talão e costumava andar com uma bengala. Apesar da idade, ele ainda aparenta ser forte e bem saudável.
 
 ## História
 
