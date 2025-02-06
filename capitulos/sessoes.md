@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T20:48:21.086Z
+date: 2025-02-06T20:51:25.269Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -267,6 +267,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > "Não seus estúpidos, a gente veio de lá, é prali, é prali que devemos ir!" - goblin 1
 > "Não, a gente passou por essa árvore, nós temos que ir pralá, que aí passamos por aquela árvore e depois aquela árvore!" - goblin 2
 > "Não, é prali, prali! - goblin 3
+
+- 26/02/2021 | Data narrativa: 20 de Coecyr de 1754 ED - 20 de Coecyr de 1754 ED
+
+>
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
