@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T22:58:39.310Z
+date: 2025-02-06T23:01:17.816Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -290,7 +290,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Sob guia de [Tiliran](/individuos/tiliran), o grupo deixa a [floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte), se aproximando de [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes).
 >
-> O grupo chega a [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes) na região entre Spegedam ne Sun e Spegedam ne Tsüwi sun. No caminho o grupo é perseguido por elementais de magma, pedra e de fogo e precisam a atravessar um rio de lava enquanto fogem.
+> O grupo chega a [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes) na região entre Spegedam ne Sun e Spegedam ne Tsüwi sun. No caminho o grupo é perseguido por elementais de magma, pedra e de fogo e precisam a atravessar um rio de lava enquanto fogem. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) convence o grupo a lutar, mas os números dos elementais são muito e o grupo precisa fugir em estado grave.
 {.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
