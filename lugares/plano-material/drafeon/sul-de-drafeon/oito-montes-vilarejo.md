@@ -2,10 +2,10 @@
 title: Oito Montes (Vilarejo)
 description: 
 published: true
-date: 2021-04-10T15:07:35.240Z
+date: 2025-02-06T17:03:43.730Z
 tags: 
 editor: markdown
-dateCreated: 2021-03-07T00:28:01.360Z
+dateCreated: 2024-08-13T19:59:54.608Z
 ---
 
 # Oito Montes
@@ -13,7 +13,7 @@ Oito Montes é um pequeno vilarejo druida do [Império Dragão](/faccoes/nacoes/
 
 Oit Montes é lar e origem para os druidas do [Bapul Nokhit͡sop](/faccoes/faccoes-independentes/bapul-nokhitsop), grupo que se devota para a comunhão elemental de [Ittar](/divindades/panteao-das-treze-estrelas/ittar) com o [Plano Material](/lugares/plano-material).
 
-O vilarejo foi fundado por Nyuza, um Orc druida, como um refúgio espiritual para aqueles que buscam se entender, se conectar com o mundo e entender a força dos elementos. Após a morte de Nyuza, por velhice, os moradores locais, incluindo seu filho Süokza, construíram um túmulo e templo para ele.
+O vilarejo foi fundado por [Nyuza](/en/individuos/oxar), um Orc druida, como um refúgio espiritual para aqueles que buscam se entender, se conectar com o mundo e entender a força dos elementos. Após a morte de Nyuza, por velhice, os moradores locais, incluindo seu filho Süokza, construíram um túmulo e templo para ele.
 
 A crenças que o local se encontra num ponto de junção entre o [Plano Material](/lugares/plano-material) e os [Planos Elementais](/lugares#planos-elementais), onde, em um demiplano divino interconexo, se encontraria a forma verdadeira adormecida do deus Ittar.
 
