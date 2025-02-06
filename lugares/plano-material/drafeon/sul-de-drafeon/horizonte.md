@@ -2,7 +2,7 @@
 title: Horizonte
 description: 
 published: true
-date: 2025-02-06T13:40:27.142Z
+date: 2025-02-06T13:40:56.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:59:47.730Z
@@ -59,6 +59,7 @@ Na cidade média se encontram as principais lojas de itens mágicos da cidade:
 - **La Profetie**: loja da humana [Josseline Maisonaise](/individuos/josseline-maisonaise);
 - **Lanterna do Gênio**: loja do [veneri](/fauna-e-flora/especies-inteligentes/elfo-veneri) [Alaise](/individuos/alaise);
 - **O Matemágico**: loja da gnoma [Figira](/individuos/figira), especializada em poções;
+- **Infinidades Arcanas**: loja do gnomo [Gofan](/individuos/gofan);
 
 ## Bens
 
