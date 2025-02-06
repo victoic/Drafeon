@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T21:43:46.102Z
+date: 2025-02-06T21:49:41.785Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -276,6 +276,11 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Isso aqui foi sacanagem, pois não houve aviso a mim que aconteceria! - Victor
 {.is-danger}
+
+- 26/02/2021 | Data narrativa: 21 de Coecyr de 1754 ED - 21 de Coecyr de 1754 ED
+
+> O grupo encontra dois [cotassi](/fauna-e-flora/especies-inteligentes/elfo-da-floresta) caçadores que habitam a [floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte): [Taliran]() e [Evantiné]().
+{.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
