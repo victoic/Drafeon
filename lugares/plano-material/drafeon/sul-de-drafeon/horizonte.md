@@ -2,7 +2,7 @@
 title: Horizonte
 description: 
 published: true
-date: 2025-02-06T12:22:52.627Z
+date: 2025-02-06T13:29:31.786Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:59:47.730Z
@@ -54,6 +54,9 @@ A cidade é dividida em três, sendo duas dessas cidade flutuantes:
 * Cidade Inferior: localizada na superfície é onde se encontra a maior parte da cidade e onde vive a maior parte da população, comércios gerais, fazendas e outras estruturas básicas da cidade ficam neste nível.
 
 Os níveis da cidade não são perfeitamente alinhados horizontalmente, porém se intersectam, de forma que a maior parte de cada um dos níveis abaixo do superior recebe luz solar, no entanto algumas partes ficam sob a sombra da montanha e dos níveis superiores. Estas regiões são iluminadas magicamente.
+
+Na cidade média se encontram as principais lojas de itens mágicos da cidade:
+- **La Profetie**: loja da humana [Josseline Maisonaise](/individuos/josseline-maisonaise) 
 
 ## Bens
 
