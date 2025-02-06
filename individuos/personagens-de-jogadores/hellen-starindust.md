@@ -2,7 +2,7 @@
 title: Hêllen Starindust
 description: 
 published: true
-date: 2025-02-04T02:39:35.460Z
+date: 2025-02-06T22:01:31.136Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T02:39:35.460Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-04T02:39:35.460Z
 Your content here
 
 ## Publicações
-
+[Principios Éticos e Morais](/documentos/principios-eticos-e-morais)
 
 # Informações
 `Data de Nascimento` 1735  
