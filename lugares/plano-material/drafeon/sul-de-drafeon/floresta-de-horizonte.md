@@ -2,7 +2,7 @@
 title: Floresta de Horizonte
 description: 
 published: true
-date: 2025-02-06T21:51:51.736Z
+date: 2025-02-06T22:17:14.363Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-06T19:43:36.044Z
@@ -17,6 +17,7 @@ Floresta de Horizonte é uma floresta localizada ao sudoeste de [Horizonte](/lug
 - Climas anomalos ao da região (neve, calor extremo, etc);
 - Cogumelos crescendo em ambientes irregulares para estes;
 - Sombras e vultos de arcana aparecem e caminham momentaneamente pela floresta;
+- Árvores com copas aparentemente tão altas que não são visíveis.
 
 ## Fauna
 - [Aranha de Fase Atiradora](/fauna-e-flora/aranha-de-fase-atiradora)
