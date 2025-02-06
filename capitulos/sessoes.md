@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T02:32:36.013Z
+date: 2025-02-06T02:36:46.663Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -227,6 +227,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 >
 > Kraz deixa como presentes ao grupo: [Óculos de Visão Norturna](/itens/oculos-de-visao-noturna) para o [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), um abraço, a [Capa de Herói do Sudeste de Drafeon](/itens/capa-de-heroi-do-sudeste-de-drafeon) e a [Mochila de Truques](/itens/mochila-de-truques) para o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Chicote Demoníaco](/itens/chicote-demoniaco) e [Máscara de Águia](/itens/mascara-de-aguia) para o [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Hêllen dá ao Kraz um livro que conseguiu no salão de descanso de [Ivrandruth](/individuos/ivrandruth), [Relatórios de Pesquisa com Pólvora](/documentos/relatorios-de-pesquisa-com-polvora). Kraz deixa ainda ao grupo seu [Brinco do Sussurro](/itens/Brinco-de-Sussurros).
 > ![retorno-da-ilha-dos-mortos.webp](/uploads/arte/retorno-da-ilha-dos-mortos.webp){.align-center}
+>
+> Veles testa magias novas no [Hichendy](/individuos/hichendy). As bolas da Bolsa de Truques falham, dado que as criaturas tiveram sua essência consumida ao morrerem na ilha. O grupo chega a [Baía Forte](/lugares/plano-material/drafeon/sul-de-drafeon/baia-forte)
 {.is-info}
 
 
