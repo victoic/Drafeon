@@ -2,10 +2,10 @@
 title: Bapul Nokhitsop
 description: 
 published: true
-date: 2021-03-09T19:16:21.008Z
+date: 2025-02-06T17:04:39.380Z
 tags: facção
 editor: markdown
-dateCreated: 2021-03-07T00:13:22.031Z
+dateCreated: 2024-08-13T19:55:31.466Z
 ---
 
 # Bapul Nokhit͡sop
@@ -43,4 +43,4 @@ São 3 os princípios essenciais do Bapul Nokhitsop:
 `Capital` [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)
 `Localização` [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)
 `Territórios Controlados` [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)
-`Membros Notáveis` [Nyuza](), [Süokza](), [Munabop](/individuos/munabop)
+`Membros Notáveis` [Nyuza](/individuos/oxar), [Süokza](/individuos/suokza), [Munabop](/individuos/munabop)
