@@ -2,7 +2,7 @@
 title: Acadamia Arcana de Horizonte
 description: 
 published: true
-date: 2025-02-06T13:13:30.394Z
+date: 2025-02-06T14:09:25.548Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:13:19.561Z
@@ -14,8 +14,9 @@ A Academia Arcana de Horizonte foi uma instituição de educação, pesquisa e a
 A academia se localiza cidade média, próximo ao [Instituto Bilumini](/faccoes/faccoes-independentes/instituto-bilumini).
 
 ## Membros Notáveis
-- [Fara Folhiares](/individuos/fara-folhiares);
-- [Nimbar Tatsetul](/individuos/nimbar-tatsetul);
+- [Fara Folhiares](/individuos/fara-folhiares), docente completo, chefe bibliotecário;
+- [Nimbar Tatsetul](/individuos/nimbar-tatsetul), docente completo;
+- [Vandal Folhas](/individuo/vandal-folhas), doccente completo, chefe do departamento druidico;
 
 # Informações
 `Tipo` Educacional, Mágico
