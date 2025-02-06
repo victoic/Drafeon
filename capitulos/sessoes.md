@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T22:53:11.983Z
+date: 2025-02-06T22:56:18.354Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -290,7 +290,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Sob guia de [Tiliran](/individuos/tiliran), o grupo deixa a [floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte), se aproximando de [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes).
 >
-> O grupo chega a [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes) na região entre Spegedam ne Sun e Spegedam ne Tsüwi sun.
+> O grupo chega a [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes) na região entre Spegedam ne Sun e Spegedam ne Tsüwi sun. No caminho o grupo é atacado por elementais de magma e de fogo.
 {.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
