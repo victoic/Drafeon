@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T14:25:04.191Z
+date: 2025-02-06T14:25:48.328Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -241,7 +241,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) consegue uma reunião com o [Conselho de Horizonte](/faccoes/nacoes/imperio-dragao/conselho-de-horizonte) para discutir sobre o [Coração de Azaroth](/itens/coracao-de-azaroth). A chave obitida é deixada sob custódia do conselho e [Fara Folhiares](/individuos/fara-folhiares) e [Nimbar Tatsetul](/individuos/nimbar-tatsetul) foram indicados para auxiliar as pesquisas do grupo sobre [Azaroth](/individuos/azaroth). Hêllen adota [Deforê](/individuos/defore), um cão farejador resgatado pelo [Bichinhos do Porto](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez#Infraestrutura). 
 >
-> Veles se reune com Nimbar e Folhiares para discutir sobre a chave do Coração de Azaroth. Veles também se reune com [Netica Andreza](
+> Veles se reune com Nimbar e Folhiares para discutir sobre a chave do Coração de Azaroth. Veles também se reune com [Netica Andreza](/individuos/netica-andreza) e [Vandal Folhas](/individuo/vandal-folhas) para discutir sobre o [Grimório de Ivrandruth](/documentos/grimorio-de-ivrandruth).
 {.is-info}
 
 
