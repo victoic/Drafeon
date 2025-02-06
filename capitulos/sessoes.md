@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T13:55:18.763Z
+date: 2025-02-06T13:55:31.865Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -239,7 +239,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) se aprofunda em suas investigações sobre os acontecimentos de sua infância involvendo um dragão azul. O resto do grupo é levado pelo [Ser](/individuos/ser-glorkan) à [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte), em sua primeira cidade a capital arcana do [Império Dragão](/faccoes/nacoes/imperio-dragao).
 >
-> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) consegue uma reunião com o [Conselho de Horizonte](/faccoes/nacoes/imperio-dragao/conselho-de-horizonte) para discutir sobre o [Coração de Azaroth](/itens/coracao-de-azaroth). A chave obitida é deixada sob custódia do conselho e [Fara Folhiares](/individuos/fara-folhiares) e [Nimbar Tatsetul](/individuos/nimbar-tatsetul) foram indicados para auxiliar as pesquisas do grupo sobre [Azaroth](/individuos/azaroth). Hêllen adota Deforêt, um cão farejador resgatado [Bichinhos do Porto](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez#Infraestrutura).
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) consegue uma reunião com o [Conselho de Horizonte](/faccoes/nacoes/imperio-dragao/conselho-de-horizonte) para discutir sobre o [Coração de Azaroth](/itens/coracao-de-azaroth). A chave obitida é deixada sob custódia do conselho e [Fara Folhiares](/individuos/fara-folhiares) e [Nimbar Tatsetul](/individuos/nimbar-tatsetul) foram indicados para auxiliar as pesquisas do grupo sobre [Azaroth](/individuos/azaroth). Hêllen adota Deforêt, um cão farejador resgatado pelo [Bichinhos do Porto](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez#Infraestrutura).
 {.is-info}
 
 
