@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T17:51:53.937Z
+date: 2025-02-06T18:02:44.580Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -250,7 +250,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > No total se passam 2 meses com o grupo realizando tarefas individuais.
 {.is-info}
 
-- 13/02/2021 | Data narrativa: 17 de Coecyr de 1754 ED - 19 de Coecyr de 1754 ED
+- 13/02/2021 | Data narrativa: 17 de Coecyr de 1754 ED - 20 de Coecyr de 1754 ED
 > Cada um dos membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) recebe uma mensagem mágica, convocando-os a uma conferência com o [Conselho de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) em dois dias. O grupo se encontram na praça na cidade média de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
 >
 > [Zerke Montravu](/individuos/personagens-de-jogadores/zerme-montravu) se junta ao grupo, após apresentar uma mensagem mágica do [Kraz](/individuos/personagens-de-jogadores/saile) o recomendando. Magnus entrega um [brinco de sussurros](/itens/Brinco-de-Sussurros) ao Zerke.
