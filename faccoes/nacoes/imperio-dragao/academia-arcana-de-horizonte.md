@@ -2,7 +2,7 @@
 title: Acadamia Arcana de Horizonte
 description: 
 published: true
-date: 2025-02-06T13:13:19.561Z
+date: 2025-02-06T13:13:30.394Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:13:19.561Z
@@ -19,6 +19,6 @@ A academia se localiza cidade média, próximo ao [Instituto Bilumini](/faccoes/
 
 # Informações
 `Tipo` Educacional, Mágico
-`Líder` [Hilserno Sakkas](/individuos/hilserno-sakkas), o[Duque da Pesquisa](/rankings-e-titulos/imperio-dragao/arquimago)
+`Líder` [Hilserno Sakkas](/individuos/hilserno-sakkas), o [Duque da Pesquisa](/rankings-e-titulos/imperio-dragao/arquimago)
 `Localização` [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte)
 [`Rankings e Títulos`](/rankings-e-titulos/academia-arcana-de-horizonte)
