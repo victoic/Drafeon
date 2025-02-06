@@ -2,7 +2,7 @@
 title: Aldror
 description: 
 published: true
-date: 2025-02-04T03:56:37.881Z
+date: 2025-02-06T14:46:21.827Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:49:24.668Z
@@ -13,7 +13,7 @@ Aldror foi um humano, nativo de [Felicidade](/lugares/plano-material/drafeon/sud
 
 Em 1753 ED, Aldror se tornou líder iterino da quartel da Ordem de Ouro em Porto Novo, enquanto [Lakip Brillabouso](/individuos/lakip-brillabouso) viajava.
 
-Aldror possui como hobby a gastronomia, sendo famoso por suas tortas e bolos.
+Aldror possui como hobby a gastronomia, sendo famoso por suas tortas e bolos. Um de seus projetos mais famosos é o bolo enrolado, uma massa fina com recheio de goiaba enrolado sobre si mesmo.
 
 # Informações
 `Data de Nascimento` 1735 ED
