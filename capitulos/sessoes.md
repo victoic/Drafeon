@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T22:45:10.669Z
+date: 2025-02-06T22:52:24.610Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -289,6 +289,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Ser](/individuos/ser-glorkan) informa [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) de um navio partindo de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). O grupo enfrenta um grupo de Ents.
 >
 > Sob guia de [Tiliran](/individuos/tiliran), o grupo deixa a [floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte), se aproximando de [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes).
+>
+> O grupo chega a [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes) na região entre Spegedam ne Sun e Spegedam ne Tsüwi sun.
 {.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
