@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T11:59:50.399Z
+date: 2025-02-06T12:55:11.691Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -238,6 +238,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - 30/01/2021 | Data narrativa: 24 de Fateus de 1754 ED - 24 de Fateus de 1754 ED
 
 > [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) se aprofunda em suas investigações sobre os acontecimentos de sua infância involvendo um dragão azul. O resto do grupo é levado pelo [Ser](/individuos/ser-glorkan) à [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte), em sua primeira cidade a capital arcana do [Império Dragão](/faccoes/nacoes/imperio-dragao).
+>
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) consegue uma reunião com o [Conselho de Horizonte]() para discutir sobre o [Coração de Azaroth](/itens/coracao-de-azaroth).
+{.is-info}
 
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
