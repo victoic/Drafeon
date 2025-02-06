@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T17:13:33.448Z
+date: 2025-02-06T17:51:53.937Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -253,10 +253,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - 13/02/2021 | Data narrativa: 17 de Coecyr de 1754 ED - 19 de Coecyr de 1754 ED
 > Cada um dos membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) recebe uma mensagem mágica, convocando-os a uma conferência com o [Conselho de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) em dois dias. O grupo se encontram na praça na cidade média de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
 >
-> [Zerke Montravu](/individuos/personagens-de-jogadores/zerme-montravu) se junta ao grupo, após apresentar uma mensagem mágica do [Kraz](/individuos/personagens-de-jogadores/saile) o recomendando.
+> [Zerke Montravu](/individuos/personagens-de-jogadores/zerme-montravu) se junta ao grupo, após apresentar uma mensagem mágica do [Kraz](/individuos/personagens-de-jogadores/saile) o recomendando. Magnus entrega um [brinco de sussurros](/itens/Brinco-de-Sussurros) ao Zerke.
 >
 > Na conferência, [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) informa sobre [Oxar](/individuos/oxar), de sua relação com [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes), onde existe a possibilidade de uma das chaves do [Coração de Azaroth](/itens/coracao-de-azaroth) estar localizada.
 > O grupo traça um plano de viagem para chegar a Oito Montes passando pela [Floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte), que levaria 8 dias de viagem. Eles descobrem que o templo se abre apenas em luas novas duplas e que a próxima ocorrerá em 20 dias. 
+>
+> O grupo contrata [Aelaro](/individuos/aelaro) para levá-los por dois dias de viagem adentrando a floresta de Horizonte.
 {.is-info}
 
 > "Aceitem ele no grupo, pessoal. Ele tem din..." - Kraz em mensagem mágica
