@@ -2,7 +2,7 @@
 title: Documentos
 description: 
 published: true
-date: 2025-02-06T00:19:21.736Z
+date: 2025-02-06T00:19:30.744Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:02.505Z
@@ -22,7 +22,7 @@ dateCreated: 2024-08-13T19:48:02.505Z
 - [A Era dos Mortos](/documentos/a-era-dos-mortos-livro)
 
 ### Grimórios
-- [
+- [Grimório de Ivrandruth](/documentos/grimorio-de-ivrandruth)
 
 ### Diários
 - [Diário de Ivrandruth](/documentos/diario-de-ivrandruth)
