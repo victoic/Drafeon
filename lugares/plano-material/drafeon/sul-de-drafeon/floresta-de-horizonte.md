@@ -2,7 +2,7 @@
 title: Floresta de Horizonte
 description: 
 published: true
-date: 2025-02-06T22:17:14.363Z
+date: 2025-02-06T22:29:44.182Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-06T19:43:36.044Z
@@ -22,7 +22,6 @@ Floresta de Horizonte é uma floresta localizada ao sudoeste de [Horizonte](/lug
 ## Fauna
 - [Aranha de Fase Atiradora](/fauna-e-flora/aranha-de-fase-atiradora)
 - [Urso de Horizonte](/fauna-e-flora/urso-de-horizonte)
-- []()
 
 ## Fungos
 - [Cogumelo Chapéu](/fauna-e-flora/cogumelo-chapeu)
