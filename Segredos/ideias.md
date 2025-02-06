@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2025-02-06T16:24:37.957Z
+date: 2025-02-06T16:29:02.446Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-03T15:45:25.832Z
@@ -17,7 +17,7 @@ Em **10/03/2028**: uma sessão onde o grupo faz pequenas missões saltando no te
 # Mecânicas
 
 ## Escrita de Livros:
-Por capítulo, um teste de performance.
+Por capítulo, um teste de performance ou perícia relevante ao tema.
 
 | Total do Teste | Resultado |
 | 1-5            | Desastre  |
