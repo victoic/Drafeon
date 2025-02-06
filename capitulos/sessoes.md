@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T22:28:13.646Z
+date: 2025-02-06T22:33:36.603Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -285,6 +285,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - 10/04/2021 | Data narrativa: 23 de Coecyr de 1754 ED - 23 de Coecyr de 1754 ED
 
 > Novamente o grupo encontra um grupo de goblins novamente, descobrem que estão encontrando o mesmo grupo todos os dias, eles desejam se tornar grandes magos em [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
+>
+> [Ser](/individuos/ser-glorkan) informa [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) de um navio partindo de [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo).
 {.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
