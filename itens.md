@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2025-02-05T22:11:04.374Z
+date: 2025-02-06T15:24:25.050Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:13.494Z
@@ -16,9 +16,13 @@ dateCreated: 2024-08-13T19:48:13.494Z
 [Escudo de Atração Balística](/itens/escudo-de-atracao-balistica)
 
 ## Armas
+[Brasas, Machado das](/itens/machado-das-brasas)
+[Chamas, Machado das](/itens/machado-das-chamas)
 [Pistola](/itens/pistola#pistola)
 [Pistola Leve](/itens/pistola-leve#pistola-leve)
 [Pacificadora](/itens/pacificadora)
+[Vigilância](/itens/vigilancia)
+[Vigilância, Machado da](/itens/machado-da-vigilancia)
 
 ## Artefatos
 [Coração de Azaroth](/itens/coracao-de-azaroth#coracao-de-azaroth)
