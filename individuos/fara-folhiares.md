@@ -2,7 +2,7 @@
 title: Fara Folhiares
 description: 
 published: true
-date: 2025-02-06T13:32:44.113Z
+date: 2025-02-06T13:45:16.723Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:14.304Z
@@ -16,7 +16,7 @@ Em 24 de Fateus de 1754 ED, Folhiares conheceu os membros da [Confraria da Rosa 
 Em ? Folhiares iniciou um envolvimento possivelmente romântico com [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust).
 
 # Informações
-`Data de Nascimento` ?
+`Data de Nascimento` 1612
 `Local de Nascimento` [Rochedo](/lugares/plano-material/drafeon/sul-de-drafeon/rochedo)
 `Sexo Biológico` Feminino
 `Olhos` Pretos, óculos
