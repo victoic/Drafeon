@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T03:01:34.717Z
+date: 2025-02-06T03:02:37.143Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -234,6 +234,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > "Mande cartas, tchau!" - Kraz
 > "Em breve eu volto, colegas, até mais. Vamos conversando, Kraz! - Ser
 O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente da casa de Boris e a vista pacífica da cidade. Conforme os dois cruzam, no outro lado do portal, Kraz e Ser andam conversando e sorrindo. O portal se fecha com os membros da Confraria da Rosa Negra comprimentando o seu antigo companheiro.
+
+- 30/01/2021 | Data narrativa: 24 de Fateus de 1754 ED - 24 de Fateus de 1754 ED
 
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
