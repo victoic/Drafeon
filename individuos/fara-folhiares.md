@@ -2,7 +2,7 @@
 title: Fara Folhiares
 description: 
 published: true
-date: 2025-02-06T13:20:14.304Z
+date: 2025-02-06T13:29:36.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T13:20:14.304Z
@@ -14,3 +14,14 @@ Fara Folhiares foi uma gnoma, moradora de [Horizonte](/lugares/plano-material/dr
 Em 24 de Fateus de 1754 ED, Folhiares conheceu os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), com quem passou a colaborar para evitar o [ressurgimento de Azaroth](/capitulos/capitulo-05-a-volta-de-azaroth). Durante os acontecimento, Folhiares se tornou grande amiga do grupo, tal como [Nimbar Tatsetul](/individuos/nimbar-tatsetul). 
 
 Em ? Folhiares iniciou um envolvimento possivelmente romântico com [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust).
+
+# Informações
+`Data de Nascimento` ?
+`Local de Nascimento` [Rochedo](/lugares/plano-material/drafeon/sul-de-drafeon/rochedo)
+`Sexo Biológico` Feminino
+`Olhos` Pretos
+`Cabelos` Cabelos curtos e pretos
+`Altura` 1,21 m
+`Peso` 18 Kg
+`Organizações Associadas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Títulos` [Imperador Dragão](/rankings-e-titulos/imperador-dragao#imperador-dragao)
