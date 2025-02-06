@@ -2,7 +2,7 @@
 title: Zerke Montravu
 description: 
 published: true
-date: 2025-02-06T16:41:44.969Z
+date: 2025-02-06T16:42:06.319Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:57.941Z
@@ -30,7 +30,7 @@ Rapidamente antes que o castelo de Montravu fosse tomado, ele reuniu jóias e os
 Até que em uma noite em uma taverna qualquer, ouviu falar em um aventureiro, um tal herói caçador de bruxas, Aarakocra como ele. Ficou interessado em conhece-lo, pois viu neste herói, talvez por afinidade de espécie ou apenas por ter se encantado com as histórias, a oportunidade de começar sua própria aventura e resolveu encontrá-lo na esperança de que alguma maneira ele o ajudasse a tornar-se um herói também.
 
 # Informações
-`Nascimento` 1732
+`Nascimento` 1732 ED
 `Local de Nascimento` ?
 `Sexo Biológico` Masculino
 `Olhos` Brancos
