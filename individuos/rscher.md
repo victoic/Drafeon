@@ -2,7 +2,7 @@
 title: Rscher
 description: 
 published: true
-date: 2025-02-06T01:53:56.804Z
+date: 2025-02-06T01:55:06.922Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T00:01:44.057Z
@@ -11,7 +11,7 @@ dateCreated: 2025-02-06T00:01:44.057Z
 # Rscher
 Rscher foi um humano, soldado do [Reino do Sul](/faccoes/nacoes/reino-do-sul), tornado morto-vivo durante a [Era dos Mortos](/linha-do-tempo).
 
-Em 20 de Fateus de 1754 ED, durante a exploração de [Ilha dos Mortos](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos) pelos aventureiros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), almas coletadas por [Rulupu](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos/rulupu) levantaram Rscher como um morto-vivo.
+Em 20 de Fateus de 1754 ED, durante a exploração de [Ilha dos Mortos](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos) pelos aventureiros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), almas coletadas por [Rulupu](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos/rulupu) levantaram Rscher como um morto-vivo. Os heróis, a pedido de Rscher, o matam.
 
 # Informações
 `Data de Nascimento` ?
