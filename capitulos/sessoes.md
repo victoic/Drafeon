@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T21:41:10.871Z
+date: 2025-02-06T21:42:49.664Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -273,6 +273,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Combate contra um par de [ursos de Horizonte](/fauna-e-flora/urso-de-horizonte). Encontram um [cogumelo chapéu](/fauna-e-flora/cogumelo-chapeu), que envenena o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e Hêllen fazem experimentos quanto às propriedades da floresta, Hêllen chegando até o ponto de quase morte.
 > Dois ursos de Horizonte atacam o grupo dormindo, durante uma vigilha do Veles, Zerke extrai os dentes do urso como troféu. Sob o choque do ataque, Hêllen não dorme, na manhã seguinte ele conjura teletransporte de volta a Horizonte.
 {.is-info}
+
+> Isso aqui foi sacanagem, pq não houve aviso a mim que aconteceria! - Victor
+{.is-danger}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
