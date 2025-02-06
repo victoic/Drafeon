@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T02:45:36.590Z
+date: 2025-02-06T03:01:34.717Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -190,9 +190,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo realiza uma tentativa frustrada de roubar uma loja de itens mágicos.
 > [Dagor](/individuos/personagens-de-jogadores/dagor-tilgo) deixa o grupo, esperando um informante do [império](/faccoes/nacoes/imperio-dragao) para descrever as descobertas do grupo.
 >
-> Navios mercadores ambulantes cruzam caminho com o grupo, Hêllen compra uma canoa dobrável.
->
-> O grupo parte em alto mar em direção a Ilha dos Mortos, onde [Hichendy](/individuos/hichendy) ajuda o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) a se acalmar. No terceiro dia de viagem, [aumakuas](/fauna-e-flora/especies-inteligentes/aumakua) atacam o [navio](/veiculos/escuna/o-tumulto-navio).
+> O grupo parte em alto mar em direção a Ilha dos Mortos, onde [Hichendy](/individuos/hichendy) ajuda o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) a se acalmar. No terceiro dia de viagem, [aumakuas](/fauna-e-flora/especies-inteligentes/aumakua) atacam o [navio](/veiculos/escuna/o-tumulto-navio). Navios mercadores ambulantes cruzam caminho com o grupo, Hêllen compra uma canoa dobrável.
 {.is-info}
 
 - 04/12/2020 | Data narrativa: 19 de Fateus de 1754 ED - 20 de Fateus de 1754 ED
@@ -219,7 +217,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo batalha contra Ivrandruth, [Ganee](/individuos/ganee-myzirrim), [Ceve](/individuos/ceve-myzirrim), onde Ivrandruth e Ceve foram mortos e Ganee fugiu. Hêllen e Kraz ficam perto da morte na batalha. Derrotando Ivrandruth, o grupo obtém uma das chaves do [Coração de Azaroth](/itens/coracao-de-azaroth). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) toma posse do [Grimório de Ivrandruth](/documentos/grimorio-de-ivrandruth), iniciando suas pesquisas na [herbo-necromancia](/magia/herbo-necromancia).
 {.is-info}
 
-- 16/01/2021 | Data narrativa: 20 de Fateus de 1754 ED - 21 de Fateus de 1754 ED
+- 16/01/2021 | Data narrativa: 20 de Fateus de 1754 ED - 24 de Fateus de 1754 ED
 
 > O grupo retorna as torres de vigia nos penhascos. A horda de zumbis enfrentados anteriormente se move em direção ao grupo, [Kraz](/individuos/personagens-de-jogadores/saile) cria uma barricada na torre.
 >
@@ -228,8 +226,14 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > Kraz deixa como presentes ao grupo: [Óculos de Visão Norturna](/itens/oculos-de-visao-noturna) para o [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), um abraço, a [Capa de Herói do Sudeste de Drafeon](/itens/capa-de-heroi-do-sudeste-de-drafeon) e a [Mochila de Truques](/itens/mochila-de-truques) para o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Chicote Demoníaco](/itens/chicote-demoniaco) e [Máscara de Águia](/itens/mascara-de-aguia) para o [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Hêllen dá ao Kraz um livro que conseguiu no salão de descanso de [Ivrandruth](/individuos/ivrandruth), [Relatórios de Pesquisa com Pólvora](/documentos/relatorios-de-pesquisa-com-polvora). Kraz deixa ainda ao grupo seu [Brinco do Sussurro](/itens/Brinco-de-Sussurros).
 > ![retorno-da-ilha-dos-mortos.webp](/uploads/arte/retorno-da-ilha-dos-mortos.webp){.align-center}
 >
-> Veles testa magias novas no [Hichendy](/individuos/hichendy). As bolas da Bolsa de Truques falham, dado que as criaturas tiveram sua essência consumida ao morrerem na ilha. O grupo chega a [Baía Forte](/lugares/plano-material/drafeon/sul-de-drafeon/baia-forte), onde Hêllen conjura teletransporte pela primeira vez, levando o grupo a [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez).
+> Veles testa magias novas no [Hichendy](/individuos/hichendy). As bolas da Bolsa de Truques falham, dado que as criaturas tiveram sua essência consumida ao morrerem na ilha. O grupo chega a [Baía Forte](/lugares/plano-material/drafeon/sul-de-drafeon/baia-forte), onde Hêllen conjura teletransporte pela primeira vez, levando o grupo a [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez). Ser sugere levar a chave do [Coração de Azaroth](/itens/coracao-de-azaroth) para [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte), o grupo discute o futuro da chave.
+>
+> Kraz e Ser conversam sobre parcerias de negócios, enquanto Ser abre um portal para levar Kraz a Costa do Repouso.
 {.is-info}
+
+> "Mande cartas, tchau!" - Kraz
+> "Em breve eu volto, colegas, até mais. Vamos conversando, Kraz! - Ser
+O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente da casa de Boris e a vista pacífica da cidade. Conforme os dois cruzam, no outro lado do portal, Kraz e Ser andam conversando e sorrindo. O portal se fecha com os membros da Confraria da Rosa Negra comprimentando o seu antigo companheiro.
 
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
