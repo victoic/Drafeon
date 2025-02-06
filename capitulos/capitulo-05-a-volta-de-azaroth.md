@@ -2,7 +2,7 @@
 title: Capítulo 05
 description: A Volta de Azaroth
 published: true
-date: 2025-02-03T14:06:54.271Z
+date: 2025-02-06T19:24:47.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:36.258Z
@@ -54,7 +54,7 @@ Após a quase morte durante o combate com Ivrandruth, [Kraz](/individuos/persona
 
 Após alguns dias, o grupo é convocado novamente para se reunir como o Conselho. Nimbar e Folhiares explicam seus achados e a possibilidade de uma segunda chave estar escondida no túmulo de Nyuza, em [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo), que possivelmente é um dos membros fundadores da Ordem de Ouro e que impediu a primeira vinda de Azaroth ao Plano Material. O grupo deve chegar na cidade antes do ritual das duas luas novas ocorrer, que é o único momento onde o templo se abre.
 
-Ao sair da reunião, um velho Aarakocra chamado [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se junta ao grupo, enviado por Kraz. O grupo toma uma viagem de 8 dias em direção à Oito Montes, passando por dentro da [Floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon).
+Ao sair da reunião, um velho Aarakocra chamado [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se junta ao grupo, enviado por Kraz. O grupo toma uma viagem de 8 dias em direção à Oito Montes, passando por dentro da [Floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte).
 
 Chegando em Oito Montes, o grupo convence os locais a os deixarem entrar junto com a líder local [Okdokok](/individuos/okdokok-nabomua). E após passarem por todos os níveis do templo, recuperam a segunda chave.
 
