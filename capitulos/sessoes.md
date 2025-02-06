@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T00:37:42.272Z
+date: 2025-02-06T00:38:26.523Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -216,7 +216,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 
 > O grupo explora o salão de descanço do exército de [Ivrandruth](/individuos/ivrandruth) salão de ressurreição de Ivrandruth. Magnus encontra um [Escudo de Atração Balística](/itens/escudo-de-atracao-balistica). [Kraz](/individuos/personagens-de-jogadores/saile) encontra um morto-vivo consciente, [Rscher](/individuos/rscher). [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) encontra um pergaminho de causar medo.
 >
-> O grupo batalha contra Ivrandruth, [Ganee](/individuos/ganee-myzirrim), [Ceve](, Derrotando Ivrandruth, o grupo obtém uma das chaves do [Coração de Azaroth](/itens/coracao-de-azaroth). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) toma posse do [Grimório de Ivrandruth](/documentos/grimorio-de-ivrandruth), iniciando suas pesquisas na [herbo-necromancia](/magia/herbo-necromancia).
+> O grupo batalha contra Ivrandruth, [Ganee](/individuos/ganee-myzirrim), [Ceve](/individuos/ceve-myzirrim), onde Ivrandruth e Ceve foram mortos e Ganee fugiu. Derrotando Ivrandruth, o grupo obtém uma das chaves do [Coração de Azaroth](/itens/coracao-de-azaroth). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) toma posse do [Grimório de Ivrandruth](/documentos/grimorio-de-ivrandruth), iniciando suas pesquisas na [herbo-necromancia](/magia/herbo-necromancia).
 {.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
