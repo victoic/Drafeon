@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T15:41:14.323Z
+date: 2025-02-06T17:07:21.144Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -235,7 +235,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > "Em breve eu volto, colegas, até mais. Vamos conversando, Kraz! - Ser
 O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente da casa de Boris e a vista pacífica da cidade. Conforme os dois cruzam, no outro lado do portal, Kraz e Ser andam conversando e sorrindo. O portal se fecha com os membros da Confraria da Rosa Negra comprimentando o seu antigo companheiro.
 
-- 30/01/2021 | Data narrativa: 24 de Fateus de 1754 ED - 24 de Coecyr de 1754 ED
+- 30/01/2021 | Data narrativa: 24 de Fateus de 1754 ED - 17 de Coecyr de 1754 ED
 
 > [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) se aprofunda em suas investigações sobre os acontecimentos de sua infância involvendo um dragão azul. O resto do grupo é levado pelo [Ser](/individuos/ser-glorkan) à [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte), em sua primeira cidade a capital arcana do [Império Dragão](/faccoes/nacoes/imperio-dragao).
 >
@@ -250,6 +250,16 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > No total se passam 2 meses com o grupo realizando tarefas individuais.
 {.is-info}
 
+- 13/02/2021 | Data narrativa: 17 de Coecyr de 1754 ED - 19 de Coecyr de 1754 ED
+> Cada um dos membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) recebe uma mensagem mágica, convocando-os a uma conferência com o [Conselho de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) em dois dias. O grupo se encontram na praça na cidade média de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
+>
+> [Zerke Montravu](/individuos/personagens-de-jogadores/zerme-montravu) se junta ao grupo, após apresentar uma mensagem mágica do [Kraz](/individuos/personagens-de-jogadores/saile) o recomendando.
+>
+> Na conferência, [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) informa sobre [Oxar](/individuos/oxar), de sua relação com [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes), onde existe a possibilidade de uma das chaves do [Coração de Azaroth](/itens/coracao-de-azaroth) estar localizada.
+> O grupo traça um plano de viagem para chegar a Oito Montes passando pela [Floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte), que levaria 8 dias de viagem.
+{.is-info}
+
+> "Aceitem ele no grupo, pessoal. Ele tem din..." - Kraz em mensagem mágica
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
