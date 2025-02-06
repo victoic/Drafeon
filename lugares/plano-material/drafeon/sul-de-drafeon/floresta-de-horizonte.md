@@ -2,7 +2,7 @@
 title: Floresta de Horizonte
 description: 
 published: true
-date: 2025-02-06T21:09:21.472Z
+date: 2025-02-06T21:25:16.119Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-06T19:43:36.044Z
@@ -12,10 +12,11 @@ dateCreated: 2025-02-06T19:43:36.044Z
 Floresta de Horizonte é uma floresta localizada ao sudoeste de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte). Dadas as altas correntes arcanas que correm na região, a floresta possui características únicas, com conjurações acarretando em efeitos inexperados e fauna e flora embuída em magia.
 
 ## Efeitos
-- Durante as correntezas arcanas, itens mágicos podem ser ativados sem interação. 
-- As árvores crescem e se curvam em ângulos bruscos fazendo voltas no ar, algumas delas terminando de volta no chão, sem copa.
-- Climas anomalos ao da região (neve, calor extremo, etc).
+- Durante as correntezas arcanas, itens mágicos podem ser ativados sem interação;
+- As árvores crescem e se curvam em ângulos bruscos fazendo voltas no ar, algumas delas terminando de volta no chão, sem copa;
+- Climas anomalos ao da região (neve, calor extremo, etc);
 - Cogumelos crescendo em ambientes irregulares para estes;
+- Sombras e vultos de arcana aparecem e caminham momentaneamente pela floresta;
 
 ## Fauna
 - [Aranha de Fase Atiradora](/fauna-e-flora/aranha-de-fase-atiradora)
