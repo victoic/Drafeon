@@ -2,13 +2,16 @@
 title: Vandal Folhas
 description: 
 published: true
-date: 2025-02-06T14:19:54.268Z
+date: 2025-02-06T17:25:11.974Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T14:19:54.268Z
 ---
 
 # Vandal Folhas
+
+> Foi uma viagem da qual eu ainda estou voultando" - Folhas
+
 Vandal Folhas foi um firbolg, morador de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) e docente completo da [Academia Arcana de Horizonte](/faccoes/nacoes/imperio-dragao/academia-arcana-de-horizonte). Folhas, como costuma ser conhecido, é perito em magia druidíca e é chefe do departamento druidíco da academia. Ele possui personalidade calma e alegre.
 
 Vandal Folhas é informalmente conhecido por participar e negociar em substância ilegais, como ervas psicotrópicas.
