@@ -2,7 +2,7 @@
 title: Floresta de Horizonte
 description: 
 published: true
-date: 2025-02-06T20:51:58.386Z
+date: 2025-02-06T21:00:01.737Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-06T19:43:36.044Z
@@ -18,6 +18,7 @@ Floresta de Horizonte é uma floresta localizada ao sudoeste de [Horizonte](/lug
 
 ## Fauna
 - [Aranha de Fase Atiradora](/fauna-e-flora/aranha-de-fase-atiradora)
+- [Urso de Horizonte](/fauna-e-flora/urso-de-horizonte)
 
 # Informações
 `Tipo` Floresta, Mágica
