@@ -2,7 +2,7 @@
 title: Horizonte
 description: 
 published: true
-date: 2025-02-06T13:35:22.952Z
+date: 2025-02-06T13:39:38.938Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:59:47.730Z
@@ -58,6 +58,7 @@ Os níveis da cidade não são perfeitamente alinhados horizontalmente, porém s
 Na cidade média se encontram as principais lojas de itens mágicos da cidade:
 - **La Profetie**: loja da humana [Josseline Maisonaise](/individuos/josseline-maisonaise);
 - **Lanterna do Gênio**: loja do [veneri](/fauna-e-flora/especies-inteligentes/elfo-veneri) [Alaise](/individuos/alaise);
+- **O Matemágico**: loja da gnoma [Figira](/individuos/figira);
 
 ## Bens
 
