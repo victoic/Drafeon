@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T21:33:17.249Z
+date: 2025-02-06T21:36:03.055Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -271,7 +271,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - 26/02/2021 | Data narrativa: 20 de Coecyr de 1754 ED - 21 de Coecyr de 1754 ED
 
 > Combate contra um par de [ursos de Horizonte](/fauna-e-flora/urso-de-horizonte). Encontram um [cogumelo chapéu](/fauna-e-flora/cogumelo-chapeu), que envenena o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e Hêllen fazem experimentos quanto às propriedades da floresta, Hêllen chegando até o ponto de quase morte.
-> Dois ursos de Horizonte atacam o grupo dormindo, durante uma vigilha do Veles.
+> Dois ursos de Horizonte atacam o grupo dormindo, durante uma vigilha do Veles, Zerke extrai um dente do urso como troféu.
 {.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
