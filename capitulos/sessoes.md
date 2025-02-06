@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T02:00:52.841Z
+date: 2025-02-06T02:32:36.013Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -219,9 +219,14 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo batalha contra Ivrandruth, [Ganee](/individuos/ganee-myzirrim), [Ceve](/individuos/ceve-myzirrim), onde Ivrandruth e Ceve foram mortos e Ganee fugiu. Hêllen e Kraz ficam perto da morte na batalha. Derrotando Ivrandruth, o grupo obtém uma das chaves do [Coração de Azaroth](/itens/coracao-de-azaroth). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) toma posse do [Grimório de Ivrandruth](/documentos/grimorio-de-ivrandruth), iniciando suas pesquisas na [herbo-necromancia](/magia/herbo-necromancia).
 {.is-info}
 
-- 16/01/2021 | Data narrativa: 20 de Fateus de 1754 ED - 20 de Fateus de 1754 ED
+- 16/01/2021 | Data narrativa: 20 de Fateus de 1754 ED - 21 de Fateus de 1754 ED
 
-> [Kraz](/individuos/personagens-de-jogadores/saile) deixa o grupo.
+> O grupo retorna as torres de vigia nos penhascos. A horda de zumbis enfrentados anteriormente se move em direção ao grupo, [Kraz](/individuos/personagens-de-jogadores/saile) cria uma barricada na torre.
+>
+> O grupo retorna ao [Tumulto](/veiculos/escuna/o-tumulto-navio), onde se juntam à proa do navio para reminescer sobre as aventuras, Kraz anuncia que deixará o grupo e seguirá o rumo de um artesão comerciante com [Boris](/individuos/boris-enimis) em [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso).
+>
+> Kraz deixa como presentes ao grupo: [Óculos de Visão Norturna](/itens/oculos-de-visao-noturna) para o [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), um abraço, a [Capa de Herói do Sudeste de Drafeon](/itens/capa-de-heroi-do-sudeste-de-drafeon) e a [Mochila de Truques](/itens/mochila-de-truques) para o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Chicote Demoníaco](/itens/chicote-demoniaco) e [Máscara de Águia](/itens/mascara-de-aguia) para o [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Hêllen dá ao Kraz um livro que conseguiu no salão de descanso de [Ivrandruth](/individuos/ivrandruth), [Relatórios de Pesquisa com Pólvora](/documentos/relatorios-de-pesquisa-com-polvora). Kraz deixa ainda ao grupo seu [Brinco do Sussurro](/itens/Brinco-de-Sussurros).
+> ![retorno-da-ilha-dos-mortos.webp](/uploads/arte/retorno-da-ilha-dos-mortos.webp){.align-center}
 {.is-info}
 
 
