@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T17:07:21.144Z
+date: 2025-02-06T17:13:33.448Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -256,7 +256,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Zerke Montravu](/individuos/personagens-de-jogadores/zerme-montravu) se junta ao grupo, após apresentar uma mensagem mágica do [Kraz](/individuos/personagens-de-jogadores/saile) o recomendando.
 >
 > Na conferência, [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) informa sobre [Oxar](/individuos/oxar), de sua relação com [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes), onde existe a possibilidade de uma das chaves do [Coração de Azaroth](/itens/coracao-de-azaroth) estar localizada.
-> O grupo traça um plano de viagem para chegar a Oito Montes passando pela [Floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte), que levaria 8 dias de viagem.
+> O grupo traça um plano de viagem para chegar a Oito Montes passando pela [Floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte), que levaria 8 dias de viagem. Eles descobrem que o templo se abre apenas em luas novas duplas e que a próxima ocorrerá em 20 dias. 
 {.is-info}
 
 > "Aceitem ele no grupo, pessoal. Ele tem din..." - Kraz em mensagem mágica
@@ -273,6 +273,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - 18/03/2023 | Data narrativa: ?? de ?? de 1755 ED
 > Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sul-de-drafeon/montravu). [John](/individuos/personagens-de-jogadores/john) se une à Confraria da Rosa Negra.
 {.is-info}
+
+## [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
 
 ## [Capítulo 10](/capitulos/capitulo-10-a-guerra)
 
