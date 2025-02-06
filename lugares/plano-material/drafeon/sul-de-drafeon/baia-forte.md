@@ -2,7 +2,7 @@
 title: Baía Forte
 description: 
 published: true
-date: 2025-02-05T18:55:26.083Z
+date: 2025-02-06T17:10:04.516Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-05T17:57:37.794Z
@@ -21,6 +21,6 @@ A cidade foi construída encostada nos penhascos das montanhas costeiras da [cor
 
 # Informações
 `Tipo` Cidade 
-`População` 44111
+`População` 14111
 `Naturalidade` Fortense
 `Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
