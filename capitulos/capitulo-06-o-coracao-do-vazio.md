@@ -2,7 +2,7 @@
 title: Capítulo 06
 description: O Coração do Vazio
 published: true
-date: 2025-02-05T14:46:43.445Z
+date: 2025-02-07T21:56:39.207Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:38.531Z
@@ -70,7 +70,7 @@ De volta ao plano material, o grupo descobre que 8 meses, 9 dias, 8 horas e 7 mi
 # Relações
 ## Aliados
 - [Ser Glorkan](/individuos/ser-glorkan)
-- [Nimbar](/individuos/nimbar)
+- [Nimbar Tatsetul](/individuos/nimbar-tatsetul)
 - [Fara Folhiares](/individuos/fara-folhiares)
 - [Lakip Brillabouse](/individuos/lakip-brillabouso)
 
