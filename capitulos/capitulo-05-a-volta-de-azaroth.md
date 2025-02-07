@@ -2,7 +2,7 @@
 title: Capítulo 05
 description: A Volta de Azaroth
 published: true
-date: 2025-02-07T00:31:27.323Z
+date: 2025-02-07T19:23:48.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:36.258Z
@@ -62,7 +62,7 @@ Após comemorar e serem abençoados por Okdokok, o grupo retorna a Horizonte.
 
 ## Gargalo
 
-Em 16 de Zifelia, o grupo retorna a Horizonte e novamente entrega as chaves para que Nimbar e Folhiares as estudem.
+Em 28 de Coecyr de 1754 ED, o grupo retorna a Horizonte e novamente entrega as chaves para que Nimbar e Folhiares as estudem.
 
 ### Sarina Starindust
 
@@ -70,7 +70,7 @@ Durante a espera, o grupo volta a Cruzamento para auxiliar Hêllen em suas inves
 
 ### Viagem ao Gargalo
 
-O estudo revela que existe um local certo para que as chaves possam ser destruídas, em Gargalo. E que Lakip já possui a terceira chave.
+Em 16 de Zifelia de 1754 ED, o estudo revela que existe um local certo para que as chaves possam ser destruídas, em Gargalo. E que Lakip já possui a terceira chave.
 
 Nimbar e Folhiares, junto com mais três guardas de Horizonte, acompanham o grupo até Gargalo onde realizam um ritual para destruir as chaves enquanto o grupo combate Lakip, Edaiden, Eda e suas duas irmãs trazidas de volta como mortos-vivos. Após concluírem o ritual, um portal se abre e o grupo é sugado para dentro dele.
 
