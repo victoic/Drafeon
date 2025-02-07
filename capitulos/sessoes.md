@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T19:24:53.791Z
+date: 2025-02-07T21:30:02.244Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -328,8 +328,22 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - 03/07/2021 | Data narrativa: 28 de Coecyr de 1754 ED - 16 de Zifelia de 1754 ED
 
-> A pedido de [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), o grupo volta a [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento) para investigar sobre os desaparecimentos no orfanato.
+> A pedido de [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), o grupo volta a [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento) para investigar sobre os desaparecimentos no orfanato junto com os guardas de horizonte [Eloise](/individuos/eloise) e [Jordin](/individuos/jordin). Lá, descobrem que a população local foi substituída por [changelings](/fauna-e-flora/racas-inteligentes#racas-inteligentes/changeling), e encontram irmã de Hêllen, [Sarina Starindust](/individuos/sarina-starindust), que tenta convencer seu irmão a se juntar a ela em serviço a [Azura](/individuos/azura) em sua ascenção a deusa. Após Hêllen negar, ela some e o grupo retorna a Horizonte.
 {.is-info}
+
+- 17/07/2021 | Data narrativa: 16 de Zifelia de 1754 ED - 23 de Zifelia de 1754 ED
+
+> [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) descobrem a existência de um local onde é possível destruir as chaves do [Coração de Azaroth](/itens/coracao-de-azaroth) por meio de um [ritual](/lendas-e-eventos/), em [Gargalo](/lugares/plano-material/drafeon/sul-de-drafeon/gargalo) e recebem notícias de que [Lakip](/individuos/lakip-brillabouso) já possui a terceira chave.
+>
+> O grupo, acompanhado de Nimbar e Folhiares e um pequeno grupo de 5 guardas arcanos de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) ([Dimitri](/individuos/dimitri), [Emanuel](/individuos/emanuel), [Elaine](/individuos/elaine), [Brezel](/individuos/brezel), [Oleg](/individuos/oleg)), se teletransporta para [Rochedo](/lugares/plano-material/drafeon/sul-de-drafeon/rochedo)  e viajam em direção a Gargalo, para realizar o ritual de destruição das chaves.
+>
+> No caminho, durante um dos descansos, o grupo é abordado por um [velho senhor faminto](/individuos/fraz-urbluu) que em troca de comida dá um [presente](/itens/cristal-de-cena-ilusoria). O grupo chega a Gargalo e inicia o ritual, conforme Lakip, [Edaiden](/individuos/edaiden), [Eda](/individuos/eda-myzirrim), [Ceve](/individuos/ceve-myzirrim) e [Ganee](/individuos/ganee-myzirrim) realizam um ofensiva para impedir o ritual e retomar as chaves.
+{.is-info}
+
+- 31/07/2021 | Data narrativa: 23 de Zifelia de 1754 ED - 23 de Zifelia de 1754 ED
+
+> O grupo conclui o 
+{.is-info
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
