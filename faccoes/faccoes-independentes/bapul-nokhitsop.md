@@ -2,7 +2,7 @@
 title: Bapul Nokhitsop
 description: 
 published: true
-date: 2025-02-06T17:04:39.380Z
+date: 2025-02-07T19:16:33.632Z
 tags: facção
 editor: markdown
 dateCreated: 2024-08-13T19:55:31.466Z
@@ -35,6 +35,14 @@ São 3 os princípios essenciais do Bapul Nokhitsop:
 1. Os elementos definem o mundo, não as criaturas: as criaturas fazem parte do ciclo natural do mundo, mas não são seu foco, devemos utilizar dos elementos de maneira a não interferir no ciclo natural, recompensando sempre pelo que for utilizado.
 2. Os fluidez dos elementos possui seu rumo: não devemos interferir no fluxo dos elementos, sejam águas ou lava;
 3. Se tornar um com os elementos significa entender a si mesmo: nós somos parte da rede elemental, entender o mundo parte do entendimento próprio, nossos sentimentos devem ser controlados para que possamos expandir;
+
+## Bênçãos
+O Nabop pode dar bênçãos a indíduos que se mostrem aptos a defender o equilibrio elemental ou sintonizados com a verdadeira essência da criação. As bênçãos incluem:
+
+- Token da Terra - Consumível, Após ativado com a palavra de ativação (t͡sum), o usuário ganhará 2d10 pontos de vida temporários, resistência a dano de concussão, e poderá ler e falar em Terran.
+- Token do Fogo - Consumível, Após ativado com a palavra de ativação (sun), o usuário causará 1d8 de dano de fogo adicional ao utilizar magias, resistência a dano de fogo, e poderá ler e falar em Ignan.
+- Token do Ar - Consumível, Após ativado com a palavra de ativação (mua), o usuário ganhará velocidade de voo igual a sua velocidade de caminhada, resistência a dano de trovão, e poderá ler e falar em Auran.
+- Token da Água - Consumível, Após ativado com a palavra de ativação (zbarog), o usuário poderá usar a ação de esquiva como uma ação bônus, resistência a dano de frio, e poderá ler e falar Aquan
 
 # Informações
 `Tipo` Religiosa, Círculo Druidico
