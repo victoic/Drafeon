@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T19:17:50.097Z
+date: 2025-02-07T19:21:39.423Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -317,14 +317,19 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) aprende um círculo de teletransporte dentro do [Templo de Nyuza](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo/templo-de-nyuza). Chegam à câmera de descanso de Nyuza.
 {.is-info}
 
-- 18/06/2021 | Data narrativa: 27 de Coecyr de 1754 ED - 14 de Zifelia de 1754 ED
+- 18/06/2021 | Data narrativa: 27 de Coecyr de 1754 ED - 28 de Zifelia de 1754 ED
 > Adentrando a câmera de descanso de [Nyuza](/individuos/oxar), o grupo encontra a segunda chave do [Coração de Azaroth](/itens/coracao-de-azaroth). Uma grande festa comemorativa é feita em [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo).
 {.is-info}
 
-- 03/07/2021 | Data narrativa: 27 de Coecyr de 1754 ED - 14 de Zifelia de 1754 ED
+- 03/07/2021 | Data narrativa: 28 de Coecyr de 1754 ED
+
 > [Okdokok](/individuos/okdokok-nabomua) dá uma [bênção](/faccoes/faccoes-independentes/bapul-nokhitsop#b%C3%AAn%C3%A7%C3%A3os) a cada membro do grupo. O grupo retorna por meio de teletransporte a [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte)
 {.is-info}
 
+- 03/07/2021 | Data narrativa: 28 de Coecyr de 1754 ED - 14 de Zifelia de 1754 ED
+
+> A pedido de [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), o grupo volta a [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento) para investigar sobre os desaparecimentos no orfanato.
+{.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
