@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T01:11:10.900Z
+date: 2025-02-07T09:28:30.924Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -296,6 +296,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - 24/04/2021 | Data narrativa: 23 de Coecyr de 1754 ED - 26 de Coecyr de 1754 ED
 
 > Grupo chega ao vilarejo de [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo). Dividem as ervas doadas por [Folhas](/individuo/vandal-folhas) com [Okdokok](/individuos/okdokok-nabomua) para ganhar a confiança da população local. Okdokok permite que o grupo a siga.
+>
+> [Tiliran](/individuos/tiliran) retorna a [floresta de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/floresta-de-horizonte), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), convencido por [Ser](/individuos/ser-glorkan) e [Aldror](/individuos/aldror), se junta novamente ao grupo.
 {.is-info}
 
 - 08/05/2021 | Data narrativa: 26 de Coecyr de 1754 ED
