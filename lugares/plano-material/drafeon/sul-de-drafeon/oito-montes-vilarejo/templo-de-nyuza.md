@@ -2,7 +2,7 @@
 title: Templo de Nyuza
 description: 
 published: true
-date: 2025-02-07T11:28:54.147Z
+date: 2025-02-07T11:31:16.739Z
 tags: lugar, templo
 editor: markdown
 dateCreated: 2025-02-07T11:20:51.032Z
@@ -28,7 +28,7 @@ O segundo andar transita pelo [plano da terra](/lugares/planos-interiores/plano-
 Desafio do plano da terra, incluindo salas móveis e sem passagens e adversários elementais, testam a sintonia do Nabop com o plano da terra. Após superar os desafios, há uma cuia com tintura verde e uma escada descendo ao próximo nível.
 
 ## Nível da Água
-O terceiro andar passa pelo [plano da água](/lugares/planos-interiores/plano-da-agua). A câmara inicial possui uma estátua de Nyuza com água jorrando de sua palma, um altar à frente da estátua possui escritos em orc que leem:
+O terceiro andar passa pelo [plano da água](/lugares/planos-interiores/plano-da-agua). A câmara inicial possui uma estátua de Nyuza com água jorrando de sua palma, cercado de musgos, um altar à frente da estátua possui escritos em orc que leem:
 > "Em sua busca por Ittar, Nuyza foi ao plano da água, lá entendeu a fluidez e profundidade que a fazem, que devemos permitir fluir por nós, pois são parte do que somos. Mudança faz parte da criação."
 
 O desafio do plano da água envolve um tanque sem fundo de água, com elementais e vida marítima. O tanque é um labirinto de paredes invisíveis. A sala seguinte, inundada, possui círculos arcanos em torno de uma grande vasilha, que funciona como uma sala de drenagem.
