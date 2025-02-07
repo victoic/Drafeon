@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2025-02-06T15:24:25.050Z
+date: 2025-02-07T21:47:41.433Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:13.494Z
@@ -34,6 +34,7 @@ dateCreated: 2024-08-13T19:48:13.494Z
 ## Mágico
 [Brinco de Sussurros](/itens/Brinco-de-Sussurros)
 [Fragmentos da Criação](/itens/fragmentos-da-criacao)
+[Cristal de Cena Ilusória](/itens/cristal-de-cena-ilusoria)
 
 ## Materias Primas
 [Seiva-Cascus](/itens/seiva-cascus#seiva-cascus)
