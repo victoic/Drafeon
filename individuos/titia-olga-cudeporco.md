@@ -2,8 +2,10 @@
 title: Titia Olga Cudeporco
 description: 
 published: true
-date: 2019-11-11T16:29:47.758Z
+date: 2025-02-07T22:39:00.479Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:53:28.150Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Titia Olga Cudeporco -->
@@ -31,5 +33,5 @@ Em 1753 da Era de Drafeon, Titia Olga realizou uma ritual como parte de uma disp
 `Altura` 1,99 m
 `Peso` 72 Kg
 `Organizações Associadas` [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
-`Títulos` [Titia]()
+`Títulos` [Titia](rankings-e-titulos/bruxas/titia)
 
