@@ -2,7 +2,7 @@
 title: Templo de Nyuza
 description: 
 published: true
-date: 2025-02-07T11:24:16.541Z
+date: 2025-02-07T11:27:10.221Z
 tags: lugar, templo
 editor: markdown
 dateCreated: 2025-02-07T11:20:51.032Z
@@ -31,8 +31,11 @@ Desafio do plano da terra, incluindo salas móveis e sem passagens e adversário
 O terceiro andar passa pelo [plano da água](/lugares/planos-interiores/plano-da-agua). A câmara inicial possui uma estátua de Nyuza com água jorrando de sua palma, um altar à frente da estátua possui escritos em orc que leem:
 > "Em sua busca por Ittar, Nuyza foi ao plano da água, lá entendeu a fluidez e profundidade que a fazem, que devemos permitir fluir por nós, pois são parte do que somos. Mudança faz parte da criação."
 
-### Primeiro Desafio
-O primeiro desafio envolve um tanque sem fundo de água, com elementais e vida marítima. O tanque é um labirinto de paredes invisíveis. A sala seguinte, inundada, possui círculos arcanos em torno de uma grande vasilha.
+O desafio do plano da água envolve um tanque sem fundo de água, com elementais e vida marítima. O tanque é um labirinto de paredes invisíveis. A sala seguinte, inundada, possui círculos arcanos em torno de uma grande vasilha, que funciona como uma sala de drenagem.
+
+Após superar os desafios, há uma cuia com tintura azul e uma escada descendo ao próximo nível.
+
+
 
 ## Nível do Ar
 O quarto andar passa pelo [plano do ar](/lugares/planos-interiores/plano-do-ar). A câmara inicial possui uma estátua de Nyuza com um tornado girando em sua palma, um altar à frente da estátua possui escritos em orc que leem:
