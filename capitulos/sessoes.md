@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T22:41:25.426Z
+date: 2025-02-07T22:42:01.522Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -356,7 +356,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo encontra demônios carregando escravos e enfrentam um grupo de súcubus, íncubus e [skurchurs](/fauna-e-flora/racas-inteligentes/skurchur). Após enfeitiçar o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), o Nimbar, a Folhiares e o [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), o grupo se divide em dois: [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) fogem, enquanto os enfeitiçados são capturados e levados a [Nyrashlia](/individuos/nyrashlia) que ordena que os "convidados" sejam levados a [Fraz-Urb'luu](/individuos/fraz-urbluu) em [Zoragmelok](/lugares/abismo/coracao-do-vazio#assentamentos).
 {.is-info}
 
-- 28/08/2021 | Data narrativa: 23 de Zifelia de 1754 ED - ??
+- 28/08/2021 | Data narrativa: ?? - ??
 
 > 
 {.is-info}
