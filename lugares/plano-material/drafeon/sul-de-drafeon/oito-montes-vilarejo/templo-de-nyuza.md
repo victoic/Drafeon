@@ -2,7 +2,7 @@
 title: Templo de Nyuza
 description: 
 published: true
-date: 2025-02-07T12:32:07.556Z
+date: 2025-02-07T12:34:11.033Z
 tags: lugar, templo
 editor: markdown
 dateCreated: 2025-02-07T11:20:51.032Z
@@ -43,6 +43,8 @@ O quarto andar passa pelo [plano do ar](/lugares/planos-interiores/plano-do-ar).
 A câmara inicial possui uma estátua de Nyuza com um tornado girando em sua palma, com nuvens em torno da estátua, um altar à frente da estátua possui escritos em orc que leem:
 
 >"Em sua busca por Ittar, Nuyza foi ao plano da ar, lá entendeu a liberdade e equilíbria que a fazem o mundo, que devemos permitir fluir por nós, pois são parte do que somos. Escolha faz parte da criação."
+
+A sala seguinte possui não possui chão, círculos arcanos no centro da sala permite que quem entre na sala flutue. Estátuas de guerreiros iluminam a sala. Elementais defedem a sala.
 
 # Informações
 `Tipo` Templo, Sarcófago
