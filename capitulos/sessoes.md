@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T21:30:02.244Z
+date: 2025-02-07T21:35:06.612Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -333,7 +333,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - 17/07/2021 | Data narrativa: 16 de Zifelia de 1754 ED - 23 de Zifelia de 1754 ED
 
-> [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) descobrem a existência de um local onde é possível destruir as chaves do [Coração de Azaroth](/itens/coracao-de-azaroth) por meio de um [ritual](/lendas-e-eventos/), em [Gargalo](/lugares/plano-material/drafeon/sul-de-drafeon/gargalo) e recebem notícias de que [Lakip](/individuos/lakip-brillabouso) já possui a terceira chave.
+> [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) descobrem a existência de um local onde é possível destruir as chaves do [Coração de Azaroth](/itens/coracao-de-azaroth) por meio de um [ritual](/lendas-e-eventos/ritual-de-destruicao-das-chaves), em [Gargalo](/lugares/plano-material/drafeon/sul-de-drafeon/gargalo) e recebem notícias de que [Lakip](/individuos/lakip-brillabouso) já possui a terceira chave.
 >
 > O grupo, acompanhado de Nimbar e Folhiares e um pequeno grupo de 5 guardas arcanos de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) ([Dimitri](/individuos/dimitri), [Emanuel](/individuos/emanuel), [Elaine](/individuos/elaine), [Brezel](/individuos/brezel), [Oleg](/individuos/oleg)), se teletransporta para [Rochedo](/lugares/plano-material/drafeon/sul-de-drafeon/rochedo)  e viajam em direção a Gargalo, para realizar o ritual de destruição das chaves.
 >
@@ -342,8 +342,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - 31/07/2021 | Data narrativa: 23 de Zifelia de 1754 ED - 23 de Zifelia de 1754 ED
 
-> O grupo conclui o 
-{.is-info
+> O grupo conclui o [ritual](/lendas-e-eventos/ritual-de-destruicao-das-chaves), no entanto, ao fim, um portal se abre e o grupo é sugado, junto com [Lakip](/individuos/lakip-brillabouso), [Folhiares](/individuos/fara-folhiares) e [Nimbar](/individuos/nimbar-tatsetul).
+{.is-info}
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
