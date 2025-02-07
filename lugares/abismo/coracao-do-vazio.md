@@ -2,7 +2,7 @@
 title: Coração do Vazio
 description: 
 published: true
-date: 2025-02-07T22:27:24.658Z
+date: 2025-02-07T22:28:50.850Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:57:00.403Z
@@ -38,7 +38,7 @@ Dois outros Lordes Abissais habitam nesta camada, [Azaroth](/individuos/azaroth)
 - Esfoladores, os esfoladores são uma série de vulcões que constantemente exalam cinzas em chamas e lava nos céus do Coração do Vazio. As montanhas em torno dos vulcões são empoleiradas como colunas de enormes lâminas.
 
 ## Assentamentos
-- Athawyn, a cidade mais degradada e decadente em Coração do Vazio depois da própria Zoragmelok, Athawyn é um emaranhado estonteante de torres curvas e cúpulas maciças, todas feitas de pedra vermelha. É servido por vários escravos humanos que foram considerados impróprios para o Arrebatamento Vermelho. Súcubos e skurchurs servem como os senhores da cidade, que era governada por Nyrashlia, uma poderosa barda Súcubus. Athawyn é a única cidade em Hollow's Heart não governada por um Rajah do Vazio, mas os caóticos rakshasas não pareciam se ressentir disso e frequentemente visitavam a cidade para se entregar a suas oferendas mais carnais.
+- Athawyn, a cidade mais degradada e decadente em Coração do Vazio depois da própria Zoragmelok, Athawyn é um emaranhado estonteante de torres curvas e cúpulas maciças, todas feitas de pedra vermelha. É servido por vários escravos humanos que foram considerados impróprios para o Arrebatamento Vermelho. Súcubus e skurchurs servem como os senhores da cidade, que era governada por Nyrashlia, uma poderosa barda Súcubus. Athawyn é a única cidade em Hollow's Heart não governada por um Rajah do Vazio, mas os caóticos rakshasas não pareciam se ressentir disso e frequentemente visitavam a cidade para se entregar a suas oferendas mais carnais.
 - Querur, a cidade irmã de Varmet, Querur, é habitada por cerca de 3.000 orcs e ogros com ocupações semelhantes de navegação e escravidão. É governado pelo Rajah do Vazio de cabeça de lobo Proaliak, que tem grande prazer em comer corações que ainda batem.
 - Karantis, construído em uma mesa com vista para o Mar Oco, este templo de ferro e pórfiro do tamanho de uma cidade é o coração do culto Fraz-Urb'luu. É governado pelo Rajah do Vazio Kiltikairit com cabeça de gorila.
 - Karugo, uma pequena cidade habitada por cerca de 7.500 pessoas, governada pelo Rajah do Vázio Liorkian com cabeça de corvo. O objetivo principal da cidade é processar os muitos humanos capturados pelos servos de Fraz-Urb'luu. Esses humanos foram capturados de ilhas no Mar Vázio ou, mais freqüentemente, sequestrados de vários mundos do Plano Material por demônios ou cultistas. Um humano saudável era vendido por cerca de 100po em seus mercados, enquanto humanos doentes eram vendidos a preços bastante reduzidos e frequentemente acabavam como escravos ou como comida em Athawyn.
