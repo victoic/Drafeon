@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-06T23:01:17.816Z
+date: 2025-02-07T00:54:08.556Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -292,6 +292,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > O grupo chega a [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes) na região entre Spegedam ne Sun e Spegedam ne Tsüwi sun. No caminho o grupo é perseguido por elementais de magma, pedra e de fogo e precisam a atravessar um rio de lava enquanto fogem. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) convence o grupo a lutar, mas os números dos elementais são muito e o grupo precisa fugir em estado grave.
 {.is-info}
+
+- 24/04/2021 | Data narrativa: 23 de Coecyr de 1754 ED - 25 de Coecyr de 1754 ED
+
+> Grupo chega ao vilarejo de [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo). Dividem as ervas doadas por [Folhas](/individuo/vandal-folhas) com [Okdokok](/individuos/okdokok-nabomua) para ganhar a confiança da população local. Okdokok permite que o grupo a siga.
 
 ## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 {.is-info}
