@@ -2,7 +2,7 @@
 title: Oito Montes (Vilarejo)
 description: 
 published: true
-date: 2025-02-06T17:03:43.730Z
+date: 2025-02-07T09:52:56.969Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:59:54.608Z
@@ -22,7 +22,7 @@ A crenças que o local se encontra num ponto de junção entre o [Plano Material
 ## Infraestrutura
 A vila miúda não possui lojas ou pousadas, apenas casas dos locais e algumas fazendas.
 
-**Templo de Nyuza**, erguido em homenagem ao fundador do vilarejo, o templo guarda os restos mortais de Nyuza. Se encontra trancado magicamente, sendo aberto para manutenção por um druida escolhida a cada lua nova dupla.
+**[Templo de Nyuza](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)**, erguido em homenagem ao fundador do vilarejo, o templo guarda os restos mortais de Nyuza. Se encontra trancado magicamente, sendo aberto para manutenção por um druida escolhida a cada lua nova dupla.
 
 # Informações
 `Tipo` Vila 
