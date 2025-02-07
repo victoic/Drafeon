@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T09:54:57.520Z
+date: 2025-02-07T11:13:46.165Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -304,8 +304,6 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Os heróis exploram o primeiro andar do templo de [Nyuza](/individuos/oxar) (fogo), onde encontram um pedaço de metal sintonizado ao [plano do fogo](/lugares/planos-interiores/plano-do-fogo), e o segundo andar do templo de Nyuza (terrar), onde encontram um pedaço de metal sintonizado ao [planon da terra](/lugares/planos-interiores/plano-da-terra).
 {.is-info}
-
-> "Em sua busca por [Ittar](/divindades/panteao-das-treze-estrelas/ittar), Nuyza foi ao plano da água, lá entendeu a fluidez e profundidade que fazem, que devemos permitir fluir por nós, pois são parte do que somos. Mudança faz parte da criação.
 
 - 22/05/2021 | Data narrativa: 26 de Coecyr de 1754 ED
 
