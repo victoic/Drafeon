@@ -2,7 +2,7 @@
 title: Capítulo 05
 description: A Volta de Azaroth
 published: true
-date: 2025-02-06T19:24:47.723Z
+date: 2025-02-07T00:31:27.323Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:36.258Z
@@ -77,7 +77,7 @@ Nimbar e Folhiares, junto com mais três guardas de Horizonte, acompanham o grup
 # Relações
 ## Aliados
 - [Ser Glorkan](/individuos/ser-glorkan)
-- [Nimbar](/individuos/nimbar)
+- [Nimbar Tatsetul](/individuos/nimbar-tatsetul)
 - [Fara Folhiares](/individuos/fara-folhiares)
 - [Ebbo](/individuos/ebbo-martel)
 - [Alcuin](/individuos/alcuin)
