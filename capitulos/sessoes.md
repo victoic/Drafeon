@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T22:42:01.522Z
+date: 2025-02-07T23:00:42.012Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -357,6 +357,11 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 - 28/08/2021 | Data narrativa: ?? - ??
+
+> 
+{.is-info}
+
+- [16/09/2021](https://www.youtube.com/watch?v=E4W0sp0dl2Y) | Data narrativa: ?? - ??
 
 > 
 {.is-info}
