@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T12:43:44.540Z
+date: 2025-02-07T18:57:31.338Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -302,19 +302,23 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - 08/05/2021 | Data narrativa: 26 de Coecyr de 1754 ED
 
-> Os heróis exploram o primeiro andar do templo de [Nyuza](/individuos/oxar) (fogo), onde encontram um pedaço de metal sintonizado ao [plano do fogo](/lugares/planos-interiores/plano-do-fogo), e o segundo andar do templo de Nyuza (terrar), onde encontram um pedaço de metal sintonizado ao [planon da terra](/lugares/planos-interiores/plano-da-terra).
+> Os heróis exploram o primeiro andar do templo de [Nyuza](/individuos/oxar) (fogo), onde encontram um pedaço de metal sintonizado ao [plano do fogo](/lugares/planos-interiores/plano-do-fogo).
 {.is-info}
 
 - 22/05/2021 | Data narrativa: 26 de Coecyr de 1754 ED
+
+> Os heróis exploram o segundo andar do templo de [Nyuza](/individuos/oxar) (terra), onde encontram um pedaço de metal sintonizado ao [plano da tera](/lugares/planos-interiores/plano-da-terra).
+{.is-info}
+
+- [05/06/2021](https://www.youtube.com/watch?v=V-D1jD6DAkA&t=15s) | Data narrativa: 26 de Coecyr de 1754 ED - 27 de Coecyr de 1754
+
 
 > Os heróis exploram o terceiro andar do templo de [Nyuza](/individuos/oxar) (água), onde encontram um pedaço de metal sintonizado ao [plano da água](/lugares/planos-interiores/plano-da-agua). Os heróis exploram o segundo (ar), onde encontram um pedaço de metal sintonizado ao [plano do ar](/lugares/planos-interiores/plano-do-ar).
 >
 > [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) aprende um círculo de teletransporte dentro do [Templo de Nyuza](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo/templo-de-nyuza).
 {.is-info}
 
-- [05/06/2021](https://www.youtube.com/watch?v=V-D1jD6DAkA&t=15s) | Data narrativa: 26 de Coecyr de 1754 ED - 27 de Coecyr de 1754
-
-> , chegam à câmera de descanso de [Nyuza](/individuos/oxar) onde encontram outra chave do [Coração de Azaroth](/itens/coracao-de-azaroth). Uma grande festa comemorativa é feita em [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo).
+> Adentrando a câmera de descanso de [Nyuza](/individuos/oxar), o grupo encontra a segunda chave do [Coração de Azaroth](/itens/coracao-de-azaroth). Uma grande festa comemorativa é feita em [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo).
 {.is-info}
 
 - 18/06/2021 | Data narrativa: 27 de Coecyr de 1754 ED - 14 de Zifelia de 1754 ED
