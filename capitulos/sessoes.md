@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T18:57:31.338Z
+date: 2025-02-07T19:17:20.906Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -312,17 +312,17 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [05/06/2021](https://www.youtube.com/watch?v=V-D1jD6DAkA&t=15s) | Data narrativa: 26 de Coecyr de 1754 ED - 27 de Coecyr de 1754
 
-
-> Os heróis exploram o terceiro andar do templo de [Nyuza](/individuos/oxar) (água), onde encontram um pedaço de metal sintonizado ao [plano da água](/lugares/planos-interiores/plano-da-agua). Os heróis exploram o segundo (ar), onde encontram um pedaço de metal sintonizado ao [plano do ar](/lugares/planos-interiores/plano-do-ar).
+> Os heróis exploram o terceiro andar do templo de [Nyuza](/individuos/oxar) (água), onde encontram um pedaço de metal sintonizado ao [plano da água](/lugares/planos-interiores/plano-da-agua), e o quarto andar (ar), onde encontram um pedaço de metal sintonizado ao [plano do ar](/lugares/planos-interiores/plano-do-ar).
 >
-> [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) aprende um círculo de teletransporte dentro do [Templo de Nyuza](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo/templo-de-nyuza).
-{.is-info}
-
-> Adentrando a câmera de descanso de [Nyuza](/individuos/oxar), o grupo encontra a segunda chave do [Coração de Azaroth](/itens/coracao-de-azaroth). Uma grande festa comemorativa é feita em [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo).
+> [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) aprende um círculo de teletransporte dentro do [Templo de Nyuza](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo/templo-de-nyuza). Chegam à câmera de descanso de Nyuza.
 {.is-info}
 
 - 18/06/2021 | Data narrativa: 27 de Coecyr de 1754 ED - 14 de Zifelia de 1754 ED
-> O grupo retorna, por um caminho mais seguro, a [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte)
+> Adentrando a câmera de descanso de [Nyuza](/individuos/oxar), o grupo encontra a segunda chave do [Coração de Azaroth](/itens/coracao-de-azaroth). Uma grande festa comemorativa é feita em [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo).
+{.is-info}
+
+- 03/07/2021 | Data narrativa: 27 de Coecyr de 1754 ED - 14 de Zifelia de 1754 ED
+> [Okdokok](/individuos/okdokok-nabomua) dá uma [bênção](/faccoes/faccoes-independentes/bapul-nokhitsop#b%C3%AAn%C3%A7%C3%A3os) a cada membro do grupo. O grupo retorna, por um caminho mais seguro, a [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte)
 {.is-info}
 
 
