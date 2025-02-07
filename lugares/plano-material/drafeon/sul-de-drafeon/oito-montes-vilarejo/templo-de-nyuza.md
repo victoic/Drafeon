@@ -2,7 +2,7 @@
 title: Templo de Nyuza
 description: 
 published: true
-date: 2025-02-07T12:39:41.824Z
+date: 2025-02-07T15:06:28.424Z
 tags: lugar, templo
 editor: markdown
 dateCreated: 2025-02-07T11:20:51.032Z
@@ -47,6 +47,9 @@ A câmara inicial possui uma estátua de Nyuza com um tornado girando em sua pal
 A sala seguinte possui não possui chão, círculos arcanos no centro da sala permite que quem entre na sala flutue. Estátuas de guerreiros iluminam a sala, cada uma com uma palavras escrita em suas costas que formam a mensagem: "os ar segue padrões". Elementais defendem a sala.
 
 Voltando pela mesma porta por onde entraram na sala, é possível chegar na saída do nível. Nesta há uma cuia com tintura branca e uma escada descendo ao próximo nível, além de um círculo de teleportação.
+
+## Túmulo de Nyuza
+Em uma caverna natural, retornando ao [plano material](/lugares/plano-material), a caverna possui duas frestas para a superfície e uma porta metálica. Quando a luz das luas novas duplas batem a porta, ela se abre, dando acesso ao local de sepultamento de Nyuza.
 
 # Informações
 `Tipo` Templo, Sarcófago
