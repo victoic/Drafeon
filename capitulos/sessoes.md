@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T19:17:20.906Z
+date: 2025-02-07T19:17:50.097Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -322,7 +322,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 - 03/07/2021 | Data narrativa: 27 de Coecyr de 1754 ED - 14 de Zifelia de 1754 ED
-> [Okdokok](/individuos/okdokok-nabomua) dá uma [bênção](/faccoes/faccoes-independentes/bapul-nokhitsop#b%C3%AAn%C3%A7%C3%A3os) a cada membro do grupo. O grupo retorna, por um caminho mais seguro, a [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte)
+> [Okdokok](/individuos/okdokok-nabomua) dá uma [bênção](/faccoes/faccoes-independentes/bapul-nokhitsop#b%C3%AAn%C3%A7%C3%A3os) a cada membro do grupo. O grupo retorna por meio de teletransporte a [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte)
 {.is-info}
 
 
