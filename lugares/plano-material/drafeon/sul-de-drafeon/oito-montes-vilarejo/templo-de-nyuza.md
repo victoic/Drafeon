@@ -2,7 +2,7 @@
 title: Templo de Nyuza
 description: 
 published: true
-date: 2025-02-07T11:31:16.739Z
+date: 2025-02-07T12:28:27.160Z
 tags: lugar, templo
 editor: markdown
 dateCreated: 2025-02-07T11:20:51.032Z
@@ -38,8 +38,13 @@ Após superar os desafios, há uma cuia com tintura azul e uma escada descendo a
 
 
 ## Nível do Ar
-O quarto andar passa pelo [plano do ar](/lugares/planos-interiores/plano-do-ar). A câmara inicial possui uma estátua de Nyuza com um tornado girando em sua palma, um altar à frente da estátua possui escritos em orc que leem:
-> ""
+O quarto andar passa pelo [plano do ar](/lugares/planos-interiores/plano-do-ar). O nível se inicia com uma ponte de madeira em uma caverna natural com duas tochas às laterais, em um silência profundo, abaixo e acima a configuração se repete a cada 30 metros, é necessário atravessar sem respirar ou um indivíduo é teleportado de volta ao início da ponte. As repetições são reflexo, ou seja, cair 30 metros leva de volta a onde veio. A sala após a ponte possui três estátuas de aarakocra brandindo espadas, após essa, se encontra a câmera incial do nível.
+
+A câmara inicial possui uma estátua de Nyuza com um tornado girando em sua palma, com nuvens em torno da estátua, um altar à frente da estátua possui escritos em orc que leem:
+
+>"Em sua busca por Ittar, Nuyza foi ao plano da água, lá entendeu a fluidez e profundidade que a fazem, que devemos permitir fluir por nós, pois são parte do que somos. Mudança faz parte da criação."
+
+
 
 
 # Informações
