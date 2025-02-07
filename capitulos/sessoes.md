@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T19:21:39.423Z
+date: 2025-02-07T19:24:53.791Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -323,10 +323,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - 03/07/2021 | Data narrativa: 28 de Coecyr de 1754 ED
 
-> [Okdokok](/individuos/okdokok-nabomua) dá uma [bênção](/faccoes/faccoes-independentes/bapul-nokhitsop#b%C3%AAn%C3%A7%C3%A3os) a cada membro do grupo. O grupo retorna por meio de teletransporte a [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte)
+> [Okdokok](/individuos/okdokok-nabomua) dá uma [bênção](/faccoes/faccoes-independentes/bapul-nokhitsop#b%C3%AAn%C3%A7%C3%A3os) a cada membro do grupo. O grupo retorna por meio de teletransporte a [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte), onde deixam as chaves do [Coração de Azaroth](/itens/coracao-de-azaroth) com [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) para que busquem uma forma de destruir as chaves.
 {.is-info}
 
-- 03/07/2021 | Data narrativa: 28 de Coecyr de 1754 ED - 14 de Zifelia de 1754 ED
+- 03/07/2021 | Data narrativa: 28 de Coecyr de 1754 ED - 16 de Zifelia de 1754 ED
 
 > A pedido de [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), o grupo volta a [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento) para investigar sobre os desaparecimentos no orfanato.
 {.is-info}
