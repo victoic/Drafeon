@@ -2,7 +2,7 @@
 title: Templo de Nyuza
 description: 
 published: true
-date: 2025-02-07T12:37:31.038Z
+date: 2025-02-07T12:39:32.952Z
 tags: lugar, templo
 editor: markdown
 dateCreated: 2025-02-07T11:20:51.032Z
@@ -45,6 +45,8 @@ A câmara inicial possui uma estátua de Nyuza com um tornado girando em sua pal
 >"Em sua busca por Ittar, Nuyza foi ao plano da ar, lá entendeu a liberdade e equilíbria que a fazem o mundo, que devemos permitir fluir por nós, pois são parte do que somos. Escolha faz parte da criação."
 
 A sala seguinte possui não possui chão, círculos arcanos no centro da sala permite que quem entre na sala flutue. Estátuas de guerreiros iluminam a sala, cada uma com uma palavras escrita em suas costas que formam a mensagem: "os ar segue padrões". Elementais defendem a sala.
+
+Voltando pela mesma porta por onde entraram na sala, é possível chegar na saída do nível. Nesta há uma cuia com tintura azul e uma escada descendo ao próximo nível, além de um círculo de teleportação.
 
 # Informações
 `Tipo` Templo, Sarcófago
