@@ -2,7 +2,7 @@
 title: Templo de Nyuza
 description: 
 published: true
-date: 2025-02-07T11:27:10.221Z
+date: 2025-02-07T11:28:54.147Z
 tags: lugar, templo
 editor: markdown
 dateCreated: 2025-02-07T11:20:51.032Z
@@ -41,4 +41,8 @@ Após superar os desafios, há uma cuia com tintura azul e uma escada descendo a
 O quarto andar passa pelo [plano do ar](/lugares/planos-interiores/plano-do-ar). A câmara inicial possui uma estátua de Nyuza com um tornado girando em sua palma, um altar à frente da estátua possui escritos em orc que leem:
 > ""
 
-## Nível da Água
+
+# Informações
+`Tipo` Templo, Sarcófago
+`Localização` [Oito Montes](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)
+`Facções Relacionadas` [Bapul Nokhit͡sop](/faccoes/faccoes-independentes/bapul-nokhitsop)
