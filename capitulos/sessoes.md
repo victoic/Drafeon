@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T21:54:58.138Z
+date: 2025-02-07T22:09:07.213Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -353,7 +353,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > O grupo, junto com [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares), se encontra em um plano estranho, nos arredores de uma cidade de arquitetura distorcidade de pedras vermelhas.
 >
-> O grupo encontra demônios carregando escravos.
+> O grupo encontra demônios carregando escravos e enfrentam um grupo de sucubus, incubus e 
 {.is-info}
 
 - 28/08/2021 | Data narrativa: 23 de Zifelia de 1754 ED - ??
