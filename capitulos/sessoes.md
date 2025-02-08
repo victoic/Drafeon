@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T16:37:23.103Z
+date: 2025-02-08T16:52:08.011Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -391,7 +391,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "♫ Eu vou pra Ossopus! ♫" - Inútil e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu)
 
-> Um grupo de humanos pede ajuda aos heróis na [Floresta da Cicatriz](/lugares/abismo/coracao-do-vazio/floresta-da-cicatriz) e o grupo enfrenta demônios para salvá-los. Pesadelos tomam conta dos membros do grupo.
+> Um grupo de humanos pede ajuda aos heróis na [Floresta da Cicatriz](/lugares/abismo/coracao-do-vazio/floresta-da-cicatriz) e o grupo enfrenta demônios para salvá-los. Pesadelos e alucinações tomam conta dos membros do grupo.
 {.is-info}
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
