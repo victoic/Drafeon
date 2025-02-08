@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T12:28:19.057Z
+date: 2025-02-08T12:29:31.431Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -383,7 +383,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Chegando à casa de [Olga](/individuos/titia-olga-cudeporco), [Inútil](/individuos/inutil-quasit) os informa sobre a [Adaga de Azaroth](/itens/adaga-de-azaroth), que se encontra em [Ossopus](/lugares/abismo/coracao-do-vazio/ossopus) sob proteção do [Rajah do Vazio](/rankings-e-titulos/rajah-do-vazio) [Rontakus](/individuos/rontakus).
 {.is-info}
 
-> "Isso! Nós agradecemos, Lakip! Você realmente conseguiu parar o mal que vinha destruir nossa cidade! Eu e sua família duvidamos, mas você nos provou errados." - "Irien Galaniell"
+> "Isso! Nós agradecemos, Lakip! Você realmente conseguiu parar o mal que vinha destruir nossa cidade! Eu e sua família duvidamos, mas você nos provou errados." - Fraz-Urb'luu como Irien Galaniell
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
