@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T20:04:33.185Z
+date: 2025-02-08T20:06:48.524Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -422,9 +422,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [18/12/2021](https://www.youtube.com/watch?v=EA-PuydE6is) | Data narrativa: ?? - ??
 
-> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta sintonizar com [Adaga de Azaroth](/itens/adaga-de-azaroth) para levá-la, mas a Adaga diz que ele é indigno, conforme ele se contorce em dor. Veles e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontram: [anel de estrela cadente](/itens/anel-de-estrela-cadente). fugindo em direção a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza).
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta sintonizar com [Adaga de Azaroth](/itens/adaga-de-azaroth) para levá-la, mas a Adaga diz que ele é indigno, conforme ele se contorce em dor. Veles e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontram: [anel de estrela cadente](/itens/anel-de-estrela-cadente).
 >
-> Magnus atuna com a a Adaga e o grupo foge da fortaleza libertando uma aranha gigante no caminho.
+> Magnus atuna com a a Adaga e o grupo foge da fortaleza libertando uma aranha gigante no caminho. E partem em direção a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza).
 {.is-info}
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
