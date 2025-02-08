@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T18:08:07.753Z
+date: 2025-02-08T18:08:44.433Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -374,7 +374,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Virrazar aparece para [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e os direciona até seus companheiros. [Fraz-Urb'luu](/individuos/fraz-urbluu) ecoa uma mensagem por todo [Coração do Vazio](/lugares/abismo/coracao-do-vazio), recompensando quem levasse a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) até ele com o governo de [Athawyn](/lugares/abismo/coracao-do-vazio/athawyn).
 {.is-info}
 
-> Parece que meus estimados convidados estão perdidos, o que trouxé-los de volta até mim se tornará o novo governante de Athawyn. Isso inclui vocês humanos ou escravos.
+> "Parece que meus estimados convidados estão perdidos, o que trouxé-los de volta até mim se tornará o novo governante de Athawyn. Isso inclui vocês humanos ou escravos." - Fraz-Urb'luu
 
 > Efeitos da loucura do [Abismo](/lugares/abismo) afetam a personalidade do Hêllen. Início da fase emo do Hêllen!
 > {.is-danger}
