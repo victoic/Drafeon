@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T19:10:32.168Z
+date: 2025-02-08T19:47:37.913Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -417,10 +417,15 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Você me trocou... por um goblin?!" - [Inútil](/individuos/inutil-quasit)
 
-> Invisíveis, o grupo se infiltra na fortaleza de [Rontakus](/individuos/rontakus) e furtam a [Adaga de Azaroth](/itens/adaga-de-azaroth), fugindo em direção a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza).
+> Invisíveis, o grupo se infiltra na fortaleza de [Rontakus](/individuos/rontakus) e exploram, invisíveis, em busca da [Adaga de Azaroth](/itens/adaga-de-azaroth).
 {.is-info}
 
+- [18/12/2021](https://www.youtube.com/watch?v=EA-PuydE6is) | Data narrativa: ?? - ??
 
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta sintonizar com [Adaga de Azaroth](/itens/adaga-de-azaroth) para levá-la, mas a Adaga diz que ele é indigno, conforme ele se contorce em dor. Veles e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontram: [anel de estrela cadente](/itens/anel-de-estrela-cadente). fugindo em direção a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza).
+>
+> Magnus atuna com a a Adaga.
+{.is-info}
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
