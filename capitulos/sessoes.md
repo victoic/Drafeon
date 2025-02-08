@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T16:52:08.011Z
+date: 2025-02-08T16:53:49.762Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -369,7 +369,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Parece que meus estimados convidados estão perdidos, o que trouxé-los de volta até mim se tornará o novo governante de Athawyn. Isso inclui vocês humanos ou escravos.
 
-> Início da fase emo do Hêllen!
+> Efeitos da loucura do [Abismo](/lugares/abismo) afetam a personalidade do Hêllen. Início da fase emo do Hêllen!
 > {.is-danger}
 
 - [16/09/2021](https://www.youtube.com/watch?v=E4W0sp0dl2Y) | Data narrativa: ?? - ??
