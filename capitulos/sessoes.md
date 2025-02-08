@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T20:06:48.524Z
+date: 2025-02-08T21:42:29.092Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -426,6 +426,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Magnus atuna com a a Adaga e o grupo foge da fortaleza libertando uma aranha gigante no caminho. E partem em direção a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza).
 {.is-info}
+
+- [19/02/2022](https://www.youtube.com/watch?v=Y-M6AlgnQJ8) | Data narrativa: ?? - ??
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
