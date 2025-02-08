@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T12:29:31.431Z
+date: 2025-02-08T13:04:51.472Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -379,11 +379,17 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - [30/09/2021](https://www.youtube.com/watch?v=M2-6DopV7RI) | Data narrativa: ?? - ??
 
 > O grupo encontra [Lakip](/individuos/lakip-brillabouso) sendo torturado por [Fraz-Urb'luu](/individuos/fraz-urbluu), Fraz-Urb'luu exerga o grupo, mas os ignora, enviado uma mensagem pelo reino: "Meus convidados estão perdidos em meu reino, tragam-nos para mim". O grupo foge de [Zoragmelok](/lugares/abismo/coracao-do-vazio/zoragmelok), arrastando Lakip consigo, após uma conversa com [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh).
->
-> Chegando à casa de [Olga](/individuos/titia-olga-cudeporco), [Inútil](/individuos/inutil-quasit) os informa sobre a [Adaga de Azaroth](/itens/adaga-de-azaroth), que se encontra em [Ossopus](/lugares/abismo/coracao-do-vazio/ossopus) sob proteção do [Rajah do Vazio](/rankings-e-titulos/rajah-do-vazio) [Rontakus](/individuos/rontakus).
 {.is-info}
 
 > "Isso! Nós agradecemos, Lakip! Você realmente conseguiu parar o mal que vinha destruir nossa cidade! Eu e sua família duvidamos, mas você nos provou errados." - Fraz-Urb'luu como Irien Galaniell
+
+> Chegando à casa de [Olga](/individuos/titia-olga-cudeporco), [Inútil](/individuos/inutil-quasit) os informa sobre a [Adaga de Azaroth](/itens/adaga-de-azaroth), que se encontra em [Ossopus](/lugares/abismo/coracao-do-vazio/ossopus) sob proteção do [Rajah do Vazio](/rankings-e-titulos/rajah-do-vazio) [Rontakus](/individuos/rontakus). Veles, [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) trocam anotações de seus grimórios.
+{.is-info}
+
+> "♫ Eu vou pra Ossopus! ♫" - Inútil
+
+> Um grupo de humanos pede ajuda aos heróis na [Floresta da Cicatriz](/lugares/abismo/coracao-do-vazio/floresta-da-cicatriz).
+{.is-info}
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
