@@ -2,7 +2,7 @@
 title: Virrazar
 description: 
 published: true
-date: 2025-02-08T00:30:55.549Z
+date: 2025-02-08T00:31:40.723Z
 tags: demônio
 editor: markdown
 dateCreated: 2025-02-08T00:30:55.549Z
@@ -18,6 +18,6 @@ Em ?, Virrazar teve papel fundamental no direcionamento da [Confraria da Rosa Ne
 `Sexo Biológico` Masculino
 `Olhos` Vermelho
 `Cabelos` Nenhum, chifres pretos
-`Altura` 2,5 m
-`Peso` 120 Kg
+`Altura` 3,5 m
+`Peso` 2.500 Kg
 `Títulos` Governante de Tomeza
