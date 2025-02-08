@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T17:49:36.298Z
+date: 2025-02-08T17:55:27.018Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -403,7 +403,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [20/11/2021](https://www.youtube.com/watch?v=X284EO83bHQ) | Data narrativa: ?? - ??
 
-> A insanidade do [Coração do Vazio](/lugares/abismo/coracao-do-vazio) torna o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) em um assassino mais frio. O grupo adoece com as toxinas dos pântanos do Coração do Vazio.
+> A insanidade do [Coração do Vazio](/lugares/abismo/coracao-do-vazio) torna o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) em um assassino mais frio. O grupo adoece com as toxinas dos pântanos do Coração do Vazio. O grupo enfrenta uma matilha de [gajasimhas](/fauna-e-flora/gajasimha).
 {.is-info}
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
