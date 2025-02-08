@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T17:30:20.878Z
+date: 2025-02-08T17:34:07.297Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -365,9 +365,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - 11/09/2021 | Data narrativa: ?? - ??
 
 - 25/09/2021 | Data narrativa: ?? - ??
+> Um quasit, [Inútil](/individuos/inutil-quasit), liberta o grupo após prometerem que ajudariam seu mestre a libertar [Azaroth](/individuos/azaroth) e os leva até [Virrazar](/individuos/virrazar) que os equipa e envia Inútil como guia até a casa de [Olga](/individuos/titia-olga-cudeporco). Hellên encontra uma [varinha mágica]() enquanto fogem. Magnus encontra um [machado](). Esses itens começam a exercer influencia sobre os dois.
+
 
 - 02/10/2021 | Data narrativa: ?? - ??
-> Um quasit, [Inútil](/individuos/inutil-quasit), liberta o grupo após prometerem que ajudariam seu mestre a libertar [Azaroth](/individuos/azaroth) e os leva até [Virrazar](/individuos/virrazar) que os equipa e envia Inútil como guia até a casa de [Olga](/individuos/titia-olga-cudeporco).
 > Virrazar aparece para [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e os direciona até seus companheiros. [Fraz-Urb'luu](/individuos/fraz-urbluu) ecoa uma mensagem por todo [Coração do Vazio](/lugares/abismo/coracao-do-vazio), recompensando quem levasse a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) até ele com o governo de [Athawyn](/lugares/abismo/coracao-do-vazio/athawyn).
 {.is-info}
 
@@ -397,7 +398,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "♫ Eu vou pra Ossopus! ♫" - Inútil e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu)
 
-> Um grupo de humanos pede ajuda aos heróis na [Floresta da Cicatriz](/lugares/abismo/coracao-do-vazio/floresta-da-cicatriz) e o grupo enfrenta demônios para salvá-los. Pesadelos e alucinações tomam conta dos membros do grupo.
+> Um grupo de humanos pede ajuda aos heróis na [Floresta da Cicatriz](/lugares/abismo/coracao-do-vazio/floresta-da-cicatriz) e o grupo enfrenta demônios para salvá-los. Pesadelos e alucinações tomam conta dos membros do grupo. Hêllen se desfas de sua [varinha](). Em uma explosão de fúria causada pelas alucinações, [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) ataca o grupo, é imobilizado e seu [machado]() amaldiçoado é jogado fora pelo grupo.
 {.is-info}
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
