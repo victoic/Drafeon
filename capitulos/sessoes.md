@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T18:51:51.283Z
+date: 2025-02-08T19:02:38.539Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -413,6 +413,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - [04/12/2021](https://www.youtube.com/watch?v=dAbLzD60mdk) | Data narrativa: ?? - ??
 
 > A ausência do [machado amaldiçoado]() do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) faz com que o controle sobre seu corpo seja contestado. Após salvar um goblin fugitivo nos arredores de [Ossopus](/lugares/abismo/coracao-do-vazio/ossopus), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) recebe uma [pedra de Nituhnna](/itens/pedra-de-nituhnna) que o goblin havia roubado.
+>
+> Invisíveis, o grupo se infiltra na fortaleza de [Rontakus](/individuos/rontakus).
 {.is-info}
 
 > "Você me trocou... por um goblin?!" - [Inútil](/individuos/inutil-quasit)
