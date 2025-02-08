@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T13:04:51.472Z
+date: 2025-02-08T13:05:23.933Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -386,7 +386,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Chegando à casa de [Olga](/individuos/titia-olga-cudeporco), [Inútil](/individuos/inutil-quasit) os informa sobre a [Adaga de Azaroth](/itens/adaga-de-azaroth), que se encontra em [Ossopus](/lugares/abismo/coracao-do-vazio/ossopus) sob proteção do [Rajah do Vazio](/rankings-e-titulos/rajah-do-vazio) [Rontakus](/individuos/rontakus). Veles, [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) trocam anotações de seus grimórios.
 {.is-info}
 
-> "♫ Eu vou pra Ossopus! ♫" - Inútil
+> "♫ Eu vou pra Ossopus! ♫" - Inútil e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu)
 
 > Um grupo de humanos pede ajuda aos heróis na [Floresta da Cicatriz](/lugares/abismo/coracao-do-vazio/floresta-da-cicatriz).
 {.is-info}
