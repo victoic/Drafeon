@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T09:36:52.471Z
+date: 2025-02-08T09:50:40.254Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -371,7 +371,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [16/09/2021](https://www.youtube.com/watch?v=E4W0sp0dl2Y) | Data narrativa: ?? - ??
 
-> Olga informa Veles que o grupo de resgate foi morto em [Karugo](/lugares/abismo/coracao-do-vazio/karugo). O grupo, reunido, decide voltar até Zoragmelok para recuperar seus itens. Um combate contra o íncobus [Zalgaan](/individuos/zalgaan) que guardavam seus itens se desenrola. 
+> Olga informa Veles que o grupo de resgate foi morto em [Karugo](/lugares/abismo/coracao-do-vazio/karugo). O grupo, reunido, decide voltar até Zoragmelok para recuperar seus itens. Um combate contra o íncobus [Zalgaan](/individuos/zalgaan) que guardavam seus itens se desenrola.
+>
+> Após recuperarem seus itens o grupo volta à casa de Olga, mas vê [Irien Galaniell](/individuos/irien-galaniell) e [Lakip Brillabouso](/individuos/lakip-brillabouso) comemorando juntos nas ruas [Zoragmelok](/lugares/abismo/coracao-do-vazio/zoragmelok).
 {.is-info}
 
 - [30/09/2021](https://www.youtube.com/watch?v=M2-6DopV7RI) | Data narrativa: ?? - ??
