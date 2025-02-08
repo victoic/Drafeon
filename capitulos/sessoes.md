@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T17:59:42.306Z
+date: 2025-02-08T18:08:07.753Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -361,11 +361,13 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) recebem uma comunicação de um grupo de resgate enviado por [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) que os espera em [Arrebatamento Vermelho](/lugares/abismo/coracao-do-vazio/arrebatamento-vermelho).
 >
 > [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) são levados a [Zoragmelok](/lugares/abismo/coracao-do-vazio/zoragmelok) onde são apresentados a [Fraz-Urb'luu](/individuos/fraz-urbluu) e mantidos em uma prisão.
+{.is-info}
 
 - 11/09/2021 | Data narrativa: ?? - ??
 
 - 25/09/2021 | Data narrativa: ?? - ??
-> Um quasit, [Inútil](/individuos/inutil-quasit), liberta o grupo após prometerem que ajudariam seu mestre a libertar [Azaroth](/individuos/azaroth) e os leva até [Virrazar](/individuos/virrazar) que os equipa e envia Inútil como guia até a casa de [Olga](/individuos/titia-olga-cudeporco). Hellên encontra uma [varinha mágica]() enquanto fogem. Magnus encontra um [machado](). Esses itens começam a exercer influencia sobre os dois.
+> Um quasit, [Inútil](/individuos/inutil-quasit), liberta o grupo após prometerem que ajudariam seu mestre a libertar [Azaroth](/individuos/azaroth) e os leva até [Virrazar](/individuos/virrazar) que os equipa e envia Inútil como guia até a casa de [Olga](/individuos/titia-olga-cudeporco). Hellên encontra uma [varinha mágica]() enquanto fogem. Magnus encontra um [machado](). Esses itens começam a exercer influencia sobre os dois. Hêllen encontra também um [fragmento de Shadowfell](/itens/fragment-de-shadowfell).
+{.is-info}
 
 
 - 02/10/2021 | Data narrativa: ?? - ??
