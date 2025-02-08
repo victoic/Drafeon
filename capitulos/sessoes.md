@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-07T23:00:42.012Z
+date: 2025-02-08T00:09:53.113Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -353,13 +353,21 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > O grupo, junto com [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares), se encontra em um plano estranho, nos arredores de uma cidade de arquitetura distorcidade de pedras vermelhas.
 >
-> O grupo encontra demônios carregando escravos e enfrentam um grupo de súcubus, íncubus e [skurchurs](/fauna-e-flora/racas-inteligentes/skurchur). Após enfeitiçar o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), o Nimbar, a Folhiares e o [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), o grupo se divide em dois: [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) fogem, enquanto os enfeitiçados são capturados e levados a [Nyrashlia](/individuos/nyrashlia) que ordena que os "convidados" sejam levados a [Fraz-Urb'luu](/individuos/fraz-urbluu) em [Zoragmelok](/lugares/abismo/coracao-do-vazio#assentamentos).
+> O grupo encontra demônios carregando escravos e enfrentam um grupo de súcubus, íncubus e [skurchurs](/fauna-e-flora/racas-inteligentes/skurchur). Após enfeitiçar o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), o Nimbar, a Folhiares e o [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), o grupo se divide em dois: [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) fogem, enquanto os enfeitiçados são capturados e levados a [Nyrashlia](/individuos/nyrashlia) que ordena que os "convidados" sejam levados a [Fraz-Urb'luu](/individuos/fraz-urbluu) em [Zoragmelok](/lugares/abismo/coracao-do-vazio/zoragmelok).
 {.is-info}
 
 - 28/08/2021 | Data narrativa: ?? - ??
 
-> 
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) recebem uma comunicação de um grupo de resgate enviado por [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) que os espera em [Arrebatamento Vermelho](/lugares/abismo/coracao-do-vazio/arrebatamento-vermelho).
+>
+> [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Nimbar](/individuos/nimbar-tatsetul) e [Folhiares](/individuos/fara-folhiares) são levados a [Zoragmelok](/lugares/abismo/coracao-do-vazio/zoragmelok) onde são apresentados a [Fraz-Urb'luu](/individuos/fraz-urbluu) e mantidos em uma prisão.
+>
+> Um quasit, [Inútil](/individuos/inutil-quasit), liberta o grupo após prometerem que ajudariam seu mestre a libertar [Azaroth](/individuos/azaroth) e os leva até [Virrazar](/individuos/virrazar) que os equipa e envia Inútil como guia até a casa de [Olga](/individuos/titia-olga-cudeporco).
+>
+> Virrazar então aparece para Veles e Zerke e os direciona até seus companheiros. Fraz-Urb'luu ecoa uma mensagem por todo [Coração do Vazio](/lugares/abismo/coracao-do-vazio), recompensando quem levasse a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) até ele com o governo de [Athawyn](/lugares/abismo/coracao-do-vazio/athawyn).
 {.is-info}
+
+> Parece que meus estimados convidados estão perdidos, o que trouxé-los de volta até mim se tornará o novo governante de Athawyn. Isso inclui vocês humanos ou escravos.
 
 - [16/09/2021](https://www.youtube.com/watch?v=E4W0sp0dl2Y) | Data narrativa: ?? - ??
 
