@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T16:53:49.762Z
+date: 2025-02-08T16:58:51.515Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -377,6 +377,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Olga informa Veles que o grupo de resgate foi morto em [Karugo](/lugares/abismo/coracao-do-vazio/karugo). O grupo, reunido, decide voltar até Zoragmelok para recuperar seus itens. Um combate contra o íncobus [Zalgaan](/individuos/zalgaan) que guardavam seus itens se desenrola.
 >
 > Após recuperarem seus itens o grupo volta à casa de Olga, mas vê [Irien Galaniell](/individuos/irien-galaniell) e [Lakip Brillabouso](/individuos/lakip-brillabouso) comemorando juntos nas ruas [Zoragmelok](/lugares/abismo/coracao-do-vazio/zoragmelok).
+>
+> [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) inicia o processo de domínio de suas energias interiores.
 {.is-info}
 
 - [30/09/2021](https://www.youtube.com/watch?v=M2-6DopV7RI) | Data narrativa: ?? - ??
