@@ -2,7 +2,7 @@
 title: Escritura da Mansão de Leomund
 description: 
 published: true
-date: 2025-02-09T21:32:03.112Z
+date: 2025-02-09T21:32:52.898Z
 tags: contrato
 editor: markdown
 dateCreated: 2024-08-13T19:48:49.490Z
