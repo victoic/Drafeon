@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T18:25:40.469Z
+date: 2025-02-09T18:29:54.518Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -463,7 +463,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Nimbar faz uma tatuagem de um quasit em zircórnias. Veles fez uma tatuagem de um rosa negra e um texto em élfico ("do inferno e de volta") em zicórnias (Armadura Mágica). Zerke faz uma tatuagem de uma succubus em quartzos de estrela rosa (Comando). Magnus, o único sóbrio, faz uma tatuagem dos olhos de Azaroth em seu abdômen em citrinos (Passos Largos).
 >
-> Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde observam tendas e caravanas, jogos e música e também a cidade em reconstrução.
+> Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde observam tendas e caravanas, jogos e música e também a cidade em reconstrução. O grupo faz compras na loja do [Ser Glorkan](/individuos/ser-glorkan).
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
