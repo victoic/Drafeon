@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T20:56:00.053Z
+date: 2025-02-09T20:57:45.411Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -490,10 +490,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > O grupo garante [a lente](/itens/a-lente) no leilão do submundo e também uma [luva do mestre artesão](/itens/luva-do-mestre-artesão).
 >
-> O grupo descobre a presença de changelings n[A Caravana](/faccoes/faccoes-independentes/a-carana).
+> O grupo descobre a presença de changelings n[A Caravana](/faccoes/faccoes-independentes/a-carana). {FIM DOS ACONTECIMENTOS DA CARAVANA}
 {.is-info}
 
 - [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: ?de 1755 - ? de Azemis de 1755
+
+>
 
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
