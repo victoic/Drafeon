@@ -2,7 +2,7 @@
 title: Hêllen Starindust
 description: 
 published: true
-date: 2025-02-09T21:49:14.959Z
+date: 2025-02-09T21:55:39.040Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T02:39:35.460Z
@@ -19,10 +19,10 @@ Your content here
 
 # Informações
 `Data de Nascimento` 1736  
-`Sexo Biológico` Masculino
-`Olhos` Azuis expressivos
-`Cabelos` Longos cabelos loiros e cedosos
-`Altura` 1,75 m
-`Peso` 68 Kg
+`Sexo Biológico` ?
+`Olhos` Dourados
+`Cabelos` Longos cabelos loiros e esvoaçantes
+`Altura` 1,70 m
+`Peso` 61 Kg
 `Organizações Associadas` [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra)
 `Títulos` 
