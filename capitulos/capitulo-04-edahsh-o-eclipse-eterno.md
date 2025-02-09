@@ -2,7 +2,7 @@
 title: Capítulo 04
 description: Edahsh, O Eclipse Eterno
 published: true
-date: 2025-02-03T13:52:13.771Z
+date: 2025-02-09T13:55:17.639Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:34.040Z
@@ -52,3 +52,7 @@ Em 15 de Azemis do ano 1754 da Era de Drafeon, Edahsh foi trazido em sua forma f
 ## Adversários
 [Akhes](/individuos/akhes)
 [Edahsh](/individuos/edahsh)
+
+# Informação
+`Anterior` [Capítulo 03](/capitulos/capitulo-03-a-bruxa-do-pantano)
+`Próximo` [Capítulo 05](/capitulos/capitulo-05-a-volta-de-azaroth)
