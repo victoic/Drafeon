@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T21:41:25.061Z
+date: 2025-02-09T21:42:57.272Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -486,7 +486,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo descobre se envolve em uma trama n[A Caravana](/faccoes/faccoes-independentes/a-carana) após presenciar um roubo, envolvendo a recuperação de um item chamado [a lente](/itens/a-lente) e um leilão no submundo.
 {.is-info}
 
-- 30/04/2022 | Data narrativa: 24 de Azemis de 1755
+- [30/04/2022](https://www.youtube.com/watch?v=_tsyKKy8_zs) | Data narrativa: 24 de Azemis de 1755
 
 > O grupo garante [a lente](/itens/a-lente) no leilão do submundo e também uma [luva do mestre artesão](/itens/luva-do-mestre-artesão).
 >
