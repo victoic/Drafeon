@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T21:43:25.747Z
+date: 2025-02-09T23:44:23.320Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -489,7 +489,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [30/04/2022](https://www.youtube.com/watch?v=_tsyKKy8_zs) | Data narrativa: 24 de Azemis de 1755
 
-> O grupo garante [a lente](/itens/a-lente) no leilão do submundo e também uma [luva do mestre artesão](/itens/luva-do-mestre-artesão).
+> O grupo garante [a lente](/itens/a-lente) no leilão do submundo e também uma [luva do mestre artesão](/itens/luva-do-mestre-artesão). [A Lança e o Morto](/itens/a-lanca-e-o-morto) é leiloado.
 >
 > O grupo descobre a presença de changelings n[A Caravana](/faccoes/faccoes-independentes/a-carana). O grupo descobre que [Feynore Faralei](/individuos/feynore-faralei) foi sequestrada.
 {.is-info}
