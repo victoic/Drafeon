@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2024-08-14T19:20:01.749Z
+date: 2025-02-09T13:58:16.893Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -50,3 +50,7 @@ Indo até a costa, o grupo prosseguiu a pés pelos bosques até chegar à cidade
 
 ## Adversários
 - [](/individuos/)
+
+# Informação
+`Anterior` [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
+`Próximo` 
