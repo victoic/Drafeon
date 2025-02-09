@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T20:43:19.741Z
+date: 2025-02-09T20:56:00.053Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -452,7 +452,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
 
-- [05/03/2022](https://www.youtube.com/watch?v=jL9IuE6ARuU) | Data narrativa: 15 de Azemis de 1755 - 16 de Azemis de 1755
+- [05/03/2022](https://www.youtube.com/watch?v=jL9IuE6ARuU) | Data narrativa: 5 de Azemis de 1755 - 6 de Azemis de 1755
 
 > O grupo retorno ao [Plano Material](/lugares/plano-material), mas separados em dois grupo: [Korin](/individuos/korin), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) e [Folhiares](/individuos/fara-folhiares) em um grupo, [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh), [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), [Lakip](/individuos/lakip-brillabouso) e [Nimbar](/individuos/nimbar-tatsetul) em outro. Enquanto Zerke tenta identificar onde estão e Veles consola o Lakip, [Inútil](/individuos/inutil-quasit) foge.
 >
@@ -466,7 +466,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde observam tendas e caravanas, jogos e música e também a cidade em reconstrução. O grupo faz compras na loja do [Ser Glorkan](/individuos/ser-glorkan).
 {.is-info}
 
-- 19/03/2022 | Data narrativa: 16 de Azemis de 1755 - ? de 1755
+- 19/03/2022 | Data narrativa: 16 de Azemis de 1755 - 23 de Azemis de 1755
 
 > O grupo participa do enterro de [Alfonse](/individuos/alfonse) no [cemitério de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/cemiterio) e [Lakip](/individuos/lakip-brillabouso) é preso. Em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), o grupo encontra [Aldror](/individuos/aldror) que os entrega a [escritura da mansão](/documentos/escritura-da-mansao-de-leomund) que lhe foi deixada por [Arprax](/individuos/arprax).
 >
@@ -476,15 +476,22 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 
-
-- [02/04/2022](https://www.youtube.com/watch?v=fCh_arR_aas) | Data narrativa: 15 de Azemis de 1755
+- [02/04/2022](https://www.youtube.com/watch?v=fCh_arR_aas) | Data narrativa: 23 de Azemis de 1755
 
 > O grupo visita [A Caravana](/faccoes/faccoes-independentes/a-caravana). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vence a competição de bebida, recebendo uma poção da longevidade e a competição de queda de braço, ganhando o token de pena de Quaal de pássaro. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) ganhou a competição de tiro ao alvo, ganhando um bastão imóvel. Ao fim do dia, o Zerke bebe a poção de longevidade, rejuvenescendo 10 anos.
 {.is-info}
 
-- 09/04/2022 | Data narrativa: 15 de Azemis de 1755 - 16 de Azemis de 1755
+- 09/04/2022 | Data narrativa: 23 de Azemis de 1755 - 24 de Azemis de 1755
+
+> O grupo descobre se envolve em uma trama n[A Caravana](/faccoes/faccoes-independentes/a-carana) após presenciar um roubo, envolvendo a recuperação de um item chamado [a lente](/itens/a-lente) e um leilão no submundo.
+{.is-info}
 
 - 30/04/2022 | Data narrativa: 15 de Azemis de 1755
+
+> O grupo garante [a lente](/itens/a-lente) no leilão do submundo e também uma [luva do mestre artesão](/itens/luva-do-mestre-artesão).
+>
+> O grupo descobre a presença de changelings n[A Caravana](/faccoes/faccoes-independentes/a-carana).
+{.is-info}
 
 - [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: ?de 1755 - ? de Azemis de 1755
 
