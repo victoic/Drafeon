@@ -2,7 +2,7 @@
 title: Capítulo 07
 description: Azura, A Dragão Deus
 published: true
-date: 2025-02-03T14:09:17.165Z
+date: 2025-02-09T13:56:48.556Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -115,3 +115,7 @@ Durante todo o período de separação do grupo do Zerke, tentativas de contato 
 ## Adversários
 - [Azura](/individuos/azura)
 - [Sarina Starindust](/individuos/sarina-starindust) (Pré-libertação)
+
+# Informação
+`Anterior` [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
+`Próximo` [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
