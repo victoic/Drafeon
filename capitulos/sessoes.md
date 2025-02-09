@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T13:45:26.232Z
+date: 2025-02-09T14:25:30.478Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -451,6 +451,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
+
+- [05/03/2022](https://www.youtube.com/watch?v=jL9IuE6ARuU) | Data narrativa: ?? - ??
+
+> O grupo retorno ao [Plano Material](/lugares/plano-material), mas separados, enquanto [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) tenta identificar onde estão, [Inútil](/individuos/inutil-quasit) foge.
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
