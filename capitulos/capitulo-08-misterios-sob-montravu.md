@@ -2,7 +2,7 @@
 title: Capítulo 08
 description: Mistério sob Montravu
 published: true
-date: 2025-02-03T14:09:45.974Z
+date: 2025-02-09T13:57:15.171Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T04:58:02.672Z
@@ -157,3 +157,7 @@ O grupo parte do jantar após a desonra proferida por Blagovesta, se separando n
 
 ## Adversários
 - [Qendrak](/individuos/qendrak)
+
+# Informação
+`Anterior` [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
+`Próximo` [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
