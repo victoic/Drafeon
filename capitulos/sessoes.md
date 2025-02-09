@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T14:25:30.478Z
+date: 2025-02-09T14:34:15.262Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -454,7 +454,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [05/03/2022](https://www.youtube.com/watch?v=jL9IuE6ARuU) | Data narrativa: ?? - ??
 
-> O grupo retorno ao [Plano Material](/lugares/plano-material), mas separados, enquanto [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) tenta identificar onde estão, [Inútil](/individuos/inutil-quasit) foge.
+> O grupo retorno ao [Plano Material](/lugares/plano-material), mas separados em dois grupo: [Koin](/individuos/koin), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) e [Folhiares](/individuos/fara-folhiares) em um grupo, [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh), [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), [Lakip](/individuos/lakip-brillabouso) e [Nimbar](/individuos/nimbar-tatsetul) em outro. Enquanto Zerke tenta identificar onde estão e Veles consola o Lakip, [Inútil](/individuos/inutil-quasit) foge.
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
