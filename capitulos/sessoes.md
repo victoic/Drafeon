@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T14:58:08.922Z
+date: 2025-02-09T14:58:38.110Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -459,7 +459,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo se reune com o [Conselho de Horizonte](/faccoes/nacoes/imperio-dragao/conselho-de-horizonte) onde explicam os acontecimentos, um funeral para [Alfonse](/individuos/alfonse) é planejado. O grupo é recompensado. Veles percebe preocupação de [Rondano](/individuos/rondano-karakunis) ao mencionarem que enfrentaram os Rajahs do Vazio.
 > [Kylanara](/individuos/kylanara-brakadze), em nome da [Academia Arcana de Horizonte](/faccoes/nacoes/imperio-dragao/academia-arcana-de-horizonte), oferece uma posição de colaborador ao Veles para que realizem pesquisas sobre os seus achados na [Ilha dos Mortos](/lugares/plano-material/drafeon/sul-de-drafeon/ilha-dos-mortos)
 >
-> O grupo passa uma noite de farra comemorando seu retorno na [Banco Quebrado](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/banco-quebrado).
+> O grupo passa uma noite de farra comemorando seu retorno na [Banco Quebrado](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/banco-quebrado). Veles se hospeda no [Retiro](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/retiro).
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
