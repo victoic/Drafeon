@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T20:06:40.475Z
+date: 2025-02-09T20:27:44.618Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -471,13 +471,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo participa do enterro de [Alfonse](/individuos/alfonse) no [cemitério de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/cemiterio) e [Lakip](/individuos/lakip-brillabouso) é preso. Em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), o grupo encontra [Aldror](/individuos/aldror) que os entrega a [escritura da mansão](/documentos/escritura-da-mansao-de-leomund) que lhe foi deixada por [Arprax](/individuos/arprax).
 >
 > Durante seus afazeres individuais, cada membro da [Confraria](/faccoes/faccoes-independentes/confraria-da-rosa-negra) recebe um convite para o [dia de homenagem aos mortos](/lendas-e-eventos/dia-de-homenagem-aos-mortos) em [Kêndtro](/lugares/plano-material/drafeon/sudoeste-de-drafeon/kendtro) em 1º de Aaos. Hêllen busca um clérigo que possa ajudá-lo a acabar com a maldição que ele acredita afligir sua irmã [Sarina](/individuos/sarina-starindust), encontrando [Baddali Copo-Cheio](/individuos/baddali-copo-cheio).
->
-> O grupo visita [A Caravana](/faccoes/faccoes-independentes/a-caravana). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vence a competição de bebida.
 {.is-info}
 
 
 
 - [02/04/2022](https://www.youtube.com/watch?v=fCh_arR_aas) | Data narrativa: 15 de Azemis de 1755 - 16 de Azemis de 1755
+
+> O grupo visita [A Caravana](/faccoes/faccoes-independentes/a-caravana). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vence a competição de bebida, recebendo uma poção da longevidade e a competição de queda de braço, ganhando o token de pena de Quaal de pássaro. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) ganhou a competição de tiro ao alvo, ganhando um batão imóvel.
+{.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
