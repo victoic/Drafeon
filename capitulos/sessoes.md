@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T21:05:02.735Z
+date: 2025-02-09T21:05:33.189Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -486,14 +486,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo descobre se envolve em uma trama n[A Caravana](/faccoes/faccoes-independentes/a-carana) após presenciar um roubo, envolvendo a recuperação de um item chamado [a lente](/itens/a-lente) e um leilão no submundo.
 {.is-info}
 
-- 30/04/2022 | Data narrativa: 15 de Azemis de 1755
+- 30/04/2022 | Data narrativa: 24 de Azemis de 1755
 
 > O grupo garante [a lente](/itens/a-lente) no leilão do submundo e também uma [luva do mestre artesão](/itens/luva-do-mestre-artesão).
 >
 > O grupo descobre a presença de changelings n[A Caravana](/faccoes/faccoes-independentes/a-carana).
 {.is-info}
 
-- [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: ?de 1755 - ? de Azemis de 1755
+- [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: 24 de Azemis 1755 - ? de Azemis de 1755
 
 > Os heróis devolvem [a lente](/itens/a-lente) a [Meia-Noite](/individuos/meia-noite).
 >
