@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T20:40:17.830Z
+date: 2025-02-09T20:43:19.741Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -482,7 +482,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo visita [A Caravana](/faccoes/faccoes-independentes/a-caravana). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vence a competição de bebida, recebendo uma poção da longevidade e a competição de queda de braço, ganhando o token de pena de Quaal de pássaro. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) ganhou a competição de tiro ao alvo, ganhando um bastão imóvel. Ao fim do dia, o Zerke bebe a poção de longevidade, rejuvenescendo 10 anos.
 {.is-info}
 
-- 30/04/2022 | Data narrativa: 15 de Azemis de 1755 - 16 de Azemis de 1755
+- 09/04/2022 | Data narrativa: 15 de Azemis de 1755 - 16 de Azemis de 1755
+
+- 30/04/2022 | Data narrativa: 15 de Azemis de 1755
 
 - [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: ?de 1755 - ? de Azemis de 1755
 
