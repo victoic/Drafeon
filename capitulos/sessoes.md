@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T11:50:47.629Z
+date: 2025-02-09T13:40:08.395Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -444,8 +444,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Virrazar seu verme inútil, abra esses portões agora! Você ousa conspirar contra mim? Eu o esmagarei, de novo e de novo, até que você não seja nada!" - Fraz-Urb'luu
 
-> 
+> Entrando na prisão, [Virrazar](/individuos/virrazar) recebe o grupo, entraga-os as chaves das celas para que libertem os prisioneiro de Fraz-Urb'luu e se junta aos demais traidores de Fraz-Urb'luu: [Ulanala](/individuos/ulanala) (treant), [Grutes](/individuos/grutes) (yochlol), [Baroth](/individuos/baroth) (maurizhi), [Liorkian](/individuos/liorkian) (rajaj do vazio) e [?](/individuos/) (?).
+> Ao fim do ritual, Magnus utilizou a Adaga de Azaroth para quebrar as correntes que prendiam o Senhor Abissal, libertando-o. Azaroth usou a Adaga para criar um portal [plano material](/lugares/plano-material) por onde o grupo passou, convencendo o [Inútil](/individuos/inutil-quasit) a ir junto e deixando a batalha entre Fraz-Urb'luu e Azaroth proceder.
 {.is-info}
+
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
