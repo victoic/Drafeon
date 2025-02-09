@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T18:21:17.431Z
+date: 2025-02-09T18:23:04.344Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -461,7 +461,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > O grupo passa uma noite de farra comemorando seu retorno na [Banco Quebrado](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/banco-quebrado). Veles se hospeda no [Retiro](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/retiro). Na taverna, Zerke e Veles, convencem um bardo a compôr [a canção de Zerke Montravu e Veles Lugh](/lendas-e-eventos/a-cancao-de-zerke-montravu). Bêbados, o grupo, junto com o Nimbar, fazem uma tatuagem comemorando a sua sobrevivência no [Tinta da Viela](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/tinta-da-viela). 
 >
-> Nimbar faz uma tatuagem de um quasit em zircórnias. Veles fez uma tatuagem de um rosa negra e um texto em élfico ("do inferno e de volta") em zicórnias (Armadura Mágica). Zerke faz uma tatuagem de uma succubus em quartzos de estrela rosa (Comando). Magnus, o único sóbrio, faz uma tatuagem dos olhos de Azaroth em seu abdômen em citrinos (Passos Largos).
+> Nimbar faz uma tatuagem de um quasit em zircórnias. Veles fez uma tatuagem de um rosa negra e um texto em élfico ("do inferno e de volta") em zicórnias (Armadura Mágica). Zerke faz uma tatuagem de uma succubus em quartzos de estrela rosa (Comando). Magnus, o único sóbrio, faz uma tatuagem dos olhos de Azaroth em seu abdômen em citrinos (Passos Largos). Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo).
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
