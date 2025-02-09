@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T21:11:32.580Z
+date: 2025-02-09T21:23:20.784Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -500,6 +500,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Os preparativos para o [festival da tormenta](/lendas-e-eventos/festival-da-tormenta) se iniciam em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). [Sarina](/individuos/sarina-starindust) contata [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), solicitando que ele a encontre em [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento) em 1º de Fateus.
 >
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) se reune com [Conde Carvalho-Negro](/individuos/conde-carvalho-negro) tentando fechar negócios com sua guilda [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris).
+> O ritual da [Mansão](/documentos/escritura-da-mansao-de-leomund) é realizado em uma caverna cavada às margens do [rio Largo](/lugares/plano-material/drafeon/sudeste-de-drafeon/rio-largo), próximo à Porto Novo.
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
