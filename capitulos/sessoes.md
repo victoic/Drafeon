@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T20:58:33.916Z
+date: 2025-02-09T21:05:02.735Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -495,7 +495,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: ?de 1755 - ? de Azemis de 1755
 
-> 
+> Os heróis devolvem [a lente](/itens/a-lente) a [Meia-Noite](/individuos/meia-noite).
+>
+> Os preparativos para o [festival da tormenta](/lendas-e-eventos/festival-da-tormenta) se iniciam em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). [Sarina](/individuos/sarina-starindust) contata [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), solicitando que ele a encontre em [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento) em 1º de Fateus.
 {.is-info}
 
 
