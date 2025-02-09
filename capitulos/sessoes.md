@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T18:30:45.693Z
+date: 2025-02-09T19:53:52.843Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -465,6 +465,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde observam tendas e caravanas, jogos e música e também a cidade em reconstrução. O grupo faz compras na loja do [Ser Glorkan](/individuos/ser-glorkan).
 {.is-info}
+
+- 19/03/2022 | Data narrativa: 16 de Azemis de 1755 - 16 de Azemis de 1755
+
+- [02/04/2022](https://www.youtube.com/watch?v=fCh_arR_aas) | Data narrativa: 15 de Azemis de 1755 - 16 de Azemis de 1755
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
