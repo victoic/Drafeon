@@ -2,7 +2,7 @@
 title: Capítulo 02
 description: Criando Raízes
 published: true
-date: 2025-02-03T20:00:16.235Z
+date: 2025-02-09T13:54:20.467Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:29.651Z
@@ -45,4 +45,8 @@ Retornando à [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/po
 
 # Segredos
 Lakip é corrompido pelo Coração de Azaroth. 
+
+# Informação
+`Anterior` [Capítulo 01](/capitulos/capitulo-01-os-carvalho-negro)
+`Próximo` [Capítulo 03](/capitulos/capitulo-03-a-bruxa-do-pantano)
 
