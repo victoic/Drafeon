@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T19:53:52.843Z
+date: 2025-02-09T20:06:40.475Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -444,7 +444,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Virrazar seu verme inútil, abra esses portões agora! Você ousa conspirar contra mim? Eu o esmagarei, de novo e de novo, até que você não seja nada!" - Fraz-Urb'luu
 
-> Entrando na prisão, [Virrazar](/individuos/virrazar) recebe o grupo, entraga-os as chaves das celas para que libertem os prisioneiro de Fraz-Urb'luu e se junta aos demais traidores de Fraz-Urb'luu: [Ulanala](/individuos/ulanala) (treant), [Grutes](/individuos/grutes) (yochlol), [Baroth](/individuos/baroth) (maurizhi), [Liorkian](/individuos/liorkian) (rajaj do vazio) e [?](/individuos/) (?).
+> Entrando na prisão, [Virrazar](/individuos/virrazar) recebe o grupo, entraga-os as chaves das celas para que libertem os prisioneiro de Fraz-Urb'luu e se junta aos demais traidores de Fraz-Urb'luu: [Ulanala](/individuos/ulanala) (treant), [Grutes](/individuos/grutes) (yochlol), [Baroth](/individuos/baroth) (maurizhi), [Liorkian](/individuos/liorkian) (rajah do vazio) e [?](/individuos/) (?).
 > Ao fim do ritual, Magnus utilizou a Adaga de Azaroth para quebrar as correntes que prendiam o Senhor Abissal, libertando-o. Azaroth usou a Adaga para criar um portal [plano material](/lugares/plano-material) e um portal que traz de volta o guarda arcano de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) por onde o grupo passou, convencendo o [Inútil](/individuos/inutil-quasit) a ir junto e deixando a batalha entre Fraz-Urb'luu e Azaroth proceder.
 {.is-info}
 
@@ -466,7 +466,16 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde observam tendas e caravanas, jogos e música e também a cidade em reconstrução. O grupo faz compras na loja do [Ser Glorkan](/individuos/ser-glorkan).
 {.is-info}
 
-- 19/03/2022 | Data narrativa: 16 de Azemis de 1755 - 16 de Azemis de 1755
+- 19/03/2022 | Data narrativa: 16 de Azemis de 1755 - ? de 1755
+
+> O grupo participa do enterro de [Alfonse](/individuos/alfonse) no [cemitério de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/cemiterio) e [Lakip](/individuos/lakip-brillabouso) é preso. Em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), o grupo encontra [Aldror](/individuos/aldror) que os entrega a [escritura da mansão](/documentos/escritura-da-mansao-de-leomund) que lhe foi deixada por [Arprax](/individuos/arprax).
+>
+> Durante seus afazeres individuais, cada membro da [Confraria](/faccoes/faccoes-independentes/confraria-da-rosa-negra) recebe um convite para o [dia de homenagem aos mortos](/lendas-e-eventos/dia-de-homenagem-aos-mortos) em [Kêndtro](/lugares/plano-material/drafeon/sudoeste-de-drafeon/kendtro) em 1º de Aaos. Hêllen busca um clérigo que possa ajudá-lo a acabar com a maldição que ele acredita afligir sua irmã [Sarina](/individuos/sarina-starindust), encontrando [Baddali Copo-Cheio](/individuos/baddali-copo-cheio).
+>
+> O grupo visita [A Caravana](/faccoes/faccoes-independentes/a-caravana). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vence a competição de bebida.
+{.is-info}
+
+
 
 - [02/04/2022](https://www.youtube.com/watch?v=fCh_arR_aas) | Data narrativa: 15 de Azemis de 1755 - 16 de Azemis de 1755
 
