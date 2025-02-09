@@ -2,7 +2,7 @@
 title: Capitulo 01
 description: Os Carvalho-Negro
 published: true
-date: 2025-02-03T20:03:29.713Z
+date: 2025-02-09T13:53:46.214Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:27.439Z
@@ -38,3 +38,7 @@ Ocasiões ocorrem que mantém o grupo junto, criando laços entre os membros.
 
 ## Adversários
 - [Marquês de Maschera](/lugares/emberez/ibrido);
+
+# Informação
+`Anterior`
+`Próximo` [Capítulo 02](/capitulos/capitulo-02-criando-raizes)
