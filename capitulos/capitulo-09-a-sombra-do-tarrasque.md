@@ -2,7 +2,7 @@
 title: Capítulo 09
 description: A Sombra do Terrasque
 published: true
-date: 2025-02-03T14:10:24.616Z
+date: 2025-02-09T13:57:56.138Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T18:40:10.669Z
@@ -149,3 +149,7 @@ Dois novos membros encontram o grupo durante o acontecimento com Cirdea. [Grot](
 - [Cul’Gu](/individuos/culgu)
 - [Angdan](/individuos/angdan)
 - [Irine](/individuos/irine)
+
+# Informação
+`Anterior` [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
+`Próximo` [Capítulo 10](/capitulos/capitulo-10-a-guerra)
