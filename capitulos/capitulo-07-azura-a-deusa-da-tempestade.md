@@ -2,7 +2,7 @@
 title: Capítulo 07
 description: Azura, A Dragão Deus
 published: true
-date: 2025-02-09T19:57:34.405Z
+date: 2025-02-09T20:49:28.198Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -23,7 +23,7 @@ Após retornarem ao plano material e tomarem um merecido descanso, o grupo é ab
 
 Ao retornarem do [Abismo](/lugares/abismo) ao [Plano Material](/lugares/plano-material), junto com [Lakip Brillabouso](/individuos/lakip-brillabouso), que cai ao chão chorando por sua incapacidade de se vingar de Azaroth.
 
-O grupo tira cinco semanas de descanso, nesse tempo: ocorre o funeral para Alfonse, membro do grupo de resgate enviado ao abismo que faleceu em campo; Lakip é preso; os membros do grupo são convidados para participar de um jantar no castelo de [Kêndtro](/lugares/plano-material/drafeon/sudoeste-de-drafeon/kendtro) no dia de homenagem aos mortos (1º de Aaos); [A Caravana](/faccoes/faccoes-independentes/a-caravana), uma enorme parada nômade com jogos e eventos, chega à [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo); Rumores sobre o líder de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu) abrigar aasimares perseguidos se espalha pelo [Império Dragão](/faccoes/nacoes/imperio-dragao).
+O grupo tira quatro semanas de descanso, nesse tempo: ocorre o funeral para Alfonse, membro do grupo de resgate enviado ao abismo que faleceu em campo; Lakip é preso; os membros do grupo são convidados para participar de um jantar no castelo de [Kêndtro](/lugares/plano-material/drafeon/sudoeste-de-drafeon/kendtro) no dia de homenagem aos mortos (1º de Aaos); [A Caravana](/faccoes/faccoes-independentes/a-caravana), uma enorme parada nômade com jogos e eventos, chega à [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo); Rumores sobre o líder de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu) abrigar aasimares perseguidos se espalha pelo [Império Dragão](/faccoes/nacoes/imperio-dragao).
 
 Durante a presença dA Caravana em Porto Novo, o grupo desvenda a presença de doppelgangers e uma trama de assassinatos e leilões desonestos. Enquanto o grupo descansava, Azura se aproximava da quantidade de almas de aasimares necessária para sua ascenção, restando apenas 50.
 
