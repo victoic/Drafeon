@@ -2,7 +2,7 @@
 title: Capítulo 05
 description: A Volta de Azaroth
 published: true
-date: 2025-02-07T21:32:58.433Z
+date: 2025-02-09T13:55:47.053Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:36.258Z
@@ -91,3 +91,7 @@ Nimbar e Folhiares, junto com mais cinco guardas de Horizonte, acompanham o grup
 - [Azaroth](/individuos/azaroth)
 - [Eda](/individuos/eda)
 - [Edaiden](/individuos/edaiden)
+
+# Informação
+`Anterior` [Capítulo 04](/capitulos/capitulo-04-edahsh-o-eclipse-eterno)
+`Próximo` [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
