@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T21:42:57.272Z
+date: 2025-02-09T21:43:25.747Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -484,6 +484,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - 09/04/2022 | Data narrativa: 23 de Azemis de 1755 - 24 de Azemis de 1755
 
 > O grupo descobre se envolve em uma trama n[A Caravana](/faccoes/faccoes-independentes/a-carana) após presenciar um roubo, envolvendo a recuperação de um item chamado [a lente](/itens/a-lente) e um leilão no submundo.
+> O [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) sob o codenome "Barão Azul", recebe um convite para o leilão.
 {.is-info}
 
 - [30/04/2022](https://www.youtube.com/watch?v=_tsyKKy8_zs) | Data narrativa: 24 de Azemis de 1755
