@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T23:53:49.089Z
+date: 2025-02-09T23:56:08.799Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -466,7 +466,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde observam tendas e caravanas, jogos e música e também a cidade em reconstrução. O grupo faz compras na loja do [Ser Glorkan](/individuos/ser-glorkan).
 {.is-info}
 
-- 19/03/2022 | Data narrativa: 16 de Azemis de 1755 - 23 de Azemis de 1755
+- 19/03/2022 | Data narrativa: 16 de Azemis de 1755 - 25 de Azemis de 1755
 
 > O grupo participa do enterro de [Alfonse](/individuos/alfonse) no [cemitério de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/cemiterio) e [Lakip](/individuos/lakip-brillabouso) é preso. Em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), o grupo encontra [Aldror](/individuos/aldror) que os entrega a [escritura da mansão](/documentos/escritura-da-mansao-de-leomund) que lhe foi deixada por [Arprax](/individuos/arprax).
 >
@@ -476,25 +476,25 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 
-- [02/04/2022](https://www.youtube.com/watch?v=fCh_arR_aas) | Data narrativa: 23 de Azemis de 1755
+- [02/04/2022](https://www.youtube.com/watch?v=fCh_arR_aas) | Data narrativa: 25 de Azemis de 1755
 
 > O grupo visita [A Caravana](/faccoes/faccoes-independentes/a-caravana). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vence a competição de bebida, recebendo uma poção da longevidade e a competição de queda de braço, ganhando o token de pena de Quaal de pássaro. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) ganhou a competição de tiro ao alvo, ganhando um bastão imóvel. Ao fim do dia, o Zerke bebe a poção de longevidade, rejuvenescendo 10 anos.
 {.is-info}
 
-- 09/04/2022 | Data narrativa: 23 de Azemis de 1755 - 24 de Azemis de 1755
+- 09/04/2022 | Data narrativa: 25 de Azemis de 1755 - 26 de Azemis de 1755
 
 > O grupo descobre se envolve em uma trama n[A Caravana](/faccoes/faccoes-independentes/a-carana) após presenciar um roubo, envolvendo a recuperação de um item chamado [a lente](/itens/a-lente) e um leilão no submundo.
 > O [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) sob o codenome "Barão Azul", recebe um convite para o leilão.
 {.is-info}
 
-- [30/04/2022](https://www.youtube.com/watch?v=_tsyKKy8_zs) | Data narrativa: 24 de Azemis de 1755
+- [30/04/2022](https://www.youtube.com/watch?v=_tsyKKy8_zs) | Data narrativa: 26 de Azemis de 1755
 
 > O grupo garante [a lente](/itens/a-lente) no leilão do submundo e também uma [luva do mestre artesão](/itens/luva-do-mestre-artesão). [A Lança e o Morto](/itens/a-lanca-e-o-morto) é leiloado.
 >
 > O grupo descobre a presença de changelings n[A Caravana](/faccoes/faccoes-independentes/a-carana). O grupo descobre que [Feynore Faralei](/individuos/feynore-faralei) foi sequestrada.
 {.is-info}
 
-- [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: 24 de Azemis 1755 - 25 de Azemis de 1755
+- [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: 26 de Azemis 1755 - 27 de Azemis de 1755
 
 > Os heróis devolvem [a lente](/itens/a-lente) a [Meia-Noite](/individuos/meia-noite).
 >
@@ -507,7 +507,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Oi irmãozinho, sua felicidade no festival nos alegra, mas precisamos que nos encontre em Cruzamento um dia antes" - Sarina Starindust.
 
-- [18/06/2023](https://www.youtube.com/watch?v=4pcTW8d7K-s) | Data narrativa: 25 de Azemis 1755 - 25 de Azemis de 1755
+- [18/06/2023](https://www.youtube.com/watch?v=4pcTW8d7K-s) | Data narrativa: 27 de Azemis 1755 - 25 de Azemis de 1755
 
 > O grupo avisa [Irien Galaniell](/individuos/irien-galaniell) de seu plano de capturar [Sarina](/individuos/sarina-starindust) e trazê-la a [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) para retirar sua suposta maldição.
 
