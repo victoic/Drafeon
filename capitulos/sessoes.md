@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T01:19:47.001Z
+date: 2025-02-09T01:25:53.364Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -424,7 +424,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta sintonizar com [Adaga de Azaroth](/itens/adaga-de-azaroth) para levá-la, mas a Adaga diz que ele é indigno, conforme ele se contorce em dor. Veles e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontram: [anel de estrela cadente](/itens/anel-de-estrela-cadente).
 >
-> Magnus atuna com a a Adaga e o grupo foge da fortaleza libertando uma aranha gigante no caminho. E partem em direção a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza).
+> Magnus atuna com a a Adaga e o grupo foge da fortaleza libertando uma aranha gigante no caminho, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) rouba alguns ovos de aranha. E partem em direção a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza).
 {.is-info}
 
 - [19/02/2022](https://www.youtube.com/watch?v=Y-M6AlgnQJ8) | Data narrativa: ?? - ??
