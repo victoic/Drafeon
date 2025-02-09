@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T09:44:40.835Z
+date: 2025-02-09T11:28:57.735Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -436,7 +436,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "TRAGAM-OS DE VOLTA!" - Fraz-Urb'luu
 
-> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta se comunicar magicamente com [Sarina Starindust](/individuos/sarina-starindust), ela o ignora, em respota [Azura](/individuos/azura) envia uma mensagem ao Veles, solicitando que levem o Hêllen intacto até ela. [Azaroth](/individuos/azaroth) aparece em sonhos ao Magnus, ordenando que o draconato e a Adaga de Azaroth nunca mais sejam separados.
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta se comunicar magicamente com [Sarina Starindust](/individuos/sarina-starindust), ela o ignora, em respota [Azura](/individuos/azura) envia uma mensagem ao Veles, solicitando que levem o Hêllen intacto até ela. [Azaroth](/individuos/azaroth) aparece em sonhos ao Magnus, ordenando que o draconato e a Adaga de Azaroth nunca mais sejam separados. Armanites atacam o grupo.
+>
+> O grupo chega a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza).
 {.is-info}
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
