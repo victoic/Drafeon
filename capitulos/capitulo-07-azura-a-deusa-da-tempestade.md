@@ -2,7 +2,7 @@
 title: Capítulo 07
 description: Azura, A Dragão Deus
 published: true
-date: 2025-02-09T13:56:48.556Z
+date: 2025-02-09T19:57:34.405Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -29,7 +29,7 @@ Durante a presença dA Caravana em Porto Novo, o grupo desvenda a presença de d
 
 ## Aasimares Perseguidos
 
-Com o fim do mês de Azitia do ano 1755 da Era de Drafeon, os preparativos para o [Festival da Tormenta](/lendas-e-eventos/datas-comemorativas/festival-da-tormenta) se iniciam. Hêllen Starindust recebe uma mensagem mágica de Sarina, sua irmã, solicitando que a encontre em Cruzamente no dia da primeira chuva.
+Com o fim do mês de Azemis do ano 1755 da Era de Drafeon, os preparativos para o [Festival da Tormenta](/lendas-e-eventos/datas-comemorativas/festival-da-tormenta) se iniciam. Hêllen Starindust recebe uma mensagem mágica de Sarina, sua irmã, solicitando que a encontre em Cruzamente no dia da primeira chuva.
 
 Em Cruzamento, junto à toca de Azura encontrada anteriormente pelo grupo, uma ilusão de Sarina aparece tentando convencer Hêllen a se unir a Azura. O grupo se nega e são prontamente atacados por Azura, mas conseguem capturar a verdadeira Sarina antes de fugirem em um portal mágico para Porto Novo.
 
