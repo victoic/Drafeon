@@ -2,7 +2,7 @@
 title: Capítulo 03
 description: A Bruxa Do Pântano
 published: true
-date: 2025-02-04T03:17:23.321Z
+date: 2025-02-09T13:54:43.253Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:31.846Z
@@ -97,3 +97,7 @@ Enquanto isso [Lakip Brillabouso](/individuos/lakip-brillabouso) busca e encontr
 - [Baba Sut](/individuos/baba-sut)
 - [Vovó Matrilda Bufenta](/individuos/vovo-matrilda-bufenta)
 - [Tarufe Padepedra](/individuos/turufe-padepedra)
+
+# Informação
+`Anterior` [Capítulo 02](/capitulos/capitulo-02-criando-raizes)
+`Próximo` [Capítulo 04](/capitulos/capitulo-04-edahsh-o-eclipse-eterno)
