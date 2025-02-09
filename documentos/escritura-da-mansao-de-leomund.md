@@ -2,7 +2,7 @@
 title: Escritura da Mansão de Leomund
 description: 
 published: true
-date: 2025-02-09T21:31:32.087Z
+date: 2025-02-09T21:32:03.112Z
 tags: contrato
 editor: markdown
 dateCreated: 2024-08-13T19:48:49.490Z
@@ -36,6 +36,7 @@ A Escritura possui uma série de termos relativos a conjuração bem sucedida da
 
 ## Histórico de Proprietários
 
+- ? a ?: [Leomund](/individuos/leomund)
 - ? a ?: [Ergion Valojurado](/individuos/ergion-valojurado)
 - 1753 a 1754: [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), [Arprax](/individuos/arprax), [Aldror](/individuos/aldror), [Kraz](/individuos/personagens-de-jogadores/saile), [Dexter](/individuos/personagens-de-jogadores/dexter-kenway), [Amadán](/individuos/personagens-de-jogadores/amadan)
 - 1755 a ?: [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), [Veles](/lendas-e-eventos/a-cancao-de-zerke-e-veles), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust).
