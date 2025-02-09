@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T11:34:03.126Z
+date: 2025-02-09T11:50:47.629Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -438,7 +438,13 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta se comunicar magicamente com [Sarina Starindust](/individuos/sarina-starindust), ela o ignora, em respota [Azura](/individuos/azura) envia uma mensagem ao Veles, solicitando que levem o Hêllen intacto até ela. [Azaroth](/individuos/azaroth) aparece em sonhos ao Magnus, ordenando que o draconato e a Adaga de Azaroth nunca mais sejam separados. Armanites atacam o grupo.
 >
-> O grupo chega a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza), onde encontram quatro exércitos aos portões da prisão, cada um liderado por um governador leal a Fraz-Urb'luu: [Nyrashlia](/individuos/nyrashlia), [Proaliak](/individuos/proaliak), [Rontakus](/individuos/rontakus) e [Zurathani](/individuos/zurathani).
+> Exaustos, o grupo chega a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza), onde encontram quatro exércitos aos portões da prisão, cada um liderado por um governador leal a Fraz-Urb'luu: [Nyrashlia](/individuos/nyrashlia), [Proaliak](/individuos/proaliak), [Rontakus](/individuos/rontakus) e [Zurathani](/individuos/zurathani). O grupo se esgueira para chegar despercebido aos portões da prisão, mas em um salto, Fraz-Urb'luu chega aos portões e ao tentar entrar na prisão nada acontece.
+{.is-info}
+
+
+> "Virrazar seu verme inútil, abra esses portões agora! Você ousa conspirar contra mim? Eu o esmagarei, de novo e de novo, até que você não seja nada!" - Fraz-Urb'luu
+
+> 
 {.is-info}
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
