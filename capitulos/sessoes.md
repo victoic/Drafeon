@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T01:25:53.364Z
+date: 2025-02-09T09:23:44.044Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -412,7 +412,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [04/12/2021](https://www.youtube.com/watch?v=dAbLzD60mdk) | Data narrativa: ?? - ??
 
-> A ausência do [machado amaldiçoado]() do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) faz com que o controle sobre seu corpo seja contestado. Após salvar um goblin fugitivo nos arredores de [Ossopus](/lugares/abismo/coracao-do-vazio/ossopus), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) recebe uma [pedra de Nituhnna](/itens/pedra-de-nituhnna) que o goblin havia roubado.
+> A ausência do [machado amaldiçoado](/itens/machado-furioso) do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) faz com que o controle sobre seu corpo seja contestado. Após salvar um goblin fugitivo nos arredores de [Ossopus](/lugares/abismo/coracao-do-vazio/ossopus), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) recebe uma [pedra de Nituhnna](/itens/pedra-de-nituhnna) que o goblin havia roubado.
 {.is-info}
 
 > "Você me trocou... por um goblin?!" - [Inútil](/individuos/inutil-quasit)
@@ -429,8 +429,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [19/02/2022](https://www.youtube.com/watch?v=Y-M6AlgnQJ8) | Data narrativa: ?? - ??
 
-> [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) define para a [Adaga de Azaroth](/itens/adaga-de-azaroth) como seu desejo que [Azaroth](/individuos/azaroth) retorne o grupo, além dos que foram enviados para resgate, ao plano material. A Adaga mostra ao Magnus que dois dos guardas de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) estão mortos no [Arrebatamento Vermelho](/lugares/abismo/coracao-do-vazio/arrebatamento-vermelho)
+> [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) define para a [Adaga de Azaroth](/itens/adaga-de-azaroth) como seu desejo que [Azaroth](/individuos/azaroth) retorne o grupo, além dos que foram enviados para resgate, ao plano material. A Adaga mostra ao Magnus que dois dos guardas de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) estão mortos no [Arrebatamento Vermelho](/lugares/abismo/coracao-do-vazio/arrebatamento-vermelho).
+>
+> [Fraz-Urb'luu](/individuos/fraz-urbluu) ao descobrir que a Adaga de Azaroth foi roubada, dá um grito causando uma onda de choque por todo o [Coração do Vazio](/lugares/abismo/coracao-do-vazio), derrubando árvores e criando tremores.
 {.is-info}
+
+> "TRAGAM-OS DE VOLTA!" - Fraz-Urb'luu
+
+
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
