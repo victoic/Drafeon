@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-08T21:42:29.092Z
+date: 2025-02-09T01:19:47.001Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -428,6 +428,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 - [19/02/2022](https://www.youtube.com/watch?v=Y-M6AlgnQJ8) | Data narrativa: ?? - ??
+
+> [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) define para a [Adaga de Azaroth](/itens/adaga-de-azaroth) como seu desejo que [Azaroth](/individuos/azaroth) retorne o grupo, além dos que foram enviados para resgate, ao plano material. A Adaga mostra ao Magnus que dois dos guardas de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) estão mortos no [Arrebatamento Vermelho](/lugares/abismo/coracao-do-vazio/arrebatamento-vermelho)
+{.is-info}
 
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
