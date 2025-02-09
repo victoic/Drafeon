@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T23:44:23.320Z
+date: 2025-02-09T23:53:49.089Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -506,6 +506,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 > "Oi irmãozinho, sua felicidade no festival nos alegra, mas precisamos que nos encontre em Cruzamento um dia antes" - Sarina Starindust.
+
+- [18/06/2023](https://www.youtube.com/watch?v=4pcTW8d7K-s) | Data narrativa: 25 de Azemis 1755 - 25 de Azemis de 1755
+
+> O grupo avisa [Irien Galaniell](/individuos/irien-galaniell) de seu plano de capturar [Sarina](/individuos/sarina-starindust) e trazê-la a [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) para retirar sua suposta maldição.
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
