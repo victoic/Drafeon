@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-10T00:23:28.936Z
+date: 2025-02-10T01:03:58.554Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -511,7 +511,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > O grupo avisa [Irien Galaniell](/individuos/irien-galaniell) de seu plano de capturar [Sarina](/individuos/sarina-starindust) e trazê-la a [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) para retirar sua suposta maldição. Hêllen oferece seu serviço de teletransporte para locais em Porto Novo, criando confusão com um navegador local. Ele leva o grupo e uma família para [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
 >
-> Com ajuda de [Folhiares](/individuos/fara-folhiares), o grupo pesquisa sobre como derrotar dragões.
+> Com ajuda de [Folhiares](/individuos/fara-folhiares), o grupo pesquisa sobre como derrotar dragões. O grupo voa até [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento), onde Sarina tenta convencer o Hêllen a se juntar a Azura, após negar, Sarina e Azura atacam o grupo. Hêllen teletransporta o grupo e a Sarina para Porto Novo. Lá, buscam [Baddali](/individuos/baddali-copo-cheio) para remover a maldição dela.
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
