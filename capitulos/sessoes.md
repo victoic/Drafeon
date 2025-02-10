@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-09T23:56:08.799Z
+date: 2025-02-10T00:05:44.643Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -463,7 +463,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Nimbar faz uma tatuagem de um quasit em zircórnias. Veles fez uma tatuagem de um rosa negra e um texto em élfico ("do inferno e de volta") em zicórnias (Armadura Mágica). Zerke faz uma tatuagem de uma succubus em quartzos de estrela rosa (Comando). Magnus, o único sóbrio, faz uma tatuagem dos olhos de Azaroth em seu abdômen em citrinos (Passos Largos).
 >
-> Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde observam tendas e caravanas, jogos e música e também a cidade em reconstrução. O grupo faz compras na loja do [Ser Glorkan](/individuos/ser-glorkan).
+> Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde observam tendas e caravanas, jogos e música e também a cidade em reconstrução. O grupo faz compras na loja do [Ser Glorkan](/individuos/ser-glorkan), onde Veles compra sua vassoura voadora.
 {.is-info}
 
 - 19/03/2022 | Data narrativa: 16 de Azemis de 1755 - 25 de Azemis de 1755
