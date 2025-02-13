@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T14:47:52.541Z
+date: 2025-02-13T15:14:09.078Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -533,6 +533,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 - [30/07/2023](https://www.youtube.com/watch?v=mIeQbuu4Z5g) | Data narrativa:  01 de Fateus 1755
+
+> Em [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo), o grupo enfrenta mais elementais e um cultista de [Azura](/individuos/azura), que tentava sequestrar [Milda Chifremadeira](/individuos/milda-chifremadeira). [Mariouro Chifremadeira](/individuos/mariouro-chifremadeira) é encontrada morta. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se dispõe a encontrar um novo lar a Milda.
+>
+> Ínfame cena do grupo encontrando um anão acontece aqui.
+{.is-info}
+
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
