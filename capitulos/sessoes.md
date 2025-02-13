@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T18:27:19.502Z
+date: 2025-02-13T18:31:34.315Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -521,7 +521,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Cidadãos de Porto-Novo, não temam sua deusa. Eu apareço apenas requisitando sua oferenda durante os meus dias sagrados. Vocês abrigam dois Aasimar, chamados Hêllen e Sarina, peço que o tragam para mim até o fim deste mês, Azura os trará prosperidade nessa nova era que se aproxima. Ou destruição." - Azura
 
-> Sarina avisa que Azura possui infiltrados por todo o [Império Dragão](/faccoes/nacoes/imperio-dragao). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) percebe que o grupo está sendo espionado por dispositivos mágicos. Comunicando-se com [Irien](/individuos/irien-galaniell) no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro) em Porto Novo, a [Senhora de Região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao) os avisa que tentará ganhar tempo para que resolvam a questão, mas que caso o prazo determinado por Azura se aproxime ela precisará os entregar. O grupo desconfia que Irie trabalhe com Irien e partem em direção a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo) para impedir que uma [aasirmar](/fauna-e-flora/especies-inteligentes/aasimar) seja capturada.
+> Sarina avisa que Azura possui infiltrados por todo o [Império Dragão](/faccoes/nacoes/imperio-dragao). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) percebe que o grupo está sendo espionado por dispositivos mágicos. Comunicando-se com [Irien](/individuos/irien-galaniell) no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro) em Porto Novo, a [Senhora de Região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao) os avisa que tentará ganhar tempo para que resolvam a questão, mas que caso o prazo determinado por Azura se aproxime ela precisará os entregar. O grupo desconfia que Irien trabalhe com Irien e partem em direção a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo) para impedir que uma [aasirmar](/fauna-e-flora/especies-inteligentes/aasimar) seja capturada.
 {.is-info}
 
 - [16/07/2023](https://www.youtube.com/watch?v=1lD4-JbjNNo) | Data narrativa:  01 de Fateus 1755
