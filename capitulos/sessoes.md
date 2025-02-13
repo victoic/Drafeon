@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T14:25:42.856Z
+date: 2025-02-13T14:30:48.110Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -525,6 +525,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 - [16/07/2023](https://www.youtube.com/watch?v=1lD4-JbjNNo) | Data narrativa:  01 de Fateus 1755
+
+> Passamos a usar o Foundry VTT, ao invés do Roll20.
+{.is-warning}
+
+> Grupo enfrenta elementais no caminho a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-pantano).
+{.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
