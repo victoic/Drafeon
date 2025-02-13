@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T14:22:49.076Z
+date: 2025-02-13T14:25:42.856Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -514,14 +514,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Com ajuda de [Folhiares](/individuos/fara-folhiares), o grupo pesquisa sobre como derrotar dragões. O grupo voa até [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento), onde Sarina tenta convencer o Hêllen a se juntar a Azura, após negar, Sarina e Azura atacam o grupo. Hêllen teletransporta o grupo e a Sarina para Porto Novo. Lá, buscam [Baddali](/individuos/baddali-copo-cheio) para remover a maldição dela.
 {.is-info}
 
-- [02/07/2023](https://www.youtube.com/watch?v=4pcTW8d7K-s) | Data narrativa:  01 de Fateus 1755
+- [02/07/2023](https://www.youtube.com/watch?v=LpaWBeWe72M) | Data narrativa:  01 de Fateus 1755
 
 > [Baddali](/individuos/baddali-copo-cheio) remove uma maldição que afligia [Sarina](/individuos/sarina-starindust). [Azura](/individuos/azura) chega a [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) e requisita que Sarina e [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) sejam entregues até o fim do mês ou a cidade será destruída.
 {.is-info}
 
 > "Cidadãos de Porto-Novo, não temam sua deusa. Eu apareço apenas requisitando sua oferenda durante os meus dias sagrados. Vocês abrigam dois Aasimar, chamados Hêllen e Sarina, peço que o tragam para mim até o fim deste mês, Azura os trará prosperidade nessa nova era que se aproxima. Ou destruição." - Azura
 
-> Sarina avisa que Azura possui infiltrados por todo o [Império Dragão](/faccoes/nacoes/imperio-dragao). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) percebe que o grupo está sendo espionado por dispositivos mágicos. Comunicando-se com [Irien](/individuos/irien-galaniell) no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro) em Porto Novo, a [Senhora de Região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao) os avisa que tentará ganhar tempo para que resolvam a questão, mas que caso o prazo determinado por Azura se aproxime ela precisará os entregar. O grupo desconfia que Irie trabalhe com Irien e partem em direção a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo).
+> Sarina avisa que Azura possui infiltrados por todo o [Império Dragão](/faccoes/nacoes/imperio-dragao). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) percebe que o grupo está sendo espionado por dispositivos mágicos. Comunicando-se com [Irien](/individuos/irien-galaniell) no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro) em Porto Novo, a [Senhora de Região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao) os avisa que tentará ganhar tempo para que resolvam a questão, mas que caso o prazo determinado por Azura se aproxime ela precisará os entregar. O grupo desconfia que Irie trabalhe com Irien e partem em direção a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo) para impedir que uma [aasirmar](/fauna-e-flora/especies-inteligentes/aasimar) seja capturada.
 {.is-info}
 
 - [16/07/2023](https://www.youtube.com/watch?v=1lD4-JbjNNo) | Data narrativa:  01 de Fateus 1755
