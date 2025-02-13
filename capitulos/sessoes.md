@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T15:25:58.595Z
+date: 2025-02-13T15:28:38.037Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -536,7 +536,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Em [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo), o grupo enfrenta mais elementais e um cultista de [Azura](/individuos/azura), que tentava sequestrar [Milda Chifremadeira](/individuos/milda-chifremadeira). [Mariouro Chifremadeira](/individuos/mariouro-chifremadeira) é encontrada morta. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se dispõe a encontrar um novo lar a Milda.
 >
-> Ínfame cena do grupo encontrando um anão acontece aqui.
+> Ínfame cena do grupo encontrando um anão acontece aqui. [Amy](/individuos/personagens-de-jogadores/amy) se une a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra).
 {.is-info}
 
 - [27/08/2023](https://www.youtube.com/watch?v=TbBwPAlwo5g) | Data narrativa:  01 de Fateus 1755
