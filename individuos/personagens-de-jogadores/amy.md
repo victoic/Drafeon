@@ -2,7 +2,7 @@
 title: Amy
 description: A princesa fada
 published: true
-date: 2025-02-13T15:04:47.429Z
+date: 2025-02-13T15:14:37.916Z
 tags: fada, jogador
 editor: markdown
 dateCreated: 2025-02-13T15:04:47.429Z
@@ -24,13 +24,20 @@ Amy, fada de linhagem real, com seus cabelos curtos azulados e pele alva também
 
 Nesse vilarejo Amy vivia alegremente enquanto aprendia a arte mística das fadas para um dia herdar o trono da aldeia. Sua mãe, de nome Lápis, a acompanhava em caminhadas diariamente enquanto a ensinava sobre as responsabilidades do trono feérico mesmo num vilarejo tão pequeno.
 
-# Informações
-
-
 No momento em que Amy atinge a maioridade feérica, no festival de equinócio, data marcada para sua coroação, quando ela finalmente assumiria o título de princesa e ganharia uma coroa de vinhas; junto a um vento gélido de inverno um anjo azul de beleza inigualável e semblante triste vestido uma grande capa também azul e carregando uma triste aura de mesma cor que força as lágrimas até do coração mais feliz, junto de seu porta-voz que impõem sua “justiça e ordem” distorcidas com seu poder.
 
 Nesse momento todo o vilarejo fica cinza e triste. O anjo, de fala sempre mansa e rosto sereno, por meio de seu porta-voz remaneja todas fadas e criaturas da floresta para a construção de uma enorme pirâmide, punindo severamente aqueles que se opõem ou desobedecem a sua ordem ou princípios sem dar nenhuma explicação de seus propósitos, mas priorizando sempre a construção de sua faraônica obra. O mesmo detém como refém as pequeninas e mais jovens fadas, usando-as como ferramenta de dominação e chantagem contra opositores.
 
+# Informações
+`Nascimento` 1732 ED
+`Local de Nascimento` ?
+`Sexo Biológico` Masculino
+`Olhos` Brancos
+`Cabelo` Penas brancas
+`Altura` 1,60 m
+`Peso` 38,55 Kg
+`Organizações Associadas` [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra)
 O vilarejo, então, fica de mãos atadas: Não se sabe o porquê, mas algumas das mais poderosas fadas foram submetidas a um pacto divino onde as mesmas ficariam mais poderosas e sairiam em busca de tesouros e de espalhar a justiça de Lazuliél anjo azul, Amy foi uma das escolhidas. Lazuliél está sempre oculto transmitindo seus atos por meio de seu porta-voz, aquele que demonstra a perversidade que falta no anjo.
 
 Agora transitando entre os mais diversos planos dimensionais, Amy sempre se lembra de casa e de seu objetivo de fazer tudo ao seu alcance para proteger seus amados da ira de Lazuliél o anjo azul e sua perversa porta-voz.
+
