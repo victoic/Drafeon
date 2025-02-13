@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T23:25:29.912Z
+date: 2025-02-13T23:30:22.765Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -547,7 +547,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) teletransporta o grupo para [Montee de Marc](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montee-de-marc), tentando levá-los para Montravu. O grupo chega à Montravu pelo sistema de teleféricos das cidades gêmeas.
 >
-> Em uma taverna de Montravu, o grupo encontra um humano utilizando um disface mágico, e após investigarem. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) decide ficar em Montravu para investigar os refugiados aasimar na cidade.
+> Em uma taverna de Montravu, o grupo encontra um humano utilizando um disface mágico e, após desfazerem a magia, o perseguem pelas ruas da cidade, no entanto ele os despista entre becos e vielas. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) decide ficar em Montravu para investigar os refugiados aasimar na cidade, com Milda.
 {.is-info}
 
 
