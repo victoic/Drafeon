@@ -2,8 +2,10 @@
 title: Túneis dos Paredões
 description: 
 published: true
-date: 2019-11-12T16:16:58.865Z
+date: 2025-02-13T15:16:51.233Z
 tags: feydark
+editor: markdown
+dateCreated: 2024-08-13T19:57:07.372Z
 ---
 
 # Túneis dos Paredões
