@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T15:14:09.078Z
+date: 2025-02-13T15:25:58.595Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -538,6 +538,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Ínfame cena do grupo encontrando um anão acontece aqui.
 {.is-info}
+
+- [27/08/2023](https://www.youtube.com/watch?v=TbBwPAlwo5g) | Data narrativa:  01 de Fateus 1755
 
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
