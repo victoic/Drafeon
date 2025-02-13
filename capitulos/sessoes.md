@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T17:09:49.095Z
+date: 2025-02-13T18:27:19.502Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -541,8 +541,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [27/08/2023](https://www.youtube.com/watch?v=TbBwPAlwo5g) | Data narrativa:  01 de Fateus 1755
 
-> O grupo parte com [Milda](/individuos/milda-chifremadeira) em direção a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu).
-> [A Porta-Voz](/individuos/) aparece para [Amy]((/individuos/personagens-de-jogadores/amy).
+> O grupo parte com [Milda](/individuos/milda-chifremadeira) em direção a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [A Porta-Voz](/individuos/) aparece para [Amy]((/individuos/personagens-de-jogadores/amy).
+>
+> Espionando [Azura](/individuos/azura), [Sarina](/individuos/sarina-starindust) descobre que uma batalha entre Azura e um dragão de cobre se inicia e o grupo discute como aproveitar essa batalha para derrotá-la.
 {.is-info}
 
 
