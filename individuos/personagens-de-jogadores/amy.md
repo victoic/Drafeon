@@ -2,7 +2,7 @@
 title: Amy
 description: A princesa fada
 published: true
-date: 2025-02-13T15:14:37.916Z
+date: 2025-02-13T15:23:18.329Z
 tags: fada, jogador
 editor: markdown
 dateCreated: 2025-02-13T15:04:47.429Z
@@ -28,6 +28,10 @@ No momento em que Amy atinge a maioridade feérica, no festival de equinócio, d
 
 Nesse momento todo o vilarejo fica cinza e triste. O anjo, de fala sempre mansa e rosto sereno, por meio de seu porta-voz remaneja todas fadas e criaturas da floresta para a construção de uma enorme pirâmide, punindo severamente aqueles que se opõem ou desobedecem a sua ordem ou princípios sem dar nenhuma explicação de seus propósitos, mas priorizando sempre a construção de sua faraônica obra. O mesmo detém como refém as pequeninas e mais jovens fadas, usando-as como ferramenta de dominação e chantagem contra opositores.
 
+O vilarejo, então, fica de mãos atadas: Não se sabe o porquê, mas algumas das mais poderosas fadas foram submetidas a um pacto divino onde as mesmas ficariam mais poderosas e sairiam em busca de tesouros e de espalhar a justiça de Lazuliél anjo azul, Amy foi uma das escolhidas. Lazuliél está sempre oculto transmitindo seus atos por meio de seu porta-voz, aquele que demonstra a perversidade que falta no anjo.
+
+Agora transitando entre os mais diversos planos dimensionais, Amy sempre se lembra de casa e de seu objetivo de fazer tudo ao seu alcance para proteger seus amados da ira de Lazuliél o anjo azul e sua perversa porta-voz.
+
 # Informações
 `Nascimento` 1732 ED
 `Local de Nascimento` ?
@@ -37,7 +41,3 @@ Nesse momento todo o vilarejo fica cinza e triste. O anjo, de fala sempre mansa 
 `Altura` 1,60 m
 `Peso` 38,55 Kg
 `Organizações Associadas` [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra)
-O vilarejo, então, fica de mãos atadas: Não se sabe o porquê, mas algumas das mais poderosas fadas foram submetidas a um pacto divino onde as mesmas ficariam mais poderosas e sairiam em busca de tesouros e de espalhar a justiça de Lazuliél anjo azul, Amy foi uma das escolhidas. Lazuliél está sempre oculto transmitindo seus atos por meio de seu porta-voz, aquele que demonstra a perversidade que falta no anjo.
-
-Agora transitando entre os mais diversos planos dimensionais, Amy sempre se lembra de casa e de seu objetivo de fazer tudo ao seu alcance para proteger seus amados da ira de Lazuliél o anjo azul e sua perversa porta-voz.
-
