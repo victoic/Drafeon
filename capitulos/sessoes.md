@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T18:31:34.315Z
+date: 2025-02-13T18:44:38.405Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -544,6 +544,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo parte com [Milda](/individuos/milda-chifremadeira) em direção a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [A Porta-Voz](/individuos/) aparece para [Amy]((/individuos/personagens-de-jogadores/amy).
 >
 > Espionando [Azura](/individuos/azura), [Sarina](/individuos/sarina-starindust) descobre que uma batalha entre Azura e um dragão de cobre se inicia e o grupo discute como aproveitar essa batalha para derrotá-la.
+>
+> [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) teletransporta o grupo para [Montee de Marc](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montee-de-marc), tentando levá-los para Montravu.
 {.is-info}
 
 
