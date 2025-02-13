@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-13T14:30:48.110Z
+date: 2025-02-13T14:47:52.541Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -529,8 +529,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Passamos a usar o Foundry VTT, ao invés do Roll20.
 {.is-warning}
 
-> Grupo enfrenta elementais no caminho a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-pantano).
+> Grupo enfrenta elementais no caminho a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-pantano). A fada, [Amy](/individuos/personagens-de-jogadores/amy), aparece fugindo de alguns elementais e é ajudada pelo grupo.
 {.is-info}
+
+- [30/07/2023](https://www.youtube.com/watch?v=mIeQbuu4Z5g) | Data narrativa:  01 de Fateus 1755
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
