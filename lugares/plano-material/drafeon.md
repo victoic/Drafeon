@@ -2,7 +2,7 @@
 title: Drafeon
 description: 
 published: true
-date: 2024-12-05T17:00:27.107Z
+date: 2025-02-13T23:11:54.546Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:57:09.616Z
@@ -21,9 +21,7 @@ Drafeon é uma grande massa de terra em seu em volta por um grande lago. Se divi
 Um grande lago, chamado Mar do Meio se encontra no centro da terra. Diversas grandes e vivas florestas se encontram por toda Drafeon. Ao noroeste e oeste existem grandes cadeias de montanhas gélidas. Ao sudeste grandes pântanos povoam a terra. Ao leste Drafeon costeia um grande oceano inexplorado por seus mares inquietos, chamado Mar da Morte. Diversas ilhas podem também ser encontradas no mar do meio e no Mar da Morte.
 
 # Informações
-`Nomes Alternativos` Império Dragão, País do Dragão 
+`Nomes Alternativos` 
 `Tipo` Massa de Terra 
-`Organizações Incluidas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Grande Império Orc ](), [Império Serpetinn](/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn), [Corte Élfica](), [Reino Anão]()
-`Organizações Governante` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
-`Dono/Governante` [Makil Drasonur](/individuos/makil-drasonur#makil-drasonur) 
+`Organizações Incluidas` [Corte Élfica](/faccoes/nacoes/corte-elfica), [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Grande Império Orc ](/faccoes/nacoes/grande-imperio-orc), [Império Serpetinn](/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn), [Reino Anão](/faccoes/nacoes/reino-anao)
 `Sub-locações` [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon), [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon), [Sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), [Leste de Drafeon](/lugares/plano-material/drafeon/leste-de-drafeon), [Noroeste de Drafeon](/lugares/plano-material/drafeon/noroeste-de-drafeon), [Norte de Drafeon](/lugares/plano-material/drafeon/norte-de-drafeon), [Nordeste de Drafeon](/lugares/plano-material/drafeon/nordeste-de-drafeon), [Mar do Meio](/lugares/plano-material/drafeon/mar-do-meio#mar-do-meio), [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo#mar-do-limbo)
