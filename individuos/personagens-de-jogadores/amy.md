@@ -2,7 +2,7 @@
 title: Amy
 description: A princesa fada
 published: true
-date: 2025-02-13T15:23:18.329Z
+date: 2025-02-14T11:11:53.384Z
 tags: fada, jogador
 editor: markdown
 dateCreated: 2025-02-13T15:04:47.429Z
@@ -33,11 +33,11 @@ O vilarejo, então, fica de mãos atadas: Não se sabe o porquê, mas algumas da
 Agora transitando entre os mais diversos planos dimensionais, Amy sempre se lembra de casa e de seu objetivo de fazer tudo ao seu alcance para proteger seus amados da ira de Lazuliél o anjo azul e sua perversa porta-voz.
 
 # Informações
-`Nascimento` 1732 ED
-`Local de Nascimento` ?
-`Sexo Biológico` Masculino
-`Olhos` Brancos
-`Cabelo` Penas brancas
-`Altura` 1,60 m
-`Peso` 38,55 Kg
-`Organizações Associadas` [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra)
+`Nascimento` ?
+`Local de Nascimento` [Reino Azul](/lugares/faeria/inverno/reino-azul)
+`Sexo Biológico` Feminino
+`Olhos` Azuis escuros
+`Cabelo` Azuis, curtos em franja cobrindo os olhos
+`Altura` 0,60 m
+`Peso` 11,0 Kg
+`Organizações Associadas` [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), [Corte do Inverno](/faccoes/nacoes/corte-do-inverno)
