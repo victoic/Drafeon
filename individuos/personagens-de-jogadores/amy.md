@@ -2,7 +2,7 @@
 title: Amy
 description: A princesa fada
 published: true
-date: 2025-02-14T11:11:53.384Z
+date: 2025-02-14T12:32:52.309Z
 tags: fada, jogador
 editor: markdown
 dateCreated: 2025-02-13T15:04:47.429Z
@@ -17,8 +17,7 @@ Em 1 de Fateus de 1755, Amy se juntou à [Confraria da Rosa Negra](/faccoes/facc
 > A história a seguir foi escrita por Aldo:
 {.is-info}
 
-No plano das fadas havia um pequeno vilarejo onde todos viviam em paz. Escondidas na floresta do misterioso plano feérico haviam casinhas espalhadas
-pelas arvores em forma de cogumelos azuis e pequeninas fadas que voam pela floresta ecoando risinhos e glitter, comunicando-se com animais e trazendo a mudança das estações.
+No plano das fadas havia um pequeno vilarejo onde todos viviam em paz. Escondidas na floresta do misterioso plano feérico haviam casinhas espalhadas pelas arvores em forma de cogumelos azuis e pequeninas fadas que voam pela floresta ecoando risinhos e glitter, comunicando-se com animais e trazendo a mudança das estações.
 
 Amy, fada de linhagem real, com seus cabelos curtos azulados e pele alva também azulada brincava periodicamente com Lilly uma fada de vestes verdes e cabelos claros, assustando viajantes que ousassem se aproximar do portal escondido na floresta que levava ao vilarejo.
 
