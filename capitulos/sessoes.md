@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T01:30:55.091Z
+date: 2025-02-15T02:19:50.139Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -557,7 +557,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [15/10/2022](https://www.youtube.com/watch?v=sD3yB7w13jM) | Data narrativa:  01 de Fateus 1755 - 02 de Fateus 1755
 
-> O grupo investiga os restos do ataque descontrolado do [Eberus](/individuos/eberus).
+> O grupo investiga os restos do ataque descontrolado do [Eberus](/individuos/eberus). Chegando em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik), [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) encontra dois membros das [Três Mãos](/faccoes/faccoes-independentes/tres-maos), [Kartzo](/individuos/kartzo) e [Pirasnius](/individuos/pirasnius), que ajudam o grupo com informações.
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
