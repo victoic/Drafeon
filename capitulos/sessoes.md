@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T02:52:53.219Z
+date: 2025-02-15T11:24:10.812Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -550,20 +550,20 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Em uma taverna de Montravu, o grupo encontra um humano utilizando um disface mágico e, após desfazerem a magia, o perseguem pelas ruas da cidade, no entanto ele os despista entre becos e vielas. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) decide ficar em Montravu para investigar os refugiados aasimar na cidade, com Milda.
 {.is-info}
 
-- [10/09/2022](https://www.youtube.com/watch?v=NzxN7c-D584) | Data narrativa:  01 de Fateus 1755 - 02 de Fateus 1755
+- [10/09/2022](https://www.youtube.com/watch?v=NzxN7c-D584) | Data narrativa:  01 de Fateus 1755 - 03 de Fateus 1755
 
 > O grupo viaja para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) usando a [roc](/fauna-e-flora/roc) do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca). No caminho, enfretam um grupo de [bestas deslocadoras](/fauna-e-flora/besta-deslocadora).
 {.is-info}
 
 - [15/10/2022](https://www.youtube.com/watch?v=sD3yB7w13jM) | Data narrativa:  01 de Fateus 1755 - 02 de Fateus 1755
 
-> O grupo investiga os restos do ataque descontrolado do [Eberus](/individuos/eberus). Chegando em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik), [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) encontra dois membros das [Três Mãos](/faccoes/faccoes-independentes/tres-maos), [Kartzo](/individuos/kartzo) e [Pirasnius](/individuos/pirasnius), que ajudam o grupo com informações, e o grupo descobre de sua relação com uma sociedade secreta. Em resposta, Hêllen inicia sua própria sociedade secreta, de forma bem pública.
+> O grupo investiga os restos do ataque descontrolado do [Eberus](/individuos/eberus). Chegando em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik), [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) encontra dois membros das [Três Mãos](/faccoes/faccoes-independentes/tres-maos), [Kartzo](/individuos/kartzo) e [Pirasnius](/individuos/pirasnius), que ajudam o grupo com informações sobre um membro especializado em rituais que chegará a Vivlotik nos próximos dias, e o grupo descobre de sua relação com uma sociedade secreta. Em resposta, Hêllen inicia sua própria sociedade secreta, de forma bem pública.
 {.is-info}
 
 > "Você não é muito bom em segurar informação." - Magnus
 
 > O grupo adentra o [grande templo] da [Igreja das Treze Estrelas](/faccoes/faccoes-independentes/igreja-das-treze-estrekas), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) usa uma erva do [Folhas](/individuo/vandal-folhas) para solicitar ajuda de [Fateus](/divindades/panteao-das-treze-estrelas/fateus) para poderem adentrar a biblioteca da Igreja, uma [Sacerdote Superior](/rakings-e-titulos/igreja-das-treze-estrekas/sacerdote-superior) se comunica com Fateus e resolve ajudar o grupo.
-> Hêllen e [Sarina](/individuos/sarina-starindust) adentram a torre do grande templo e discutem a conexão do Hêllen com Fateus, onde Hêllen revela seus sonhos sobre a morte dos anjos de Fateus por [Azura](/individuos/azura) e as sacerdotes revelam que a conexão com os sonhos de Fateus vem sendo reduzida.
+> Hêllen e [Sarina](/individuos/sarina-starindust) adentram a torre do grande templo e discutem a conexão do Hêllen com Fateus, onde Hêllen revela seus sonhos sobre a morte dos anjos de Fateus por [Azura](/individuos/azura) e as sacerdotes revelam que a conexão com os sonhos de Fateus vem sendo reduzida. O grupo se hospeda na [Pousada das Nove Estrelas](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/pousada-das-nove-estrelas).
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
