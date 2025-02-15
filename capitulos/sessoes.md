@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T01:20:12.852Z
+date: 2025-02-15T01:30:55.091Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -556,6 +556,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 - [15/10/2022](https://www.youtube.com/watch?v=sD3yB7w13jM) | Data narrativa:  01 de Fateus 1755 - 02 de Fateus 1755
+
+> O grupo investiga os restos do ataque descontrolado do [Eberus](/individuos/eberus).
+{.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
