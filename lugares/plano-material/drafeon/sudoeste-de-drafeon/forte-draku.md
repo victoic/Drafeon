@@ -2,7 +2,7 @@
 title: Forte Draku
 description: 
 published: true
-date: 2025-02-15T01:55:09.645Z
+date: 2025-02-15T02:00:07.931Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-15T01:51:40.625Z
@@ -15,6 +15,14 @@ Forte Draku foi uma cidade do [sudoeste de Drafeon](/lugares/plano-material/draf
 ## Defesa
 
 A cidade, em sua saída direcionada ao interior da região sudoeste, é defendida por uma enorme muralha que se estende do vulcão [Ifasteio](/lugares/plano-material/drafeon/sudoeste-de-drafeon/ifasteio) à montanha [Anatolika tú Ifasteio](/lugares/plano-material/drafeon/sudoeste-de-drafeon/anatolika-tu-ifasteio). A muralha possui três níveis, cada um com 100 metros de altura e postos de guarda de elite e guardas aéreas e 10 metros de espessura.
+
+## Bens
+
+**Loja:** Barra de Lembranças de Calliope
+Dono: Calliope
+
+*Localização:* Próximo à muralha.
+*Descrição:* Uma barraca de madeira onde Calliope vende estátuas de pedra de símbolos locais e do império.
 
 ## Arquitetura
 
