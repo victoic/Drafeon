@@ -2,7 +2,7 @@
 title: Vivlotik
 description: 
 published: true
-date: 2025-02-15T02:12:02.782Z
+date: 2025-02-15T02:12:46.806Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-15T01:38:29.872Z
@@ -25,7 +25,7 @@ A cidade é composta por grandes torres de pedra adornadas por símbolos do [Pan
 `Tipo` Cidade Grande
 `População` 23.800
 `Gentílico` Vivlotiko 
-`Sub-locações` 
+`Sub-locações` [Biblioteca Central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/biblioteca-central)
 `Governante` 
 `Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Organizações Incluídas`
