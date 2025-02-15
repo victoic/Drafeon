@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T14:16:18.564Z
+date: 2025-02-15T14:17:46.936Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -592,6 +592,11 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 - [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+
+> 
+{.is-info}
+
+- [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
 > 
 {.is-info}
