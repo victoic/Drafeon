@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T02:24:45.973Z
+date: 2025-02-15T02:42:46.289Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -562,7 +562,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Você não é muito bom em segurar informação." - Magnus
 
-> 
+> O grupo adentra um templo da [Igreja das Treze Estrelas](/faccoes/faccoes-independentes/igreja-das-treze-estrekas), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) usa uma erva do [Folhas](/individuo/vandal-folhas) para solicitar ajuda de [Fateus](/divindades/panteao-das-treze-estrelas/fateus) para poderem adentrar a biblioteca da Igreja.
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
