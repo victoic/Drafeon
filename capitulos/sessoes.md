@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T01:06:29.751Z
+date: 2025-02-15T01:20:12.852Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -507,14 +507,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Oi irmãozinho, sua felicidade no festival nos alegra, mas precisamos que nos encontre em Cruzamento um dia antes" - Sarina Starindust.
 
-- [18/06/2023](https://www.youtube.com/watch?v=4pcTW8d7K-s) | Data narrativa: 27 de Azemis 1755 - 01 de Fateus 1755
+- [18/06/2022](https://www.youtube.com/watch?v=4pcTW8d7K-s) | Data narrativa: 27 de Azemis 1755 - 01 de Fateus 1755
 
 > O grupo avisa [Irien Galaniell](/individuos/irien-galaniell) de seu plano de capturar [Sarina](/individuos/sarina-starindust) e trazê-la a [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) para retirar sua suposta maldição. Hêllen oferece seu serviço de teletransporte para locais em Porto Novo, criando confusão com um navegador local. Ele leva o grupo e uma família para [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
 >
 > Com ajuda de [Folhiares](/individuos/fara-folhiares), o grupo pesquisa sobre como derrotar dragões. O grupo voa até [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento), onde Sarina tenta convencer o Hêllen a se juntar a Azura, após negar, Sarina e Azura atacam o grupo. Hêllen teletransporta o grupo e a Sarina para Porto Novo. Lá, buscam [Baddali](/individuos/baddali-copo-cheio) para remover a maldição dela.
 {.is-info}
 
-- [02/07/2023](https://www.youtube.com/watch?v=LpaWBeWe72M) | Data narrativa:  01 de Fateus 1755
+- [02/07/2022](https://www.youtube.com/watch?v=LpaWBeWe72M) | Data narrativa:  01 de Fateus 1755
 
 > [Baddali](/individuos/baddali-copo-cheio) remove uma maldição que afligia [Sarina](/individuos/sarina-starindust). [Azura](/individuos/azura) chega a [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) e requisita que Sarina e [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) sejam entregues até o fim do mês ou a cidade será destruída.
 {.is-info}
@@ -524,7 +524,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Sarina avisa que Azura possui infiltrados por todo o [Império Dragão](/faccoes/nacoes/imperio-dragao). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) percebe que o grupo está sendo espionado por dispositivos mágicos. Comunicando-se com [Irien](/individuos/irien-galaniell) no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro) em Porto Novo, a [Senhora de Região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao) os avisa que tentará ganhar tempo para que resolvam a questão, mas que caso o prazo determinado por Azura se aproxime ela precisará os entregar. O grupo desconfia que Irien trabalhe com Irien e partem em direção a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo) para impedir que uma [aasirmar](/fauna-e-flora/especies-inteligentes/aasimar) seja capturada.
 {.is-info}
 
-- [16/07/2023](https://www.youtube.com/watch?v=1lD4-JbjNNo) | Data narrativa:  01 de Fateus 1755
+- [16/07/2022](https://www.youtube.com/watch?v=1lD4-JbjNNo) | Data narrativa:  01 de Fateus 1755
 
 > Passamos a usar o Foundry VTT, ao invés do Roll20.
 {.is-warning}
@@ -532,14 +532,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Grupo enfrenta elementais no caminho a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-pantano). A fada, [Amy](/individuos/personagens-de-jogadores/amy), aparece fugindo de alguns elementais e é ajudada pelo grupo.
 {.is-info}
 
-- [30/07/2023](https://www.youtube.com/watch?v=mIeQbuu4Z5g) | Data narrativa:  01 de Fateus 1755
+- [30/07/2022](https://www.youtube.com/watch?v=mIeQbuu4Z5g) | Data narrativa:  01 de Fateus 1755
 
 > Em [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo), o grupo enfrenta mais elementais e um cultista de [Azura](/individuos/azura), que tentava sequestrar [Milda Chifremadeira](/individuos/milda-chifremadeira). [Mariouro Chifremadeira](/individuos/mariouro-chifremadeira) é encontrada morta. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se dispõe a encontrar um novo lar a Milda.
 >
 > Ínfame cena do grupo encontrando um anão acontece aqui. [Amy](/individuos/personagens-de-jogadores/amy) se une a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra).
 {.is-info}
 
-- [27/08/2023](https://www.youtube.com/watch?v=TbBwPAlwo5g) | Data narrativa:  01 de Fateus 1755
+- [27/08/2022](https://www.youtube.com/watch?v=TbBwPAlwo5g) | Data narrativa:  01 de Fateus 1755
 
 > O grupo parte com [Milda](/individuos/milda-chifremadeira) em direção a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [A Porta-Voz](/individuos/) aparece para [Amy]((/individuos/personagens-de-jogadores/amy).
 >
@@ -550,10 +550,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Em uma taverna de Montravu, o grupo encontra um humano utilizando um disface mágico e, após desfazerem a magia, o perseguem pelas ruas da cidade, no entanto ele os despista entre becos e vielas. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) decide ficar em Montravu para investigar os refugiados aasimar na cidade, com Milda.
 {.is-info}
 
-- [10/09/2023](https://www.youtube.com/watch?v=NzxN7c-D584) | Data narrativa:  01 de Fateus 1755 - 02 de Fateus 1755
+- [10/09/2022](https://www.youtube.com/watch?v=NzxN7c-D584) | Data narrativa:  01 de Fateus 1755 - 02 de Fateus 1755
 
 > O grupo viaja para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) usando a [roc](/fauna-e-flora/roc) do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca). No caminho, enfretam um grupo de [bestas deslocadoras](/fauna-e-flora/besta-deslocadora).
 {.is-info}
+
+- [15/10/2022](https://www.youtube.com/watch?v=sD3yB7w13jM) | Data narrativa:  01 de Fateus 1755 - 02 de Fateus 1755
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
