@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T14:20:42.382Z
+date: 2025-02-15T14:21:13.608Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -616,7 +616,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: ?? de ?? de 1755 ED
 
-> Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sul-de-drafeon/montravu). [John](/individuos/personagens-de-jogadores/john) se une à Confraria da Rosa Negra.
+> Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [John](/individuos/personagens-de-jogadores/john) se une à Confraria da Rosa Negra.
 {.is-info}
 
 ## [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
