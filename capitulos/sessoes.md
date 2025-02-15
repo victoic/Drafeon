@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T11:31:46.048Z
+date: 2025-02-15T14:12:34.842Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -566,7 +566,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Hêllen e [Sarina](/individuos/sarina-starindust) adentram a torre do grande templo e discutem a conexão do Hêllen com Fateus, onde Hêllen revela seus sonhos sobre a morte dos anjos de Fateus por [Azura](/individuos/azura) e as sacerdotes revelam que a conexão com os sonhos de Fateus vem sendo reduzida. O grupo se hospeda na [Pousada das Nove Estrelas](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/pousada-das-nove-estrelas).
 {.is-info}
 
-- [22/10/2022](https://www.youtube.com/live/j1-f7vi8ZM8?si=SZNA8-8Kv1_2abZ3) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+- [22/10/2022](https://www.youtube.com/watch?v=j1-f7vi8ZM8) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+
+> 
+{.is-info}
+
+- [19/11/2022](https://www.youtube.com/watch?v=8N3PEKkP9lQ) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
 > 
 {.is-info}
