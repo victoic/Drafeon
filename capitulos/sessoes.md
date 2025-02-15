@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T01:03:33.550Z
+date: 2025-02-15T01:06:29.751Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -552,7 +552,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [10/09/2023](https://www.youtube.com/watch?v=NzxN7c-D584) | Data narrativa:  01 de Fateus 1755 - 02 de Fateus 1755
 
-> O grupo viaja para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) usando a [roc](/fauna-e-flora/roc) do [Magnus](.
+> O grupo viaja para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) usando a [roc](/fauna-e-flora/roc) do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca). No caminho, enfretam um grupo de [bestas deslocadoras](/fauna-e-flora/besta-deslocadora).
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
