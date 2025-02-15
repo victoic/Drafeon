@@ -2,7 +2,7 @@
 title: Vivlotik
 description: 
 published: true
-date: 2025-02-15T02:04:08.637Z
+date: 2025-02-15T02:09:28.026Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-15T01:38:29.872Z
@@ -14,6 +14,8 @@ dateCreated: 2025-02-15T01:38:29.872Z
 {.is-info}
 
 Vivlotik foi uma cidade importante do [sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), sendo a capital religiosa e intelectual do [Império Dragão](/faccoes/nacoes/imperio-dragao).
+
+A cidade reune visitantes de todo o Império Dragão, que peregrinam para demonstrar sua fé pelos deuses. A língua comum na cidade é gnomo. Dada a densidade de visitantes, existem também locais que tentam enganar visitantes com jogos e golpes.
 
 ## Arquitetura
 
