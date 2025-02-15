@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T14:17:46.936Z
+date: 2025-02-15T14:20:42.382Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -596,14 +596,25 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > 
 {.is-info}
 
+
+## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
+
 - [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
 > 
 {.is-info}
 
-## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
+- [11/02/2023](https://www.youtube.com/watch?v=Y58HjKeNuGA) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
-- 18/03/2023 | Data narrativa: ?? de ?? de 1755 ED
+> 
+{.is-info}
+
+- [04/03/2023](https://www.youtube.com/watch?v=xyDEZcZUGwE) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+
+> 
+{.is-info}
+
+- [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: ?? de ?? de 1755 ED
 
 > Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sul-de-drafeon/montravu). [John](/individuos/personagens-de-jogadores/john) se une à Confraria da Rosa Negra.
 {.is-info}
