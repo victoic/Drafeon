@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T23:34:27.841Z
+date: 2025-02-17T23:35:45.447Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -634,7 +634,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
-> O combate contra [Azura](/individuos/azura) é concluído com a morte tanto de Azura, pelas mãos de [Sarina](/individuos/sarina-starindust), quanto de [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). [Wladimir](/individuos/personagens-de-jogadores/wladimir) cria um teletransporte por plantas para que o Hêllen seja ressucitado em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik).
+> O combate contra [Azura](/individuos/azura) é concluído com a morte tanto de Azura, pelas mãos de [Sarina](/individuos/sarina-starindust), quanto de [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). [Wladimir](/individuos/personagens-de-jogadores/wladimir) cria um teletransporte por plantas para que o Hêllen seja ressucitado em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Amy](/individuos/personagens-de-jogadores/amy) ficam para garantir que Azura realmente morreu e extrair partes do corpo.
 {.is-info}
 
 
