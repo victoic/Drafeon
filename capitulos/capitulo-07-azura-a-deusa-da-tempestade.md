@@ -2,7 +2,7 @@
 title: Capítulo 07
 description: Azura, A Dragão Deus
 published: true
-date: 2025-02-17T19:30:33.491Z
+date: 2025-02-17T22:40:24.834Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -73,7 +73,7 @@ Hêllen tem um encontro romântico com Folhiares na noite de Horizonte, que é i
 
 Após a obtenção da Lança Iridescente, Por ideia da Amy, Sarina espia magicamente Azura, identificando que Azura ainda estava em combate com o dragão de cobre com que estava lutando a dias, mas também o local onde o combate parece estar ocorrendo, sobre um deserto, para que criem uma emboscada. Sarina tenta teleportar o grupo para os [Planos Secos](/lugares/plano-material/drafeon/sudoeste-de-drafeon/planos-secos).
 
-O grupo é teleportado para próximo a Bagrami, onde são recebido como convidados por [Idomerios](), o líder da vila nômade, lá o grupo descansa. Os centauros locais dizem que um dragão voou ao leste a alguns dias e então o grupo decide montar na Roc mágica do Magnus e partir na direção de Azura. No caminho, Sarina espia Azura novamente e vê a dragão matando seu adversário. O grupo decide que esse seria o melhor momento de enfrentar Azura sem estar em seu estado perfeito.
+O grupo é teleportado para próximo a Bagrami, onde são recebido como convidados por [Idomerios](/individuos/idomerios), o líder da vila nômade, lá o grupo descansa. Os centauros locais dizem que um dragão voou ao leste a alguns dias e então o grupo decide montar na Roc mágica do Magnus e partir na direção de Azura. No caminho, Sarina espia Azura novamente e vê a dragão matando seu adversário. O grupo decide que esse seria o melhor momento de enfrentar Azura sem estar em seu estado perfeito.
 
 O voa a encontro de Azura e combate se faz conforme Azura surge no céu sobre a Roc. Após se mostrar mentalmente indecisa quanto a quem deveria auxiliar no combate, porém após a morte de Hellên, Sarina foi responsável pelo ataque final em Azura. O corpo da dragão azul ficou caído no deserto.
 
