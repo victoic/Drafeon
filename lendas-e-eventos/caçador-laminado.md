@@ -2,7 +2,7 @@
 title: Caçador Laminado
 description: 
 published: true
-date: 2025-02-17T18:36:04.702Z
+date: 2025-02-17T18:45:52.584Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-17T18:30:27.344Z
@@ -22,5 +22,5 @@ A lenda é pouco conhecida, exceto alguns poucos registros de dragões e outras 
 # Informações
 `Data do Primeira Registro` Durante a Era do Caos
 `Lugares Relacionados` [Montanhas Platina](/lugares/plano-material/drafeon/sudoeste-de-drafeon)
-`Pessoas Relacionadas` [Joanne Fildeux](/individuos/joanne-fildeux)
+`Pessoas Relacionadas` [Joanne Fildeux](/individuos/joanne-fildeux)^não^ ^confirmado^
 `Organizações Relacionadas` 
