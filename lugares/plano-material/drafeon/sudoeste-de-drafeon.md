@@ -2,7 +2,7 @@
 title: Sudoeste de Drafeon
 description: 
 published: true
-date: 2025-02-14T02:58:46.996Z
+date: 2025-02-17T22:35:02.506Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-13T18:47:13.268Z
@@ -12,6 +12,13 @@ dateCreated: 2025-02-13T18:47:13.268Z
 O Sudoeste de Drafeon é uma região, pertencente ao [Império Dragão](/faccoes/nacoes/imperio-dragao). A região é demograficamente diversa, mas possui maioria de [gnomos](/fauna-e-flora/especies-inteligentes/gnomo). É a região capital do Império Dragão, sendo seu ponto de início e sede da capital [Kêndtro](/lugares/plano-material/drafeon/sudoeste-de-drafeon/kendtro).
 
 ## Geografia
+
+### Montanhas
+**Picos dos Desaparecidos.**
+
+
+### Deserto
+**Os Planos Secos.** Uma área árida ao sul além dos Picos dos Desaparecidos. Lar do Bosque dos Espinhos, do Oásis, e das Correntes de Areia. Além disso, neste habitam as tribos nómades de [centauros](/fauna-e-flora/especies-inteligentes/centauro) de Bagrami e Tachila.
 
 # Informações
 `Tipo` Região 
