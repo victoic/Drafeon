@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T22:59:37.694Z
+date: 2025-02-17T23:03:09.776Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -613,7 +613,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo enfrenta os guardiões da [Lança Iridescente](/itens/lanca-iridescente), no entanto fogem e se reagrupam esperando que [Sarina](/individuos/sarina-starindust) busque o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). Melhor preparados, o grupo recupera o artefato.
 {.is-info}
 
-- [07/01/2023](https://www.youtube.com/watch?v=MtaBKHW32iw) | Data narrativa:  04 de Fateus 1755 - 03 de Fateus 1755
+- [07/01/2023](https://www.youtube.com/watch?v=MtaBKHW32iw) | Data narrativa:  04 de Fateus 1755 - 05 de Fateus 1755
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta contatar o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), no entanto, Zerke dispensa os chamados do grupo alertando estar ocupado com suas investigações. [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) apresenta seu desejo que [Sarina](/individuos/sarina-starindust) não participe do combate contra [Azura](/individuos/azura).
 {.is-info}
@@ -622,6 +622,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Sarina teleporta o grupo para [Os Planos Secos](/lugares/plano-material/drafeon/sudoeste-de-drafeon), nocauteando o Hêllen no processo. Buscando pelos ares [Wladimir](/individuos/personagens-de-jogadores/wladimir) encontra a vila de [Bagrami](/lugares/plano-material/drafeon/sudoeste-de-drafeon/bagrami) e são levados para conhecer os líderes da vila [Ifilos](/individuos/ifilos), [Idomerios](/individuos/idomerios) e [Tyranus](/individuos/ifilos).
 {.is-info}
+
+> "Permita que eu dê um abraço em cada um de vocês!" - Wladimir
+
+> "Não permito." - Idomerios
 
 - [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
