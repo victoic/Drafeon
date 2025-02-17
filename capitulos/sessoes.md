@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T21:01:55.100Z
+date: 2025-02-17T21:08:39.378Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -604,6 +604,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Após conseguirem respostas, partem em busca da [Lança Iridescente](/itens/lanca-iridescente). Wladimir teleporta o grupo, com exceção de Hêllen e [Sarina](/individuos/sarina-starindust) até Clareira, de onde voam até as florestas e Wladimir conversa com uma raposa para encontrar uma nascente de rio e em seguida com plantas.
 >
 > Enquanto o grupo busca a Lança, Hêllen sai em um encontro com Folhiares.
+>
+> Wladimir consegue encontrar algo construído próximo a uma nascente utilizando Comunhão com a Natureza.
 {.is-info}
 
 - [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
