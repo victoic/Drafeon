@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T20:26:37.512Z
+date: 2025-02-17T20:28:51.813Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -599,7 +599,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 04 de Fateus 1755
 
-> O grupo visita [Folhiares](/individuos/fara-folhiares) em [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) e em seguida [Ulyana Arabath](/individuos/ulyana-arabath) para buscar uma forma de demonstrar o futuro onde [Azura](/individuos/azura) perde.
+> O grupo visita [Folhiares](/individuos/fara-folhiares) em [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) e em seguida [Ulyana Arabath](/individuos/ulyana-arabath) para buscar uma forma de demonstrar o futuro onde [Azura](/individuos/azura) perde, após conseguirem respostas, partem em busca da [Lança Iridescente](/itens/lanca-iridescente).
 {.is-info}
 
 - [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
