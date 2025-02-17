@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T18:19:23.448Z
+date: 2025-02-17T18:25:54.993Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -583,7 +583,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [19/11/2022](https://www.youtube.com/watch?v=8N3PEKkP9lQ) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
-> Os preparativos para o ritual do [Oráculo do Lírio](/lendas-e-eventos/rituais/oraculo-do-lirio) se iniciam.
+> Os preparativos para o ritual do [Oráculo do Lírio](/lendas-e-eventos/rituais/oraculo-do-lirio) se iniciam. [Sarina](/individuos/sarina-starindust), [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Amy](/individuos/personagens-de-jogadores/amy) se voluntariam para auxiliar com seus dons arcanos a realização do ritual.
 {.is-info}
 
 - [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
