@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T19:38:44.160Z
+date: 2025-02-17T19:46:48.386Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -593,6 +593,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Os três sacerdotes iniciam orações que lembram cantos, rítmicos, harmônicos na forma que eles oram. Os três fazem orações semelhantes em celestial, mas diferentes em seus pedidos, que em momentos as palavras se cruzam, falando a mesma palavra ao mesmo tempo antes de voltar a divergir. Cada um pedindo algo e entregando algo. "Para ver o futuro, você deve doar seu passado".
 
 > Veles utiliza um espaço de 5º nível, totalizando 16 em seu teste de arcana; Amy utiliza um espaço de 7º nível, totalizando 27 em seu teste de religião; Myriani totaliza 30, Tanealia totaliza 26 e Babyst totaliza 21; Hêllen utiliza um espaço de 7º nível, totalizando 36 em seu teste de arcana. Para um total de 156 no ritual.
+>
+> O grupo vê como possbilidade 6 cenários principais, além de 2 em que ela falha, mas não podem observar. Entre os cenários principais de "vitória" de Azura, alguns incluem ela ascendendo mas sendo controlada por outras criaturas misteriosas.
 {.is-info}
 
 - [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
