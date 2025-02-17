@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T13:08:13.313Z
+date: 2025-02-17T13:16:54.226Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -562,18 +562,20 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Você não é muito bom em segurar informação." - Magnus
 
-> O grupo adentra o [grande templo] da [Igreja das Treze Estrelas](/faccoes/faccoes-independentes/igreja-das-treze-estrekas), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) usa uma erva do [Folhas](/individuo/vandal-folhas) para solicitar ajuda de [Fateus](/divindades/panteao-das-treze-estrelas/fateus) para poderem adentrar a biblioteca da Igreja, uma [Sacerdote Superior](/rakings-e-titulos/igreja-das-treze-estrekas/sacerdote-superior) se comunica com Fateus e resolve ajudar o grupo.
+> O grupo adentra o [grande templo](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/grande-templo) da [Igreja das Treze Estrelas](/faccoes/faccoes-independentes/igreja-das-treze-estrekas), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) usa uma erva do [Folhas](/individuo/vandal-folhas) para solicitar ajuda de [Fateus](/divindades/panteao-das-treze-estrelas/fateus) para poderem adentrar a biblioteca da Igreja, uma [Sacerdote Superior](/rakings-e-titulos/igreja-das-treze-estrekas/sacerdote-superior) se comunica com Fateus e resolve ajudar o grupo.
 > Hêllen e [Sarina](/individuos/sarina-starindust) adentram a torre do grande templo e discutem a conexão do Hêllen com Fateus, onde Hêllen revela seus sonhos sobre a morte dos anjos de Fateus por [Azura](/individuos/azura) e as sacerdotes revelam que a conexão com os sonhos de Fateus vem sendo reduzida. O grupo se hospeda na [Pousada das Nove Estrelas](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/pousada-das-nove-estrelas).
 {.is-info}
 
 - [22/10/2022](https://www.youtube.com/watch?v=j1-f7vi8ZM8) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
+> O grupo recebe a carta de permissão de acesso à [Biblioteca Central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/grande-templo).
+>
 > Por solicitação do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) à [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris), [Wladimir](/individuos/personagens-de-jogadores/wladimir) passa a auxiliar o grupo em suas buscas por métodos para derrotar [Azura](/individuos/azura).
 {.is-info}
 
 - [19/11/2022](https://www.youtube.com/watch?v=8N3PEKkP9lQ) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
-> 
+>
 {.is-info}
 
 - [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
