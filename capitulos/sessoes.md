@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T19:14:18.941Z
+date: 2025-02-17T19:15:41.391Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -588,7 +588,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Concorrentemente, parte do grupo possíveis lugares onde a [Lança Iridescente](/itens/lanca-iridescente) poderia estar, pedindo ajuda ao [Wladimir](/individuos/personagens-de-jogadores/wladimir) e ao [Folhas](/individuo/vandal-folhas) para encontrar árvores com milênios de idade para perguntar por suas lembranças quanto ao [Caçador Laminado](/lendas-e-eventos/caçador-laminado).
 >
-> O grupo realiza o ritual do Oráculo do Lírio, tendo como ponto de observação as ramificações onde [Azura](/individuos/azura) tenta o ritual de ascenção.
+> O grupo realiza o ritual do Oráculo do Lírio, tendo como ponto de observação as ramificações do grupo combater [Azura](/individuos/azura).
 {.is-info}
 
 - [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
