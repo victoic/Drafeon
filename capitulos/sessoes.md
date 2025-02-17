@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T20:13:13.806Z
+date: 2025-02-17T20:26:37.512Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -597,9 +597,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo vê como possbilidade 6 cenários principais, além de 2 em que ela falha, mas não podem observar. Entre os cenários principais de "vitória" de Azura, um mostrava Azura como única deusa, outro como deusa maior perante os demais, em outro outras criaturas tomavam o lugar dos demais deuses, em outro azura passava a fazer parte do panteão, outro incluia ela ascendendo mas sendo controlada por outras criaturas misteriosas.
 {.is-info}
 
-- [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+- [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 04 de Fateus 1755
 
-> O grupo visita [Folhiares](/individuos/fara-folhiares) em [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
+> O grupo visita [Folhiares](/individuos/fara-folhiares) em [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) e em seguida [Ulyana Arabath](/individuos/ulyana-arabath) para buscar uma forma de demonstrar o futuro onde [Azura](/individuos/azura) perde.
 {.is-info}
 
 - [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
