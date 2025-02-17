@@ -2,14 +2,14 @@
 title: Wladimir Folhaverde
 description: 
 published: true
-date: 2025-02-17T13:27:40.628Z
+date: 2025-02-17T13:29:03.343Z
 tags: jogador
 editor: markdown
 dateCreated: 2025-02-15T01:23:34.993Z
 ---
 
 # Wladimir Folhaverde
-Wladimir Folhaverde foi um humano druida nômade e membro das [Três Mãos](/faccoes/faccoes-independentes/tres-maos).
+Wladimir Folhaverde foi um humano druida nômade e membro das [Três Mãos](/faccoes/faccoes-independentes/tres-maos). Após acontecimentos no início dos anos 1700 ED, Wladimir carrega consigo o elmo de seu antigo companheiro [Damião Crisaor](/individuos/damiao-crisaor).
 
 Em Fateus de 1755, Wladimir auxiliou a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) na busca pela [Lança Iridescente](/itens/lanca-iridescente) para derrotar [Azura](/individuos/azura).
 
