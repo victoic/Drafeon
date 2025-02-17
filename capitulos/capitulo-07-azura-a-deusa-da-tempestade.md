@@ -2,7 +2,7 @@
 title: Capítulo 07
 description: Azura, A Dragão Deus
 published: true
-date: 2025-02-17T23:58:25.120Z
+date: 2025-02-17T23:58:44.629Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -77,7 +77,7 @@ O grupo é teleportado para próximo a Bagrami, onde são recebido como convidad
 
 O voa a encontro de Azura e combate se faz conforme Azura surge no céu sobre a Roc. Após se mostrar mentalmente indecisa quanto a quem deveria auxiliar no combate, porém após a morte de Hellên, Sarina foi responsável pelo ataque final em Azura. O corpo da dragão azul ficou caído no deserto.
 
-Após o combate, o Zerke, Wladimir e Magnus prontamente levaram o corpo de Hêllen para Vivlotik, solicitando um ritual de ressureição aos sacerdotes das treze estrelas. Com a ressurreição de Hêllen e morte de Azura, Hêllen começou a perder suas aptidões arcanas. Enquanto Hêllen foi levado, Veles e Amy ficaram para extrair partes do corpo de Azura.
+Após o combate, a Sarina, o Wladimir e o Magnus prontamente levaram o corpo de Hêllen para Vivlotik, solicitando um ritual de ressureição aos sacerdotes das treze estrelas. Com a ressurreição de Hêllen e morte de Azura, Hêllen começou a perder suas aptidões arcanas. Enquanto Hêllen foi levado, Veles e Amy ficaram para extrair partes do corpo de Azura.
 
 - 19x2 escamas
 - 5x2 dentes
