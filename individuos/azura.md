@@ -2,7 +2,7 @@
 title: Azura
 description: A deusa da tempestade
 published: true
-date: 2025-02-13T17:06:58.318Z
+date: 2025-02-17T18:39:20.260Z
 tags: boss, dragão
 editor: markdown
 dateCreated: 2025-02-13T17:06:58.318Z
@@ -16,6 +16,6 @@ Em 1744, Azura atacou a cidade de [Cruzamento](/lugares/plano-material/drafeon/s
 Hêllen fugiu e se tornou inimigo da dragão, enquanto Sarina se tornou serva leal em sua busca por ascenção. Em 1755, Hêllen e o resto da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) capturaram Sarina e ela os ajudou a matar Azura.
 
 # Informações
-`Data de Nascimento`
-`Data de Morte`
+`Data de Nascimento` ?
+`Data de Morte` 1755 ED
 `Títulos` Deusa da Tempestade
