@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T23:21:50.203Z
+date: 2025-02-17T23:28:21.997Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -634,7 +634,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
-> 
+> O combate contra [Azura](/individuos/azura) é concluído.
 {.is-info}
 
 
