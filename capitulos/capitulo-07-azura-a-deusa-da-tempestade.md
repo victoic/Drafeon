@@ -2,7 +2,7 @@
 title: Capítulo 07
 description: Azura, A Dragão Deus
 published: true
-date: 2025-02-09T20:49:28.198Z
+date: 2025-02-17T19:30:33.491Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -49,7 +49,7 @@ Em Vivlotik, [Magnus Ponta-de-Lança](/individuos/personagens-de-jogadores/magnu
 
 ## Oráculo do Lírio
 
-Wladimir ajuda o grupo também descrevendo um ritual que pode ver o emaranhado do destino, permitindo o grupo entender o curso de ações de Azura e os possíveis fins, incluindo casos de derrota para Azura: [Oráculo do Lírio](/lendas-e-eventos/rituais/oraculo-do-lirio). O grupo realiza o ritual, com o Hellên sacrificando a cartua que sua mãe o deixou no orfanato e um espaço de magia de 7º círculo, [Myriani](/individuos/myriani) sacrificou um colar de sua família e um espaço de magia de 5º círculo, [Tanelia](/individuos/tanelia) sacrificou duas pulseiras representando sua fé e um espaço de magia de 5º círculo, [Veles Lupis Lugh](/individuos/personagens-de-jogadores/veles-lupis-lugh) sacrificou sua espada de prata e um espaço de magia de 5º círculo, e [Amy](/individuos/personagens-de-jogadores/amy) sacrificou seu livro de anotações sobre Drafeon e um espaço de mágia de 5º círculo, por fim, [Banbyst](/individuos/banbyst) sacrificou seus óculos.
+Wladimir ajuda o grupo também descrevendo um ritual que pode ver o emaranhado do destino, permitindo o grupo entender o curso de ações de Azura e os possíveis fins, incluindo casos de derrota para Azura: [Oráculo do Lírio](/lendas-e-eventos/rituais/oraculo-do-lirio). O grupo realiza o ritual, com o Hellên sacrificando a cartua que sua mãe o deixou no orfanato e um espaço de magia de 7º círculo, [Myriani](/individuos/myriani) sacrificou um colar de sua família e um espaço de magia de 5º círculo, [Tanelia](/individuos/tanelia) sacrificou duas pulseiras representando sua fé e um espaço de magia de 5º círculo, [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) sacrificou sua espada de prata e um espaço de magia de 5º círculo, e [Amy](/individuos/personagens-de-jogadores/amy) sacrificou seu livro de anotações sobre Drafeon e um espaço de mágia de 5º círculo, por fim, [Banbyst](/individuos/banbyst) sacrificou seus óculos.
 
 O ritual foca em observar a vitória de Azura, com Hêllen focando nas visões que a dragão havia o mostrado, para tentar alcançar "galhos" paralelos no futuro em que Azura seria derrotada. Focando energia diretamente de [Fateus](/divindades/panteao-das-treze-estrelas/fateus), a qual nem ele mesmo sabia possuir, Hêllen faz o lírio crescer em uma árvores de luz, com apenas dois galhos apodrecendo, revelando a existência de apenas dois futuros onde Azura não conseguiria se tornar uma deusa.
 
