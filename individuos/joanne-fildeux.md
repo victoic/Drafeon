@@ -2,16 +2,16 @@
 title: Joanne Fildeux
 description: O Caçador Laminado
 published: true
-date: 2025-02-17T18:31:53.545Z
+date: 2025-02-17T18:45:30.912Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:50:04.103Z
 ---
 
 # Joanne Fildeux
-Caroline Fildeux foi uma humana guerreira, conhecida como Caçador Laminado por usar uma armadura brilhante. É chamada de Caçador por comumente ter seu rosto coberto em batalha, impedindo que inimigos reconheçam imediatamente seu sexo.
+Joanne Fildeux foi uma humana guerreira. Existe a possibilidade de Joanne ter sido a quem se conheceu como Caçador Laminado. Registros de armaduras vestidas por Joanne corroboram uma armadura brilhante também relatada nas histórias do Caçador Laminado. Sendo verdade, o engano em chamá-la de "Caçador" ocorreria por comumente ter seu rosto coberto em batalha, impedindo que inimigos reconheçam imediatamente seu sexo.
 
-Caroline foi a única capaz de empunha a [Lança Iridescente](/itens/lanca-iridescente) após sua forja, durante a [Fúria dos Dragões](/lendas-e-eventos/furia-dos-dragoes), daí em diante dedicou sua vida a caçar criaturas de pode imenso que aterrorizavam sua região natal. Menções ao seu título desapareceram repentinamente e nada se sabe sobe seu desfecho.
+Relatos também apontam que Joanne carregava uma lança brilhante, podendo ela ter sido a única capaz de empunhar a [Lança Iridescente](/itens/lanca-iridescente) após sua forja, durante a [Fúria dos Dragões](/lendas-e-eventos/furia-dos-dragoes), daí em diante dedicando sua vida a caçar criaturas de poder imenso que aterrorizavam sua região natal. Menções ao seu possível título desapareceram repentinamente e nada se sabe sobe seu desfecho.
 
 # Informações
 `Data de Nascimento` 125 da Era do Caos
@@ -20,4 +20,4 @@ Caroline foi a única capaz de empunha a [Lança Iridescente](/itens/lanca-iride
 `Cabelos` Loiros médias, cacheados
 `Altura` 1,80 m
 `Peso` 78 Kg
-`Títulos` [Caçador Laminado](/lendas-e-eventos/caçador-laminado)
+`Títulos` [Caçador Laminado](/lendas-e-eventos/caçador-laminado) ^não^ ^confirmado^
