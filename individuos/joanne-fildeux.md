@@ -1,8 +1,8 @@
 ---
-title: Caroline Fildeux
+title: Joanne Fildeux
 description: O Caçador Laminado
 published: true
-date: 2025-02-17T18:26:12.222Z
+date: 2025-02-17T18:31:53.545Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:50:04.103Z
