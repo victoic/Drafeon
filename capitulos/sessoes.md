@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T19:21:15.239Z
+date: 2025-02-17T19:21:33.366Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -590,7 +590,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo realiza o ritual do Oráculo do Lírio, tendo como ponto de observação as ramificações do grupo combater [Azura](/individuos/azura). O ritual se inicia com os sacerdotes orando enquanto os membros do grupo participante plantam o lírio ao centro do círculo. Veles oferece sua rapieira, que simboliza sua liberdade; Hêllen doa a carta deixada por sua mãe após abandoná-lo e sua irmã; Amy oferece
 {.is-info}
 
-> Os três sacerdotes iniciam orações que lembram cantos, rítmicos, harmônicos na forma que eles oram. Os três fazem orações semelhantes em celestial, mas diferentes em seus pedidos, que em momentos as palavras se cruzam, falando a mesma palavra ao mesmo tempo antes de voltar a divergir.
+> Os três sacerdotes iniciam orações que lembram cantos, rítmicos, harmônicos na forma que eles oram. Os três fazem orações semelhantes em celestial, mas diferentes em seus pedidos, que em momentos as palavras se cruzam, falando a mesma palavra ao mesmo tempo antes de voltar a divergir. Cada um pedindo algo e entregando algo.
 
 - [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
