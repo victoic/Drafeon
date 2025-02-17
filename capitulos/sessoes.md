@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T13:20:01.400Z
+date: 2025-02-17T13:25:00.501Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -568,7 +568,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [22/10/2022](https://www.youtube.com/watch?v=j1-f7vi8ZM8) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
-> O grupo recebe a carta de permissão de acesso à [Biblioteca Central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/grande-templo).
+> O grupo recebe a carta de permissão de acesso à [Biblioteca Central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/grande-templo), aos níveis 3 a 15.
 >
 > Por solicitação do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) à [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris), [Wladimir](/individuos/personagens-de-jogadores/wladimir) passa a auxiliar o grupo em suas buscas por métodos para derrotar [Azura](/individuos/azura).
 {.is-info}
