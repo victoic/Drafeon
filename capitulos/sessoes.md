@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T14:31:52.216Z
+date: 2025-02-17T14:39:31.217Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -575,7 +575,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Não sei como não pude perceber, tamanha a semelhança" - Wladimir
 
-> A [Amy](/individuos/personagens-de-jogadores/amy) descobre que seu mapa está errado em 500 anos aos assentimentos locais. O grupo inicia suas pesquisas sobr dragões e a linha do tempo cósmica no terceiro nível da biblioteca. O grupo descobre sobre a existência de outros níveis na biblioteca das quais eles não possuem acesso e o fazem para pesquisar sobre rituais de ascenção e remoção de deuses.
+> A [Amy](/individuos/personagens-de-jogadores/amy) descobre que seu mapa está errado em 500 anos aos assentimentos locais. O grupo inicia suas pesquisas sobr dragões e a linha do tempo cósmica no terceiro nível da biblioteca. O grupo descobre sobre a existência de outros níveis na biblioteca das quais eles não possuem acesso e o fazem para pesquisar sobre rituais de ascenção e remoção de deuses. O grupo lê sobre a [Lança Eridescente](/itens/lanca-eridescente) e sua provável presença em torno das [Montanhas Platina](/lugares/plano-material/drafeon/sudoeste-de-drafeon#Geografia).
 {.is-info}
 
 > Muito lore!
