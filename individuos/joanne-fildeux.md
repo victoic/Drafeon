@@ -2,7 +2,7 @@
 title: Joanne Fildeux
 description: O Caçador Laminado
 published: true
-date: 2025-02-17T18:45:30.912Z
+date: 2025-02-17T18:45:39.464Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:50:04.103Z
@@ -20,4 +20,4 @@ Relatos também apontam que Joanne carregava uma lança brilhante, podendo ela t
 `Cabelos` Loiros médias, cacheados
 `Altura` 1,80 m
 `Peso` 78 Kg
-`Títulos` [Caçador Laminado](/lendas-e-eventos/caçador-laminado) ^não^ ^confirmado^
+`Títulos` [Caçador Laminado](/lendas-e-eventos/caçador-laminado)^não^ ^confirmado^
