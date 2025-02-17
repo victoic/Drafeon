@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-15T14:21:13.608Z
+date: 2025-02-17T13:07:00.347Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -568,7 +568,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [22/10/2022](https://www.youtube.com/watch?v=j1-f7vi8ZM8) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
-> 
+> Por solicitação do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) à [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris), [Wladimir](/individuos/personagens-de-jogadores/wladimir) passa a auxiliar o grupo em suas buscas por métodos para derrotar [Azura](/individuos/azura).
 {.is-info}
 
 - [19/11/2022](https://www.youtube.com/watch?v=8N3PEKkP9lQ) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
