@@ -2,7 +2,7 @@
 title: Vivlotik
 description: 
 published: true
-date: 2025-02-15T02:57:23.945Z
+date: 2025-02-17T13:15:21.468Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-15T01:38:29.872Z
@@ -18,7 +18,7 @@ Vivlotik foi uma cidade importante do [sudoeste de Drafeon](/lugares/plano-mater
 A cidade reune visitantes de todo o Império Dragão, que peregrinam para demonstrar sua fé pelos deuses. A língua comum na cidade é gnomo. Dada a densidade de visitantes, existem também locais que tentam enganar visitantes com jogos e golpes.
 
 ## Bens
-**Pousada:** Pousada das Nove Estrelas
+**Pousada:** [Pousada das Nove Estrelas](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/pousada-das-nove-estrelas).
 
 ## Arquitetura
 
