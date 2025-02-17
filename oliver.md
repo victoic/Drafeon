@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-02-17T13:41:50.790Z
+date: 2025-02-17T13:42:30.294Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -19,7 +19,10 @@ Tomei minhas primeiras vacinas e nem chorei!
 Saí do hospital e fui pra casa de vovó. Quando eu choro parece um motorzinho.
  
 - 11/02/2025
-Fiz um mês! Papai e mamãe fizeram um bolo vegano que ficou uma delícia, mesmo eu não comendo. E enfeitaram de pintinho, por como eu fico procurando tetê quando estou com fome. Tirei fotos com vovó Selma e vovô Wellington.
+Fiz um mês! Papai e mamãe fizeram um bolo vegano que ficou uma delícia, mesmo eu não comendo. E enfeitaram de pintinho, por como eu fico procurando tetê quando estou com fome.
+
+- 12/01/2025
+Tirei fotos com vovó Selma e vovô Wellington.
  
 - 16/02/2025
 Papai precisou viajar pra longe i.i, mas mamãe tá mandando notícias minhas para ele.
