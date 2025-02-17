@@ -2,7 +2,7 @@
 title: Ulyana Arabath
 description: 
 published: true
-date: 2025-02-17T20:25:58.491Z
+date: 2025-02-17T20:33:30.095Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-17T20:25:58.491Z
@@ -18,4 +18,4 @@ Ulyana Arabath foi uma [drow](/fauna-e-flora/especies-inteligentes/elfo-negro), 
 `Olhos` Roxos
 `Cabelos` Longos cabelos brancos
 `Organizações Associadas` [Academia Arcana de Horizonte](/faccoes/nacoes/imperio-dragao/academia-arcana-de-horizonte)
-`Títulos` Professora Completa
+`Títulos` Docente Completa
