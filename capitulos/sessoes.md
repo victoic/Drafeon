@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T23:55:43.356Z
+date: 2025-02-17T23:56:23.464Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -652,7 +652,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Sarina desliza sua mão sobre o rosto de seu irmão, tentando convencê-lo a viver a vida que perderam por conta de Azura.
 
 > O sacerdote conclui o ritual. As velas da sala se iluminam e apagam como vento rodeasse a sala, um trovão distante é ouvido. O sacerdote coloca as mãos sobre o corpo de Hêllen, convidando a alma a retornar aos seus companheiros.
-> Hêllen, nessa calmaria que o rodeia, só sente calma, só sente paz. Ele vê essa forma familiar de um raio estacionário, mas que às vezes parece formar um braço esticando em sua direção. "Venha, filho, vamos descansar." Hêllen caminha em direção a voz, até que ele escuta as vozes de seus colegas chamando-o. Hêllen se vira em direção aos chamados, vendo as formas transparentes de seus companheiros, correndo em direção a ele sem nunca se aproximar. Apenas o Hêllen pode caminhar em direção a eles. "Eu sinto muito, ainda tenho algumas coisas a fazer, mas um dia eu te encontro", fala Hêllen, caminhando em direção aos seus amigos. "Eu estarei esperando."
+> Hêllen, nessa calmaria que o rodeia, só sente calma, só sente paz. Ele vê essa forma familiar de um raio estacionário, mas que às vezes parece formar um braço esticando em sua direção. "Venha, filho, vamos descansar."
+> Hêllen caminha em direção a voz, até que ele escuta as vozes de seus colegas chamando-o. Hêllen se vira em direção aos chamados, vendo as formas transparentes de seus companheiros, correndo em direção a ele sem nunca se aproximar. Apenas o Hêllen pode caminhar em direção a eles. "Eu sinto muito, ainda tenho algumas coisas a fazer, mas um dia eu te encontro", fala Hêllen, caminhando em direção aos seus amigos.
+> "Eu estarei esperando."
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
