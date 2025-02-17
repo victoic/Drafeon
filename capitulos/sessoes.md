@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T22:06:32.521Z
+date: 2025-02-17T22:08:30.450Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -608,7 +608,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Wladimir consegue encontrar algo construído próximo a uma nascente utilizando Comunhão com a Natureza. Ao se moverem ao local, mortos-vivos aparecem.
 {.is-info}
 
-- [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+- [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  04 de Fateus 1755 - 03 de Fateus 1755
 
 > O grupo enfrenta os guardiões da [Lança Iridescente](/itens/lanca-iridescente), no entanto fogem e se reagrupam esperando que [Sarina](/individuos/sarina-starindust) busque o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust).
 {.is-info}
