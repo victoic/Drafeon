@@ -2,7 +2,7 @@
 title: Caroline Godesfrey
 description: O Caçador Laminado
 published: true
-date: 2025-02-17T18:13:03.209Z
+date: 2025-02-17T18:15:56.157Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:50:04.103Z
@@ -12,10 +12,10 @@ dateCreated: 2024-08-13T19:50:04.103Z
 Godesfrey foi uma humana guerreira, conhecida como Caçador Laminado por usar uma armadura brilhante. É chamada de Caçador por comumente ter seu rosto coberto em batalha, impedindo que inimigos reconheçam imediatamente seu sexo.
 
 # Informações
-`Data de Nascimento` 1721
+`Data de Nascimento` 125 Era do Caos
 `Sexo Biológico` Feminino
 `Olhos` Verdes
 `Cabelos` Castanhos escuro
 `Altura` 1,80 m
 `Peso` 78 Kg
-`Títulos` Caçador Laminado
+`Títulos` [Caçador Laminado](/lendas-e-eventos/caçador-laminado)
