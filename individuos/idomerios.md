@@ -2,14 +2,14 @@
 title: Idomerios
 description: 
 published: true
-date: 2025-02-17T22:47:39.020Z
+date: 2025-02-17T22:52:59.705Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-17T22:47:39.020Z
 ---
 
 # Idomerios
-Idomerios foi um centauro, líder da vila nómade [Bagrami](/lugares/plano-material/drafeon/sudoeste-de-drafeon/bagrami).
+Idomerios foi um centauro, um dos três líderes da vila nómade [Bagrami](/lugares/plano-material/drafeon/sudoeste-de-drafeon/bagrami), juntamente com [Ifilos](/individuos/ifilos) e [Tyranus](/individuos/tyranus).
 
 Em 4 de Fateus de 1755 ED, Idomerios recebeu os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) como convidados enquantos o heróis caçavam [Azura](/individuos/azura).
 
