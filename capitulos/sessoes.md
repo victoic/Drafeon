@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T20:06:10.184Z
+date: 2025-02-17T20:13:13.806Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -599,7 +599,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
-> 
+> O grupo visita [Folhiares](/individuos/fara-folhiares) em [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
 {.is-info}
 
 - [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
