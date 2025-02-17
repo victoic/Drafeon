@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T19:23:18.709Z
+date: 2025-02-17T19:27:26.537Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -583,7 +583,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [19/11/2022](https://www.youtube.com/watch?v=8N3PEKkP9lQ) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
 
-> Os preparativos para o ritual do [Oráculo do Lírio](/lendas-e-eventos/rituais/oraculo-do-lirio) se iniciam. [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) e [Amy](/individuos/personagens-de-jogadores/amy) se voluntariam para auxiliar com seus dons arcanos a realização do ritual.
+> Os preparativos para o ritual do [Oráculo do Lírio](/lendas-e-eventos/rituais/oraculo-do-lirio) se iniciam. [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) e [Amy](/individuos/personagens-de-jogadores/amy) se voluntariam para auxiliar com seus dons arcanos a realização do ritual. Juntamente os sacerdotes [Myriani](/individuos/myriani), [Tanelia](/individuos/tanelia) e [Banbyst](/individuos/banbyst).
 >
 > Concorrentemente, parte do grupo possíveis lugares onde a [Lança Iridescente](/itens/lanca-iridescente) poderia estar, pedindo ajuda ao [Wladimir](/individuos/personagens-de-jogadores/wladimir) e ao [Folhas](/individuo/vandal-folhas) para encontrar árvores com milênios de idade para perguntar por suas lembranças quanto ao [Caçador Laminado](/lendas-e-eventos/caçador-laminado).
 >
