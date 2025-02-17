@@ -2,7 +2,7 @@
 title: Idomerios
 description: 
 published: true
-date: 2025-02-17T22:52:59.705Z
+date: 2025-02-17T22:55:09.323Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-17T22:47:39.020Z
@@ -21,4 +21,4 @@ Em 4 de Fateus de 1755 ED, Idomerios recebeu os membros da [Confraria da Rosa Ne
 `Altura` 2,32 m
 `Peso` 550 Kg
 `Organizações Associadas` [Império Dragão](/faccoes/nacoes/imperio-dragao)
-`Títulos` [Grande de Cidade](/rankings-e-titulos/imperio-dragao/senhor-de-cidade)
+`Títulos` [Grande Senhor de Cidade](/rankings-e-titulos/imperio-dragao/grande-senhor-de-terras)
