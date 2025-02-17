@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-02-17T13:40:26.028Z
+date: 2025-02-17T13:41:50.790Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -11,6 +11,9 @@ dateCreated: 2025-02-17T13:36:51.789Z
 # Diário de Oliver
 - 11/01/2025
 Eu nasci! Papai chorou muito, nasci forte e calminho.
+
+- 12/01/2025
+Tomei minhas primeiras vacinas e nem chorei!
 
 - 13/01/2025
 Saí do hospital e fui pra casa de vovó. Quando eu choro parece um motorzinho.
