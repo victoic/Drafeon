@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T23:10:50.177Z
+date: 2025-02-17T23:14:16.627Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -627,7 +627,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Não permito." - Idomerios
 
-> [A Porta Voz](/individuos/a-porta-voz) aparece durante a noite para a [Amy](/individuos/personagens-de-jogadores/amy) e ordena que ela leve a [Lança Iridescente](/itens/lanca-iridescente) para o Anjo Azul após a morte de Azura. Sarina espia Azura e percebe que o dragão de bronze que a atacava perdeu a batalha, o grupo inicia os preparativos para interceptar Azura antes que ela chegue em um covil.
+> [A Porta Voz](/individuos/a-porta-voz) aparece durante a noite para a [Amy](/individuos/personagens-de-jogadores/amy) e ordena que ela leve a [Lança Iridescente](/itens/lanca-iridescente) para o Anjo Azul após a morte de Azura. Sarina espia Azura e percebe que o dragão de bronze que a atacava perdeu a batalha, o grupo inicia os preparativos para interceptar Azura antes que ela chegue em um covil utilizando a roc do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca).
 {.is-info}
 
 - [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
