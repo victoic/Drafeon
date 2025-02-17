@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-17T13:07:00.347Z
+date: 2025-02-17T13:08:13.313Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -555,7 +555,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo viaja para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) usando a [roc](/fauna-e-flora/roc) do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca). No caminho, enfretam um grupo de [bestas deslocadoras](/fauna-e-flora/besta-deslocadora).
 {.is-info}
 
-- [15/10/2022](https://www.youtube.com/watch?v=sD3yB7w13jM) | Data narrativa:  01 de Fateus 1755 - 02 de Fateus 1755
+- [15/10/2022](https://www.youtube.com/watch?v=sD3yB7w13jM) | Data narrativa:  01 de Fateus 1755 - 03 de Fateus 1755
 
 > O grupo investiga os restos do ataque descontrolado do [Eberus](/individuos/eberus). Chegando em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik), [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) encontra dois membros das [Três Mãos](/faccoes/faccoes-independentes/tres-maos), [Kartzo](/individuos/kartzo) e [Pirasnius](/individuos/pirasnius), que ajudam o grupo com informações sobre um membro especializado em rituais que chegará a Vivlotik nos próximos dias, e o grupo descobre de sua relação com uma sociedade secreta. Em resposta, Hêllen inicia sua própria sociedade secreta, de forma bem pública.
 {.is-info}
