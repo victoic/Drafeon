@@ -2,7 +2,7 @@
 title: Igreja das Treze Estrelas
 description: 
 published: true
-date: 2025-02-15T02:45:49.601Z
+date: 2025-02-17T13:19:46.666Z
 tags: facção, religião
 editor: markdown
 dateCreated: 2025-02-15T02:40:39.355Z
