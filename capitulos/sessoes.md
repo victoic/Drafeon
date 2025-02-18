@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T02:10:47.592Z
+date: 2025-02-18T02:12:46.155Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -714,6 +714,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - [06/05/2023](https://www.youtube.com/watch?v=Muh8drNpOkc) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
 - [27/05/2023](https://www.youtube.com/watch?v=OtirHpH9fu0) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+- 27/05/2023 [[1]](https://www.youtube.com/watch?v=YXi0Ar-9uhM)[[2]](https://www.youtube.com/watch?v=oF1vpsxewkA) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
 ## [Capítulo 10](/capitulos/capitulo-10-a-guerra)
 
