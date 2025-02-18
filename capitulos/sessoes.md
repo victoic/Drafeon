@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:21:20.245Z
+date: 2025-02-18T23:22:38.504Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -698,7 +698,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Zerke, seu pai teria orgulho." - Giuli
 
-> Quatro meses se passam, com membros do grupo agindo individualmente.
+> Quatro meses se passam, com membros do grupo agindo individualmente. Incluindo a criação do navio voador de Veles e mudança do caminho do Magnus em uma direção mais naturalista.
 {.is-info}
 
 - [15/04/2023](https://www.youtube.com/watch?v=Z55J-A2tV8U) | Data narrativa: 01 de Aaos de 1755 ED - 01 de Aaos de 1755 ED
