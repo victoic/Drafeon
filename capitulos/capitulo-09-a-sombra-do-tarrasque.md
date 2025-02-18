@@ -2,7 +2,7 @@
 title: Capítulo 09
 description: A Sombra do Terrasque
 published: true
-date: 2025-02-09T13:57:56.138Z
+date: 2025-02-18T02:28:19.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T18:40:10.669Z
@@ -11,7 +11,7 @@ dateCreated: 2024-08-14T18:40:10.669Z
 # Capítulo 9: A Sombra do Terrasque
 
 >  `Início: 6 de maio de 2023`
->  `Fim:    6 de janeiro de 2024`
+>  `Fim:    7 de janeiro de 2024`
 {.is-info}
 
 O grupo é convocado para investigar uma profecia de um Terrasque e acaba desvendando um plano de controle do império por parte de uma cidade de Illithids.
