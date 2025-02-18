@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:18:38.014Z
+date: 2025-02-18T23:20:07.424Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -744,7 +744,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo conversa com Xzin sobre a dádiva cinza e leva-os à caverna onde o cogumelo é coletado. Veles e [John](/individuos/personagens-de-jogadores/john) seguem o Xzin, enquanto os demais fazem a tour, onde uma minhoca roxa que parecia ser um túnel da caverna engole o guia [?](/individuos).
 {.is-info}
 
-- [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+- [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 18 de Obris de 1755 ED - 19 de Obris de 1755 ED
 
 > O grupo derrota a minhoca roxa e levam o corpo do guia [?](/individuos) para a cidade sepultar. O grupo encontra musgo que não pertence ao local na caverna cavada pela minhoca roxa. [Xzin](/individuos/xzin) e [Samuel](/individuos/samuel) investigam o lugar onde a minhoca roxa apareceu junto com o grupo. Investigações apontam na direção da [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias) e partem nessa direção com o Xzin com o guia.
 {.is-info}
