@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:23:55.985Z
+date: 2025-02-18T01:24:50.916Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -684,6 +684,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 > "Saiam agora, e viverão. Última chance." - Qendrak
+
+> "Eu dei uma chance a vocês de sair com suas vidas. Agora, morram." - Qendrak
 
 - [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: ?? de ?? de 1755 ED
 
