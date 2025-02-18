@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T14:12:59.902Z
+date: 2025-02-18T14:20:16.594Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -719,7 +719,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo descansa em Vuonopolis e parte no dia seguinte para Eripia Ahena.
 {.is-info}
 
-- [27/05/2023](https://www.youtube.com/watch?v=oF1vpsxewkA) | Data narrativa: 17 de Obris de 1755 ED - 15 de Obris de 1755 ED
+- [27/05/2023](https://www.youtube.com/watch?v=oF1vpsxewkA) | Data narrativa: 17 de Obris de 1755 ED - 17 de Obris de 1755 ED
 
 > O grupo faz a viagem de [Vuonopolis](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vuonopolis) a [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena) no barco voador do [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Durante a viagem [John](/individuos/personagens-de-jogadores/john) enxerga um cervo no chão da floresta, tenta pegar a pistola do [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) sem sucesso, materializa um bumerangue com um gatilho e joga na floresta tentando acertar o cervo.
 >
