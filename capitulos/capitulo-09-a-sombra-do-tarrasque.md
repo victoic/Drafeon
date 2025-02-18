@@ -2,7 +2,7 @@
 title: Capítulo 09
 description: A Sombra do Terrasque
 published: true
-date: 2025-02-18T13:20:59.174Z
+date: 2025-02-18T14:12:40.386Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T18:40:10.669Z
@@ -50,8 +50,6 @@ A parede que circunda o assentamento tem três metros de altura e um metro e mei
 Xzin leva os aventureiros até sua casa acompanhados por Samuel. Ele dispensa os guardas. Ele explicará a história de Eripia Ahena e a natureza da benção cinza e a dependência dos habitantes. Ele se oferecerá para dar ao grupo um passeio por Eripia Ahena, incluindo a Caverna Dádiva Cinzenta e os locais de pesca.   
 
 > “Mas amigos, vocês devem estar com sede e fome depois de sua jornada. Conte-me sua história e, em seguida, deixe-nos pegar um pouco de comida normal na taverna Eripia antes de nossa excursão." 
-
- 
 
 ## Alerta! 
 
