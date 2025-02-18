@@ -2,7 +2,7 @@
 title: Eripia Ahena
 description: 
 published: true
-date: 2025-02-18T14:43:41.794Z
+date: 2025-02-18T21:26:46.481Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-18T13:44:52.359Z
@@ -14,6 +14,10 @@ dateCreated: 2025-02-18T13:44:52.359Z
 {.is-info}
 
 Eripia Ahena foi uma cidade no [Sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), às margens do Lago dos Deuses. A cidade foi criada, junto com sua cidade-irmã [Eripia Nituhnna](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-nituhnna), glorificando o local por onde Ahena e Nituhnna passaram e uniram suas forças para destruir uma criatura poderosa, mas criando a cratera que se tornou o Lago dos Deuses no processo.
+
+## Bens
+**Taverna:** Taverna Eripia, taverna de madeira próximo portão oeste da cidade.
+*Proprietário(a): [Grak](/individuos/grak)*
 
 ## Produção
 
