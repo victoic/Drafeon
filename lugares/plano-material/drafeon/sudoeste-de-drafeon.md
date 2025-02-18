@@ -2,7 +2,7 @@
 title: Sudoeste de Drafeon
 description: 
 published: true
-date: 2025-02-17T22:38:30.007Z
+date: 2025-02-18T13:32:39.225Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-13T18:47:13.268Z
@@ -13,17 +13,19 @@ O Sudoeste de Drafeon é uma região, pertencente ao [Império Dragão](/faccoes
 
 ## Geografia
 
-### Montanhas
-**Montanhas Platina.**
-**Picos dos Desaparecidos.**
-**Círculo de Ifasteio.**
-
+### Corpos D'Água
+**Lago dos Deuses.** Grande lago onde se localizam as cidades de Eripia Nituhnna e Eripia Ahena.
 
 ### Deserto
 **Os Planos Secos.** Uma área árida ao sul além dos Picos dos Desaparecidos. Lar do Bosque dos Espinhos, do Oásis, e das Correntes de Areia. Além disso, neste habitam as tribos nómades de [centauros](/fauna-e-flora/especies-inteligentes/centauro) de Bagrami e Tachila.
 - **Correntes de Areias.** Região arenosa dOs Planos Secos, com rara vegetação de suculentas.
 - **Bosques de Espinhos.** Uma grande flores de cáctos no centro da região.
 - **Oásis.** Região árida mas com a presença de pequenos lagos espalhados.
+
+### Montanhas
+**Montanhas Platina.**
+**Picos dos Desaparecidos.**
+**Círculo de Ifasteio.**
 
 # Informações
 `Tipo` Região 
