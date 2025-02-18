@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T21:39:48.765Z
+date: 2025-02-18T21:42:36.390Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -736,6 +736,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - [08/07/2023](https://www.youtube.com/watch?v=LgaxVbwfkZw) | Data narrativa: 18 de Obris de 1755 ED - 18 de Obris de 1755 ED
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) contata [Beotan](/individuos/beotan) solicitando uma descrição do [Reli](/individuos/reli) e tenta espiá-lo, mas sem sucesso. [Xzin](/individuos/xzin) convida o grupo para uma tour pelas cavernas de [dádiva cinza](/fauna-e-flora/dadiva-cinza).
+>
+> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) ajuda na segurança da pedreira durante o período da manhã.
 {.is-info}
 
 - [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
