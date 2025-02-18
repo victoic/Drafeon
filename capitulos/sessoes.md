@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T02:16:46.201Z
+date: 2025-02-18T02:37:35.066Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -713,16 +713,74 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [06/05/2023](https://www.youtube.com/watch?v=Muh8drNpOkc) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
+> 
+{.is-info}
 
 - 27/05/2023 [[1]](https://www.youtube.com/watch?v=OtirHpH9fu0)[[2]](https://www.youtube.com/watch?v=oF1vpsxewkA) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
+> 
+{.is-info}
+
 - [03/06/2023](https://www.youtube.com/watch?v=YXi0Ar-9uhM) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
 
 - [08/07/2023](https://www.youtube.com/watch?v=LgaxVbwfkZw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
+> 
+{.is-info}
+
 - [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
+> 
+{.is-info}
+
 - [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
+
+- 19/08/2023 | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
+
+- 07/10/2023 | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
+
+- [21/10/2023](https://www.youtube.com/watch?v=QNIP2_q02ok) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
+
+- [04/11/2023](https://www.youtube.com/watch?v=qkp-a8aD6EY) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
+
+- [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
+
+- [16/12/2023](https://www.youtube.com/watch?v=aAvDG9E39Tg) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
+
+- [22/12/2023](https://www.youtube.com/watch?v=r39aC-43D9c) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
+
+- 07/01/2024 | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+
+> 
+{.is-info}
+
 
 ## [Capítulo 10](/capitulos/capitulo-10-a-guerra)
 
