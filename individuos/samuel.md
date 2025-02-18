@@ -2,13 +2,13 @@
 title: Samuel
 description: 
 published: true
-date: 2025-02-18T14:42:25.023Z
+date: 2025-02-18T14:44:23.131Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T14:30:41.915Z
 ---
 
-# Samuel {.tabset}
+# Samuel
 Samuel foi um humano, morador de [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena) e chefe da guarda local.
 
 # Informações
