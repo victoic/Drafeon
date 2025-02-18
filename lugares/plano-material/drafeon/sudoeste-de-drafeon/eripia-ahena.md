@@ -2,7 +2,7 @@
 title: Eripia Ahena
 description: 
 published: true
-date: 2025-02-18T14:08:28.818Z
+date: 2025-02-18T14:09:00.673Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-18T13:44:52.359Z
@@ -23,7 +23,7 @@ Pesca de [Atum de Barbatana Azul](/fauna-e-flora/atum-de-barbatana-azul) e colet
 
 ## Infraestrutura
 
-Uma muralha de 3 metros, feita em granito e madeira, circula a cidade e, tal como essa, as construções locais utilizam os mesmos materiais.
+Uma muralha de 3 metros de altura e 1,5 metros de largura, feita em granito e madeira, circula a cidade e, tal como essa, as construções locais utilizam os mesmos materiais.
 
 ## Dádiva Cinza
 
