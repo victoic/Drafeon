@@ -2,14 +2,34 @@
 title: Eripia Ahena
 description: 
 published: true
-date: 2025-02-18T13:44:52.359Z
+date: 2025-02-18T14:01:25.405Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-18T13:44:52.359Z
 ---
 
 # Eripia Ahena
-Eripia Ahena foi uma cidade no [Sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), às margens do Lago dos Deuses.
+> Templo de Ahena em gnomo.
+> Inspiração grega.
+{.is-info}
+
+Eripia Ahena foi uma cidade no [Sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), às margens do Lago dos Deuses. A cidade foi criada, junto com sua cidade-irmã [Eripia Nituhnna](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-nituhnna), glorificando o local por onde Ahena e Nituhnna passaram e uniram suas forças para destruir uma criatura poderosa, mas criando a cratera que se tornou o Lago dos Deuses no processo.
+
+## Produção
+
+A cidade é rica em madeira-pedra, as madeiras petrificadas encontradas à beira do Lago dos Deuses, mas a extrai com cautela dada a significância religiosa. Minas de granito são abundantes.
+
+Pesca de [Atum de Barbatana Azul](/fauna-e-flora/atum-de-barbatana-azul) e coleta de [Dádiva Cinza](/fauna-e-flora/dadiva-cinza) são principais fontes de alimentos da população local, além de utilizados para produção de poções mágicas.
+
+## Infraestrutura
+
+## Bênção Cinza
+
+## Demografia
+
+A cidade é majoritariamente habitada por gnomos, no entanto, outras raças inteligentes comuns da região se fazem presentes. Dada a bênção cinza, a população local possui pele acinzentada e se encontra impossibilitada de sair do local.
+
+## 
 
 # Informações
 `Tipo` Cidade
