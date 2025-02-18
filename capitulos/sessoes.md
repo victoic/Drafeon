@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:44:58.260Z
+date: 2025-02-18T23:47:28.363Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -760,7 +760,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo combate os golías, enquanto Xzin se encontra confuso sem saber quem ajudar.
 {.is-info}
 
-- [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 19 de Obris de 1755 ED - 15 de Obris de 1755 ED
+- [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 19 de Obris de 1755 ED
 
 > O grupo derrota o dragão e segue viagem em direção a [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias).
 {.is-info}
