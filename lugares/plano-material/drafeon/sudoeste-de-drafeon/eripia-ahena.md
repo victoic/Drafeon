@@ -2,7 +2,7 @@
 title: Eripia Ahena
 description: 
 published: true
-date: 2025-02-18T21:27:07.908Z
+date: 2025-02-18T21:52:39.676Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-18T13:44:52.359Z
@@ -23,7 +23,7 @@ Eripia Ahena foi uma cidade no [Sudoeste de Drafeon](/lugares/plano-material/dra
 
 A cidade é rica em madeira-pedra, as madeiras petrificadas encontradas à beira do Lago dos Deuses, mas a extrai com cautela dada a significância religiosa. Minas de granito são abundantes.
 
-Pesca de [Atum de Barbatana Azul](/fauna-e-flora/atum-de-barbatana-azul) e coleta de [Dádiva Cinza](/fauna-e-flora/dadiva-cinza) são principais fontes de alimentos da população local, além de utilizados para produção de poções mágicas.
+Pesca de [Truta de Barbatana Azul](/fauna-e-flora/truta-de-barbatana-azul) e coleta de [Dádiva Cinza](/fauna-e-flora/dadiva-cinza) são principais fontes de alimentos da população local, além de utilizados para produção de poções mágicas.
 
 ## Infraestrutura
 
