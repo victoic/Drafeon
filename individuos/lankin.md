@@ -2,13 +2,13 @@
 title: Lankin
 description: 
 published: true
-date: 2025-02-18T14:42:03.543Z
+date: 2025-02-18T14:44:51.627Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T14:28:06.640Z
 ---
 
-# Lankin {.tabset}
+# Lankin
 Lankin foi um gnomo morador de [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena), líder da mineradora de granito da cidade e um arcanisto apto.
 
 # Informações
