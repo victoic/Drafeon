@@ -2,7 +2,7 @@
 title: Eripia Ahena
 description: 
 published: true
-date: 2025-02-18T14:09:11.445Z
+date: 2025-02-18T14:11:26.731Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-18T13:44:52.359Z
@@ -29,7 +29,7 @@ Uma muralha de 3 metros de altura e 1,5 metros de largura, feita em granito e ma
 
 Dádiva Cinza é um cogumelo crescente quase que exclusivamente neste local. É capaz de saciar completamente as necessidades nutricionais dos que a consomem por tempo prolongado, mas cria uma necessidade orgânica de seu consumo após isso, causando morte em casos de abstinência.
 
-O consumo de dádiva cinza é fisicamente visível, conforme a população que o faz tem coloração alterada para uma tonalidade de cinza tal qual a do cogumelo.
+O consumo de dádiva cinza é fisicamente visível, conforme a população que o faz tem coloração alterada para uma tonalidade de cinza tal qual a do cogumelo. Além de alimento, dádiva cinza é utilizado como combustível, expelindo uma fumaça preta gordurosa.
 
 ## Demografia
 
