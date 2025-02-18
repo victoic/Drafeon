@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T00:03:18.906Z
+date: 2025-02-18T00:04:06.944Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -656,7 +656,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Hêllen caminha em direção a voz, até que ele escuta as vozes de seus colegas chamando-o. Hêllen se vira em direção aos chamados, vendo as formas transparentes de seus companheiros, correndo em direção a ele sem nunca se aproximar. Apenas o Hêllen pode caminhar em direção a eles. "Eu sinto muito, ainda tenho algumas coisas a fazer, mas um dia eu te encontro", fala Hêllen, caminhando em direção aos seus amigos.
 > "Eu estarei esperando."
 
-> Na manhã seguinte, o grupo não encontra Sarina, guardas informam que ela saiu dizendo que precisava espairecer. Wladimir abre um portal para que Veles e Amy viajem à Vivlotik
+> Na manhã seguinte, o grupo não encontra Sarina, guardas informam que ela saiu dizendo que precisava espairecer. Wladimir abre um portal para que Veles e Amy viajem à Vivlotik.
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
