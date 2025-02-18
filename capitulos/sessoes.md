@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:41:09.053Z
+date: 2025-02-18T01:43:24.412Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -566,7 +566,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Hêllen e [Sarina](/individuos/sarina-starindust) adentram a torre do grande templo e discutem a conexão do Hêllen com Fateus, onde Hêllen revela seus sonhos sobre a morte dos anjos de Fateus por [Azura](/individuos/azura) e as sacerdotes revelam que a conexão com os sonhos de Fateus vem sendo reduzida. O grupo se hospeda na [Pousada das Nove Estrelas](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/pousada-das-nove-estrelas).
 {.is-info}
 
-- [22/10/2022](https://www.youtube.com/watch?v=j1-f7vi8ZM8) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+- [22/10/2022](https://www.youtube.com/watch?v=j1-f7vi8ZM8) | Data narrativa:  03 de Fateus 1755 - 07 de Fateus 1755
 
 > O grupo recebe a carta de permissão de acesso à [Biblioteca Central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/grande-templo), aos níveis 3 a 20.
 >
@@ -581,7 +581,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Muito lore!
 {.is-warning}
 
-- [19/11/2022](https://www.youtube.com/watch?v=8N3PEKkP9lQ) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+- [19/11/2022](https://www.youtube.com/watch?v=8N3PEKkP9lQ) | Data narrativa:  07 de Fateus 1755 - 08 de Fateus 1755
 
 > Os preparativos para o ritual do [Oráculo do Lírio](/lendas-e-eventos/rituais/oraculo-do-lirio) se iniciam. [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) e [Amy](/individuos/personagens-de-jogadores/amy) se voluntariam para auxiliar com seus dons arcanos a realização do ritual. Juntamente os sacerdotes [Myriani](/individuos/myriani), sacerdotisa de [Gadot](/divindades/panteao-das-treze-estrelas/gadot), [Tanelia](/individuos/tanelia), sacerdotisa de [Ahena](/divindades/panteao-das-treze-estrelas/ahena) e [Banbyst](/individuos/banbyst), sacerdote de [Nituhnna](/divindades/panteao-das-treze-estrelas/nituhnna).
 >
@@ -597,7 +597,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo vê como possbilidade 6 cenários principais, além de 2 em que ela falha, mas não podem observar. Entre os cenários principais de "vitória" de Azura, um mostrava Azura como única deusa, outro como deusa maior perante os demais, em outro outras criaturas tomavam o lugar dos demais deuses, em outro azura passava a fazer parte do panteão, outro incluia ela ascendendo mas sendo controlada por outras criaturas misteriosas.
 {.is-info}
 
-- [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  03 de Fateus 1755 - 04 de Fateus 1755
+- [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  08 de Fateus 1755 - 09 de Fateus 1755
 
 > O grupo visita [Folhiares](/individuos/fara-folhiares) em [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) e em seguida [Ulyana Arabath](/individuos/ulyana-arabath) para buscar uma forma de demonstrar o futuro onde [Azura](/individuos/azura) perde. [Wladimir](/individuos/personagens-de-jogadores/wladimir) convence [Dominique Partieu III](/individuos/dominique-partieu-iii) a ajudar o grupo com uma barganha telepática por ervas.
 >
@@ -608,7 +608,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Wladimir consegue encontrar algo construído próximo a uma nascente utilizando Comunhão com a Natureza. Ao se moverem ao local, mortos-vivos aparecem.
 {.is-info}
 
-- [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  9 de Fateus 1755 - 10 de Fateus 1755
+- [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  09 de Fateus 1755 - 10 de Fateus 1755
 
 > O grupo enfrenta os guardiões da [Lança Iridescente](/itens/lanca-iridescente), no entanto fogem e se reagrupam esperando que [Sarina](/individuos/sarina-starindust) busque o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). Melhor preparados, o grupo recupera o artefato.
 {.is-info}
