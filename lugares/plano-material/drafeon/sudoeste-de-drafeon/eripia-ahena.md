@@ -2,7 +2,7 @@
 title: Eripia Ahena
 description: 
 published: true
-date: 2025-02-18T14:01:25.405Z
+date: 2025-02-18T14:06:04.721Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-18T13:44:52.359Z
@@ -23,7 +23,13 @@ Pesca de [Atum de Barbatana Azul](/fauna-e-flora/atum-de-barbatana-azul) e colet
 
 ## Infraestrutura
 
-## Bênção Cinza
+Uma grande muralha de granito e madeira circula a cidade e, tal como essa, as construções locais utilizam os mesmos materiais.
+
+## Dádiva Cinza
+
+Dádiva Cinza é um cogumelo crescente quase que exclusivamente neste local. É capaz de saciar completamente as necessidades nutricionais dos que a consomem por tempo prolongado, mas cria uma necessidade orgânica de seu consumo após isso, causando morte em casos de abstinência.
+
+O consumo de dádiva cinza é fisicamente visível, conforme a população que o faz tem coloração alterada para uma tonalidade de cinza tal qual a do cogumelo.
 
 ## Demografia
 
