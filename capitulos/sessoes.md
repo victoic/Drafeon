@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T00:20:11.536Z
+date: 2025-02-18T00:28:25.780Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -663,9 +663,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
-- [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+- [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  07 de Fateus 1755 - 03 de Fateus 1755
 
-> 
+> O grupo acorda da bebedeira da noite anterior e planeja a viagem a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu) para investigar o "desaparecimento" de [Zerke](/individuos/personagens-de-jogadores/zerme-montravu).
 {.is-info}
 
 - [11/02/2023](https://www.youtube.com/watch?v=Y58HjKeNuGA) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
