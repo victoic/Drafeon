@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T00:13:48.940Z
+date: 2025-02-18T00:20:11.536Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -658,7 +658,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Na manhã seguinte, o grupo não encontra Sarina, guardas informam que ela saiu dizendo que precisava espairecer. Wladimir abre um portal para que Veles e Amy viajem à Vivlotik. Wladimir departe ao mundo. O grupo comemora a derrota de Azura com uma bebedeira junto com o [Nimbar](/individuos/nimbar-tatsetul) (que parou sua aula para festejar) que dura uma tarde e uma noite.
 >
-> Amy, que se absteve de beber, tenta roubar a [Lança Iridescente] do Magnus, mas não a encontra.
+> Amy, que se absteve de beber, tenta roubar a [Lança Iridescente] do Magnus, mas não a encontra. Ela teme pela saúde do grupo e tenta fugir, mas o Veles a encontra, levando a Amy a revelar os acontecimentos de seu reino ao Veles.
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
