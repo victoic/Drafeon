@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T13:38:29.478Z
+date: 2025-02-18T13:59:03.181Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -722,6 +722,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - [27/05/2023](https://www.youtube.com/watch?v=oF1vpsxewkA) | Data narrativa: 17 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
 > O grupo faz a viagem de [Vuonopolis](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vuonopolis) a [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena) no barco voador do [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Durante a viagem [John](/individuos/personagens-de-jogadores/john) enxerga um cervo no chão da floresta, tenta pegar a pistola do [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) sem sucesso, materializa um bumerangue com um gatilho e joga na floresta tentando acertar o cervo.
+>
+> Chegando a Eripia Ahena, Zerke começa voar descendo do navio em direção à cidade, sendo reconhecido pela população local que coletava fora das muralhas. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vendo o ocorrido anda para fora do navio, dando três passos antes de a gravidade fazer efeito, cai ao chão apenas machucando um pouco seu calcanhar.
 {.is-info}
 
 - [03/06/2023](https://www.youtube.com/watch?v=YXi0Ar-9uhM) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
