@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:41:00.821Z
+date: 2025-02-18T23:43:18.147Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -750,10 +750,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) esconde a armadura do [John](/individuos/personagens-de-jogadores/john) como vingança por ele dormir em sua cama no navio. No caminho, o grupo é atacado por um dragão.
 >
-> O grupo chega à embaixada, onde são recebidos por [Vankar](/individuos/vankar).
+> O grupo chega à embaixada, onde são recebidos por [Vankar](/individuos/vankar), [Tokan](/individuos/tokan) e [Ottan](/individuos/ottan).
 {.is-info}
 
 > "Vankar, amigo, há quanto tempo!" - Xzin
+
+> "Xzin, você foi um tolo em trazê-los aqui. Eles o enganaram com estórias de heroísmo e aventura! Angdan demanda!" - Vankar 
 
 - [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 19 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
