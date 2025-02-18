@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:47:51.585Z
+date: 2025-02-18T01:48:38.291Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -687,7 +687,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Eu dei uma chance a vocês de sair com suas vidas. Agora, morram." - Qendrak
 
-- [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: 15 de Fateus de 1755 ED
+- [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: 15 de Fateus de 1755 ED - 15 de Obris de 1755 ED
 
 > Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontra documentos incriminando os governadores de Montravu, [Pargel](/individuos/pargel), [Jijoor](/individuos/jijoor) e [Virla](/individuos/virla), de cooperar com Qendrak. O grupo agita a população local para punir os envolvidos.
 > 
