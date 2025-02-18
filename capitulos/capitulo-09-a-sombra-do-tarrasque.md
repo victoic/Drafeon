@@ -2,13 +2,13 @@
 title: Capítulo 09
 description: A Sombra do Terrasque
 published: true
-date: 2025-02-18T14:12:40.386Z
+date: 2025-02-18T14:42:57.699Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T18:40:10.669Z
 ---
 
-# Capítulo 9: A Sombra do Terrasque
+# Capítulo 9: A Sombra do Terrasque  {.tabset}
 
 >  `Início: 6 de maio de 2023`
 >  `Fim:    7 de janeiro de 2024`
