@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:08:21.937Z
+date: 2025-02-18T23:18:38.014Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -737,7 +737,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) contata [Beotan](/individuos/beotan) solicitando uma descrição do [Reli](/individuos/reli) e tenta espiá-lo, mas sem sucesso. [Xzin](/individuos/xzin) convida o grupo para uma tour pelas cavernas de [dádiva cinza](/fauna-e-flora/dadiva-cinza).
 >
-> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) ajuda na segurança da pedreira durante o período da manhã. Veles solicita que [Folhiares](/individuos/fara-folhiares) busque sobre o ritual do coração de prata, mas ela não obtém sucesso. Parte do grupo viaja a [Eripia Nituhnna]((/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-nituhnna) em busca de Reli.
+> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) ajuda na segurança da pedreira durante o período da manhã. Veles solicita que [Folhiares](/individuos/fara-folhiares) busque sobre o ritual do coração de prata, mas ela não obtém sucesso. Parte do grupo viaja a [Eripia Nituhnna](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-nituhnna) em busca de Reli.
 >
 > Ao meio-dia, Veles teleporta o grupo do navio de volta à Taverna Eripia para sua reunião de negócios com o [Lazarus](/individuos/lazarus), atormentando [Rubramanta](/individuos/ernes-rubramanta) antes disso. Enquanto isso, Zerke visita os estábulos em busca de material para fabricar munição, comprando do [Gruntar](/individuos/gruntar), após a compra, o aarakocra investiga o local, encontrando um conjunto cartas trocadas entre [Maria](/individuos/maria-forrevert) e [Yuski](/individuos/yuski-forrevert), e questiona o Yuski sobre a cerimônia do coração de prata.
 >
@@ -746,7 +746,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
-> O grupo derrota a minhoca roxa e levam o corpo do guia [?](/individuos) para a cidade sepultar. O grupo encontra musgo que não pertence ao local na caverna cavada pela minhoca roxa. [Xzin](/individuos/xzin) e [Samuel](/individuos/samuel) investigam o lugar onde a minhoca roxa apareceu junto com o grupo.
+> O grupo derrota a minhoca roxa e levam o corpo do guia [?](/individuos) para a cidade sepultar. O grupo encontra musgo que não pertence ao local na caverna cavada pela minhoca roxa. [Xzin](/individuos/xzin) e [Samuel](/individuos/samuel) investigam o lugar onde a minhoca roxa apareceu junto com o grupo. Investigações apontam na direção da [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias) e partem nessa direção com o Xzin com o guia.
 {.is-info}
 
 - [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
