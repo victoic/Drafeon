@@ -2,7 +2,7 @@
 title: Capítulo 07
 description: Azura, A Dragão Deus
 published: true
-date: 2025-02-18T00:01:23.325Z
+date: 2025-02-18T00:02:15.565Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -98,10 +98,10 @@ Durante todo o período de separação do grupo do Zerke, tentativas de contato 
 
 # Relações
 ## Aliados
-- [Nimbar](/individuos/nimbar)
+- [Nimbar Tatsetul](/individuos/nimbar)
 - [Fara Folhiares](/individuos/fara-folhiares)
 - [Sarina Starindust](/individuos/sarina-starindust) (Pós-libertação)
-- [Baddali](/individuos/baddali-copo-cheio)
+- [Baddali Copo-Cheio](/individuos/baddali-copo-cheio)
 
 ## Neutros
 - [Makil Drasonur](/individuos/makil-drasonur)
