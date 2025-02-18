@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T14:37:51.739Z
+date: 2025-02-18T14:38:26.633Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -728,7 +728,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > “Salve, heróis! Não é sempre que Eripia Ahena recebe visitantes! Eu sou Xzin, o Senhor de Cidade de Eripia Ahena. Por favor, venham conhecer nossa cidade. Venham à minha casa e digam-me o que os trazem a Eripia Ahena.” - Xzin
 
-> Veles agenda uma reunião para negociar a presença da [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris) em mercado de Tunas de Barbatana Azul. Mas esquece de dizer seu nome.
+> Veles agenda uma reunião para negociar a presença da [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris) em mercado de Tunas de Barbatana Azul. Mas esquece de dizer seu nome. Amy investiga a igreja de Ahena, que se encontra fechada.
 >
 > Xzin leva o grupo a sua casa, onde explica sobre a dádiva cinza, mas são interrompidos por Samuel avisando sobre um ataque de centopeias gigantes nas minas.
 {.is-info}
