@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:47:28.363Z
+date: 2025-02-18T23:52:30.374Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -749,25 +749,23 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo derrota a minhoca roxa e levam o corpo do guia [?](/individuos) para a cidade sepultar. O grupo encontra musgo que não pertence ao local na caverna cavada pela minhoca roxa. [Xzin](/individuos/xzin) e [Samuel](/individuos/samuel) investigam o lugar onde a minhoca roxa apareceu junto com o grupo. Investigações apontam na direção da [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias) e partem nessa direção com o Xzin com o guia.
 >
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) esconde a armadura do [John](/individuos/personagens-de-jogadores/john) como vingança por ele dormir em sua cama no navio. No caminho, o grupo é atacado por um dragão.
->
-> O grupo chega à embaixada, onde são recebidos por [Vankar](/individuos/vankar), [Tokan](/individuos/tokan) e [Ottan](/individuos/ottan).
-{.is-info}
-
-> "Vankar, amigo, há quanto tempo!" - Xzin
-
-> "Xzin, você foi um tolo em trazê-los aqui. Eles o enganaram com estórias de heroísmo e aventura! Angdan demanda!" - Vankar 
-
-> O grupo combate os golías, enquanto Xzin se encontra confuso sem saber quem ajudar.
 {.is-info}
 
 - [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 19 de Obris de 1755 ED
 
-> O grupo derrota o dragão e segue viagem em direção a [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias).
+> O grupo derrota o dragão e segue viagem em direção a [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias). O grupo chega à embaixada, onde são recebidos por [Vankar](/individuos/vankar), [Tokan](/individuos/tokan) e [Ottan](/individuos/ottan).
+{.is-info}
+
+> "Vankar, amigo, há quanto tempo!" - Xzin
+
+> "Xzin, você foi um tolo em trazê-los aqui. Eles o enganaram com estórias de heroísmo e aventura! [Angdan](/individuos/angdan) demanda!" - Vankar 
+
+> O grupo combate os golías, enquanto Xzin se encontra confuso sem saber quem ajudar.
 {.is-info}
 
 - 19/08/2023 | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
-> 
+> Xzin informa o grupo que algum mal entendido deve ter acontecido e que [Angdan](/individuos/angdan) deve conseguir explicar e leva o grupo até as [Ruínas de Angdan]().
 {.is-info}
 
 - 07/10/2023 | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
