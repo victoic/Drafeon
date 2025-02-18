@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T12:53:33.296Z
+date: 2025-02-18T13:01:11.409Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -713,7 +713,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [06/05/2023](https://www.youtube.com/watch?v=Muh8drNpOkc) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
-> 
+> Pegasus são enviados a cada um dos membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), onde [Beotan](/individuos/beotan), senhor de cidade de [Vuonopolis](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vuonopolis), solicita ajuda deles sobre um presságio de um [terrasque](/fauna-e-flora/terrasque).
 {.is-info}
 
 - 27/05/2023 [[1]](https://www.youtube.com/watch?v=OtirHpH9fu0)[[2]](https://www.youtube.com/watch?v=oF1vpsxewkA) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
