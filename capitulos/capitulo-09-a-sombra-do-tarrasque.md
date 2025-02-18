@@ -2,7 +2,7 @@
 title: Capítulo 09
 description: A Sombra do Terrasque
 published: true
-date: 2025-02-18T14:44:07.723Z
+date: 2025-02-18T23:46:50.915Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T18:40:10.669Z
@@ -73,7 +73,7 @@ A cidade se torna cada vez mais estranha ao grupo, poucas crianças podem ser vi
 
 # Angdan do Coração de Prata
 
-Durante a viagem à embaixada Gólias, o grupo é atacado por um dragão branco. Em poucos dias, fazem seu caminho até a embaixada. Lá, o grupo conversa com [Vulkan](/individuos/vulkan), o líder da embaixada, que logo os acusam de contos falsos de heroísmo, dizendo que Angdan exige que ele pague, e os atacam. Xzin fica imóvel sem saber como agir. Na realidade os gólias servem a Angdan.
+Durante a viagem à embaixada Gólias, o grupo é atacado por um dragão branco. Em poucos dias, fazem seu caminho até a embaixada. Lá, o grupo conversa com [Vankar](/individuos/vankar), o líder da embaixada, que logo os acusam de contos falsos de heroísmo, dizendo que Angdan exige que ele pague, e os atacam. Xzin fica imóvel sem saber como agir. Na realidade os gólias servem a Angdan.
 
 Após o ataque, Xzin diz que Angdan poderá explicar o que ocorreu, e leva o grupo até ele. Lá, Angdan está com Irine, a esposa de Xzin. O grupo é atacado pelo dragão de prata Angdan e pela esposa de Xzin, Irine, que constantemente atormenta Xzin por ser um tolo de acreditar nela. Um grupo de devoradores de mente embosca o grupo, ocupando o cérebro do Magnus e da Amy. 
 
