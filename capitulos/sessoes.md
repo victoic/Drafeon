@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:34:08.594Z
+date: 2025-02-18T01:41:09.053Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -608,12 +608,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Wladimir consegue encontrar algo construído próximo a uma nascente utilizando Comunhão com a Natureza. Ao se moverem ao local, mortos-vivos aparecem.
 {.is-info}
 
-- [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  04 de Fateus 1755
+- [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  9 de Fateus 1755 - 10 de Fateus 1755
 
 > O grupo enfrenta os guardiões da [Lança Iridescente](/itens/lanca-iridescente), no entanto fogem e se reagrupam esperando que [Sarina](/individuos/sarina-starindust) busque o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). Melhor preparados, o grupo recupera o artefato.
 {.is-info}
 
-- [07/01/2023](https://www.youtube.com/watch?v=MtaBKHW32iw) | Data narrativa:  04 de Fateus 1755 - 05 de Fateus 1755
+- [07/01/2023](https://www.youtube.com/watch?v=MtaBKHW32iw) | Data narrativa:  10 de Fateus 1755 - 12 de Fateus 1755
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta contatar o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), no entanto, Zerke dispensa os chamados do grupo alertando estar ocupado com suas investigações. [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) apresenta seu desejo que [Sarina](/individuos/sarina-starindust) não participe do combate contra [Azura](/individuos/azura).
 {.is-info}
@@ -632,7 +632,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Durante a viagem em direção a Azura, Sarina observa que ela matou o dragão, em seguida o grupo vê a criatura tomando voo. Rapidamente se aproximando de Azura, ela faz um retorno para atacar o grupo. O combate contra Azura se inicia.
 {.is-info}
 
-- [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  05 de Fateus 1755 - 05 de Fateus 1755
+- [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  12 de Fateus 1755
 
 > Combate contra [Azura](/individuos/azura) continua.
 {.is-info}
@@ -640,7 +640,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Sessão acabou cedo por falta de energia.
 {.is-warning}
 
-- [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  05 de Fateus 1755 - 07 de Fateus 1755
+- [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  12 de Fateus 1755 - 14 de Fateus 1755
 
 > O combate contra [Azura](/individuos/azura) é concluído com a morte tanto de Azura, pelas mãos de [Sarina](/individuos/sarina-starindust), quanto de [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). [Wladimir](/individuos/personagens-de-jogadores/wladimir) cria um teletransporte por plantas para que o Hêllen seja ressucitado em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Amy](/individuos/personagens-de-jogadores/amy) ficam para garantir que Azura realmente morreu e extrair partes do corpo.
 >
@@ -671,14 +671,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
-- [11/02/2023](https://www.youtube.com/watch?v=Y58HjKeNuGA) | Data narrativa:  07 de Fateus 1755
+- [11/02/2023](https://www.youtube.com/watch?v=Y58HjKeNuGA) | Data narrativa:  14 de Fateus 1755 - 15 de Fateus 1755
 
 > O grupo acorda da bebedeira da noite anterior e planeja a viagem a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu) para investigar o "desaparecimento" de [Zerke](/individuos/personagens-de-jogadores/zerme-montravu). [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) se oferece para se disfarçar de refugiado e descobre uma complô para capturar [aasimars](/fauna-e-flora/especies-inteligentes/aasimar) e torná-los escravos.
 >
 > O resto do grupo se infiltra para salvar Hêllen e Zerke. Descobrem o Zerke controlado magicamente, construindo armas de fogo para os seus capturadores, e Hêllen junto com diversos aasimars, sendo feitos de escravos nas minas de Montravu.
 {.is-info}
 
-- [04/03/2023](https://www.youtube.com/watch?v=xyDEZcZUGwE) | Data narrativa:  07 de Fateus 1755
+- [04/03/2023](https://www.youtube.com/watch?v=xyDEZcZUGwE) | Data narrativa:  15 de Fateus 1755
 
 > Zerke e Hêllen são libertados dos dispositivos que o tornavam escravos. [John](/individuos/personagens-de-jogadores/john) é libertado das masmorras.
 {.is-info}
@@ -687,7 +687,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Eu dei uma chance a vocês de sair com suas vidas. Agora, morram." - Qendrak
 
-- [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: ?? de ?? de 1755 ED
+- [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: 15 de Fateus de 1755 ED
 
 > Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontra documentos incriminando os governadores de Montravu, [Pargel](/individuos/pargel), [Jijoor](/individuos/jijoor) e [Virla](/individuos/virla), de cooperar com Qendrak. O grupo agita a população local para punir os envolvidos.
 > 
@@ -695,6 +695,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > 
 > [John](/individuos/personagens-de-jogadores/john) se une à Confraria da Rosa Negra em busca de oponentes poderosos para derrotar.
 {.is-info}
+
+> "Zerke, seu pai teria orgulho." - Giuli
 
 ## [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
 
