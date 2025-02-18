@@ -2,7 +2,7 @@
 title: Zerke Montravu
 description: 
 published: true
-date: 2025-02-06T16:42:06.319Z
+date: 2025-02-18T01:41:37.207Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:57.941Z
@@ -38,3 +38,4 @@ Até que em uma noite em uma taverna qualquer, ouviu falar em um aventureiro, um
 `Altura` 1,60 m
 `Peso` 38,55 Kg
 `Organizações Associadas` [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra)
+`Títulos` O Libertador de Montravu
