@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:03:42.566Z
+date: 2025-02-18T23:04:24.837Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -746,7 +746,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
-> O grupo derrota a minhoca roxa e levam o corpo do guia [?](/individuos) para a cidade sepultar.
+> O grupo derrota a minhoca roxa e levam o corpo do guia [?](/individuos) para a cidade sepultar. O grupo encontra musgo que não pertence ao local na caverna cavada pela minhoca roxa.
 {.is-info}
 
 - [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
