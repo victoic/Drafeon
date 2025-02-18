@@ -2,13 +2,13 @@
 title: Eripia Ahena
 description: 
 published: true
-date: 2025-02-18T14:11:26.731Z
+date: 2025-02-18T14:43:15.127Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-18T13:44:52.359Z
 ---
 
-# Eripia Ahena
+# Eripia Ahena  {.tabset}
 > Templo de Ahena em gnomo.
 > Inspiração grega.
 {.is-info}
