@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:30:58.878Z
+date: 2025-02-18T23:38:07.056Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -751,9 +751,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) esconde a armadura do [John](/individuos/personagens-de-jogadores/john) como vingança por ele dormir em sua cama no navio. No caminho, o grupo é atacado por um dragão.
 {.is-info}
 
-- [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+- [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 19 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
-> 
+> O grupo derrota o dragão e segue viagem em direção a [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias).
 {.is-info}
 
 - 19/08/2023 | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
