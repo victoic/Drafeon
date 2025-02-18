@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T14:48:16.331Z
+date: 2025-02-18T15:07:01.057Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -731,11 +731,6 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Veles agenda uma reunião para negociar a presença da [Mão de Toutaris](/faccoes/faccoes-independentes/mao-de-toutaris) em mercado de Tunas de Barbatana Azul. Mas esquece de dizer seu nome. Amy investiga a igreja de Ahena, que se encontra fechada.
 >
 > Xzin leva o grupo a sua casa, onde explica sobre a dádiva cinza, mas são interrompidos por Samuel avisando sobre um ataque de centopeias gigantes nas minas, o grupo enfrenta as centopeias. Após o ataque Xzin inicia os preparativos para os rituais dos mortos no ataque.
-{.is-info}
-
-- [03/06/2023](https://www.youtube.com/watch?v=YXi0Ar-9uhM) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
-
-> 
 {.is-info}
 
 - [08/07/2023](https://www.youtube.com/watch?v=LgaxVbwfkZw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
