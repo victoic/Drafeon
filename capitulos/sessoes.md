@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T00:28:25.780Z
+date: 2025-02-18T00:39:14.861Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -632,7 +632,15 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Durante a viagem em direção a Azura, Sarina observa que ela matou o dragão, em seguida o grupo vê a criatura tomando voo. Rapidamente se aproximando de Azura, ela faz um retorno para atacar o grupo. O combate contra Azura se inicia.
 {.is-info}
 
-- [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  05 de Fateus 1755 - 07 de Fateus 1755
+- [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  05 de Fateus 1755 - 05 de Fateus 1755
+
+> Combate contra [Azura](/individuos/azura) continua.
+{.is-info}
+
+> Sessão acabou cedo por falta de energia.
+{.is-warning}
+
+- [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  05 de Fateus 1755 - 07 de Fateus 1755
 
 > O combate contra [Azura](/individuos/azura) é concluído com a morte tanto de Azura, pelas mãos de [Sarina](/individuos/sarina-starindust), quanto de [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). [Wladimir](/individuos/personagens-de-jogadores/wladimir) cria um teletransporte por plantas para que o Hêllen seja ressucitado em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Amy](/individuos/personagens-de-jogadores/amy) ficam para garantir que Azura realmente morreu e extrair partes do corpo.
 >
@@ -662,8 +670,6 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
-
-- [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  07 de Fateus 1755 - 03 de Fateus 1755
 
 > O grupo acorda da bebedeira da noite anterior e planeja a viagem a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu) para investigar o "desaparecimento" de [Zerke](/individuos/personagens-de-jogadores/zerme-montravu).
 {.is-info}
