@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:33:03.599Z
+date: 2025-02-18T01:34:08.594Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -671,14 +671,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
-- [11/02/2023](https://www.youtube.com/watch?v=Y58HjKeNuGA) | Data narrativa:  07 de Fateus 1755 - 07 de Fateus 1755
+- [11/02/2023](https://www.youtube.com/watch?v=Y58HjKeNuGA) | Data narrativa:  07 de Fateus 1755
 
 > O grupo acorda da bebedeira da noite anterior e planeja a viagem a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu) para investigar o "desaparecimento" de [Zerke](/individuos/personagens-de-jogadores/zerme-montravu). [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) se oferece para se disfarçar de refugiado e descobre uma complô para capturar [aasimars](/fauna-e-flora/especies-inteligentes/aasimar) e torná-los escravos.
 >
 > O resto do grupo se infiltra para salvar Hêllen e Zerke. Descobrem o Zerke controlado magicamente, construindo armas de fogo para os seus capturadores, e Hêllen junto com diversos aasimars, sendo feitos de escravos nas minas de Montravu.
 {.is-info}
 
-- [04/03/2023](https://www.youtube.com/watch?v=xyDEZcZUGwE) | Data narrativa:  03 de Fateus 1755 - 03 de Fateus 1755
+- [04/03/2023](https://www.youtube.com/watch?v=xyDEZcZUGwE) | Data narrativa:  07 de Fateus 1755
 
 > Zerke e Hêllen são libertados dos dispositivos que o tornavam escravos. [John](/individuos/personagens-de-jogadores/john) é libertado das masmorras.
 {.is-info}
