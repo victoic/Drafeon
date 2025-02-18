@@ -2,7 +2,7 @@
 title: Capítulo 09
 description: A Sombra do Terrasque
 published: true
-date: 2025-02-18T02:28:19.579Z
+date: 2025-02-18T13:20:59.174Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T18:40:10.669Z
@@ -30,7 +30,7 @@ Os pégasos, guiando os heróis, pousam no topo da fortaleza e formam um círcul
 
 Beotan traz os heróis para seu Grande Salão. Ele manca até um barril de cerveja e tomar um gole profundo. Depois de oferecer o barril aos jogadores, ele se senta em um banco e relata o seguinte: 
 
-> Obrigado, heróis, por atenderem ao meu chamado. O ataque das centopeias só pode significar que eu estava certo em pedir sua ajuda. Todos os presságios apontam para [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena). É a resposta ou a fonte de minhas visões perturbadoras. Eripia Ahena é um assentamento antigo - no [Floresta do Tempo](/lugares/plano-material/drafeon/sudoeste-de-drafeon/floresta-do-tempo). Nunca dei atenção porque prefiro a minha solidão. Deixo os humanóides com seus próprios assuntos. No entanto, um ano atrás, um monge chamado [Reli](/individuos/reli) me procurou. A princípio, pensei que a visita do monge a Vuonapolis fazia parte de uma jornada de automortificação. No entanto, ele me procurou para levantar preocupações sobre Eripia Ahena. Reli estava morando em uma caverna remota perto de Eripia Ahena por meses. Em uma de suas andanças, ele encontrou um humano meio congelado e de pele cinza. Na curta duração que ele viveu depois que Reli o encontrou, o humano murmurou incoerentemente sobre um dragão de prata e Eripia Ahena, e um ritual chamado coração de prata. Reli foi investigar Eripia Ahena, mas não tenho notícias dele há muitos meses. Ao mesmo tempo, vi presságios nas nuvens - um Tarrasque formado por uma nuvem de tempestade. Por favor, vão para Eripia Ahena e descubram o que você puderem lá. 
+> Obrigado, heróis, por atenderem ao meu chamado. O ataque das centopeias só pode significar que eu estava certo em pedir sua ajuda. Todos os presságios apontam para [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena). É a resposta ou a fonte de minhas visões perturbadoras. Eripia Ahena é um assentamento antigo - na [Floresta do Tempo](/lugares/plano-material/drafeon/sudoeste-de-drafeon/floresta-do-tempo). Nunca dei atenção porque prefiro a minha solidão. Deixo os humanóides com seus próprios assuntos. No entanto, um ano atrás, um monge chamado [Reli](/individuos/reli) me procurou. A princípio, pensei que a visita do monge a Vuonapolis fazia parte de uma jornada de automortificação. No entanto, ele me procurou para levantar preocupações sobre Eripia Ahena. Reli estava morando em uma caverna remota perto de Eripia Ahena por meses. Em uma de suas andanças, ele encontrou um humano meio congelado e de pele cinza. Na curta duração que ele viveu depois que Reli o encontrou, o humano murmurou incoerentemente sobre um dragão de prata e Eripia Ahena, e um ritual chamado coração de prata. Reli foi investigar Eripia Ahena, mas não tenho notícias dele há muitos meses. Ao mesmo tempo, vi presságios nas nuvens - um Tarrasque formado por uma nuvem de tempestade. Por favor, vão para Eripia Ahena e descubram o que você puderem lá. 
 
 Beotan convida os aventureiros a descansar e se recuperar. Ele alimenta os aventureiros e fornecerá acomodações. No dia seguinte, ele os incitará a chegar a Eripia Ahena: 
 
