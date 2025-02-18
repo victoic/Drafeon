@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:22:21.708Z
+date: 2025-02-18T01:23:55.985Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -682,6 +682,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Zerke e Hêllen são libertados dos dispositivos que o tornavam escravos. [John](/individuos/personagens-de-jogadores/john) é libertado das masmorras.
 {.is-info}
+
+> "Saiam agora, e viverão. Última chance." - Qendrak
 
 - [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: ?? de ?? de 1755 ED
 
