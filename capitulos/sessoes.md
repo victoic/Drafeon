@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T13:29:06.595Z
+date: 2025-02-18T13:29:24.707Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -713,7 +713,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [06/05/2023](https://www.youtube.com/watch?v=Muh8drNpOkc) | Data narrativa: 15 de Obris de 1755 ED - 18 de Obris de 1755 ED
 
-> Pegasus são enviados a cada um dos membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), onde [Beotan](/individuos/beotan), senhor de cidade de [Vuonopolis](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vuonopolis), solicita ajuda deles sobre um presságio de um [terrasque](/fauna-e-flora/terrasque), os pegasus guiam o grupo até Vuonopolis. 
+> Pegasus são enviados a cada um dos membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), onde [Beotan](/individuos/beotan), senhor de cidade de [Vuonopolis](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vuonopolis), solicita ajuda deles sobre um presságio de um [terrasque](/fauna-e-flora/terrasque), os pegasus guiam o grupo até Vuonopolis em uma viagem de 3 dias. 
 >
 > Ao chegarem à cidade, o grupo encontra monstros atacando Beotan e o ajudam. Beotan explica que viu um presságio sobre as sombras da chegada de um terrasque e sobre um druida chamado [Reli](/individuos/reli) que encontrou um humano murmurrando incoerentemente sobre um dragão e um ritual em [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena). Reli partiu para Eripia Ahena para investigar e não houve mais notícias sobre ele. Boatan pede que o grupo investigue os desaparecimentos.
 > O grupo descansa em Vuonopolis e parte no dia seguinte para Eripia Ahena.
