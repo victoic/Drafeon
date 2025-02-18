@@ -2,7 +2,7 @@
 title: Capítulo 07
 description: Azura, A Dragão Deus
 published: true
-date: 2025-02-17T23:58:44.629Z
+date: 2025-02-18T00:01:23.325Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T21:37:33.002Z
@@ -93,7 +93,7 @@ Durante todo o período de separação do grupo do Zerke, tentativas de contato 
 - [Hêllen Starindust](individuos/personagens-de-jogadores/hellen-starindust)
 - [Magnus Ponta-de-Lança](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca)
 - [Veles Lupis Lugh](/individuos/personagens-de-jogadores/veles-lupis-lugh)
-- [Wladimir](/individuos/personagens-de-jogadores/wladimir)
+- [Wladimir Folhaverde](/individuos/personagens-de-jogadores/wladimir)
 - [Zerke Montravu](/individuos/personagens-de-jogadores/zerme-montravu)
 
 # Relações
