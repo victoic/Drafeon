@@ -2,7 +2,7 @@
 title: Yuski Forrevert
 description: 
 published: true
-date: 2025-02-18T22:15:53.412Z
+date: 2025-02-18T22:42:22.526Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-18T22:15:53.412Z
@@ -14,7 +14,7 @@ Yuski Forrevert foi um humano, nativo de [Village Foret](/lugares/plano-material
 Yuski foi casado com [Maria Forrevert](/individuos/maria-forrevert) e tinha uma filha, com as quais trocou cartas após sua necessidade de continuar em Eripia Ahena. Ele acreditava que o ritual do coração de prata o curaria.
 
 # Informações
-`Data de Nascimento` 1722
+`Data de Nascimento` 1722 ED
 `Local de Nascimento` [Village Foret](/lugares/plano-material/drafeon/sul-de-drafeon/village-foret)
 `Sexo Biológico` Masculino
 `Olhos` Verdes
