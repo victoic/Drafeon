@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:31:42.000Z
+date: 2025-02-18T01:33:03.599Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -689,7 +689,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: ?? de ?? de 1755 ED
 
-> Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontra documentos incriminando os governadores de Montravu, [Pargel](/individuos/pargel), [Jijoor](/individuos/jijoor) e [Virla](/individuos/virla), de cooperar com Qendrak. Um conselho é definido pela população para governar a cidade, incluindo: [Giuli](/individuos/giuli), [Zalah](/individuos/zalah), [Haled](/individuos/haled), [Zora](/individuos/zora) e [Anay](/individuos/anay).
+> Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontra documentos incriminando os governadores de Montravu, [Pargel](/individuos/pargel), [Jijoor](/individuos/jijoor) e [Virla](/individuos/virla), de cooperar com Qendrak. O grupo agita a população local para punir os envolvidos.
+> 
+> Um conselho é definido pela população para governar a cidade, incluindo: [Giuli](/individuos/giuli), [Zalah](/individuos/zalah), [Haled](/individuos/haled), [Zora](/individuos/zora) e [Anay](/individuos/anay).
 > 
 > [John](/individuos/personagens-de-jogadores/john) se une à Confraria da Rosa Negra em busca de oponentes poderosos para derrotar.
 {.is-info}
