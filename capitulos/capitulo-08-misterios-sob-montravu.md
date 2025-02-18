@@ -2,7 +2,7 @@
 title: Capítulo 08
 description: Mistério sob Montravu
 published: true
-date: 2025-02-09T13:57:15.171Z
+date: 2025-02-18T01:58:37.966Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T04:58:02.672Z
@@ -67,7 +67,7 @@ Magnus, Hêllen, Veles, e Zerke, são convocados à Kêndtro por [Makil Drasonur
 
 O jantar acumulou a presença dos quatro senhores de região, do imperador, da sacerdotisa-mor. Alguns outros convidados também estarão presentes incluindo alguns dos [Draks](/rankings-e-titulos/imperio-dragao/drak). O arquimago não estará.
 
-Durante o início do jantar, convidados vão sendo apresentados por um mensageiro que se encontra na entrada do salão. Nikolina Aximakes, uma adolescente draconata entediada da importante família Aximakes começa a falar com os heróis.
+Durante o início do jantar, convidados vão sendo apresentados por um mensageiro que se encontra na entrada do salão. [Nikolina Aximakes](/individuos/nikolina-aximakes), uma adolescente draconata entediada da importante família Aximakes começa a falar com os heróis.
 
 > "porque eu estou incrivelmente cansada de seus pais a arrastando para essas coisas e eu odeio o vestido com babados que eu tenho que usar e eu preferiria estar lá fora matando monstros, e eu estou muito desinteressada na festa." - Nikolina Aximakes
 
