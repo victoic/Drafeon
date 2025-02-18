@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:44:53.121Z
+date: 2025-02-18T01:47:51.585Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -452,7 +452,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 ## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
 {.is-info}
 
-- [05/03/2022](https://www.youtube.com/watch?v=jL9IuE6ARuU) | Data narrativa: 5 de Azemis de 1755 - 6 de Azemis de 1755
+- [05/03/2022](https://www.youtube.com/watch?v=jL9IuE6ARuU) | Data narrativa: 5 de Azemis de 1755 ED - 6 de Azemis de 1755 ED
 
 > O grupo retorno ao [Plano Material](/lugares/plano-material), mas separados em dois grupo: [Korin](/individuos/korin), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) e [Folhiares](/individuos/fara-folhiares) em um grupo, [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh), [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), [Lakip](/individuos/lakip-brillabouso) e [Nimbar](/individuos/nimbar-tatsetul) em outro. Enquanto Zerke tenta identificar onde estão e Veles consola o Lakip, [Inútil](/individuos/inutil-quasit) foge.
 >
@@ -466,7 +466,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Após fazerem compras, o grupo se teletransporta para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde observam tendas e caravanas, jogos e música e também a cidade em reconstrução. O grupo faz compras na loja do [Ser Glorkan](/individuos/ser-glorkan), onde Veles compra sua vassoura voadora.
 {.is-info}
 
-- 19/03/2022 | Data narrativa: 16 de Azemis de 1755 - 25 de Azemis de 1755
+- 19/03/2022 | Data narrativa: 16 de Azemis de 1755 ED - 25 de Azemis de 1755 ED
 
 > O grupo participa do enterro de [Alfonse](/individuos/alfonse) no [cemitério de Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte/cemiterio) e [Lakip](/individuos/lakip-brillabouso) é preso. Em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), o grupo encontra [Aldror](/individuos/aldror) que os entrega a [escritura da mansão](/documentos/escritura-da-mansao-de-leomund) que lhe foi deixada por [Arprax](/individuos/arprax).
 >
@@ -476,25 +476,25 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 
-- [02/04/2022](https://www.youtube.com/watch?v=fCh_arR_aas) | Data narrativa: 25 de Azemis de 1755
+- [02/04/2022](https://www.youtube.com/watch?v=fCh_arR_aas) | Data narrativa: 25 de Azemis de 1755 ED
 
 > O grupo visita [A Caravana](/faccoes/faccoes-independentes/a-caravana). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vence a competição de bebida, recebendo uma poção da longevidade e a competição de queda de braço, ganhando o token de pena de Quaal de pássaro. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) ganhou a competição de tiro ao alvo, ganhando um bastão imóvel. Ao fim do dia, o Zerke bebe a poção de longevidade, rejuvenescendo 10 anos.
 {.is-info}
 
-- 09/04/2022 | Data narrativa: 25 de Azemis de 1755 - 26 de Azemis de 1755
+- 09/04/2022 | Data narrativa: 25 de Azemis de 1755 ED - 26 de Azemis de 1755 ED
 
 > O grupo descobre se envolve em uma trama n[A Caravana](/faccoes/faccoes-independentes/a-carana) após presenciar um roubo, envolvendo a recuperação de um item chamado [a lente](/itens/a-lente) e um leilão no submundo.
 > O [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) sob o codenome "Barão Azul", recebe um convite para o leilão.
 {.is-info}
 
-- [30/04/2022](https://www.youtube.com/watch?v=_tsyKKy8_zs) | Data narrativa: 26 de Azemis de 1755
+- [30/04/2022](https://www.youtube.com/watch?v=_tsyKKy8_zs) | Data narrativa: 26 de Azemis de 1755 ED
 
 > O grupo garante [a lente](/itens/a-lente) no leilão do submundo e também uma [luva do mestre artesão](/itens/luva-do-mestre-artesão). [A Lança e o Morto](/itens/a-lanca-e-o-morto) é leiloado.
 >
 > O grupo descobre a presença de changelings n[A Caravana](/faccoes/faccoes-independentes/a-carana). O grupo descobre que [Feynore Faralei](/individuos/feynore-faralei) foi sequestrada.
 {.is-info}
 
-- [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: 26 de Azemis 1755 - 27 de Azemis de 1755
+- [04/06/2022](https://www.youtube.com/watch?v=4dzWybqfC90) | Data narrativa: 26 de Azemis 1755 ED - 27 de Azemis de 1755 ED
 
 > Os heróis devolvem [a lente](/itens/a-lente) a [Meia-Noite](/individuos/meia-noite).
 >
@@ -507,14 +507,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Oi irmãozinho, sua felicidade no festival nos alegra, mas precisamos que nos encontre em Cruzamento um dia antes" - Sarina Starindust.
 
-- [18/06/2022](https://www.youtube.com/watch?v=4pcTW8d7K-s) | Data narrativa: 27 de Azemis 1755 - 01 de Fateus 1755
+- [18/06/2022](https://www.youtube.com/watch?v=4pcTW8d7K-s) | Data narrativa: 27 de Azemis 1755 ED - 01 de Fateus 1755 ED
 
 > O grupo avisa [Irien Galaniell](/individuos/irien-galaniell) de seu plano de capturar [Sarina](/individuos/sarina-starindust) e trazê-la a [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) para retirar sua suposta maldição. Hêllen oferece seu serviço de teletransporte para locais em Porto Novo, criando confusão com um navegador local. Ele leva o grupo e uma família para [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte).
 >
 > Com ajuda de [Folhiares](/individuos/fara-folhiares), o grupo pesquisa sobre como derrotar dragões. O grupo voa até [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento), onde Sarina tenta convencer o Hêllen a se juntar a Azura, após negar, Sarina e Azura atacam o grupo. Hêllen teletransporta o grupo e a Sarina para Porto Novo. Lá, buscam [Baddali](/individuos/baddali-copo-cheio) para remover a maldição dela.
 {.is-info}
 
-- [02/07/2022](https://www.youtube.com/watch?v=LpaWBeWe72M) | Data narrativa:  01 de Fateus 1755
+- [02/07/2022](https://www.youtube.com/watch?v=LpaWBeWe72M) | Data narrativa:  01 de Fateus 1755 ED
 
 > [Baddali](/individuos/baddali-copo-cheio) remove uma maldição que afligia [Sarina](/individuos/sarina-starindust). [Azura](/individuos/azura) chega a [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) e requisita que Sarina e [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) sejam entregues até o fim do mês ou a cidade será destruída.
 {.is-info}
@@ -524,7 +524,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Sarina avisa que Azura possui infiltrados por todo o [Império Dragão](/faccoes/nacoes/imperio-dragao). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) percebe que o grupo está sendo espionado por dispositivos mágicos. Comunicando-se com [Irien](/individuos/irien-galaniell) no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro) em Porto Novo, a [Senhora de Região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao) os avisa que tentará ganhar tempo para que resolvam a questão, mas que caso o prazo determinado por Azura se aproxime ela precisará os entregar. O grupo desconfia que Irien trabalhe com Irien e partem em direção a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo) para impedir que uma [aasirmar](/fauna-e-flora/especies-inteligentes/aasimar) seja capturada.
 {.is-info}
 
-- [16/07/2022](https://www.youtube.com/watch?v=1lD4-JbjNNo) | Data narrativa:  01 de Fateus 1755
+- [16/07/2022](https://www.youtube.com/watch?v=1lD4-JbjNNo) | Data narrativa:  01 de Fateus 1755 ED
 
 > Passamos a usar o Foundry VTT, ao invés do Roll20.
 {.is-warning}
@@ -532,14 +532,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Grupo enfrenta elementais no caminho a [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-pantano). A fada, [Amy](/individuos/personagens-de-jogadores/amy), aparece fugindo de alguns elementais e é ajudada pelo grupo.
 {.is-info}
 
-- [30/07/2022](https://www.youtube.com/watch?v=mIeQbuu4Z5g) | Data narrativa:  01 de Fateus 1755
+- [30/07/2022](https://www.youtube.com/watch?v=mIeQbuu4Z5g) | Data narrativa:  01 de Fateus 1755 ED
 
 > Em [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo), o grupo enfrenta mais elementais e um cultista de [Azura](/individuos/azura), que tentava sequestrar [Milda Chifremadeira](/individuos/milda-chifremadeira). [Mariouro Chifremadeira](/individuos/mariouro-chifremadeira) é encontrada morta. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se dispõe a encontrar um novo lar a Milda.
 >
 > Ínfame cena do grupo encontrando um anão acontece aqui. [Amy](/individuos/personagens-de-jogadores/amy) se une a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra).
 {.is-info}
 
-- [27/08/2022](https://www.youtube.com/watch?v=TbBwPAlwo5g) | Data narrativa:  01 de Fateus 1755
+- [27/08/2022](https://www.youtube.com/watch?v=TbBwPAlwo5g) | Data narrativa:  01 de Fateus 1755 ED
 
 > O grupo parte com [Milda](/individuos/milda-chifremadeira) em direção a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [A Porta-Voz](/individuos/) aparece para [Amy]((/individuos/personagens-de-jogadores/amy).
 >
@@ -550,12 +550,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Em uma taverna de Montravu, o grupo encontra um humano utilizando um disface mágico e, após desfazerem a magia, o perseguem pelas ruas da cidade, no entanto ele os despista entre becos e vielas. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) decide ficar em Montravu para investigar os refugiados aasimar na cidade, com Milda.
 {.is-info}
 
-- [10/09/2022](https://www.youtube.com/watch?v=NzxN7c-D584) | Data narrativa:  01 de Fateus 1755 - 03 de Fateus 1755
+- [10/09/2022](https://www.youtube.com/watch?v=NzxN7c-D584) | Data narrativa:  01 de Fateus 1755 ED - 03 de Fateus 1755 ED
 
 > O grupo viaja para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) usando a [roc](/fauna-e-flora/roc) do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca). No caminho, enfretam um grupo de [bestas deslocadoras](/fauna-e-flora/besta-deslocadora).
 {.is-info}
 
-- [15/10/2022](https://www.youtube.com/watch?v=sD3yB7w13jM) | Data narrativa:  01 de Fateus 1755 - 03 de Fateus 1755
+- [15/10/2022](https://www.youtube.com/watch?v=sD3yB7w13jM) | Data narrativa:  01 de Fateus 1755 ED - 03 de Fateus 1755 ED
 
 > O grupo investiga os restos do ataque descontrolado do [Eberus](/individuos/eberus). Chegando em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik), [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) encontra dois membros das [Três Mãos](/faccoes/faccoes-independentes/tres-maos), [Kartzo](/individuos/kartzo) e [Pirasnius](/individuos/pirasnius), que ajudam o grupo com informações sobre um membro especializado em rituais que chegará a Vivlotik nos próximos dias, e o grupo descobre de sua relação com uma sociedade secreta. Em resposta, Hêllen inicia sua própria sociedade secreta, de forma bem pública.
 {.is-info}
@@ -566,7 +566,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Hêllen e [Sarina](/individuos/sarina-starindust) adentram a torre do grande templo e discutem a conexão do Hêllen com Fateus, onde Hêllen revela seus sonhos sobre a morte dos anjos de Fateus por [Azura](/individuos/azura) e as sacerdotes revelam que a conexão com os sonhos de Fateus vem sendo reduzida. O grupo se hospeda na [Pousada das Nove Estrelas](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/pousada-das-nove-estrelas).
 {.is-info}
 
-- [22/10/2022](https://www.youtube.com/watch?v=j1-f7vi8ZM8) | Data narrativa:  03 de Fateus 1755 - 07 de Fateus 1755
+- [22/10/2022](https://www.youtube.com/watch?v=j1-f7vi8ZM8) | Data narrativa:  03 de Fateus 1755 ED - 07 de Fateus 1755 ED
 
 > O grupo recebe a carta de permissão de acesso à [Biblioteca Central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/grande-templo), aos níveis 3 a 20.
 >
@@ -581,7 +581,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Muito lore!
 {.is-warning}
 
-- [19/11/2022](https://www.youtube.com/watch?v=8N3PEKkP9lQ) | Data narrativa:  07 de Fateus 1755 - 08 de Fateus 1755
+- [19/11/2022](https://www.youtube.com/watch?v=8N3PEKkP9lQ) | Data narrativa:  07 de Fateus 1755 ED - 08 de Fateus 1755 ED
 
 > Os preparativos para o ritual do [Oráculo do Lírio](/lendas-e-eventos/rituais/oraculo-do-lirio) se iniciam. [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) e [Amy](/individuos/personagens-de-jogadores/amy) se voluntariam para auxiliar com seus dons arcanos a realização do ritual. Juntamente os sacerdotes [Myriani](/individuos/myriani), sacerdotisa de [Gadot](/divindades/panteao-das-treze-estrelas/gadot), [Tanelia](/individuos/tanelia), sacerdotisa de [Ahena](/divindades/panteao-das-treze-estrelas/ahena) e [Banbyst](/individuos/banbyst), sacerdote de [Nituhnna](/divindades/panteao-das-treze-estrelas/nituhnna).
 >
@@ -597,7 +597,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo vê como possbilidade 6 cenários principais, além de 2 em que ela falha, mas não podem observar. Entre os cenários principais de "vitória" de Azura, um mostrava Azura como única deusa, outro como deusa maior perante os demais, em outro outras criaturas tomavam o lugar dos demais deuses, em outro azura passava a fazer parte do panteão, outro incluia ela ascendendo mas sendo controlada por outras criaturas misteriosas.
 {.is-info}
 
-- [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  08 de Fateus 1755 - 09 de Fateus 1755
+- [03/12/2022](https://www.youtube.com/watch?v=x9IZoKExjpg) | Data narrativa:  08 de Fateus 1755 ED - 09 de Fateus 1755 ED
 
 > O grupo visita [Folhiares](/individuos/fara-folhiares) em [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte) e em seguida [Ulyana Arabath](/individuos/ulyana-arabath) para buscar uma forma de demonstrar o futuro onde [Azura](/individuos/azura) perde. [Wladimir](/individuos/personagens-de-jogadores/wladimir) convence [Dominique Partieu III](/individuos/dominique-partieu-iii) a ajudar o grupo com uma barganha telepática por ervas.
 >
@@ -608,12 +608,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Wladimir consegue encontrar algo construído próximo a uma nascente utilizando Comunhão com a Natureza. Ao se moverem ao local, mortos-vivos aparecem.
 {.is-info}
 
-- [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  09 de Fateus 1755 - 10 de Fateus 1755
+- [17/12/2022](https://www.youtube.com/watch?v=0qgdNt2Egcc) | Data narrativa:  09 de Fateus 1755 ED - 10 de Fateus 1755 ED
 
 > O grupo enfrenta os guardiões da [Lança Iridescente](/itens/lanca-iridescente), no entanto fogem e se reagrupam esperando que [Sarina](/individuos/sarina-starindust) busque o [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). Melhor preparados, o grupo recupera o artefato.
 {.is-info}
 
-- [07/01/2023](https://www.youtube.com/watch?v=MtaBKHW32iw) | Data narrativa:  10 de Fateus 1755 - 12 de Fateus 1755
+- [07/01/2023](https://www.youtube.com/watch?v=MtaBKHW32iw) | Data narrativa:  10 de Fateus 1755 ED - 12 de Fateus 1755 ED
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) tenta contatar o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), no entanto, Zerke dispensa os chamados do grupo alertando estar ocupado com suas investigações. [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) apresenta seu desejo que [Sarina](/individuos/sarina-starindust) não participe do combate contra [Azura](/individuos/azura).
 {.is-info}
@@ -632,7 +632,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Durante a viagem em direção a Azura, Sarina observa que ela matou o dragão, em seguida o grupo vê a criatura tomando voo. Rapidamente se aproximando de Azura, ela faz um retorno para atacar o grupo. O combate contra Azura se inicia.
 {.is-info}
 
-- [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  12 de Fateus 1755
+- [14/01/2023](https://www.youtube.com/watch?v=2mwiZT1G6xY) | Data narrativa:  12 de Fateus 1755 ED
 
 > Combate contra [Azura](/individuos/azura) continua.
 {.is-info}
@@ -640,7 +640,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Sessão acabou cedo por falta de energia.
 {.is-warning}
 
-- [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  12 de Fateus 1755 - 14 de Fateus 1755
+- [28/01/2023](https://www.youtube.com/watch?v=wntbSfEuD5Q) | Data narrativa:  12 de Fateus 1755 ED - 14 de Fateus 1755 ED
 
 > O combate contra [Azura](/individuos/azura) é concluído com a morte tanto de Azura, pelas mãos de [Sarina](/individuos/sarina-starindust), quanto de [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust). [Wladimir](/individuos/personagens-de-jogadores/wladimir) cria um teletransporte por plantas para que o Hêllen seja ressucitado em [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik). [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Amy](/individuos/personagens-de-jogadores/amy) ficam para garantir que Azura realmente morreu e extrair partes do corpo.
 >
@@ -671,14 +671,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 ## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
-- [11/02/2023](https://www.youtube.com/watch?v=Y58HjKeNuGA) | Data narrativa:  14 de Fateus 1755 - 15 de Fateus 1755
+- [11/02/2023](https://www.youtube.com/watch?v=Y58HjKeNuGA) | Data narrativa:  14 de Fateus 1755 ED - 15 de Fateus 1755 ED
 
 > O grupo acorda da bebedeira da noite anterior e planeja a viagem a [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu) para investigar o "desaparecimento" de [Zerke](/individuos/personagens-de-jogadores/zerme-montravu). [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) se oferece para se disfarçar de refugiado e descobre uma complô para capturar [aasimars](/fauna-e-flora/especies-inteligentes/aasimar) e torná-los escravos.
 >
 > O resto do grupo se infiltra para salvar Hêllen e Zerke. Descobrem o Zerke controlado magicamente, construindo armas de fogo para os seus capturadores, e Hêllen junto com diversos aasimars, sendo feitos de escravos nas minas de Montravu.
 {.is-info}
 
-- [04/03/2023](https://www.youtube.com/watch?v=xyDEZcZUGwE) | Data narrativa:  15 de Fateus 1755
+- [04/03/2023](https://www.youtube.com/watch?v=xyDEZcZUGwE) | Data narrativa:  15 de Fateus 1755 ED
 
 > Zerke e Hêllen são libertados dos dispositivos que o tornavam escravos. [John](/individuos/personagens-de-jogadores/john) é libertado das masmorras.
 {.is-info}
