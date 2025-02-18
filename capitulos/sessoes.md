@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:22:38.504Z
+date: 2025-02-18T23:30:58.878Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -748,7 +748,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > O grupo derrota a minhoca roxa e levam o corpo do guia [?](/individuos) para a cidade sepultar. O grupo encontra musgo que não pertence ao local na caverna cavada pela minhoca roxa. [Xzin](/individuos/xzin) e [Samuel](/individuos/samuel) investigam o lugar onde a minhoca roxa apareceu junto com o grupo. Investigações apontam na direção da [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias) e partem nessa direção com o Xzin com o guia.
 >
-> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) esconde a armadura do [John](/individuos/personagens-de-jogadores/john) como vingança por ele dormir em sua cama no navio.
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) esconde a armadura do [John](/individuos/personagens-de-jogadores/john) como vingança por ele dormir em sua cama no navio. No caminho, o grupo é atacado por um dragão.
 {.is-info}
 
 - [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
