@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:43:24.412Z
+date: 2025-02-18T01:44:53.121Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -697,6 +697,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 > "Zerke, seu pai teria orgulho." - Giuli
+
+> Quatro meses se passam, com membros do grupo agindo individualmente.
+{.is-info}
 
 ## [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
 
