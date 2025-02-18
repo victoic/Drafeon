@@ -2,7 +2,7 @@
 title: Eripia Ahena
 description: 
 published: true
-date: 2025-02-18T14:06:04.721Z
+date: 2025-02-18T14:06:41.241Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-18T13:44:52.359Z
@@ -34,8 +34,6 @@ O consumo de dádiva cinza é fisicamente visível, conforme a população que o
 ## Demografia
 
 A cidade é majoritariamente habitada por gnomos, no entanto, outras raças inteligentes comuns da região se fazem presentes. Dada a bênção cinza, a população local possui pele acinzentada e se encontra impossibilitada de sair do local.
-
-## 
 
 # Informações
 `Tipo` Cidade
