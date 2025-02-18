@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T22:16:01.657Z
+date: 2025-02-18T22:16:10.883Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -739,7 +739,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) ajuda na segurança da pedreira durante o período da manhã. Veles solicita que [Folhiares](/individuos/fara-folhiares) busque sobre o ritual do coração de prata, mas ela não obtém sucesso. Parte do grupo viaja a [Eripia Nituhnna]((/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-nituhnna) em busca de Reli.
 >
-> Ao meio-dia, Veles teleporta o grupo do navio de volta à Taverna Eripia para sua reunião de negócios. Enquanto isso, Zerke visita os estábulos em busca de material para fabricar munição, comprando do [Gruntar](/individuos/gruntar), após a compra, o aarakocra investiga o local, encontrando um conjunto cartas trocadas entre [Maria](/individuos/maria) e [Yuski](/individuos/yuski-forrevert).
+> Ao meio-dia, Veles teleporta o grupo do navio de volta à Taverna Eripia para sua reunião de negócios. Enquanto isso, Zerke visita os estábulos em busca de material para fabricar munição, comprando do [Gruntar](/individuos/gruntar), após a compra, o aarakocra investiga o local, encontrando um conjunto cartas trocadas entre [Maria](/individuos/maria-forrevert) e [Yuski](/individuos/yuski-forrevert).
 {.is-info}
 
 - [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
