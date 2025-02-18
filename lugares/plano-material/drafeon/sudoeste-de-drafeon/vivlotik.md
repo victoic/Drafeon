@@ -2,7 +2,7 @@
 title: Vivlotik
 description: 
 published: true
-date: 2025-02-17T13:15:21.468Z
+date: 2025-02-18T14:07:45.820Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-15T01:38:29.872Z
@@ -10,7 +10,8 @@ dateCreated: 2025-02-15T01:38:29.872Z
 
 # Vivlotik
 
-> Grego para biblioteca
+> Gnomo para biblioteca.
+> Inspiração grega.
 {.is-info}
 
 Vivlotik foi uma cidade importante do [sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), sendo a capital religiosa e intelectual do [Império Dragão](/faccoes/nacoes/imperio-dragao). Diversas bibliotecas de especialidades distintas existem na cidade, com a [Biblioteca Central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/biblioteca-central) concentrando cópias e originais de todos esses, incluindo escritos ocultos e secretivos mantidos em áreas restritas.
