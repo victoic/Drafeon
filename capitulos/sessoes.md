@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T01:48:38.291Z
+date: 2025-02-18T02:06:54.126Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -699,6 +699,11 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > "Zerke, seu pai teria orgulho." - Giuli
 
 > Quatro meses se passam, com membros do grupo agindo individualmente.
+{.is-info}
+
+- [15/04/2023](https://www.youtube.com/watch?v=Z55J-A2tV8U) | Data narrativa: 15 de Fateus de 1755 ED - 15 de Obris de 1755 ED
+
+> Membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) ([Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh), [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e [Amy](/individuos/personagens-de-jogadores/amy)) são convocados para a comemoração do dia de homenagem aos mortos em Kêndtro no castelo do [Imperador](/rankings-e-titulos/imperio-dragao/imperador-dragao). Onde participam de uma competição de dança, fazem doações à [Geritia](/individuos/geritia) da [Fundação de Ajuda aos Goblins de Joelhos Pontudos](/faccoes/faccoes-independentes/fundacao-de-ajuda-aos-goblins-de-joelhos-pontudos), a Amy irrita o Imperador, Magnus tem histórias mentirosas sobre ele contadas pelo [Mildo](/individuos/mildo), Zerke e Nikolina sentam ao lado de [Artos](/individuos/artos), uma embaixadora de [Drownia](/faccoes/nacoes/corte-elfica/drownia) cria atrito com o Veles.
 {.is-info}
 
 ## [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
