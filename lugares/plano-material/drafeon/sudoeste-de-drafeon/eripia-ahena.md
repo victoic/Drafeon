@@ -2,7 +2,7 @@
 title: Eripia Ahena
 description: 
 published: true
-date: 2025-02-18T21:52:39.676Z
+date: 2025-02-18T22:00:55.769Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-18T13:44:52.359Z
@@ -18,6 +18,7 @@ Eripia Ahena foi uma cidade no [Sudoeste de Drafeon](/lugares/plano-material/dra
 ## Bens
 **Taverna:** Taverna Eripia, taverna de madeira próximo portão oeste da cidade.
 *Proprietário(a): [Drahg](/individuos/drahg)*
+**Estábulos** & **Marcenaria:** Estábulos de Eripia Ahena.
 
 ## Produção
 
