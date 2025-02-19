@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T21:35:51.443Z
+date: 2025-02-19T21:48:23.853Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -831,14 +831,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > "Ha ha ha! Muito bom! Mas tome de volta!" - Reli
 > "Ha ha ha! Um pequeno pacote com um impacto grande!" - Reli
 
-- 07/01/2024 | Data narrativa: 09 de Mudur de 1755 ED - 11 de Mudur de 1755 ED
+- 07/01/2024 | Data narrativa: 09 de Mudur de 1755 ED
 
 > O grupo enfrenta e derrota [Cul'Gu](/individuos/culgu) e o derrota, no entanto [John](/individuos/personagens-de-jogadores/john) morre no combate caindo na piscina ácida onde o cérebro ancião habitava. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) estabiliza o corpo do comapanheiro para que possam realizar um ritual de ressurreição.
 > [Amy](/individuos/personagens-de-jogadores/amy) encontra cartas trocadas entre Cul'Gu e o Anjo Azul que falam da derrota de [Azura](/individuos/azura) e dos "demais" precisarem tomar cuidado.
 > [Onas](/individuos/onas) e outros gith entram na torre e teleportam o grupo para o [Plano Astral](/lugares/plano-astral), onde Cul'Gu se recupera, lá o grupo o mata de uma vez por todas.
 {.is-info}
 
-- 06/04/2024 | Data narrativa: 22 de Obris de 1755 ED
+- 06/04/2024 | Data narrativa: 09 de Mudur de 1755 ED - 12 de Mudur de 1755 ED
 
 > O grupo se teletransporta até [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik), buscando ressucitar o [John](/individuos/personagens-de-jogadores/john), o Veles, lembrando-o de que ainda existem muitas criaturas poderosas a serem enfrentadas, o Zerke, apelando ao estado de sua armadura que não estava honrado para um guerreiro como o John morrer nela, e o Magnus, mostrando sua ira ao esmurrar a mesa de ritual, lembrando que o John e o Magnus haviam de testar suas forças em combate. No entanto o espírito do John, cansado, preferiu seguire em descanso eterno.
 {.is-info}
