@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T21:22:53.755Z
+date: 2025-02-19T21:29:52.849Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -727,7 +727,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo descansa em Vuonopolis e parte no dia seguinte para Eripia Ahena.
 {.is-info}
 
-- [27/05/2023](https://www.youtube.com/watch?v=oF1vpsxewkA) | Data narrativa: 17 de Obris de 1755 ED - 18 de Obris de 1755 ED
+- [27/05/2023](https://www.youtube.com/watch?v=oF1vpsxewkA) | Data narrativa: 28 de Obris de 1755 ED - 01 de Mudur de 1755 ED
 
 > O grupo faz a viagem de [Vuonopolis](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vuonopolis) a [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena) no barco voador do [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh). Durante a viagem [John](/individuos/personagens-de-jogadores/john) enxerga um cervo no chão da floresta, tenta pegar a pistola do [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) sem sucesso, materializa um bumerangue com um gatilho e joga na floresta tentando acertar o cervo.
 >
@@ -741,7 +741,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Xzin leva o grupo a sua casa, onde explica sobre a dádiva cinza, mas são interrompidos por Samuel avisando sobre um ataque de centopeias gigantes nas minas, o grupo enfrenta as centopeias. Após o ataque Xzin inicia os preparativos para os rituais dos mortos no ataque.
 {.is-info}
 
-- [08/07/2023](https://www.youtube.com/watch?v=LgaxVbwfkZw) | Data narrativa: 18 de Obris de 1755 ED - 18 de Obris de 1755 ED
+- [08/07/2023](https://www.youtube.com/watch?v=LgaxVbwfkZw) | Data narrativa: 01 de Mudur de 1755 ED - 01 de Mudur de 1755 ED
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) contata [Beotan](/individuos/beotan) solicitando uma descrição do [Reli](/individuos/reli) e tenta espiá-lo, mas sem sucesso. [Xzin](/individuos/xzin) convida o grupo para uma tour pelas cavernas de [dádiva cinza](/fauna-e-flora/dadiva-cinza).
 >
@@ -752,14 +752,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo conversa com Xzin sobre a dádiva cinza e leva-os à caverna onde o cogumelo é coletado. Veles e [John](/individuos/personagens-de-jogadores/john) seguem o Xzin, enquanto os demais fazem a tour, onde uma minhoca roxa que parecia ser um túnel da caverna engole o guia [Wrennick](/individuos/wrennick).
 {.is-info}
 
-- [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 18 de Obris de 1755 ED - 19 de Obris de 1755 ED
+- [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 01 de Mudur de 1755 ED - 02 de Mudur de 1755 ED
 
 > O grupo derrota a minhoca roxa e levam o corpo do guia [?](/individuos) para a cidade sepultar. O grupo encontra musgo que não pertence ao local na caverna cavada pela minhoca roxa. [Xzin](/individuos/xzin) e [Samuel](/individuos/samuel) investigam o lugar onde a minhoca roxa apareceu junto com o grupo. Investigações apontam na direção da [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias) e partem nessa direção com o Xzin com o guia.
 >
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) esconde a armadura do [John](/individuos/personagens-de-jogadores/john) como vingança por ele dormir em sua cama no navio. No caminho, o grupo é atacado por um dragão.
 {.is-info}
 
-- [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 19 de Obris de 1755 ED - 20 de Obris de 1755 ED
+- [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 02 de Mudur de 1755 ED - 04 de Mudur de 1755 ED
 
 > O grupo derrota o dragão e segue viagem em direção a [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias). O grupo chega à embaixada, onde são recebidos por [Vankar](/individuos/vankar), [Tokan](/individuos/tokan) e [Ottan](/individuos/ottan).
 {.is-info}
@@ -771,26 +771,26 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo combate os golías, enquanto Xzin se encontra confuso sem saber quem ajudar.
 {.is-info}
 
-- 19/08/2023 | Data narrativa: 20 de Obris de 1755 ED
+- 19/08/2023 | Data narrativa: 04 de Mudur de 1755 ED - 06 de Mudur de 1755 ED
 
 > Xzin informa o grupo que algum mal entendido deve ter acontecido e que [Angdan](/individuos/angdan) deve conseguir explicar e leva o grupo até as [Ruínas de Angdan](/lugares/plano-material/drafeon/sudoeste-de-drafeon/ruinas-de-angdan). O grupo segue no navio voador até chegarem perto de uma tormenta de neve muito poderosa, onde prossegue à pés, subindo uma montanha e combatendo [rocs](/fauna-e-flora/roc) no caminho.
 > Ao topo da montanha, encontram o dragão de prata Angdan em sua fortaleza nas nuvens e uma mesa abaixo, onde [Irine](/individuos/irine) os espera.
 {.is-info}
 
-- 07/10/2023 | Data narrativa: 20 de Obris de 1755 ED
+- 07/10/2023 | Data narrativa: 06 de Mudur de 1755 ED
 
 > O grupo enfrenta [Angdan](/individuos/angdan) e [Irine](/individuos/irine), além de um grupo de devoradores de intelecto. Irine passa o combate humilhando o [Xzin](/individuos/xzin) que ao perceber que sua esposa não é mais ela mesma, decide se suicidar pulando da montanha. Próximo ao fim do combate, um [ilithid](/fauna-e-flora/especies-inteligentes/ilithid) tenta ajudar o dragão, saindo de uma escadaria no topo da montanha. Com a derrota do dragão, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) tenta salvar Xzin da queda, mas não chega a tempo, ele usa magia para preservar o corpo para um ritual de ressurreição.
 > O grupo passa a explorar a escadaria de onde o ilithid surgiu.
 {.is-info}
 
-- [21/10/2023](https://www.youtube.com/watch?v=QNIP2_q02ok) | Data narrativa: 20 de Obris de 1755 ED - 21 de Obris de 1755 ED
+- [21/10/2023](https://www.youtube.com/watch?v=QNIP2_q02ok) | Data narrativa: 06 de Mudur de 1755 ED - 08 de Mudur de 1755 ED
 
 > Explorando o interior da caverna nas [Ruínas](/lugares/plano-material/drafeon/sudoeste-de-drafeon/ruinas-de-angdan) de [Angdan](/individuos/angdan), o grupo enfrenta devoradores de mente e devoradores de intelecto. [Amy](/individuos/personagens-de-jogadores/amy) tem seu cérebro devorado.
 >
 > O grupo encontra e ajuda [Onas](/individuos/onas), um [gith](/fauna-e-flora/especies-inteligentes/gith) arcano que foi aprisionado e torturado mentalmente pelos [ilithids](/fauna-e-flora/especies-inteligentes/gith). Onas os informa de uma porta secreta, onde o grupo é atacado por devoradores de intelecto, [Xzin](/individuos/xzin) é morto. Ao fim do corredor, encontram um portal psiônico.
 {.is-info}
 
-- [04/11/2023](https://www.youtube.com/watch?v=qkp-a8aD6EY) | Data narrativa: 21 de Obris de 1755 ED - 22 de Obris de 1755 ED
+- [04/11/2023](https://www.youtube.com/watch?v=qkp-a8aD6EY) | Data narrativa: 08 de Obris de 1755 ED - 09 de Mudur de 1755 ED
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) teleporta o grupo do túnel nas ruínas de [Angdan](/individuos/angdan) para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) após barricar a passagem para o túnel onde encontraram um portal psiônico, buscando salvar a [Amy](/individuos/personagens-de-jogadores/amy).
 > [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) surge do túnel com luzes, cantos agelicais e olhos brilhantes, fazendo a população local se ajoelhar diante uma presença tão sagrada. Um pedestre pede que o Zerke cure seu irmão, que ficou cego.
@@ -803,7 +803,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Onas](/individuos/onas) dá ao grupo um [anel de escudo mental](/itens/anel-de-escudo-mental), para protegê-los dos ilithids após passarem pelo portal. O grupo descansa nas ruínas, mas na manhã seguinte encontram outros devoradores de mente nos túneis.
 {.is-info}
 
-- [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 22 de Obris de 1755 ED
+- [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 09 de Mudur de 1755 ED
 
 > O grupo enfrenta os ilithids. Após o combate, [Onas](/individuos/onas) protege com [psionismo](/magia/psionismo) dois do grupo e os avisa do cérebro ancião que deve estar por trás dos planos em [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena). Para ativar o portal, Onas solicita ajuda de dois conjuradores do grupo, Veles e Zerke se oferecem.
 >
@@ -812,7 +812,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Chegando na cidade, o grupo é atacado por guardas-cegos e se disfarçam para adentrar a cidade. Após perceberem as ruas não são populadas apenas por [ilithids](/fauna-e-flora/especies-inteligentes/ilithid), o grupo remove os disfarces. [John](/individuos/personagens-de-jogadores/john) resiste as tentações de "mulher e cachaça". Amy compra uma ampoula de sangue humano de um dos ilithid. John assassina um golias que veste roupas de couro humano, ilithid devoram o corpo do golias assim que derrotado, o grupo aproveita a confusão para continuar andando buscando a torre do cérebro ancião.
 {.is-info}
 
-- [16/12/2023](https://www.youtube.com/watch?v=aAvDG9E39Tg) | Data narrativa: 22 de Obris de 1755 ED
+- [16/12/2023](https://www.youtube.com/watch?v=aAvDG9E39Tg) | Data narrativa: 09 de Mudur de 1755 ED
 
 > Conforme andam por [Bal'Crek](/lugares/plano-material/drafeon/sudoeste-de-drafeon/balcrek), três [ilithids](/fauna-e-flora/especies-inteligentes/ilithid) se aproximam do grupo, questionando-os sobre o ataque do [John](/individuos/personagens-de-jogadores/john) ao golias nas ruas da cidade. Conforme questionam, portais amarelos surgem no ar da Bal'Crek por onde grupos de giths surgem e atacam os ilithids. Os heróis derrotam os ilithids que os investigavam, mas outros ilithids que lutavam contra giths e acabaram de vencer os enxergam e partem em direção ao grupo.
 >
@@ -821,7 +821,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Chegando a torre, o grupo é atacado por duas hidras, controladas por [devoradores de intelecto](/fauna-e-flora/devorador-de-intelecto). O grupo nota estátuas em forma de cérebro em torno da torre. Entrando no primeiro nível da torre, o grupo enfrente golens de cérebro.
 {.is-info}
 
-- [22/12/2023](https://www.youtube.com/watch?v=r39aC-43D9c) | Data narrativa: 22 de Obris de 1755 ED
+- [22/12/2023](https://www.youtube.com/watch?v=r39aC-43D9c) | Data narrativa: 09 de Mudur de 1755 ED
 
 > O grupo explora a torre do cérebro ancião, derrotando [ilithids](/fauna-e-flora/especies-inteligentes/ilithid) e outras criaturas, encontrando e derrotando o [Reli](/individuos/reli), controlado por um [devorador de cérebro](/fauna-e-flora/devorador-de-cérebro).
 {.is-info}
@@ -831,7 +831,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > "Ha ha ha! Muito bom! Mas tome de volta!" - Reli
 > "Ha ha ha! Um pequeno pacote com um impacto grande!" - Reli
 
-- 07/01/2024 | Data narrativa: 22 de Obris de 1755 ED
+- 07/01/2024 | Data narrativa: 09 de Mudur de 1755 ED - 11 de Mudur de 1755 ED
 
 > O grupo enfrenta e derrota [Cul'Gu](/individuos/culgu) e o derrota, no entanto [John](/individuos/personagens-de-jogadores/john) morre no combate caindo na piscina ácida onde o cérebro ancião habitava. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) estabiliza o corpo do comapanheiro para que possam realizar um ritual de ressurreição.
 > [Amy](/individuos/personagens-de-jogadores/amy) encontra cartas trocadas entre Cul'Gu e o Anjo Azul que falam da derrota de [Azura](/individuos/azura) e dos "demais" precisarem tomar cuidado.
@@ -845,7 +845,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Meus amigos, nunca compreenderam de verdade. As batalhas nunca foram porque eu quis, foram uma tortura, uma maneira de chegar até aqui, à paz. Adeus, foi uma honra." - John
 
->
+> Após a falha do ritual, os heróis levam o John até a floresta, próximo à nascente do rio onde obtiveram a Lança Iridescente, para realizar um ritual fúnebre com o corpo do John. Foi realizado o Ritual de Despedida de Coecyr. O ritual foi realizado em um penhasco e uma planta mágica foi criada pelo Veles em cima do local.
+> 
 {.is-info}
 
 ## C10
