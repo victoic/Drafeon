@@ -2,7 +2,7 @@
 title: Jonathan Bellevere
 description: John
 published: true
-date: 2025-02-19T21:49:08.649Z
+date: 2025-02-19T21:56:11.341Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T00:13:31.752Z
@@ -219,12 +219,12 @@ No dia da queda de Leão Branco, num quarto luxuoso no palácio da grande cidade
 E dessa forma, os três irmãos ão de cumprir sua promessa e os três anjos ão de se enfrentar num confronto mortal uma última vez.
 
 # Informações
-`Data de Nascimento` 1735 ED
+`Data de Nascimento` 1710 ED
 `Data de Morte` 10 de Mudur de 1755 ED
 `Sexo Biológico` Masculino
-`Olhos` Glóbulos negros e íris vermelha, reptilianos
-`Cabelos` Careca
-`Altura` 2,13 m
-`Peso` 113 Kg
-`Organizações Associadas`
-`Títulos` [Membro das Três Mãos](/rankings-e-titulos/membro-das-tres-maos#membro-das-tres-maos)
+`Olhos` Castanhos bem escuros
+`Cabelos` Preto, médio com franja, volumoso e bagunçado
+`Altura` 1,65 m
+`Peso` 64 Kg
+`Organizações Associadas` [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra)
+`Títulos` 
