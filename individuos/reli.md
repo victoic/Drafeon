@@ -2,13 +2,13 @@
 title: Reli
 description: 
 published: true
-date: 2025-02-19T18:32:59.849Z
+date: 2025-02-19T20:56:17.954Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T18:29:07.260Z
 ---
 
-# Reli
+# Reli Picollo
 ![reli_-_token.png](/uploads/retratos/reli_-_token.png){.align-center}
 Reli foi um humano monge eremita que permeiavam o [sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon).
 
