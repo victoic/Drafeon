@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T20:20:24.409Z
+date: 2025-02-19T20:20:58.056Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -807,7 +807,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > O grupo enfrenta os ilithids. Após o combate, [Onas](/individuos/onas) protege com [psionismo](/magia/psionismo) dois do grupo e os avisa do cérebro ancião que deve estar por trás dos planos em [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena). Para ativar o portal, Onas solicita ajuda de dois conjuradores do grupo, Veles e Zerke se oferecem.
 >
-> Após a abertura do portal, o grupo viaja a [Bal'Crek](/lugares/plano-material/drafeon/sudoeste-de-drafeon/balcrek). Onas afirma que tentará libertar seu povo, para que realizem um ataque coordenado a Bal'Crek.
+> Após a abertura do portal, o grupo viaja a [Bal'Crek](/lugares/plano-material/drafeon/sudoeste-de-drafeon/balcrek). Onas afirma que tentará libertar seu povo, para que realizem um ataque coordenado a Bal'Crek. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) voa buscando a localização da torre onde o cérebro ancião se localiza.
 >
 > Chegando na cidade, o grupo é atacado por guardas-cegos e se disfarçam para adentrar a cidade. Após perceberem as ruas não são populadas apenas por [ilithids](/fauna-e-flora/especies-inteligentes/ilithid), o grupo remove os disfarces. [John](/individuos/personagens-de-jogadores/john) resiste as tentações de "mulher e cachaça". Amy compra uma ampoula de sangue humano de um dos ilithid. John assassina um golias que veste roupas de couro humano, ilithid devoram o corpo do golias assim que derrotado, o grupo aproveita a confusão para continuar andando buscando a torre do cérebro ancião.
 {.is-info}
