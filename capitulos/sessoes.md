@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:59:58.645Z
+date: 2025-02-19T00:00:07.530Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -769,7 +769,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Ao topo da montanha, encontram o dragão de prata Angdan em sua fortaleza nas nuvens e uma mesa abaixo, onde [Irine](/individuos/irine) os espera.
 {.is-info}
 
-- 07/10/2023 | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+- 07/10/2023 | Data narrativa: 20 de Obris de 1755 ED
 
 > O grupo enfrenta [Angdan](/individuos/angdan) e [Irine](/individuos/irine), além de um grupo de devoradores de intelecto. Irine passa o combate humilhando o [Xzin](/individuos/xzin) que ao perceber que sua esposa não é mais ela mesma, decide se suicidar pulando da montanha. Próximo ao fim do combate, um [ilithid](/fauna-e-flora/especies-inteligentes/ilithid) tenta ajudar o dragão, saindo de uma escadaria no topo da montanha. Com a derrota do dragão, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) tenta salvar Xzin da queda, mas não chega a tempo, ele usa magia para preservar o corpo para um ritual de ressurreição.
 > O grupo passa a explorar a escadaria de onde o ilithid surgiu.
