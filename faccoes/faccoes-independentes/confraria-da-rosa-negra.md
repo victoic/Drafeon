@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-02-19T22:04:53.764Z
+date: 2025-02-19T22:05:58.812Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -34,7 +34,7 @@ Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confrari
 ## Membros Atuais
 - [**Addran Martel**](/individuos/personagens-de-jogadores/addran-martel), desde 12 de Mudur de 1755
 - [**Amy**](/individuos/personagens-de-jogadores/amy), desde 1 de Fateus de 1755 
-- [**Magnus Ponta de Lança**](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), desde Obris de 1753
+- [**Magnus Ponta de Lança**](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca)*, desde Obris de 1753
 - [**Grot**](/individuos/personagens-de-jogadores/grot), desde 12 de Mudur de 1755
 - [**Zerke Montravu**](/individuos/personagens-de-jogadores/zerme-montravu), desde Coecyr de 1754
 
