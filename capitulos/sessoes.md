@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T02:07:42.304Z
+date: 2025-02-19T02:08:31.029Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -454,8 +454,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 
-## [Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
-{.is-info}
+## C07
+[Capítulo 07](/capitulos/capitulo-07-azura-a-deusa-da-tempestade)
+
 
 - [05/03/2022](https://www.youtube.com/watch?v=jL9IuE6ARuU) | Data narrativa: 5 de Azemis de 1755 ED - 6 de Azemis de 1755 ED
 
@@ -674,7 +675,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Amy, que se absteve de beber, tenta roubar a [Lança Iridescente] do Magnus, mas não a encontra. Ela teme pela saúde do grupo e tenta fugir, mas o Veles a encontra, levando a Amy a revelar os acontecimentos de seu reino ao Veles.
 {.is-info}
 
-## [Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
+## C08
+[Capítulo 08](/capitulos/capitulo-08-misterios-sob-montravu)
 
 - [11/02/2023](https://www.youtube.com/watch?v=Y58HjKeNuGA) | Data narrativa:  14 de Fateus 1755 ED - 15 de Fateus 1755 ED
 
@@ -714,7 +716,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh), [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e [Amy](/individuos/personagens-de-jogadores/amy) são convocados para a comemoração do dia de homenagem aos mortos em Kêndtro no castelo do [Imperador](/rankings-e-titulos/imperio-dragao/imperador-dragao). Onde participam de uma competição de dança, fazem doações à [Geritia](/individuos/geritia) da [Fundação de Ajuda aos Goblins de Joelhos Pontudos](/faccoes/faccoes-independentes/fundacao-de-ajuda-aos-goblins-de-joelhos-pontudos), a Amy irrita o Imperador, Magnus tem histórias mentirosas sobre ele contadas pelo [Mildo](/individuos/mildo), Zerke e Nikolina sentam ao lado de [Artos](/individuos/artos) e uma embaixadora de [Drownia](/faccoes/nacoes/corte-elfica/drownia) cria atrito com o Veles.
 {.is-info}
 
-## [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
+## C09
+[Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
 
 - [06/05/2023](https://www.youtube.com/watch?v=Muh8drNpOkc) | Data narrativa: 15 de Obris de 1755 ED - 18 de Obris de 1755 ED
 
@@ -811,7 +814,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 
-## [Capítulo 10](/capitulos/capitulo-10-a-guerra)
+## C10
+[Capítulo 10](/capitulos/capitulo-10-a-guerra)
 
 - 18/05/2024 | Data narrativa:
 > O grupo é enviado para investigar desaparacimentos de navios do império que viajavam em direção ao Império Serpentinn. No caminho são atacados por criaturas marítimas gigantes e emboscados por Yuanti.
