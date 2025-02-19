@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T17:28:53.982Z
+date: 2025-02-19T17:33:50.641Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -783,14 +783,14 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo passa a explorar a escadaria de onde o ilithid surgiu.
 {.is-info}
 
-- [21/10/2023](https://www.youtube.com/watch?v=QNIP2_q02ok) | Data narrativa: 20 de Obris de 1755 ED
+- [21/10/2023](https://www.youtube.com/watch?v=QNIP2_q02ok) | Data narrativa: 20 de Obris de 1755 ED - 21 de Obris de 1755 ED
 
 > Explorando o interior da caverna nas ruínas de [Angdan](/individuos/angdan), o grupo enfrenta devoradores de mente e devoradores de intelecto. [Amy](/individuos/personagens-de-jogadores/amy) tem seu cérebro devorado.
 >
 > O grupo encontra e ajuda [Onas](/individuos/onas), um [gith](/fauna-e-flora/especies-inteligentes/gith) arcano que foi aprisionado e torturado mentalmente pelos [ilithids](/fauna-e-flora/especies-inteligentes/gith). Onas os informa de uma porta secreta, onde o grupo é atacado por devoradores de intelecto, [Xzin](/individuos/xzin) é morto. Ao fim do corredor, encontram um portal psiônico.
 {.is-info}
 
-- [04/11/2023](https://www.youtube.com/watch?v=qkp-a8aD6EY) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+- [04/11/2023](https://www.youtube.com/watch?v=qkp-a8aD6EY) | Data narrativa: 21 de Obris de 1755 ED - 22 de Obris de 1755 ED
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) teleporta o grupo do túnel nas ruínas de [Angdan](/individuos/angdan) para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) após barricar a passagem para o túnel onde encontraram um portal psiônico, buscando salvar a [Amy](/individuos/personagens-de-jogadores/amy).
 > [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) surge do túnel com luzes, cantos agelicais e olhos brilhantes, fazendo a população local se ajoelhar diante uma presença tão sagrada. Um pedestre pede que o Zerke cure seu irmão, que ficou cego.
@@ -800,12 +800,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) levanta uma aposta de 300 peças de ouro na [Taverna dos Punhos](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/taverna-dos-punhos), sendo derrotado na luta contra [Taureau de Mudur](/individuos/taureau-de-mudur) após ser nocauteado e reaver a consciência três vezes seguidas. O grupo ressucita o [Xzin](/individuos/xzin) e o grupo retorna às ruínas de Angdan.
 >
-> [Onas](/individuos/onas) dá ao grupo um [anel de escudo mental](/itens/anel-de-escudo-mental), para protegê-los dos ilithids após passarem pelo portal.
+> [Onas](/individuos/onas) dá ao grupo um [anel de escudo mental](/itens/anel-de-escudo-mental), para protegê-los dos ilithids após passarem pelo portal. O grupo descansa nas ruínas.
 {.is-info}
 
 - [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
-> 
+> Para ativar o portal, Onas solicita ajuda de dois conjuradores do grupo, Veles e Zerke se oferecem.
 {.is-info}
 
 - [16/12/2023](https://www.youtube.com/watch?v=aAvDG9E39Tg) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
