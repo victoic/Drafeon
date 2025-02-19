@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T19:04:52.049Z
+date: 2025-02-19T19:06:13.600Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -168,7 +168,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 {.is-info}
 
 - 09/10/2020 | Data narrativa: 07 de Fateus de 1754 ED - 09 de Fateus de 1754 ED
-> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), inicialmente sob os codenomes Kedger Eligan e ???, se passam por [emissários de região](/rankings-e-titulos/emissario-de-regiao) do Sul de Drafeon para confiscar o baú de itens do [Maurice](/individuos/maurice-ottoniano) da guarda local de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ). 
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), inicialmente sob os codenomes Kedger Eligan e ???, se passam por [emissários de região](/rankings-e-titulos/imperio-dragao/emissario-de-regiao) do Sul de Drafeon para confiscar o baú de itens do [Maurice](/individuos/maurice-ottoniano) da guarda local de [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ). 
 >
 > Maurice, sob posse de seus itens, lê o [diário de Ivrandruth](/documentos/diario-de-ivrandruth), [a ordem de ouro](/documentos/a-ordem-de-ouro-livro) e [a era dos mortos](/documentos/a-era-dos-mortos-livro) para o grupo, informando-os sobre a história de [Ivrandruth](/individuos/ivrandruth) e as três chaves para abrir o [Coração de Azaroth](/itens/coracao-de-azaroth).
 >
