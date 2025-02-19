@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T20:22:48.916Z
+date: 2025-02-19T20:24:58.012Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -814,7 +814,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [16/12/2023](https://www.youtube.com/watch?v=aAvDG9E39Tg) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
-> Conforme andam por [Bal'Crek](/lugares/plano-material/drafeon/sudoeste-de-drafeon/balcrek), três [ilithids](/fauna-e-flora/especies-inteligentes/ilithid) se aproximam do grupo, questionando-os sobre o ataque do [John](/individuos/personagens-de-jogadores/john) ao golias nas ruas da cidade. Conforme questionam, portais amarelos surgem no ar da Bal'Crek por onde grupos de giths surgem e atacam os ilithids.
+> Conforme andam por [Bal'Crek](/lugares/plano-material/drafeon/sudoeste-de-drafeon/balcrek), três [ilithids](/fauna-e-flora/especies-inteligentes/ilithid) se aproximam do grupo, questionando-os sobre o ataque do [John](/individuos/personagens-de-jogadores/john) ao golias nas ruas da cidade. Conforme questionam, portais amarelos surgem no ar da Bal'Crek por onde grupos de giths surgem e atacam os ilithids. Os heróis derrotam os ilithids que os investigavam, mas outros ilithids que lutavam contra giths e acabaram de vencer os enxergam e partem em direção ao grupo.
 >
 > Uma perseguição se dá, com o grupo acelerando à torre do cérebro ancião, com [Onas](/individuos/onas) e uma equipe de giths dando auxílio aos heróis. 
 {.is-info}
