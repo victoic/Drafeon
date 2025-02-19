@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T17:51:50.782Z
+date: 2025-02-19T17:52:36.475Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -785,7 +785,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [21/10/2023](https://www.youtube.com/watch?v=QNIP2_q02ok) | Data narrativa: 20 de Obris de 1755 ED - 21 de Obris de 1755 ED
 
-> Explorando o interior da caverna nas ruínas de [Angdan](/individuos/angdan), o grupo enfrenta devoradores de mente e devoradores de intelecto. [Amy](/individuos/personagens-de-jogadores/amy) tem seu cérebro devorado.
+> Explorando o interior da caverna nas [Ruínas](/lugares/plano-material/drafeon/sudoeste-de-drafeon/ruinas-de-angdan) de [Angdan](/individuos/angdan), o grupo enfrenta devoradores de mente e devoradores de intelecto. [Amy](/individuos/personagens-de-jogadores/amy) tem seu cérebro devorado.
 >
 > O grupo encontra e ajuda [Onas](/individuos/onas), um [gith](/fauna-e-flora/especies-inteligentes/gith) arcano que foi aprisionado e torturado mentalmente pelos [ilithids](/fauna-e-flora/especies-inteligentes/gith). Onas os informa de uma porta secreta, onde o grupo é atacado por devoradores de intelecto, [Xzin](/individuos/xzin) é morto. Ao fim do corredor, encontram um portal psiônico.
 {.is-info}
