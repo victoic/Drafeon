@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-18T23:58:15.713Z
+date: 2025-02-18T23:59:58.645Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -751,7 +751,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) esconde a armadura do [John](/individuos/personagens-de-jogadores/john) como vingança por ele dormir em sua cama no navio. No caminho, o grupo é atacado por um dragão.
 {.is-info}
 
-- [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 19 de Obris de 1755 ED
+- [05/08/2023](https://www.youtube.com/watch?v=Cn9QLXgXfsk) | Data narrativa: 19 de Obris de 1755 ED - 20 de Obris de 1755 ED
 
 > O grupo derrota o dragão e segue viagem em direção a [Embaixada Golías](/lugares/plano-material/drafeon/sudoeste-de-drafeon/embaixada-golias). O grupo chega à embaixada, onde são recebidos por [Vankar](/individuos/vankar), [Tokan](/individuos/tokan) e [Ottan](/individuos/ottan).
 {.is-info}
@@ -763,7 +763,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo combate os golías, enquanto Xzin se encontra confuso sem saber quem ajudar.
 {.is-info}
 
-- 19/08/2023 | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+- 19/08/2023 | Data narrativa: 20 de Obris de 1755 ED
 
 > Xzin informa o grupo que algum mal entendido deve ter acontecido e que [Angdan](/individuos/angdan) deve conseguir explicar e leva o grupo até as [Ruínas de Angdan](). O grupo segue no navio voador até chegarem perto de uma tormenta de neve muito poderosa, onde prossegue à pés, subindo uma montanha e combatendo [rocs](/fauna-e-flora/roc) no caminho.
 > Ao topo da montanha, encontram o dragão de prata Angdan em sua fortaleza nas nuvens e uma mesa abaixo, onde [Irine](/individuos/irine) os espera.
