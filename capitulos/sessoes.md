@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T21:10:37.101Z
+date: 2025-02-19T21:22:53.755Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -838,14 +838,23 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Onas](/individuos/onas) e outros gith entram na torre e teleportam o grupo para o [Plano Astral](/lugares/plano-astral), onde Cul'Gu se recupera, lá o grupo o mata de uma vez por todas.
 {.is-info}
 
-- 01/04/2024 | Data narrativa: 22 de Obris de 1755 ED
+- 06/04/2024 | Data narrativa: 22 de Obris de 1755 ED
+
+> O grupo se teletransporta até [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik), buscando ressucitar o [John](/individuos/personagens-de-jogadores/john), o Veles, lembrando-o de que ainda existem muitas criaturas poderosas a serem enfrentadas, o Zerke, apelando ao estado de sua armadura que não estava honrado para um guerreiro como o John morrer nela, e o Magnus, mostrando sua ira ao esmurrar a mesa de ritual, lembrando que o John e o Magnus haviam de testar suas forças em combate. No entanto o espírito do John, cansado, preferiu seguire em descanso eterno.
+{.is-info}
+
+> "Meus amigos, nunca compreenderam de verdade. As batalhas nunca foram porque eu quis, foram uma tortura, uma maneira de chegar até aqui, à paz. Adeus, foi uma honra." - John
 
 >
 {.is-info}
 
-
 ## C10
 [Capítulo 10](/capitulos/capitulo-10-a-guerra)
+
+- 20/04/2024 | Data narrativa: 22 de Obris de 1755 ED
+
+>
+{.is-info}
 
 - 18/05/2024 | Data narrativa:
 > O grupo é enviado para investigar desaparacimentos de navios do império que viajavam em direção ao Império Serpentinn. No caminho são atacados por criaturas marítimas gigantes e emboscados por Yuanti.
