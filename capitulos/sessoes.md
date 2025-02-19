@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T17:37:01.787Z
+date: 2025-02-19T17:51:50.782Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -773,7 +773,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - 19/08/2023 | Data narrativa: 20 de Obris de 1755 ED
 
-> Xzin informa o grupo que algum mal entendido deve ter acontecido e que [Angdan](/individuos/angdan) deve conseguir explicar e leva o grupo até as [Ruínas de Angdan](). O grupo segue no navio voador até chegarem perto de uma tormenta de neve muito poderosa, onde prossegue à pés, subindo uma montanha e combatendo [rocs](/fauna-e-flora/roc) no caminho.
+> Xzin informa o grupo que algum mal entendido deve ter acontecido e que [Angdan](/individuos/angdan) deve conseguir explicar e leva o grupo até as [Ruínas de Angdan](/lugares/plano-material/drafeon/sudoeste-de-drafeon/ruinas-de-angdan). O grupo segue no navio voador até chegarem perto de uma tormenta de neve muito poderosa, onde prossegue à pés, subindo uma montanha e combatendo [rocs](/fauna-e-flora/roc) no caminho.
 > Ao topo da montanha, encontram o dragão de prata Angdan em sua fortaleza nas nuvens e uma mesa abaixo, onde [Irine](/individuos/irine) os espera.
 {.is-info}
 
