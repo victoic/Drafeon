@@ -2,14 +2,14 @@
 title: Jonathan Bellevere
 description: John
 published: true
-date: 2025-02-19T21:56:11.341Z
+date: 2025-02-19T21:57:30.653Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T00:13:31.752Z
 ---
 
 # Jonathan Bellevere
-Mais conhecido como John, Jonathan foi um humano aventureiro e de cabeça quente que formou a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) entre XX de XXXX ED e  YY de YYYY ED. 
+Mais conhecido como John, Jonathan foi um humano aventureiro e de cabeça quente que formou a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) entre 15 de Fateus de 1755 ED e 10 de Mudur de 1755 ED. 
 
 Em 1755, John foi morto em combate contra [Qendrak](/individuos/qendrak). Seus companheiros recuperaram seu corpo após o combate e o levaram a [Vivlotik]() para realizar um ritual de ressurreição, no entanto, sentindo-se aliviado com o fim de sua eterna perseguição por combate, John recusou o ritual.
 
