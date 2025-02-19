@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T21:48:23.853Z
+date: 2025-02-19T22:04:37.779Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -714,6 +714,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-warning}
 
 > Os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust), [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh), [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e [Amy](/individuos/personagens-de-jogadores/amy) são convocados para a comemoração do dia de homenagem aos mortos em Kêndtro no castelo do [Imperador](/rankings-e-titulos/imperio-dragao/imperador-dragao). Onde participam de uma competição de dança, fazem doações à [Geritia](/individuos/geritia) da [Fundação de Ajuda aos Goblins de Joelhos Pontudos](/faccoes/faccoes-independentes/fundacao-de-ajuda-aos-goblins-de-joelhos-pontudos), a Amy irrita o Imperador, Magnus tem histórias mentirosas sobre ele contadas pelo [Mildo](/individuos/mildo), Zerke e Nikolina sentam ao lado de [Artos](/individuos/artos) e uma embaixadora de [Drownia](/faccoes/nacoes/corte-elfica/drownia) cria atrito com o Veles.
+>
+> Hêllen deixa o grupo.
 {.is-info}
 
 ## C09
