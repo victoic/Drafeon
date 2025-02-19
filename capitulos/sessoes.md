@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T20:33:28.216Z
+date: 2025-02-19T20:35:54.978Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -816,7 +816,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Conforme andam por [Bal'Crek](/lugares/plano-material/drafeon/sudoeste-de-drafeon/balcrek), três [ilithids](/fauna-e-flora/especies-inteligentes/ilithid) se aproximam do grupo, questionando-os sobre o ataque do [John](/individuos/personagens-de-jogadores/john) ao golias nas ruas da cidade. Conforme questionam, portais amarelos surgem no ar da Bal'Crek por onde grupos de giths surgem e atacam os ilithids. Os heróis derrotam os ilithids que os investigavam, mas outros ilithids que lutavam contra giths e acabaram de vencer os enxergam e partem em direção ao grupo.
 >
-> Uma perseguição se dá, com o grupo acelerando à torre do cérebro ancião, com o grupo realizando ataques e manobras conforme passam por esquinas e becos.[Onas](/individuos/onas) e uma equipe de giths surge no fim, dando auxílio aos heróis, pedindo que sigam em direção a torre enquanto eles enfretam ilithids. Em um momento, uma multidão, fugindo do combate entre giths e ilithids, corre em direção contrário a do grupo, John ignora essa multidão esbarrando contra ela como se não estivesse lá.
+> Uma perseguição se dá, com o grupo acelerando à torre do cérebro ancião, com o grupo realizando ataques e manobras conforme passam por esquinas e becos. Em um momento, uma multidão, fugindo do combate entre giths e ilithids, corre em direção contrário a do grupo, John ignora essa multidão esbarrando contra ela como se não estivesse lá. [Onas](/individuos/onas) e uma equipe de giths surge no fim, dando auxílio aos heróis, pedindo que sigam em direção a torre enquanto eles enfretam ilithids.
 {.is-info}
 
 
