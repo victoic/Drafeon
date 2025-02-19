@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T18:41:52.183Z
+date: 2025-02-19T18:42:47.542Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -749,7 +749,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Ao meio-dia, Veles teleporta o grupo do navio de volta à Taverna Eripia para sua reunião de negócios com o [Lazarus](/individuos/lazarus), atormentando [Rubramanta](/individuos/ernes-rubramanta) antes disso. Enquanto isso, Zerke visita os estábulos em busca de material para fabricar munição, comprando do [Gruntar](/individuos/gruntar), após a compra, o aarakocra investiga o local, encontrando um conjunto cartas trocadas entre [Maria](/individuos/maria-forrevert) e [Yuski](/individuos/yuski-forrevert), e questiona o Yuski sobre a cerimônia do coração de prata.
 >
-> O grupo conversa com Xzin sobre a dádiva cinza e leva-os à caverna onde o cogumelo é coletado. Veles e [John](/individuos/personagens-de-jogadores/john) seguem o Xzin, enquanto os demais fazem a tour, onde uma minhoca roxa que parecia ser um túnel da caverna engole o guia [?](/individuos).
+> O grupo conversa com Xzin sobre a dádiva cinza e leva-os à caverna onde o cogumelo é coletado. Veles e [John](/individuos/personagens-de-jogadores/john) seguem o Xzin, enquanto os demais fazem a tour, onde uma minhoca roxa que parecia ser um túnel da caverna engole o guia [Wrennick](/individuos/wrennick).
 {.is-info}
 
 - [22/07/2023](https://www.youtube.com/watch?v=FbA8vjK1yUI) | Data narrativa: 18 de Obris de 1755 ED - 19 de Obris de 1755 ED
