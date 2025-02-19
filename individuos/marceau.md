@@ -2,7 +2,7 @@
 title: Marceau
 description: 
 published: true
-date: 2025-02-19T19:04:19.047Z
+date: 2025-02-19T19:04:41.053Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-19T19:04:19.047Z
@@ -18,5 +18,5 @@ Marceau foi um humano, membro da [Guarda Imperial](/faccoes/nacoes/imperio-draga
 `Cabelos` Cabelos médios castanhos
 `Altura` 1,78 m
 `Peso` 84 Kg
-`Organizações Associadas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Guarda Imperial](/faccoes/nacoes/guarda-imperial)
+`Organizações Associadas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Guarda Imperial](/faccoes/nacoes/imperio-dragao/guarda-imperial)
 `Títulos` Guarda
