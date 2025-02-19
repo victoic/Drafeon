@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-09T13:58:16.893Z
+date: 2025-02-19T21:18:27.149Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -10,7 +10,7 @@ dateCreated: 2024-08-14T19:20:01.749Z
 
 # Capítulo 10: A Guerra
 
->  `Início: 18 de maio de 2024`
+>  `Início: 20 de abril de 2024`
 >  `Fim:    `
 {.is-info}
 
