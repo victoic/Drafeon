@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T20:37:54.615Z
+date: 2025-02-19T20:38:21.593Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -818,7 +818,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Uma perseguição se dá, com o grupo acelerando à torre do cérebro ancião, com o grupo realizando ataques e manobras conforme passam por esquinas e becos. Em um momento, uma multidão, fugindo do combate entre giths e ilithids, corre em direção contrário a do grupo, John ignora essa multidão esbarrando contra ela como se não estivesse lá. [Onas](/individuos/onas) e uma equipe de giths surge no fim, dando auxílio aos heróis, pedindo que sigam em direção a torre enquanto eles enfretam ilithids.
 >
-> Chegando a torre, o grupo é atacado por duas hidras, controladas por [devoradores de intelecto](/fauna-e-flora/devorador-de-intelecto).
+> Chegando a torre, o grupo é atacado por duas hidras, controladas por [devoradores de intelecto](/fauna-e-flora/devorador-de-intelecto). O grupo nota estátuas em forma de cérebro em torno da torre.
 {.is-info}
 
 
