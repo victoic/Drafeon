@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T19:11:27.978Z
+date: 2025-02-19T19:43:25.469Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -313,7 +313,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - 22/05/2021 | Data narrativa: 26 de Coecyr de 1754 ED
 
-> Os heróis exploram o segundo andar do templo de [Nyuza](/individuos/oxar) (terra), onde encontram um pedaço de metal sintonizado ao [plano da tera](/lugares/planos-interiores/plano-da-terra).
+> Os heróis exploram o segundo andar do templo de [Nyuza](/individuos/oxar) (terra), onde encontram um pedaço de metal sintonizado ao [plano da terra](/lugares/planos-interiores/plano-da-terra).
 {.is-info}
 
 - [05/06/2021](https://www.youtube.com/watch?v=V-D1jD6DAkA&t=15s) | Data narrativa: 26 de Coecyr de 1754 ED - 27 de Coecyr de 1754
