@@ -2,7 +2,7 @@
 title: Jonathan Bellevere
 description: John
 published: true
-date: 2025-02-19T20:03:34.058Z
+date: 2025-02-19T21:49:08.649Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T00:13:31.752Z
@@ -220,7 +220,7 @@ E dessa forma, os três irmãos ão de cumprir sua promessa e os três anjos ão
 
 # Informações
 `Data de Nascimento` 1735 ED
-`Data de Morte` 1755 ED
+`Data de Morte` 10 de Mudur de 1755 ED
 `Sexo Biológico` Masculino
 `Olhos` Glóbulos negros e íris vermelha, reptilianos
 `Cabelos` Careca
