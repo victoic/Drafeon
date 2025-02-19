@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T18:42:47.542Z
+date: 2025-02-19T18:44:40.899Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -181,7 +181,7 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo chegou a [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento), [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) tentou investigar a cidade em busca de sua irmã [Sarina](/individuos/sarina-starindust), um anão local negou a história contada pelo Hêllen. Desconfiado das palavras do anão, o grupo investigou a cidade durante a noite, chegando ao orfanato abandonado onde cresceu.
 > No orfanato, Hêllen conseguiu lembrar do ritual onde as crianças que viviam  no orfanato foram assassinadas, no entanto a cidade fez seus companheiros duvidarem das lembranças do Hêllen. Hêllen nota que as casas dos moradores de Cruzamente faltavam móveis ou mantimentos, suspeitando, Hêllen tenta se ferir ao ponto de inconsciência para que sua irmã Sarina pudesse o detectar. Sem o sucesso e encontrado pelo resto do grupo, eles partem em direção a [Casa Notri](/lugares/plano-material/drafeon/sul-de-drafeon/casa-notri).
 >
-> Descansando uma noite em Casa Notri, o grupo viaja em direção a [Mergulho](/lugares/plano-material/drafeon/sul-de-drafeon-mergulho).
+> Descansando uma noite em Casa Notri, o grupo viaja em direção a [Mergulho](/lugares/plano-material/drafeon/sul-de-drafeon/mergulho).
 {.is-info}
 
 - 06/11/2020 | Data narrativa: 15 de Fateus de 1754 ED - 16 de Fateus de 1754 ED
