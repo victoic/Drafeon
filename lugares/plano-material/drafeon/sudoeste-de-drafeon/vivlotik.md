@@ -2,7 +2,7 @@
 title: Vivlotik
 description: 
 published: true
-date: 2025-02-18T14:07:45.820Z
+date: 2025-02-19T16:55:38.084Z
 tags: lugar
 editor: markdown
 dateCreated: 2025-02-15T01:38:29.872Z
@@ -20,6 +20,8 @@ A cidade reune visitantes de todo o Império Dragão, que peregrinam para demons
 
 ## Bens
 **Pousada:** [Pousada das Nove Estrelas](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/pousada-das-nove-estrelas).
+
+**Taverna:** [Taverna dos Punhos](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/)
 
 ## Arquitetura
 
