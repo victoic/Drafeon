@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T21:35:42.421Z
+date: 2025-02-19T21:35:51.443Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -846,6 +846,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > "Meus amigos, nunca compreenderam de verdade. As batalhas nunca foram porque eu quis, foram uma tortura, uma maneira de chegar até aqui, à paz. Adeus, foi uma honra." - John
 
 > Após a falha do ritual, os heróis levam o John até a floresta, próximo à nascente do rio onde obtiveram a Lança Iridescente, para realizar um ritual fúnebre com o corpo do John. Foi realizado o Ritual de Despedida de Coecyr. O ritual foi realizado em um penhasco e uma planta mágica foi criada pelo Veles em cima do local. Retornando a Vivlotik, o grupo banca uma enorme festa em comemoração a vida do John, durante um dia inteiro.
+>
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) decide deixar o grupo. [Amy](/individuos/personagens-de-jogadores/amy) é ameaçada pela Porta Voz para que destrua a carta que pegou, trocada entre o Anjo Azul e [Cul'Gu](/individuos/culgu), isso leva a Amy a buscar na [biblioteca](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/biblioteca-central) maneiras de derrotar o Anjo Azul, no entanto ela é amaldiçoada após tocar em um livro. Amy ainda conversa com a sacerdotiza [Cirdea](/individuos/cirdea) sobre o Anjo Azul, o que leva com que ela se suicide em circunstâncias estranhas no mesmo dia.
 >
 > [Grot](/individuos/personagens-de-jogadores/grot) e [Addran](/individuos/personagens-de-jogadores/addran-martel) se unem ao grupo em busca de aventura.
