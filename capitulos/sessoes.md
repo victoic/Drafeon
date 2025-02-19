@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T21:29:52.849Z
+date: 2025-02-19T21:30:45.391Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -694,7 +694,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Eu dei uma chance a vocês de sair com suas vidas. Agora, morram." - Qendrak
 
-- [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: 15 de Fateus de 1755 ED - 15 de Obris de 1755 ED
+- [18/03/2023](https://www.youtube.com/watch?v=3mHvAMhHKVc) | Data narrativa: 15 de Fateus de 1755 ED - 24 de Obris de 1755 ED
 
 > Derrota de [Qendrak](/individuos/qendrak) e libertação de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontra documentos incriminando os governadores de Montravu, [Pargel](/individuos/pargel), [Jijoor](/individuos/jijoor) e [Virla](/individuos/virla), de cooperar com Qendrak. O grupo agita a população local para punir os envolvidos.
 > 
@@ -719,7 +719,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 ## C09
 [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
 
-- [06/05/2023](https://www.youtube.com/watch?v=Muh8drNpOkc) | Data narrativa: 15 de Obris de 1755 ED - 18 de Obris de 1755 ED
+- [06/05/2023](https://www.youtube.com/watch?v=Muh8drNpOkc) | Data narrativa: 24 de Obris de 1755 ED - 28 de Obris de 1755 ED
 
 > Pegasus são enviados a cada um dos membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), onde [Beotan](/individuos/beotan), senhor de cidade de [Vuonopolis](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vuonopolis), solicita ajuda deles sobre um presságio de um [tarrasque](/fauna-e-flora/tarrasque), os pegasus guiam o grupo até Vuonopolis em uma viagem de 3 dias. 
 >
