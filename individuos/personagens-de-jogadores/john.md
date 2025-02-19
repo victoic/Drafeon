@@ -2,7 +2,7 @@
 title: Jonathan Bellevere
 description: John
 published: true
-date: 2025-02-04T00:27:07.578Z
+date: 2025-02-19T20:03:34.058Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T00:13:31.752Z
@@ -219,7 +219,8 @@ No dia da queda de Leão Branco, num quarto luxuoso no palácio da grande cidade
 E dessa forma, os três irmãos ão de cumprir sua promessa e os três anjos ão de se enfrentar num confronto mortal uma última vez.
 
 # Informações
-`Vida` 1735 - 1754
+`Data de Nascimento` 1735 ED
+`Data de Morte` 1755 ED
 `Sexo Biológico` Masculino
 `Olhos` Glóbulos negros e íris vermelha, reptilianos
 `Cabelos` Careca
