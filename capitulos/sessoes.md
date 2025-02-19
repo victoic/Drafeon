@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T02:07:27.649Z
+date: 2025-02-19T02:07:42.304Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -446,7 +446,6 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Exaustos, o grupo chega a [Tomeza](/lugares/abismo/coracao-do-vazio/tomeza), onde encontram quatro exércitos aos portões da prisão, cada um liderado por um governador leal a Fraz-Urb'luu: [Nyrashlia](/individuos/nyrashlia), [Proaliak](/individuos/proaliak), [Rontakus](/individuos/rontakus) e [Zurathani](/individuos/zurathani). O grupo se esgueira para chegar despercebido aos portões da prisão, mas em um salto, Fraz-Urb'luu chega aos portões e ao tentar entrar na prisão nada acontece.
 {.is-info}
-
 
 > "Virrazar seu verme inútil, abra esses portões agora! Você ousa conspirar contra mim? Eu o esmagarei, de novo e de novo, até que você não seja nada!" - Fraz-Urb'luu
 
