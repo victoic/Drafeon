@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T17:14:32.842Z
+date: 2025-02-19T17:15:50.912Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -787,7 +787,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Explorando o interior da caverna nas ruínas de [Angdan](/individuos/angdan), o grupo enfrenta devoradores de mente e devoradores de intelecto. [Amy](/individuos/personagens-de-jogadores/amy) tem seu cérebro devorado.
 >
-> O grupo encontra e ajuda [Onas](/individuos/onas), um [gith](/fauna-e-flora/especies-inteligentes/gith) arcano que foi aprisionado e torturado mentalmente pelos [ilithids](/fauna-e-flora/especies-inteligentes/gith). Onas os informa de uma porta secreta, onde o grupo é atacado por devoradores de intelecto. Ao fim do corredor, encontram um portal psiônico.
+> O grupo encontra e ajuda [Onas](/individuos/onas), um [gith](/fauna-e-flora/especies-inteligentes/gith) arcano que foi aprisionado e torturado mentalmente pelos [ilithids](/fauna-e-flora/especies-inteligentes/gith). Onas os informa de uma porta secreta, onde o grupo é atacado por devoradores de intelecto, [Xzin](/individuos/xzin) é morto. Ao fim do corredor, encontram um portal psiônico.
 {.is-info}
 
 - [04/11/2023](https://www.youtube.com/watch?v=qkp-a8aD6EY) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
@@ -798,7 +798,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Se curve, menino, se curve." - Uma mãe qualquer passando por Vivlotik
 
-> [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) levanta uma aposta de 300 peças de ouro na [Taverna dos Punhos](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/taverna-dos-punhos), sendo derrotado na luta contra [?](/individuos/?) após ser nocauteado e reaver a consciência três vezes seguidas.
+> [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) levanta uma aposta de 300 peças de ouro na [Taverna dos Punhos](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/taverna-dos-punhos), sendo derrotado na luta contra [?](/individuos/?) após ser nocauteado e reaver a consciência três vezes seguidas. O grupo ressucita o [Xzin](/individuos/xzin).
 {.is-info}
 
 - [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
