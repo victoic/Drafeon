@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T17:36:20.587Z
+date: 2025-02-19T17:37:01.787Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -805,7 +805,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
-> Para ativar o portal, Onas solicita ajuda de dois conjuradores do grupo, Veles e Zerke se oferecem.
+> O grupo enfrenta os ilithids. Para ativar o portal, Onas solicita ajuda de dois conjuradores do grupo, Veles e Zerke se oferecem.
 {.is-info}
 
 - [16/12/2023](https://www.youtube.com/watch?v=aAvDG9E39Tg) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
