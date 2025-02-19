@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T17:28:11.320Z
+date: 2025-02-19T17:28:53.982Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -800,7 +800,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) levanta uma aposta de 300 peças de ouro na [Taverna dos Punhos](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/taverna-dos-punhos), sendo derrotado na luta contra [Taureau de Mudur](/individuos/taureau-de-mudur) após ser nocauteado e reaver a consciência três vezes seguidas. O grupo ressucita o [Xzin](/individuos/xzin) e o grupo retorna às ruínas de Angdan.
 >
-> [Onas](/individuos/onas) dá ao grupo um [anel de escudo mental](/itens/anel-de-escudo-mental), para protegê-los dos ilithids.
+> [Onas](/individuos/onas) dá ao grupo um [anel de escudo mental](/itens/anel-de-escudo-mental), para protegê-los dos ilithids após passarem pelo portal.
 {.is-info}
 
 - [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
