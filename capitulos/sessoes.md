@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T18:21:57.087Z
+date: 2025-02-19T18:32:30.263Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -803,9 +803,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Onas](/individuos/onas) dá ao grupo um [anel de escudo mental](/itens/anel-de-escudo-mental), para protegê-los dos ilithids após passarem pelo portal. O grupo descansa nas ruínas, mas na manhã seguinte encontram outros devoradores de mente nos túneis.
 {.is-info}
 
-- [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
+- [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 22 de Obris de 1755 ED
 
-> O grupo enfrenta os ilithids. Para ativar o portal, Onas solicita ajuda de dois conjuradores do grupo, Veles e Zerke se oferecem.
+> O grupo enfrenta os ilithids. Após o combate, [Onas](/individuos/onas) protege com [psionismo](/magia/psionismo) dois do grupo e os avisa do cérebro ancião que deve estar por trás dos planos em [Eripia Ahena](/lugares/plano-material/drafeon/sudoeste-de-drafeon/eripia-ahena). Para ativar o portal, Onas solicita ajuda de dois conjuradores do grupo, Veles e Zerke se oferecem.
 {.is-info}
 
 - [16/12/2023](https://www.youtube.com/watch?v=aAvDG9E39Tg) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
