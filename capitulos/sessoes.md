@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T19:45:21.207Z
+date: 2025-02-19T19:58:37.309Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -809,7 +809,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Após a abertura do portal, o grupo viaja a [Bal'Crek](/lugares/plano-material/drafeon/sudoeste-de-drafeon/balcrek). Onas afirma que tentará libertar seu povo, para que realizem um ataque coordenado a Bal'Crek.
 >
-> Chegando na cidade, o grupo é atacado por guardas-cegos e se disfarçam para adentrar a cidade. Após perceberem as ruas não são populadas apenas por [ilithids](/fauna-e-flora/especies-inteligentes/ilithid), o grupo remove os disfarces.
+> Chegando na cidade, o grupo é atacado por guardas-cegos e se disfarçam para adentrar a cidade. Após perceberem as ruas não são populadas apenas por [ilithids](/fauna-e-flora/especies-inteligentes/ilithid), o grupo remove os disfarces. [John](/individuos/personagens-de-jogadores/john) resiste as tentações de "mulher e cachaça".
 {.is-info}
 
 - [16/12/2023](https://www.youtube.com/watch?v=aAvDG9E39Tg) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
