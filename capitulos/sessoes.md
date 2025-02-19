@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T20:58:22.705Z
+date: 2025-02-19T20:59:41.304Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -828,6 +828,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Ha ha ha ha! Meu poder, é sem limites!" - Reli
 > "Mordida da cobra! Palma do louva-deus!" - Reli
+> "Ha ha ha! Muito bom! Mas tome de volta!" - Reli
 
 - 07/01/2024 | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
