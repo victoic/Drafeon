@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T16:47:15.436Z
+date: 2025-02-19T16:48:05.776Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -794,6 +794,11 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) teleporta o grupo do túnel nas ruínas de [Angdan](/individuos/angdan) para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) após barricar a passagem para o túnel onde encontraram um portal psiônico.
 > [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) surge do túnel com luzes, cantos agelicais e olhos brilhantes, fazendo a população local se ajoelhar diante uma presença tão sagrada.
+{.is-info}
+
+> "Se curve, menino, se curve." - Uma mãe qualquer passando por Vivlotik
+
+> 
 {.is-info}
 
 - [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
