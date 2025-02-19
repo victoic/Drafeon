@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T02:05:15.084Z
+date: 2025-02-19T02:07:27.649Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -10,7 +10,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 
 # Relatório de Sessões
 # Capítulos {.tabset}
-## [Capítulo 01](/capitulos/capitulo-01-os-carvalho-negro)
+## C01
+[Capítulo 01](/capitulos/capitulo-01-os-carvalho-negro)
 
 - 10/03/2018 | Data narrativa: XX de Obris 1753 ED
 > Início da campanha 1. Jogadores iniciais incluem: Victor (DM), José (Magnus), Elias (Saile/Kraz), Matheus (Arprax), Thiago (Amadán), Stark (Aldror), Luís (Dexter) O grupo salva [Milda Chifremadeira](/individuos/milda-chifremadeira) de um ataque de kobolds e conhece [Lopaohz Carvalho-Negro](/individuos/lopaohz-carvalho-negro).
@@ -24,7 +25,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 - 07/04/2018 | Data narrativa: XX de Obris 1753 ED
 - 21/04/2018 | Data narrativa: XX de Obris 1753 ED
 
-## [Capítulo 02](/capitulos/capitulo-02-criando-raizes)
+## C02
+[Capítulo 02](/capitulos/capitulo-02-criando-raizes)
 
 - 28/04/2018 | Data narrativa: XX de Obris 1753 ED
 > Grupo conhece [Lakip Brillabouso](/individuos/lakip-brillabouso), então líder da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro) em Porto Novo. Lakip pede para o grupo buscar membros de uma expedição que desapareceram na ilha de [Felicidade](/lugares/plano-material/drafeon/sudeste-de-drafeon/felicidade). Nesta sessão ocorre a infame situação do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) saltar de um navio para buscar uma machadinha no mar.
@@ -46,7 +48,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > [Saile](/individuos/personagens-de-jogadores/saile) constroi Temor, uma [pistola leve](/itens/pistola-leve). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) consegue domar o Mímico.
 {.is-info}
 
-## [Capítulo 03](/capitulos/capitulo-03-a-bruxa-do-pantano)
+## C03
+[Capítulo 03](/capitulos/capitulo-03-a-bruxa-do-pantano)
 
 - 10/11/2018 | Data narrativa: XX de Mudur de 1753 ED
 - 24/11/2018 | Data narrativa: XX de Mudur de 1753 ED
@@ -97,7 +100,9 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > O grupo recebe uma festa de comemoração em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo) e [Drecnis](/individuos/personagens-de-jogadores/drecnis-ragnoom) deixa o grupo sem avisos.
 {.is-info}
 
-## [Capítulo 04](/capitulos/capitulo-04-edahsh-o-eclipse-eterno)
+## C04
+[Capítulo 04](/capitulos/capitulo-04-edahsh-o-eclipse-eterno)
+
 - 14/01/2020 | Data narrativa: XX de Ahena de 1753 ED - XX de Azemis de 1754 ED
 > Grupo toma um descanso de 3 meses. Nesse tempo: [Ozidius](/individuos/personagens-de-jogadores/ozidius-sackropper) deixa o grupo; Saile, dominado por [Edahsh](/individuos/edahsh), assassina 80 pessoas; [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) recruta [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust) para o grupo; [Amadán](/individuos/personagens-de-jogadores/amadan) pesquisa sobre o [Senhor de Escamas](/individuos/lopsur).
 {.is-info}
@@ -115,7 +120,8 @@ dateCreated: 2025-02-03T14:30:43.100Z
 > [Edahsh](/individuos/edahsh) é derrotado. [Saile](/individuos/personagens-de-jogadores/saile) retoma sua memória e se renomeia Kraz. O grupo retorna a Porto Novo.
 {.is-info}
 
-## [Capítulo 05](/capitulos/capitulo-05-a-volta-de-azaroth)
+## C05
+[Capítulo 05](/capitulos/capitulo-05-a-volta-de-azaroth)
 
 - 01/05/2020 | Data narrativa: 18 de Azemis de 1754 ED
 > [Lakip Brillabouso](/individuos/lakip-brillabouso) retorna com o corpo de um dragão vermelho [Edainde](/individuos/edaiden) e se tranca no quartel da [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro).
@@ -346,8 +352,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 
-## [Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
-{.is-info}
+## C06
+[Capítulo 06](/capitulos/capitulo-06-o-coracao-do-vazio)
 
 - [14/08/2021](https://www.youtube.com/watch?v=ZtONuUwwUVM&t=1015s) | Data narrativa: 23 de Zifelia de 1754 ED - ??
 
