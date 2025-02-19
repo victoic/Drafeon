@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T16:45:31.768Z
+date: 2025-02-19T16:46:21.462Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -792,7 +792,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [04/11/2023](https://www.youtube.com/watch?v=qkp-a8aD6EY) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
 
-> O grupo se teleporta do túnel nas ruínas de [Angdan](/individuos/angdan) para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) após barricar a passagem para o túnel onde encontraram um portal psiônico.
+> [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) teleporta o grupo do túnel nas ruínas de [Angdan](/individuos/angdan) para [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik) após barricar a passagem para o túnel onde encontraram um portal psiônico.
 {.is-info}
 
 - [18/11/2023](https://www.youtube.com/watch?v=-Tj-3WxkUDw) | Data narrativa: 15 de Obris de 1755 ED - 15 de Obris de 1755 ED
