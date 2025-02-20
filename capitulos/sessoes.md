@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T10:04:51.394Z
+date: 2025-02-20T10:06:33.172Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -861,7 +861,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [20/04/2024](https://www.youtube.com/watch?v=lEYzQxcZvt4) | Data narrativa: 12 de Mudur de 1755 ED
 
-> O grupo continua pesquisando nas [biblioteca central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/biblioteca-central) sobre celestiais malignos e como derrotá-los.
+> O grupo continua pesquisando nas [biblioteca central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/biblioteca-central) sobre celestiais malignos e como derrotá-los. [Grot](/individuos/personagens-de-jogadores/grot) compra temperos da barraca da goblin [Faruo](/individuos/faruo).
 {.is-info}
 
 - 18/05/2024 | Data narrativa:
