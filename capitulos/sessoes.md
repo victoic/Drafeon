@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T10:30:57.032Z
+date: 2025-02-20T10:38:10.636Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -863,6 +863,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > O grupo continua pesquisando nas [biblioteca central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/biblioteca-central) sobre celestiais malignos e como derrotá-los. [Grot](/individuos/personagens-de-jogadores/grot) compra temperos da barraca da goblin [Faruo](/individuos/faruo). Amy é amaldiçoada após tentar ler o livro [A Entidade](/documentos/a-entidade).
 {.is-info}
+
+> "Há algum tempo, estamos fazendo negócio com envio de mercadorias, vendas e trocas com o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), um império majoritariamente formado por forças [Yuanti](/fauna-e-flora/especies-inteligentes/yuanti), mas isso nunca foi o problema. Eles são isolados, claro, mas nunca foi o problema para as trocas ou os acordos comérciais. É uma rota que estamos desenvolvendo buscando nos posicionarmos mais próximos do [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo).  O império tem planos alguns planos e nos posicionarmos melhor e manter boas relações com o [Império Serpetinn](/faccoes/nacoes/imperio-sepentinn) fazem parte deles. Até um ou dois meses atrás, nossa comunicação com algumas dessas cidades tem falhada e nossos navios de mercadorias não tem voltado." - [Irien](/individuos/irien-galaniell)
 
 - 18/05/2024 | Data narrativa:
 > O grupo é enviado para investigar desaparacimentos de navios do império que viajavam em direção ao Império Serpentinn. No caminho são atacados por criaturas marítimas gigantes e emboscados por Yuanti.
