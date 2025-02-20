@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-19T22:33:06.568Z
+date: 2025-02-20T09:59:10.969Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -851,7 +851,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > [Veles](/individuos/personagens-de-jogadores/veles-lupis-lugh) decide deixar o grupo. [Amy](/individuos/personagens-de-jogadores/amy) é ameaçada pela Porta Voz para que destrua a carta que pegou, trocada entre o Anjo Azul e [Cul'Gu](/individuos/culgu), isso leva a Amy a buscar na [biblioteca](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/biblioteca-central) maneiras de derrotar o Anjo Azul, no entanto ela é amaldiçoada após tocar em um livro. Amy ainda conversa com a sacerdotiza [Cirdea](/individuos/cirdea) sobre o Anjo Azul, o que leva com que ela se suicide em circunstâncias estranhas no mesmo dia.
 >
-> [Grot](/individuos/personagens-de-jogadores/grot) e [Addran](/individuos/personagens-de-jogadores/addran-martel) se unem ao grupo em busca de aventura.
+> [Grot](/individuos/personagens-de-jogadores/grot) e [Addran](/individuos/personagens-de-jogadores/addran-martel) se unem ao grupo em busca de aventura. Addran recebe uma carta de [Ebbo Martel](/individuos/ebbo-martel), mas a joga fora, no entanto, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) a pega, e lê que ele está sendo ordenado a voltar a [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez) pois o [Império](/faccoes/nacoes/imperio-dragao) precisa dele.
 {.is-info}
 
 ## C10
@@ -859,7 +859,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [20/04/2024](https://www.youtube.com/watch?v=lEYzQxcZvt4) | Data narrativa: 12 de Mudur de 1755 ED
 
->
+> 
 {.is-info}
 
 - 18/05/2024 | Data narrativa:
