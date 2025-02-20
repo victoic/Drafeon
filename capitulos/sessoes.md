@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T19:15:27.633Z
+date: 2025-02-20T21:31:02.431Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -884,7 +884,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo continua a viagem em direção ao [Império Serpetinn](/faccoes/nacoes/imperio-sepentinn). O tempo livre é utilizado pelo grupo para treinar a tripulação em combate, cada um com sua especialidade. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) utiliza o tempo para contar suas histórias e reforçar a sua [canção](/lendas-e-eventos/a-cancao-de-zerke-e-veles).
 >
 > Durante a passagem pelo [Estreito de Mudur](/lugares/plano-material/drafeon/sudeste-de-drafeon/estreito-de-mudur) o grupo é atacado por um grupo de [yuanti](/fauna-e-flora/especies-inteligentes/yuanti) em dois navios, que trancam a passagem do [Garras Platinas](/veiculos/garras-platinas).
->
+{.is-info}
+
+> "Bismim al-haro!" - Yuanti
+
 > O grupo derrota os yuanti atacantes, mas o Garras Platinas é destruído e a tripulação é morta no ataque, junto com os dois navios dos yuanti. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) captura um filhote de cobra coral gigante como animal de estimação.
 {.is-info}
 
@@ -924,7 +927,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > .
 {.is-info}
 
-- [03/12/2024](https://www.youtube.com/watch?v=vh9C7BLQyQQ) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
+- [03/12/2024](https://www.youtube.com/watch?v=vh9C7BLQyQQ) | Data narrativa: 03 de Woton de 1755 ED - 26 de Mudur de 1755 ED
 
 > .
 {.is-info}
