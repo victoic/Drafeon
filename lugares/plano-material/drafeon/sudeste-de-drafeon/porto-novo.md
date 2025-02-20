@@ -2,8 +2,10 @@
 title: Porto Novo
 description: 
 published: true
-date: 2019-11-28T18:22:20.909Z
+date: 2025-02-20T10:50:58.283Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:59:24.826Z
 ---
 
 <!-- SUBTITLE: A mina de ouro nos pântanos do sudeste. -->
@@ -30,6 +32,8 @@ Leis Locais
 
 ## Defesas
 Uma  alta muralha de madeira rodeia a cidade. A cidade possui uma moderada guarda do império que a defende de ataques externos e força as leis na cidade. A [Ordem de Ouro](/faccoes/faccoes-independentes/ordem-de-ouro#ordem-de-ouro) também possui papel de defensores da cidade.
+
+Após o ataque de [Lakip](/individuos/lakip-brillabouso) e [Edaiden](/individuos/edaiden), em 1754 ED, a muralha da cidade foi reformada para ser contruída de madeira e pedras. Assim como o quartel da Ordem de Ouro foi retirado da cidade e uma [Guarda Imperial](/faccoes/nacoes/imperio-dragao/guarda-imperial) efetiva tomou seu lugar.
 
 ## Indústria
 Porto Novo é uma cidade com mercado vivo, viajantes vem e vão com suas mercadorias diariamente, seja apenas como parada rápida ou como destino final, onde podem vender seus produtos nos mercados abertos da cidade. Com a grande quantidade de visitantes, tavernas e estadias prosperaram, muitas se encontrando em volta do porto da cidade. Mas também serviços de segurança e saúde, dados os perigos que se encontram na cidade, muitos moradores oferecem serviços de guia ou guarda para viajantes a pés e também é possível ver clérigos oferecendo curar feridos de viagens por dinheiro.
