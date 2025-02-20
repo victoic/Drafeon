@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T10:56:08.994Z
+date: 2025-02-20T10:58:59.566Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -873,6 +873,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - [11/05/2024](https://www.youtube.com/watch?v=HeZcx8y-qDg) | Data narrativa: 13 de Mudur de 1755 ED - 13 de Mudur de 1755 ED
 
 > [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vai até o [Grande Ser](/individuos/ser-glorkan) para pegar seu [óculos da visão](/itens/oculos-da-visao). O resto do grupo faz compras. O grupo visita também o [Aldror](/individuos/aldror), onde descobrem que [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) passou recentemente lá para pegar sua égua e levou também o [Calanguinho](/individuos/calanguinho).
+>
+> [Grot](/individuos/personagens-de-jogadores/grot) inicia o projeto da [Azagaia da Deusa Dragão](/itens/azagaia-da-deusa-dragao).
 {.is-info}
 
 - 18/05/2024 | Data narrativa:
