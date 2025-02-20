@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T11:14:49.560Z
+date: 2025-02-20T11:18:47.020Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -876,7 +876,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > O grupo parte em direção ao [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn) no navio [Garras Platinas](/veiculos/garras-platinas), liderado por [Alvali](/individuos/alvali). [Grot](/individuos/personagens-de-jogadores/grot) inicia o projeto da [Azagaia da Deusa Dragão](/itens/azagaia-da-deusa-dragao). O grupo faz amizade com o gnomo [Tamdun](/individuos/tamdun).
 >
-> Os 5 primeiros dias da viagem são tranquilos, até passarem de [Balaio](/lugares/plano-material/drafeon/sudeste-de-drafeon/balaio). Após isso, o mar se torna violento, conforme entram no [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo). Após um dia de viagem pelo Mar do Limbo, o grupo decide investigar Balaio na volta. [Dandans](/fauna-e-flora/dandan) atacam o navio.
+> Os 5 primeiros dias da viagem são tranquilos, até passarem de [Balaio](/lugares/plano-material/drafeon/sudeste-de-drafeon/balaio). Após isso, o mar se torna violento, conforme entram no [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo). Após um dia de viagem pelo Mar do Limbo, o grupo decide investigar Balaio na volta. [Dandans](/fauna-e-flora/dandan) atacam o navio. Durante o combate, Magnus remove todas as suas roupas antes de pular na água para atacar as criaturas.
 {.is-info}
 
 > Possivelmente termine em 18 de Mudur de 1755 ED
