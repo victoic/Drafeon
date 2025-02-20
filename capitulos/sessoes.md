@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T10:46:49.434Z
+date: 2025-02-20T10:51:45.387Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -867,9 +867,13 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > "Há algum tempo, estamos fazendo negócio com envio de mercadorias, vendas e trocas com o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), um império majoritariamente formado por forças [Yuanti](/fauna-e-flora/especies-inteligentes/yuanti), mas isso nunca foi o problema. Eles são isolados, claro, mas nunca foi o problema para as trocas ou os acordos comérciais.
 > É uma rota que estamos desenvolvendo buscando nos posicionarmos mais próximos do [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo).  O império tem planos alguns planos e nos posicionarmos melhor e manter boas relações com o [Império Serpetinn](/faccoes/nacoes/imperio-sepentinn) fazem parte deles. Até um ou dois meses atrás, nossa comunicação com algumas dessas cidades tem falhada e nossos navios de mercadorias não tem voltado." - [Irien](/individuos/irien-galaniell)
 
-> Irien explica que por volta de 7 expedições foram perdidas e que o destino das expedições era [Jawhara'Alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara). Uma pequenas expedição de investigação será montada para levar o grupo pelo caminho das últimas expedições. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vai até o [Grande Ser](/individuos/ser-glorkan) para pegar seu [óculos da visão](/itens/oculos-da-visao).
+> Irien explica que por volta de 7 expedições foram perdidas e que o destino das expedições era [Jawhara'Alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara). Uma pequenas expedição de investigação será montada para levar o grupo pelo caminho das últimas expedições. 
 {.is-info}
 
+- [11/05/2024](https://www.youtube.com/watch?v=HeZcx8y-qDg) | Data narrativa: 13 de Mudur de 1755 ED - 13 de Mudur de 1755 ED
+
+> [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) vai até o [Grande Ser](/individuos/ser-glorkan) para pegar seu [óculos da visão](/itens/oculos-da-visao).
+{.is-info}
 
 - 18/05/2024 | Data narrativa:
 > O grupo é enviado para investigar desaparacimentos de navios do império que viajavam em direção ao Império Serpentinn. No caminho são atacados por criaturas marítimas gigantes e emboscados por Yuanti.
