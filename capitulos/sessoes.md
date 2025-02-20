@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T11:24:20.192Z
+date: 2025-02-20T17:52:29.636Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -880,5 +880,5 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 - [18/05/2024](https://www.youtube.com/watch?v=hgAzwfdzE84) | Data narrativa: 27 de Mudur de 1755 ED
-> O grupo é enviado para investigar desaparacimentos de navios do império que viajavam em direção ao Império Serpentinn. No caminho são atacados por criaturas marítimas gigantes e emboscados por Yuanti.
+> O grupo é enviado para investigar desaparacimentos de navios do império que viajavam em direção ao [Império Serpetinn](/faccoes/nacoes/imperio-sepentinn). No caminho são atacados por criaturas marítimas gigantes e emboscados por Yuanti.
 {.is-info}
