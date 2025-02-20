@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T10:20:00.040Z
+date: 2025-02-20T10:30:57.032Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -840,7 +840,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Onas](/individuos/onas) e outros gith entram na torre e teleportam o grupo para o [Plano Astral](/lugares/plano-astral), onde Cul'Gu se recupera, lá o grupo o mata de uma vez por todas.
 {.is-info}
 
-- 06/04/2024 | Data narrativa: 09 de Mudur de 1755 ED - 12 de Mudur de 1755 ED
+- 06/04/2024 | Data narrativa: 09 de Mudur de 1755 ED - 13 de Mudur de 1755 ED
 
 > O grupo se teletransporta até [Vivlotik](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik), buscando ressucitar o [John](/individuos/personagens-de-jogadores/john), o Veles, lembrando-o de que ainda existem muitas criaturas poderosas a serem enfrentadas, o Zerke, apelando ao estado de sua armadura que não estava honrado para um guerreiro como o John morrer nela, e o Magnus, mostrando sua ira ao esmurrar a mesa de ritual, lembrando que o John e o Magnus haviam de testar suas forças em combate. No entanto o espírito do John, cansado, preferiu seguire em descanso eterno.
 {.is-info}
@@ -859,7 +859,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 ## C10
 [Capítulo 10](/capitulos/capitulo-10-a-guerra)
 
-- [20/04/2024](https://www.youtube.com/watch?v=lEYzQxcZvt4) | Data narrativa: 12 de Mudur de 1755 ED
+- [20/04/2024](https://www.youtube.com/watch?v=lEYzQxcZvt4) | Data narrativa: 13 de Mudur de 1755 ED
 
 > O grupo continua pesquisando nas [biblioteca central](/lugares/plano-material/drafeon/sudoeste-de-drafeon/vivlotik/biblioteca-central) sobre celestiais malignos e como derrotá-los. [Grot](/individuos/personagens-de-jogadores/grot) compra temperos da barraca da goblin [Faruo](/individuos/faruo). Amy é amaldiçoada após tentar ler o livro [A Entidade](/documentos/a-entidade).
 {.is-info}
