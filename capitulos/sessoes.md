@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T18:57:56.860Z
+date: 2025-02-20T18:59:22.946Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -916,3 +916,15 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > .
 {.is-info}
+
+- [10/11/2024](https://www.youtube.com/watch?v=hvawD8P5nVs) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
+
+> .
+{.is-info}
+
+- [03/12/2024](https://www.youtube.com/watch?v=vh9C7BLQyQQ) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
+
+> .
+{.is-info}
+
+
