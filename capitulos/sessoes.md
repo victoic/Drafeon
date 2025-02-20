@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T17:52:29.636Z
+date: 2025-02-20T18:07:42.265Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -879,6 +879,6 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Os 5 primeiros dias da viagem são tranquilos, até passarem de [Balaio](/lugares/plano-material/drafeon/sudeste-de-drafeon/balaio). Após isso, o mar se torna violento, conforme entram no [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo). Após um dia de viagem pelo Mar do Limbo, o grupo decide investigar Balaio na volta. [Dandans](/fauna-e-flora/dandan) atacam o navio. Durante o combate, Magnus remove todas as suas roupas antes de pular na água para atacar as criaturas.
 {.is-info}
 
-- [18/05/2024](https://www.youtube.com/watch?v=hgAzwfdzE84) | Data narrativa: 27 de Mudur de 1755 ED
-> O grupo é enviado para investigar desaparacimentos de navios do império que viajavam em direção ao [Império Serpetinn](/faccoes/nacoes/imperio-sepentinn). No caminho são atacados por criaturas marítimas gigantes e emboscados por Yuanti.
+- [18/05/2024](https://www.youtube.com/watch?v=hgAzwfdzE84) | Data narrativa: 27 de Mudur de 1755 ED - 30 de Mudur de 1755 ED
+> O grupo continua a viagem em direção ao [Império Serpetinn](/faccoes/nacoes/imperio-sepentinn). O tempo livre é utilizado pelo grupo para treinar a tripulação em combate, cada um com sua especialidade.
 {.is-info}
