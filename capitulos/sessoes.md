@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T22:26:46.232Z
+date: 2025-02-21T22:30:40.566Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -941,7 +941,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 17/08/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
 
-> O grupo recebe o ovo de 
+> O grupo recebe o ovo de [roc](/fauna-e-flora/roc) do [Grande Ser](/individuos/ser-glorkan) e teleportam erroneamente para o [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo) ao tentarem retornar à [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk).
 {.is-info}
 
 - [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
