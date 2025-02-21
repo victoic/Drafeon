@@ -2,7 +2,7 @@
 title: Lazuliel
 description: O Anjo Azul
 published: true
-date: 2025-02-21T16:06:57.970Z
+date: 2025-02-21T16:26:04.450Z
 tags: segredo, boss, celestial
 editor: markdown
 dateCreated: 2025-02-21T15:46:13.237Z
@@ -31,6 +31,12 @@ Um grupo de 6 deuses pretendentes foi formado, cada um substituiria um conjunto 
 - [Terra](/individuos/terra), [Ar](/individuos/ar), [Fogo](/individuos/fogo), [Água](/individuos/agua);
 - [Jianyama](/individuos/jianyama)
 - O Próprio Lazuliel
+
+A [arquefada](/rankings-e-titulos/magico/arquefada) [Cryonax](/individuos/cryonax) foi a primeira a ser encontrada por Lazuliel, se tornando uma de suas mais fieis sacerdotizas, ocupando o papel de porta-voz de Lazuliel.
+
+Após o ataque de Azura a [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento) em 1736, Lazuliel tomou interesse pelos gêmeos [Hêllen](/individuos/personagens-de-jogadores/hellen-starindust) e [Sarina Starindust](/individuos/sarina-starindust) conforme eles se mostraram poderosos. Lazuliel conseguiu convencer Sarina a auxiliá-lo, e influenciou sua transformação em uma "sacerdotiza" de Azura, quando na verdade trabalhava para a ascenção de Lazuliel. Após a morte de Azura, Lazuliel ordenou que Sarina o entregasse a [Lança Iridescente](/itens/lanca-iridescente).
+
+Ao observar a capacidade de intromissão da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), Lazuliel enviou [Amy](/individuos/personagens-de-jogadores/amy) para o plano material, criando uma conexão ao grupo pela qual poderia torná-los úteis.
 
 # Informações
 `Data de Nascimento` ?  
