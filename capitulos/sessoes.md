@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-20T21:58:10.898Z
+date: 2025-02-21T15:03:58.627Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -899,7 +899,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Em nome da guerra! Nós derrubaremos todos os que aparecerem aqui, abaixo as correntes!" - Yuanti Capturado
 
-> Zerke interroga o capturado, perguntando quem é seu líder. Ele afirma ser a guerra, mas não cede mais que isso. [Amy](/individuos/personagens-de-jogadores/amy) apresennta a visão do Anjo Azul chegando nos Jardins Gélidos, ele a chama de fraca por não resistir e que seu povo merece por nenhum se impor. Amy tenta matá-lo, mas Zerke a impede.
+> Zerke interroga o capturado, perguntando quem é seu líder. Ele afirma ser a guerra, mas não cede mais que isso. [Amy](/individuos/personagens-de-jogadores/amy) apresennta a visão do Anjo Azul chegando nos Jardins Gélidos, ele a chama de fraca por não resistir e que seu povo merece por nenhum se impor. Amy tenta matá-lo, mas Zerke a impede e continua o interrogatório.
 {.is-info}
 
 - [08/06/2024](https://www.youtube.com/watch?v=SM_W5O6QQxk) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
