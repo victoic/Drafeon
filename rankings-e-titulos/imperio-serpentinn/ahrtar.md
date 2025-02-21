@@ -2,14 +2,14 @@
 title: Ahrtar
 description: 
 published: true
-date: 2025-02-21T20:24:29.776Z
+date: 2025-02-21T20:47:05.833Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T20:24:29.776Z
 ---
 
-# Ahrtar
-Ahrtar é um título político dado de forma hereditária aos governantes dos reinos-individuais do [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn).
+# Ahr'tar
+Ahr'tar é um título político dado de forma hereditária aos governantes dos reinos-individuais do [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn).
 
 # Informações
 
