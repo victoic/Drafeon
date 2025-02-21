@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T22:30:40.566Z
+date: 2025-02-21T22:41:53.096Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -939,9 +939,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Os rastros levam até uma câmera onde o grupo encontra [Sahib al-Nar](/individuos/sahib-al-nar) que realizava um ritual com alguns genasi. O grupo o enfrenta, mas foge do combate ao conseguirem obter o ovo, teletransportando para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo).
 {.is-info}
 
-17/08/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
+17/08/2024 | Data narrativa: 05 de Woton de 1755 ED - 06 de Woton de 1755 ED
 
-> O grupo recebe o ovo de [roc](/fauna-e-flora/roc) do [Grande Ser](/individuos/ser-glorkan) e teleportam erroneamente para o [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo) ao tentarem retornar à [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk).
+> O grupo recebe o ovo de [roc](/fauna-e-flora/roc) do [Grande Ser](/individuos/ser-glorkan), descansam, e teleportam erroneamente para o [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo) ao tentarem retornar à [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk). Amy tenta teletrasnportar novamente mas descobre que o destino não é um alvo possível, então em desespero, teletransporta o grupo para as florestas onde avistam Purtale Magk, mas, por erro arcano, são levados à [Kafisifad](/lugares/plano-material/drafeon/sudeste-de-drafeon/kafisifad).
 {.is-info}
 
 - [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
