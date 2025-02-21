@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T22:53:17.700Z
+date: 2025-02-21T22:55:35.549Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -925,7 +925,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Adentrando a caverna, os heróis são abordados por ciclópes que cobram um pedágio em itens brilhantes para que continuem adentrando a caverna. O grupo decide atacar, [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) se recusa, quando o combate inicia, os ciclópes causam um demoronamento, fechando a caverna.
 {.is-info}
 
-06/07/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
+06/07/2024 | Data narrativa: 06 de Woton de 1755 ED - 06 de Woton de 1755 ED
 
 > Grupo enfrenta ciclópes, após serem cobrados pedágio para transitar pela caverna em busca do ovo do roc, matando um deles. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) abre uma passagem pelo desmoronamento no murro.
 >
@@ -934,12 +934,12 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e [Amy](/individuos/personagens-de-jogadores/amy) descrevem um plano perfeito para roubar sorrateiramente o ovo, mas o plano dá errado, pois o ovo já foi roubado! Rastros de arrastar de um objeto pesado adentra a caverna seguindo em uma direção contrário e o grupo segue esses rastros.
 {.is-info}
 
-10/08/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
+10/08/2024 | Data narrativa: 06 de Woton de 1755 ED - 06 de Woton de 1755 ED
 
 > Os rastros levam até uma câmera onde o grupo encontra [Sahib al-Nar](/individuos/sahib-al-nar) que realizava um ritual com alguns genasi. O grupo o enfrenta, mas foge do combate ao conseguirem obter o ovo, teletransportando para [Kafisifad](/lugares/plano-material/drafeon/sudeste-de-drafeon/kafisifad).
 {.is-info}
 
-17/08/2024 | Data narrativa: 05 de Woton de 1755 ED - 06 de Woton de 1755 ED
+17/08/2024 | Data narrativa: 06 de Woton de 1755 ED - 07 de Woton de 1755 ED
 
 > Ao notarem que o teletransporte os levou ao destino errado, o grupo é informado estar a dois dias de viagem de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk), então resolvem teletransportar para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). O grupo recebe o ovo de [roc](/fauna-e-flora/roc) do [Grande Ser](/individuos/ser-glorkan), descansam na mansão, e teletransportam erroneamente para o [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo) ao tentarem retornar à Purtale Magk.
 >
@@ -948,9 +948,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Amy tenta teletrasnportar novamente mas descobre que o destino não é um alvo possível, então em desespero, teletransporta o grupo novamente para Porto Novo.
 {.is-info}
 
-- [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
+- [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 06 de Woton de 1755 ED - 06 de Woton de 1755 ED
 
-> .
+> Em Porto Novo, o grupo .
 {.is-info}
 
 - [21/09/2024](https://www.youtube.com/watch?v=R766MM3MNwY) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
