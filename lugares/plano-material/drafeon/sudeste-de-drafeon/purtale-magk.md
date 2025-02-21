@@ -2,7 +2,7 @@
 title: Purtale Magk
 description: 
 published: true
-date: 2025-02-21T20:32:53.470Z
+date: 2025-02-21T23:34:15.264Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-21T20:32:53.470Z
@@ -12,6 +12,7 @@ dateCreated: 2025-02-21T20:32:53.470Z
 
 > "Portal da Morte" em yuanti.
 > Inspiração persa.
+{.is-info}
 
 Purtale Magk foi uma cidade do [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), localizada ao extremo norte. A cidade fica 45 km ao sudeste de [Kafisifad](/lugares/plano-material/drafeon/sudeste-de-drafeon/kafisifad) e 60 km ao norte [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz). Purtale Magk é uma cidade fria, rica em águas e agricultura. A cidade é construída aos pés das montanhas, cercada em florestas verdes e expansivas.
 
