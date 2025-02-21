@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T16:47:04.785Z
+date: 2025-02-21T19:27:40.144Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -904,7 +904,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) captura um filhote de cobra coral gigante como animal de estimação.
 {.is-info}
 
-- [08/06/2024](https://www.youtube.com/watch?v=SM_W5O6QQxk) | Data narrativa: 03 de Woton de 1755 ED - 04 de Woton de 1755 ED
+- [08/06/2024](https://www.youtube.com/watch?v=SM_W5O6QQxk) | Data narrativa: 03 de Woton de 1755 ED - 05 de Woton de 1755 ED
 
 > A cobra do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) mede os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) durante um descanço. [Amy](/individuos/personagens-de-jogadores/amy) faz um acordo com a Porta Voz para que um dos prisioneiros do [Reino Azul](/lugares/faeria/inverno/reino-azul) em troca da morte do prisioneiro.
 >
@@ -912,6 +912,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 {.is-info}
 
 > "Você se põe em um local de muita importância, fada. Você é apenas uma peça." - Porta Voz
+
+> Magnus comunha com a natureza e sente a presença de construções ao sul. O grupo percebe uma yuanti trabalhando como coletora nas florestas.
+{.is-info}
 
 - [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
 
