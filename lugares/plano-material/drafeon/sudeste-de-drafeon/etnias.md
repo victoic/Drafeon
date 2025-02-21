@@ -2,7 +2,7 @@
 title: Etnias Do Sudeste De Drafeon
 description: 
 published: true
-date: 2025-02-21T23:05:11.611Z
+date: 2025-02-21T23:31:05.782Z
 tags: cultura
 editor: markdown
 dateCreated: 2024-08-13T19:59:04.904Z
@@ -13,4 +13,4 @@ dateCreated: 2024-08-13T19:59:04.904Z
 # Etnias Do Sudeste De Drafeon
 [Povo Lagarto do Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias/povo-lagarto-do-sudeste-de-drafeon)
 [Yuanti Nortista](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias/yuanti-nortista)
-[Yuanti Sulista](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias/yuanti-nortista)
+[Yuanti Sulista](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias/yuanti-sulista)
