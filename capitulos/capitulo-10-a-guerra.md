@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-21T20:43:24.802Z
+date: 2025-02-21T20:47:25.468Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -32,7 +32,7 @@ Os Yuan-ti tinham duas tatuagens, todos tinha uma com o síbolo de uma esfínge,
 
 ## O Ovo da Roc
 
-Indo até a costa, o grupo prosseguiu a pés pelos bosques até chegar à cidade de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk). Após conversarem com a população local e averiguar a seguridade da presença de todos dentro da cidade, o grupo anda até a praça central onde observam um yuanti declarando uma mensagem do [Ahrtar Afshin Abedi](/individuos/ahrtar-afshin-abedi) que uma solicitação pessoal seria garantida a quem o levasse um ovo de [roc](/fauna-e-flora/roc).
+Indo até a costa, o grupo prosseguiu a pés pelos bosques até chegar à cidade de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk). Após conversarem com a população local e averiguar a seguridade da presença de todos dentro da cidade, o grupo anda até a praça central onde observam um yuanti declarando uma mensagem do [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi) que uma solicitação pessoal seria garantida a quem o levasse um ovo de [roc](/fauna-e-flora/roc).
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
