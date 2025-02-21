@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T21:00:10.259Z
+date: 2025-02-21T21:21:24.343Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -918,7 +918,22 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Andando pela praça central da cidade, o grupo encontra um yuanti declarando uma notícia sobre o [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi) oferecer uma solicitação pessoal a quem o entregar um ovo de [roc](/fauna-e-flora/roc).
 {.is-info}
 
-- [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 05 de Woton de 1755 ED - 03 de Woton de 1755 ED
+06/07/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
+
+> Grupo enfrenta ciclopes, após serem cobrados pedágio para transitar pela caverna em busca do ovo do roc, matando um deles.
+{.is-info}
+
+10/08/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
+
+> .
+{.is-info}
+
+17/08/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
+
+> .
+{.is-info}
+
+- [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
 
 > .
 {.is-info}
