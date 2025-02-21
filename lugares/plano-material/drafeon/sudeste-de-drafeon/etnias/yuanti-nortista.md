@@ -2,7 +2,7 @@
 title: Yuanti Nortista
 description: 
 published: true
-date: 2025-02-21T23:28:49.253Z
+date: 2025-02-21T23:29:33.404Z
 tags: cultura
 editor: markdown
 dateCreated: 2025-02-21T23:28:49.253Z
@@ -27,13 +27,13 @@ Como por todo o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), os no
 ## Vestimentas
 ![vestimentas-yuanti-nortista.webp](/uploads/itens/vestimentas-yuanti-nortista.webp =300x){.align-center}
 
-Nas regiões mais verdes e frias do norte do Império Serpentinn, onde as florestas e as montanhas gélidas dominam a paisagem, os Yuan-ti adaptaram suas vestimentas para proteger-se do frio e ao mesmo tempo refletir sua riqueza e status.
+Nas regiões mais verdes e frias do norte do Império Serpentinn, onde as florestas e as montanhas gélidas dominam a paisagem, os yuanti adaptaram suas vestimentas para proteger-se do frio e ao mesmo tempo refletir sua riqueza e status.
 
 ### Material
-Os trajes são feitos principalmente de tecidos pesados como lã e veludo, combinados com peles de animais que vivem nas regiões montanhosas, como lobos e ursos. As escamas dos Yuan-ti podem ser vistas adornadas com joias ou pinturas ornamentais, especialmente entre os de castas superiores.
+Os trajes são feitos principalmente de tecidos pesados como lã e veludo, combinados com peles de animais que vivem nas regiões montanhosas, como lobos e ursos. As escamas dos yuanti podem ser vistas adornadas com joias ou pinturas ornamentais, especialmente entre os de castas superiores.
 
 ### Design
-As vestimentas são geralmente longas e envolventes, com túnicas que chegam até os pés, combinadas com capas ou mantos forrados com pele. O corte das roupas é amplo, permitindo facilidade de movimento, mas também garantindo que o corpo esteja bem coberto. Os Yuan-ti das castas mais altas usam cores ricas e profundas, como esmeralda, rubi, e safira, enquanto os de castas inferiores usam tons mais neutros e terrosos.
+As vestimentas são geralmente longas e envolventes, com túnicas que chegam até os pés, combinadas com capas ou mantos forrados com pele. O corte das roupas é amplo, permitindo facilidade de movimento, mas também garantindo que o corpo esteja bem coberto. Os yuanti das castas mais altas usam cores ricas e profundas, como esmeralda, rubi, e safira, enquanto os de castas inferiores usam tons mais neutros e terrosos.
 
 ### Acessórios
 Capuzes e gorros decorados com penas ou escamas douradas são comuns, assim como cintos largos de couro enfeitados com pedras preciosas. Os calçados são feitos de couro espesso, muitas vezes com forro de pele, adequados para as condições frias. Luvas e braceletes também são usados para proteger as mãos do frio e demonstrar status.
