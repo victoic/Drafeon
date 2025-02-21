@@ -2,7 +2,7 @@
 title: Irien Galaniell
 description: 
 published: true
-date: 2025-02-18T13:04:40.571Z
+date: 2025-02-21T23:00:01.689Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:51:30.900Z
@@ -12,7 +12,7 @@ dateCreated: 2024-08-13T19:51:30.900Z
 
 # Irien Galaniell
 
-![irien-galaniell.webp](/uploads/retratos/irien-galaniell.webp "Retrato de Irien Galaniell em Porto Novo" =300x ){.align-center}
+![irien.webp](/uploads/retratos/irien.webp =300x){.align-center}
 
 Irien é uma Elfa da Floresta que habita e governa a cidade de Porto Novo no Sudeste de Drafeon. Irien é uma elfa de estatura alta e magra, possui um rosto delicado e com pele perfeita apesar de sua idade. Suas sobrancelhas são longas e finas. Irien é uma devota de [Zifelia](/divindades/panteao-das-treze-estrelas/zifelia#zifelia), Deusa da beleza, juventude e do amor.
 
