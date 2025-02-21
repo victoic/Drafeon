@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-21T23:22:20.755Z
+date: 2025-02-21T23:30:24.367Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -44,6 +44,8 @@ Em Porto Novo e sem mais capacidade de teletransportar, o grupo se divide em bus
 
 Zerke aproveita a conversa com Baddali para espalhar suas aventuras no Império Serpentinn e o oferece 50 peças de ouro para que ele conte as histórias nas tavernas locais. Reconsiderando, Zerke leva o Baddali a uma taverna próxima imediatamente.
 
+Amy, Addran e Grot visitam Irien Galaniell.
+
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
 - [Addran Martel](/individuos/personagens-de-jogadores/addran-martel)
@@ -53,7 +55,7 @@ Zerke aproveita a conversa com Baddali para espalhar suas aventuras no Império 
 
 # Relações
 ## Aliados
-- [](/individuos/)
+- [Irien Galaniell](/individuos/irien-galaniell)
 
 ## Neutros
 - [](/individuos/)
