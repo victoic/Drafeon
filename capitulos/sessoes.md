@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T23:22:59.958Z
+date: 2025-02-21T23:23:23.500Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -950,7 +950,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 06 de Woton de 1755 ED - 06 de Woton de 1755 ED
 
-> Em Porto Novo e sem mais capacidade de teletransportar, o grupo se divide em busca de uma forma de retornar a [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontra [Baddali](/individuos/baddali-copo-cheio) em busca de mapas para o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), onde consegue um mapa com a divisão entre o [Império Dragão](/faccoes/nacoes/imperio-dragao) e o Império Serpentinn. Zerke leva Baddali a uma taverna local para que contem as suas histórias de aventura no Império Serpentinn, entrando em sua armadura dourada reluzente.
+> Em Porto Novo e sem mais capacidade de teletransportar, o grupo se divide em busca de uma forma de retornar a [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontra [Baddali](/individuos/baddali-copo-cheio) em busca de mapas para o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), onde consegue um mapa com a divisão entre o [Império Dragão](/faccoes/nacoes/imperio-dragao) e o Império Serpentinn. Zerke leva Baddali ao [Gigante Azul](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), uma taverna local para que contem as suas histórias de aventura no Império Serpentinn, entrando em sua armadura dourada reluzente.
 >
 > 
 {.is-info}
