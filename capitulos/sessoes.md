@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T22:55:35.549Z
+date: 2025-02-21T23:14:06.038Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -950,7 +950,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 06 de Woton de 1755 ED - 06 de Woton de 1755 ED
 
-> Em Porto Novo, o grupo .
+> Em Porto Novo e sem mais capacidade de teletransportar, o grupo se divide em busca de uma forma de retornar a [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontra [Baddali](/individuos/baddali-copo-cheio) em busca de mapas para o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), onde consegue um mapa com a divisão entre o [Império Dragão](/faccoes/nacoes/imperio-dragao) e o Império Serpentinn.
+>
+> 
 {.is-info}
 
 - [21/09/2024](https://www.youtube.com/watch?v=R766MM3MNwY) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
