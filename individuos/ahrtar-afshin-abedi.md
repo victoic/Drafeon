@@ -1,8 +1,8 @@
 ---
-title: Ahrtar Afshin Abedi
+title: Ahr'tar Afshin Abedi
 description: 
 published: true
-date: 2025-02-21T20:50:45.429Z
+date: 2025-02-21T20:53:53.427Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T20:50:45.429Z
