@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T21:21:24.343Z
+date: 2025-02-21T22:26:46.232Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -918,19 +918,30 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Andando pela praça central da cidade, o grupo encontra um yuanti declarando uma notícia sobre o [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi) oferecer uma solicitação pessoal a quem o entregar um ovo de [roc](/fauna-e-flora/roc).
 {.is-info}
 
+24/06/2024 | Data narrativa: 05 de Woton de 1755 ED - 06 de Woton de 1755 ED
+
+> Grupo parte em busca de uma roc, ajuda uma yuanti lenhadora que sofre um acidente, em retorna ela aponta na direção de uma caverna onde um casal de rocs habitam. Além disso, encomendam um ovo de roc ao [Ser Glorkan](/individuos/ser-glorkan) por 10.000 peças de ouro.
+>
+> Adentrando a caverna, os heróis são abordados por ciclópes que cobram um pedágio em itens brilhantes para que continuem adentrando a caverna. O grupo decide atacar, [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) se recusa, quando o combate inicia, os ciclópes causam um demoronamento, fechando a caverna.
+{.is-info}
+
 06/07/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
 
-> Grupo enfrenta ciclopes, após serem cobrados pedágio para transitar pela caverna em busca do ovo do roc, matando um deles.
+> Grupo enfrenta ciclópes, após serem cobrados pedágio para transitar pela caverna em busca do ovo do roc, matando um deles. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) abre uma passagem pelo desmoronamento no murro.
+>
+> O grupo encontra [Lungby](/lugares/plano-material/drafeon/sudeste-de-drafeon/lungby), uma vila de gigantes de pedra, onde convencem os gigantes a acompanhá-los até o ovo dos roc. Os gigantes exigem que os rocs não sejam feridos, dado que domar um deles é um projeto pessoal de um dos gigantes.
+>
+> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e [Amy](/individuos/personagens-de-jogadores/amy) descrevem um plano perfeito para roubar sorrateiramente o ovo, mas o plano dá errado, pois o ovo já foi roubado! Rastros de arrastar de um objeto pesado adentra a caverna seguindo em uma direção contrário e o grupo segue esses rastros.
 {.is-info}
 
 10/08/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
 
-> .
+> Os rastros levam até uma câmera onde o grupo encontra [Sahib al-Nar](/individuos/sahib-al-nar) que realizava um ritual com alguns genasi. O grupo o enfrenta, mas foge do combate ao conseguirem obter o ovo, teletransportando para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo).
 {.is-info}
 
 17/08/2024 | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
 
-> .
+> O grupo recebe o ovo de 
 {.is-info}
 
 - [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
