@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T20:11:35.324Z
+date: 2025-02-21T20:48:06.983Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -914,6 +914,8 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > "Você se põe em um local de muita importância, fada. Você é apenas uma peça." - Porta Voz
 
 > Magnus comunha com a natureza e sente a presença de construções ao sul. O grupo percebe uma yuanti trabalhando como coletora nas florestas. O grupo chega a [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk), onde [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se comunica telepaticamente com [Shambaram](/individuos/shambaram).
+>
+> Andando pela praça central da cidade, o grupo encontra um yuanti declarando uma notícia sobre o [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi) oferecer uma solicitação pessoal a quem o entregar um ovo de [roc](/fauna-e-flora/roc).
 {.is-info}
 
 - [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
