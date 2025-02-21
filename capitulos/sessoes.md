@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T15:08:50.679Z
+date: 2025-02-21T15:15:42.337Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -893,7 +893,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [07/06/2024](https://www.youtube.com/watch?v=QjbiDhqyg4Y) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
 
-> Ao fim da batalha, o grupo busca pela tripulação mas sem sucesso e investiga os corpos dos atacantes, encontrando na maioria deles tatuagens e cicatrizações de escravidão e, em todos, tatuagens de um felino alado. Um dos atacantes foi mantido vivo para ser interrogado.
+> Ao fim da batalha, o grupo busca pela tripulação mas sem sucesso e investiga os corpos dos atacantes, encontrando na maioria deles tatuagens e cicatrizações de escravidão e, em todos, tatuagens de uma esfinge. Um dos atacantes foi mantido vivo para ser interrogado.
 >![al-haro.webp](/uploads/simbolos/al-haro.webp){.align-center}
 {.is-info}
 
