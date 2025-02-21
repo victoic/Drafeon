@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T22:50:44.915Z
+date: 2025-02-21T22:52:16.215Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -943,9 +943,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Ao notarem que o teletransporte os levou ao destino errado, o grupo é informado estar a dois dias de viagem de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk), então resolvem teletransportar para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo). O grupo recebe o ovo de [roc](/fauna-e-flora/roc) do [Grande Ser](/individuos/ser-glorkan), descansam na mansão, e teletransportam erroneamente para o [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo) ao tentarem retornar à Purtale Magk.
 >
-> Na mansão, Amy atormenta o grupo com um pessimismo constante.
+> Na mansão, [Amy](/individuos/personagens-de-jogadores/amy) atormenta o grupo com um pessimismo constante. [Addran](/individuos/personagens-de-jogadores/addran-martel) tem um encontro com [Cis](/individuos/cis). [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) tem conversas filosóficas com um ganso.
 >
->Amy tenta teletrasnportar novamente mas descobre que o destino não é um alvo possível, então em desespero, teletransporta o grupo para as florestas onde avistam Purtale Magk, mas, por erro arcano, são levados à .
+> Amy tenta teletrasnportar novamente mas descobre que o destino não é um alvo possível, então em desespero, teletransporta o grupo para as florestas onde avistam Purtale Magk, mas, por erro arcano, são levados à .
 {.is-info}
 
 - [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 05 de Woton de 1755 ED - 05 de Woton de 1755 ED
