@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-21T22:53:45.442Z
+date: 2025-02-21T23:17:25.363Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -39,6 +39,10 @@ Direcionados por uma yuanti local, o grupo chega a uma caverna onde supostamente
 No local, o ovo não é encontrando, mas sim rastros de arraste, seguindo-os, o grupo chega até [Sahib al-Nar](/individuos/sahib-al-nar). A confraria tenta enfrentá-lo, mas após não se saírem bem no combate, furtam o ovo e se teletransportam para os arredores Purtale Magk, mas a magia falha e o grupo acaba em [Kafisifad](/lugares/plano-material/drafeon/sudeste-de-drafeon/kafisifad), onde são informados estar a dois dias de viagem de Purtale Magk.  Não querendo esperar a viagem, Amy teletransporta o grupo para Porto Novo. Lá, compram o segundo ovo de roc e o Magnus recebe o [monóculo da visão](/itens/monoculo-da-visao), grot cria novos [brincos](/itens/Brinco-de-Sussurros) para os membros recentes do grupo e [Addran](/individuos/personagens-de-jogadores/addran-martel) tem um encontro com [Cis](/individuos/cis). 
 
 Após o descanso, tentam retornar para Purtale Magk, mas a magia tem o destino errado e os heróis são levados ao meio do [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo) onde ondas titânicas se quebram sobre eles, Amy tenta teletrasnportar novamente mas descobre que o destino não é um alvo possível, então em desespero, teletransporta o grupo de volta a Porto Novo.
+
+Em Porto Novo e sem mais capacidade de teletransportar, o grupo se divide em busca de uma forma de retornar a [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk). Zerke encontra [Baddali](/individuos/baddali-copo-cheio) em busca de mapas para o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), onde consegue um mapa com a divisão entre o [Império Dragão](/faccoes/nacoes/imperio-dragao) e o Império Serpentinn.
+
+Zerke aproveita a conversa com Baddali para espalhar suas aventuras no Império Serpentinn e o oferece 50 peças de ouro para que ele conte as histórias nas tavernas locais.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
