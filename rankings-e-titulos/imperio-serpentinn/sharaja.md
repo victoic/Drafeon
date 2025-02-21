@@ -2,10 +2,10 @@
 title: Sharaja
 description: 
 published: true
-date: 2021-05-26T17:01:37.347Z
+date: 2025-02-21T20:25:52.279Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-11T16:30:53.574Z
+dateCreated: 2024-08-13T19:57:33.340Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Sharaja -->
@@ -16,7 +16,7 @@ Sharaja é o comandante político, militar e religioso do Império Serpentinn. O
 # Informações
 `Tipo` Civíco, Político 
 `Estado` Ativo
-`Nomes Alternativos` Platino, Imperador Dragão
+`Nomes Alternativos` Rei-deus, [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo)
 `Duração do Termo` Vitalíceo
 `Fonte de Autoridade` Divina
 `Lugar Relacionado` [O Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto)
