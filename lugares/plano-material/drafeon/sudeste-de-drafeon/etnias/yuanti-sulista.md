@@ -2,13 +2,13 @@
 title: Yuanti Sulista
 description: 
 published: true
-date: 2025-02-21T23:50:33.800Z
+date: 2025-02-21T23:50:44.418Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T23:50:33.800Z
 ---
 
-# Yuanti Nortista
+# Yuanti Sulistas
 
 > Inspiração árabe.
 {.is-info}
