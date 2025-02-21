@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-21T23:33:48.588Z
+date: 2025-02-21T23:56:04.141Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -43,6 +43,8 @@ Após o descanso, tentam retornar para Purtale Magk, mas a magia tem o destino e
 Em Porto Novo e sem mais capacidade de teletransportar, o grupo se divide em busca de uma forma de retornar a [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk). Zerke encontra [Baddali](/individuos/baddali-copo-cheio) em busca de mapas para o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), onde consegue um mapa com a divisão entre o [Império Dragão](/faccoes/nacoes/imperio-dragao) e o Império Serpentinn.
 
 Zerke aproveita a conversa com Baddali para espalhar suas aventuras no Império Serpentinn e o oferece 50 peças de ouro para que ele conte as histórias nas tavernas locais. Reconsiderando, Zerke leva o Baddali a uma taverna próxima imediatamente. Amy, Addran e Grot visitam Irien Galaniell onde relatam a Irien Galaniell de suas ações e da morte da tripulação do Garras Platinas.
+
+Magnus invoca a Roc e o grupo parte ao leste em busca de Purtale Magk, passando por [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso) no caminho e avistando o [Kraz](/individuos/personagens-de-jogadores/saile).
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
