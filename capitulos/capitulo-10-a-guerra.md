@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T13:45:28.164Z
+date: 2025-02-22T13:50:13.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -147,7 +147,7 @@ Um membro da [Sussurros das Areias](/faccoes/faccoes-independentes/sussurros-das
 >
 > Os aventureiros rapidamente percebem a aura de alerta que permeia Ahr. Soldados caminham lado a lado com civis, enquanto grupos de mercadores debatem com viajantes os perigos do deserto. Ao fundo, a Torre das Lâminas domina o horizonte, lembrando a todos da presença constante de uma força protetora pronta para agir contra qualquer ameaça.
 
-Arsalanov leva o grupo ao Palácio do Escudo de Dunas, onde guardas questionam seus desejos.
+Arsalanov leva o grupo ao Palácio do Escudo de Dunas, onde guardas questionam seus desejos e prontamente negam qualquer tentativa de conferência com o Ahr'tar. Zerke adentra a muralha e recebe a mensagem que deverá entregar.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
