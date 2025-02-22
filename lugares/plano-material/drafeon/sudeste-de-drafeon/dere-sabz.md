@@ -2,7 +2,7 @@
 title: Dere' Sabz
 description: 
 published: true
-date: 2025-02-22T03:58:16.673Z
+date: 2025-02-22T04:17:07.689Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T03:55:22.217Z
@@ -27,6 +27,20 @@ O Bosque da Harmonia: Localizado no coração da cidade, este bosque sagrado é 
 O Palácio das Sete Dunas: Residência do Ahr'tar local, o palácio é uma maravilha arquitetônica. Situado no topo de uma pequena elevação natural, o palácio tem vista para toda a cidade e é composto por sete grandes cúpulas de arenito, cada uma representando uma virtude associada à nobreza da casta yuanti. Jardins exuberantes rodeiam o palácio, com fontes que derramam água cristalina em canais que descem pela cidade.
 
 O Mercado das Especiarias: Famoso em todo o império, o mercado de Dere' Sabz é um ponto de encontro de comerciantes vindos de diferentes partes do mundo. É um local vibrante, com barracas vendendo tecidos, especiarias, frutos raros e ervas medicinais, muitas vezes considerados exclusivos desta região, graças à transição entre os ecossistemas.
+
+## Infraestrutura
+
+### Palácio das Sete Dunas
+
+O Palácio das Sete Dunas em Dere' Sabz é uma estrutura magnífica, que reflete a transição natural entre o verde exuberante dos bosques e a vastidão dourada do deserto. O nome do palácio vem das sete grandes dunas de areia que cercam a cidade ao sul, e sua arquitetura foi projetada para harmonizar com essa paisagem, integrando elementos tanto naturais quanto sofisticados.
+
+O palácio é feito de pedra esculpida em tons arenosos e verdes, com detalhes intricados que remetem à fauna e flora da região. Sua cúpula central é adornada com mosaicos em verde-esmeralda, representando as florestas do norte, enquanto as torres que cercam a estrutura são coroadas com esculturas de animais nativos da região, como serpentes e aves de rapina.
+
+Dentro, o Palácio das Sete Dunas é um labirinto de corredores abertos e pátios internos, cheios de plantas e fontes cristalinas, que ajudam a manter o ambiente fresco, apesar do calor do deserto. O trono do Ahr’tar é uma peça central impressionante, esculpido em jade e ouro, com padrões de folhas e vinhas que simbolizam o equilíbrio entre os bosques e as dunas.
+
+Há sete pátios principais, cada um representando uma das dunas e os diferentes aspectos da vida e natureza: o Pátio das Areias dedicado ao deserto, o Pátio dos Ventos representando as mudanças climáticas, e outros que simbolizam a fertilidade, sabedoria, e as estações do ano. Cada um desses pátios possui uma função cerimonial e também é usado para audiências públicas, onde o Ahr’tar escuta as questões do povo.
+
+O palácio é ao mesmo tempo uma fortaleza e uma obra de arte, símbolo da resistência e da elegância de Dere' Sabz, equilibrando o peso da tradição e a beleza da natureza.
 
 # Informações
 `Tipo` Reino-individual, Cidade
