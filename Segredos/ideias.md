@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2025-02-22T09:15:51.126Z
+date: 2025-02-22T09:20:27.586Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-03T15:45:25.832Z
@@ -53,6 +53,20 @@ Lamento das Dunas: Viajantes e mercadores dizem ouvir o som de tambores ao anoit
 O Pacto da Serpente: Existe um rumor de que alguns altos membros do império em outras cidades estariam considerando um pacto com Al-haro para preservar seus territórios, oferecendo apoio indireto. Hadiya Zaresh teme que algum comandante de cidade vizinha já tenha traído o Império e está em busca de qualquer evidência para antecipar uma possível traição. A investigação, no entanto, deve ser conduzida em segredo.
 
 Ahr, assim, tornou-se não apenas uma cidade em preparação para a guerra, mas um ponto de oportunidade para aventureiros em busca de recompensas, glória ou simplesmente a chance de fazer a diferença em um império à beira de conflitos.
+
+O Ahr'tar Hadiya Zaresh, apesar de sua posição de autoridade e responsabilidade em Ahr, possui motivos claros e pragmáticos para não receber os aventureiros como convidados em seu palácio. Aqui estão alguns deles:
+1. Desconfiança de Estrangeiros. Com os exércitos de Al-haro se aproximando, Hadiya Zaresh está cada vez mais desconfiada de qualquer presença estrangeira na cidade. Ela teme que os aventureiros possam ser espiões ou aliados disfarçados da esfinge, tentando infiltrar-se em Ahr para sabotar suas defesas ou causar tumulto interno.
+2. Protocolo de Neutralidade Aparente. Embora Zaresh seja leal ao Império Serpentinn, ela pode estar tentando manter uma fachada de neutralidade perante o conflito civil, especialmente para estrangeiros que possam relatar suas ações. Receber aventureiros publicamente, ainda mais se eles tiverem reputação associada a uma das facções, poderia comprometer essa postura.
+3. Evitar Alianças Perigosas. Os aventureiros são figuras desconhecidas com intenções incertas. Zaresh teme que oferecer hospitalidade a estranhos possa sugerir uma aliança com indivíduos que, eventualmente, possam causar mais problemas para sua governança ou para a estabilidade local.
+4. Recursos Escassos e Prioridades Locais. Com o cerco iminente e as demandas de proteger a cidade, Hadiya Zaresh está economizando todos os recursos disponíveis para seus cidadãos e suas forças armadas. Oferecer hospitalidade a aventureiros seria visto como um luxo que a cidade não pode se permitir nesse momento crítico.
+5. Cultura Yuan-ti e Hierarquia. No rígido sistema de castas Yuan-ti, estrangeiros são muitas vezes considerados inferiores ou como meros utilitaristas. Oferecer hospitalidade seria contra os costumes locais e poderia ser visto como um enfraquecimento de sua posição autoritária perante os cidadãos de Ahr.
+6. Boatos e Percepções Locais. Com rumores constantes sobre a guerra, Zaresh teme que receber estrangeiros em seu palácio alimente boatos sobre conspirações ou traições, o que poderia enfraquecer a moral da cidade ou criar descontentamento entre seus subordinados.
+
+Em vez de receber os aventureiros no palácio, Hadiya Zaresh pode:
+
+- Oferecer-lhes acomodações em uma hospedaria protegida, mas simples.
+- Delegar encontros com eles a um conselheiro de confiança, que agiria como intermediário.
+- Testar sua lealdade, impondo uma tarefa para provar sua intenção antes de sequer considerar um convite formal.
 
 ## Novos Deuses
 
