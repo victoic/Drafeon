@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T12:36:08.145Z
+date: 2025-02-22T12:37:05.905Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -96,11 +96,11 @@ Ao chegar em Ahr, o grupo passa pelo processo de inspeção, questionamento e re
 | O que é | Humano |
 | Idade | 24 |
 | Altura | 175 cm |
-| Descrição | Largo |
+| Descrição | Loiro e branco |
 | Intenções | Se tornar um espadachin |
 | Itens Mágicos a Declarar | (Todos os itens) |
 | Itens A Portar Dentro da Cidade | (Todos os itens) |
-| Número | 29471 |
+| Número | 29472 |
 
 
 #### Entrada na Cidade
