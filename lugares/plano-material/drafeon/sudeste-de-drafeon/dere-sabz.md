@@ -2,7 +2,7 @@
 title: Dere' Sabz
 description: 
 published: true
-date: 2025-02-22T03:56:41.501Z
+date: 2025-02-22T03:57:30.660Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T03:55:22.217Z
@@ -18,7 +18,7 @@ Dere' Sabz é uma cidade pitoresca localizada na região sul do [Império Serpen
 
 ## Arquitetura e Estrutura Urbana
 
-A arquitetura de Dere' Sabz reflete essa transição natural, combinando o uso de pedras escuras retiradas das montanhas ao norte com arenito esculpido em formas arredondadas, imitando as dunas do deserto. As construções mais altas, como os templos e o palácio do Ahr'tar, são adornadas com intricados mosaicos de azulejos verde-esmeralda e dourado, que brilham sob o sol, celebrando a conexão da cidade com a natureza e o equilíbrio. Telhados planos e varandas largas adornam as residências e os mercados, permitindo que vinhas e plantas escalem as paredes e criem áreas de sombra naturais. Pequenos canais de água, alimentados por nascentes ocultas nas colinas, cortam a cidade, irrigando os jardins e bosques que circundam as residências da elite e criando uma sensação de frescor em meio à aridez da transição para o deserto.
+A arquitetura de Dere' Sabz reflete essa transição natural, combinando o uso de pedras escuras retiradas das montanhas ao norte com arenito esculpido em formas arredondadas, imitando as dunas do deserto. As construções mais altas, como os templos e o palácio do [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar), são adornadas com intricados mosaicos de azulejos verde-esmeralda e dourado, que brilham sob o sol, celebrando a conexão da cidade com a natureza e o equilíbrio. Telhados planos e varandas largas adornam as residências e os mercados, permitindo que vinhas e plantas escalem as paredes e criem áreas de sombra naturais. Pequenos canais de água, alimentados por nascentes ocultas nas colinas, cortam a cidade, irrigando os jardins e bosques que circundam as residências da elite e criando uma sensação de frescor em meio à aridez da transição para o deserto.
 
 ## Pontos Importantes
 
