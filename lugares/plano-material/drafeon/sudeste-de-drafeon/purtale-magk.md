@@ -2,7 +2,7 @@
 title: Purtale Magk
 description: 
 published: true
-date: 2025-02-22T00:40:41.192Z
+date: 2025-02-22T00:42:13.455Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-21T20:32:53.470Z
@@ -34,7 +34,7 @@ A arquitetura do palácio é uma mistura de grandiosidade e sutileza. Os corredo
 
 No coração do palácio, há um vasto jardim interno, onde plantas exóticas e flores raras crescem em harmonia. Pequenos riachos serpenteiam pelo jardim, alimentando fontes e espelhos d'água, onde serpentes e outros animais simbólicos são cuidadosamente mantidos.
 
-A sala do trono é o epicentro do poder do Ahrtar. O trono em si é uma obra de arte, esculpido em ouro maciço, com encosto e braços formados por serpentes estilizadas que se entrelaçam. O chão ao redor do trono é coberto por um mosaico de pedras preciosas, retratando o mar da morte e as montanhas que cercam o Império Serpentinn. Atrás do trono, uma grande janela arqueada oferece uma vista panorâmica dos bosques e montanhas ao longe, reforçando a sensação de domínio e controle de Afshin sobre suas terras.
+A sala do trono é o epicentro do poder do Ahrtar. O trono em si é uma obra de arte, esculpido em ouro maciço, com encosto e braços formados por serpentes estilizadas que se entrelaçam. O chão ao redor do trono é coberto por um mosaico de pedras preciosas, retratando o mar da limbo e as montanhas que cercam o Império Serpentinn. Atrás do trono, uma grande janela arqueada oferece uma vista panorâmica dos bosques e montanhas ao longe, reforçando a sensação de domínio e controle de Afshin sobre suas terras.
 
 Dentro do palácio, o ar é constantemente perfumado com incenso de mirra e sândalo, criando uma atmosfera densa e quase hipnótica. Músicos tocam melodias suaves e misteriosas em flautas e harpas, enquanto a luz suave de tochas e candelabros banha tudo em uma aura dourada e sombria.
 
