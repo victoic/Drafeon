@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T03:28:38.099Z
+date: 2025-02-22T03:32:49.259Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -46,7 +46,7 @@ Zerke aproveita a conversa com Baddali para espalhar suas aventuras no Império 
 
 Magnus invoca a Roc e o grupo parte ao leste em busca de Purtale Magk, passando por [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso) no caminho e avistando o [Kraz](/individuos/personagens-de-jogadores/saile). Sob posse de dois ovos, o grupo chega ao Palácio das Serpentes, onde veem um outro grupo adentrar. O mensageiro, [Jenab Hasar'](/individuos/jenab-hasar), permite que o grupo visite o Ahr'tar Afshin Abedi mesmo não sendo os primeiros e o grupo adentra o palácio.
 
-Addran tenta seduzir [Zarrmina Ahr'tarzadeh](/individuos/zarrmina-ahrtarzadeh), mas é impedido pelo Zerke.
+Addran tenta seduzir [Zarrmina Ahr'tarzadeh](/individuos/zarrmina-ahrtarzadeh), mas é impedido pelo Zerke. O Ahr'tar Afshin Abedi explica sobre A Guerra, que é tanto uma guerra quanto um indivíduo e que o caos se expalha a partir do sul.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
