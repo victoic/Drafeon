@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T10:16:11.205Z
+date: 2025-02-22T10:18:32.819Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -62,6 +62,8 @@ No dia seguinte, o grupo busca Arsalanov para levá-los até Jawhara'alsahara. A
 - Grot: Não se apresentou
 - Magnus: Malevolente de Victoic 
 - Zerke: Gustavo de Sem Vento
+
+Após a vigarice, Addran busca uma florete à venda, encontrando uma antiga de aço.
 
 ### Ahr
 
