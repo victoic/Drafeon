@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T09:27:28.747Z
+date: 2025-02-22T09:33:59.145Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -980,7 +980,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [05/10/2024](https://www.youtube.com/watch?v=_xptpXY3i1k) | Data narrativa: 09 de Woton de 1755 ED - 09 de Woton de 1755 ED
 
-> Após o dia de descanço, o grupo planeja vender itens "falsos" do [Grot](/individuos/personagens-de-jogadores/grot) para conseguir moedas locais, buscam [Arsalanov](/individuos/varsalanov) para guiá-los até [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), mas Arsalanov mas ele mostra que vendeu o anel dado pelo [Grot](/individuos/personagens-de-jogadores/grot) e se mudará ao norte.
+> Após o dia de descanço, o grupo planeja vender itens "falsos" do [Grot](/individuos/personagens-de-jogadores/grot) para conseguir moedas locais, buscam [Arsalanov](/individuos/varsalanov) para guiá-los até [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), mas Arsalanov mas ele mostra que vendeu o anel dado pelo [Grot](/individuos/personagens-de-jogadores/grot) e se mudará ao norte. Arsalanov aceita levâ-los até [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) e os aponta para [Bahrin Taherin](/individuos/bahrin-taherin).
 {.is-info}
 
 - [19/10/2024](https://www.youtube.com/watch?v=hL9MQ5moB9E) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
