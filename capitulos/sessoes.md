@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T04:33:24.560Z
+date: 2025-02-22T04:35:00.705Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -975,7 +975,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Em Dere' Sabz, conhecem [Varsalanov](/individuos/varsalanov), a quem contratam como tradutor. Varsalanov leva o grupo ao palácio do [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra), onde mostram a moeda de favor de Purtale Magk e conseguem uma conferência. Dado que será necessário aguardar cerca de duas horas, o grupo é levado para as fontes termais, onde há comida e música constante. [Zhoarin Vasshara](/individuos/zhoarin-vasshara), um sobrinho de 4º grau de Ahr'tar Zaniar Khazra, aborda o grupo sobre sua presença. Após ouvirem a história sobre os ovos da roc, Zhoarin afirma que pedirá a seu tio que faça o mesmo mas em apenas duas horas.
 >
-> Ahr'tar Zaniar Khazra explica o sistema de castas do Império Serpentinn.
+> Ahr'tar Zaniar Khazra explica o sistema de castas do Império Serpentinn, ele se apresenta como um colaborativo entre as castas baixas e os governos.
 {.is-info}
 
 - [05/10/2024](https://www.youtube.com/watch?v=_xptpXY3i1k) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
