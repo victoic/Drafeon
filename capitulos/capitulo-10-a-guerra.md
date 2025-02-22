@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T12:01:17.726Z
+date: 2025-02-22T12:13:21.545Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -71,12 +71,12 @@ Nos corpos dos assassinos o grupo encontra tatuagens semelhantes às da esfinge,
 
 > Eles estão saindo de [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz) em direção a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr), intercepte-os e os mate lá.
 
-Encontrando um lugar seguro para realizar um descanso, o grupo discute o ataque, vendo possibilidade do ataque ter originado do dA Guerra ou dos [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar). Durante a vigília, Magnus observa algo se movendo entre rochas na escuridão, [Tozo](/individuos/tozo), que auxiliava o Magnus, acorda o Grot que não encontra nada no local. Ao fim da vigília do Magnus, ele acorda o Addran e o conta dos movimentos, o jovem humano animado corre para dentro da escuridão procurando adversário e o Magnus vai dormir.
-
-A Porta Voz surge à Amy durante a noite e a garante uma dádiva do Anjo Azul, a capacidade de falar e entender yuanti.
+Encontrando um lugar seguro para realizar um descanso, o grupo discute o ataque, vendo possibilidade do ataque ter originado do dA Guerra ou dos [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar). Durante a vigília, Magnus observa algo se movendo entre rochas na escuridão, [Tozo](/individuos/tozo), que auxiliava o Magnus, acorda o Grot que não encontra nada no local. Ao fim da vigília do Magnus, ele acorda o Addran e o conta dos movimentos, o jovem humano animado corre para dentro da escuridão procurando adversário e o Magnus vai dormir. A Porta Voz surge à Amy durante a noite e a garante uma dádiva do Anjo Azul, a capacidade de falar e entender yuanti.
 
 
 ### Ahr
+
+Ao chegar em Ahr, o grupo passa pelo processo de inspeção, questionamento e registro.
 
 > Ao passar pelos portões, os aventureiros entram em uma larga avenida de pedra calcária que leva diretamente à Praça das Areias. O calor do deserto é suavizado por pequenos canais de água fresca que correm pelas laterais da rua, alimentados por fontes subterrâneas. Palavras em Yuan-ti gravadas nas pedras dos edifícios dão boas-vindas aos que chegam, com frases que exaltam a força e a resiliência da cidade.
 >
