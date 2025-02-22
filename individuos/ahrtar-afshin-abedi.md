@@ -2,13 +2,16 @@
 title: Ahr'tar Afshin Abedi
 description: 
 published: true
-date: 2025-02-21T20:53:53.427Z
+date: 2025-02-22T00:17:53.605Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T20:50:45.429Z
 ---
 
 # Ahr'tar Afshin Abedi
+
+![ahrtar-afshin-abedi.webp](/uploads/retratos/ahrtar-afshin-abedi.webp =300x){.align-center}
+
 Ahr'tar Afshin Abedi foi um yuanti abominação habitante e governante de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk).
 
 ## Personalidade
