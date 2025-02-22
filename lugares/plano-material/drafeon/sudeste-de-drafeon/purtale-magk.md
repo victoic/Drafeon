@@ -2,7 +2,7 @@
 title: Purtale Magk
 description: 
 published: true
-date: 2025-02-21T23:34:15.264Z
+date: 2025-02-22T00:40:41.192Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-21T20:32:53.470Z
@@ -26,9 +26,9 @@ Piscinas públicas, canais de água límpida, fontes e aquedutos enfeitam a cida
 
 Um templo ao [Sharaja](/rankings-e-titulos/imperio-serpentinn/sharaja) se encontra na praça central, próxima ao Castelo das Serpentes.
 
-### Palácio das Serpentes
+### Refúgio das Serpentes
 
-O Palácio das Serpentes é a moradia do Ahrtar, sua família e serviçais. O [mythal](/itens/mythal) da cidade se localiza flutuante sobre o palácio.  O palácio é um magnífico complexo, construído em um planalto elevado cercado por florestas densas, o palácio se mistura com a paisagem ao seu redor, como se fosse uma extensão natural do terreno. As paredes exteriores são feitas de pedra escura, quase negra, com detalhes em ouro e esmeraldas que capturam a luz do sol, fazendo o palácio brilhar como uma joia incrustada na terra.
+O Refúgio das Serpentes é a moradia do Ahrtar, sua família e serviçais. O [mythal](/itens/mythal) da cidade se localiza flutuante sobre o palácio.  O palácio é um magnífico complexo, construído em um planalto elevado cercado por florestas densas, o palácio se mistura com a paisagem ao seu redor, como se fosse uma extensão natural do terreno. As paredes exteriores são feitas de pedra escura, quase negra, com detalhes em ouro e esmeraldas que capturam a luz do sol, fazendo o palácio brilhar como uma joia incrustada na terra.
 
 A arquitetura do palácio é uma mistura de grandiosidade e sutileza. Os corredores são largos, com tetos altos adornados com murais que retratam cenas mitológicas da história dos yuanti. Os pisos são feitos de mármore preto com veias de ouro, refletindo a opulência do governante. Colunas esculpidas na forma de serpentes entrelaçadas sustentam o teto, e as paredes são decoradas com tapeçarias detalhadas que contam histórias de guerra, conquista e veneração ao Sharaja.
 
