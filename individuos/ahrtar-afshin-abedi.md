@@ -2,7 +2,7 @@
 title: Ahr'tar Afshin Abedi
 description: 
 published: true
-date: 2025-02-22T00:17:53.605Z
+date: 2025-02-22T03:13:29.898Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T20:50:45.429Z
@@ -30,7 +30,7 @@ Ahr'tar Afshin Abedi é metódico em suas interações, raramente revelando seus
 `Data de Nascimento` 1695 ED
 `Local de Nascimento` [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk)
 `Sexo Biológico` Masculino
-`Olhos` Pretos
+`Olhos` Amarelos intensos
 `Cabelos` Escamas verdes escuras
 `Altura` 1,84 m
 `Peso` 84 Kg
