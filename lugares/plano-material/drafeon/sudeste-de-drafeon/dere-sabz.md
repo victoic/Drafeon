@@ -2,7 +2,7 @@
 title: Dere' Sabz
 description: 
 published: true
-date: 2025-02-22T09:31:09.749Z
+date: 2025-02-22T09:40:06.150Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T03:55:22.217Z
@@ -43,7 +43,8 @@ Há sete pátios principais, cada um representando uma das dunas e os diferentes
 O palácio é ao mesmo tempo uma fortaleza e uma obra de arte, símbolo da resistência e da elegância de Dere' Sabz, equilibrando o peso da tradição e a beleza da natureza.
 
 ## Bens
-[Bahran Taheri](/individuos/bahran-taheri)
+**Loja Arcana:** [Caminho Silencioso](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz)
+*Proprietário: [Bahran Taheri](/individuos/bahran-taheri)*
 
 # Informações
 `Tipo` Reino-individual, Cidade
