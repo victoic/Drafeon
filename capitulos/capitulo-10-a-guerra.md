@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T10:18:32.819Z
+date: 2025-02-22T10:24:05.592Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -63,7 +63,7 @@ No dia seguinte, o grupo busca Arsalanov para levá-los até Jawhara'alsahara. A
 - Magnus: Malevolente de Victoic 
 - Zerke: Gustavo de Sem Vento
 
-Após a vigarice, Addran busca uma florete à venda, encontrando uma antiga de aço.
+Após a vigarice, Addran busca uma florete à venda, encontrando uma antiga de aço. Addran insiste que a viagem para [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) seja feita à pés.
 
 ### Ahr
 
