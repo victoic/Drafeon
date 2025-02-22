@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T10:25:00.785Z
+date: 2025-02-22T10:33:17.632Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -63,7 +63,9 @@ No dia seguinte, o grupo busca Arsalanov para levá-los até Jawhara'alsahara. A
 - Magnus: Malevolente de Victoic 
 - Zerke: Gustavo de Sem Vento
 
-Após a vigarice, Addran busca uma florete à venda, encontrando uma antiga de aço. Addran insiste que a viagem para [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) seja feita à pés, buscando convencer o Arsalanov a seguir o grupo até Jawhara'alsahara.
+Após a vigarice, Addran busca uma florete à venda, encontrando uma antiga de aço. Addran insiste que a viagem para [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) seja feita à pés, buscando convencer o Arsalanov a seguir o grupo até Jawhara'alsahara. Ao fim do dia de viagem, o grupo prepara um acampamento. Saindo para caçar, Magnus vê uma yuanti fugindo de outro que a persegue, o grupo a protege e após ela pergunta se eles são o grupo que partiu de Dere' Sabz, ela os ataca.
+
+> "Morte aos traidores!" - Yuanti
 
 ### Ahr
 
