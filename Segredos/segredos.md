@@ -2,7 +2,7 @@
 title: Segredos
 description: 
 published: true
-date: 2025-02-21T19:52:28.902Z
+date: 2025-02-22T10:28:25.847Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-04T00:10:01.562Z
@@ -19,5 +19,8 @@ O [Conselho de Horizonte](/faccoes/nacoes/imperio-dragao/conselho-de-horizonte) 
 
 [John](/individuos/personagens-de-jogadores/john) se torna um Ent após a realização do [Ritual de Despedida de Coecyr](/divindades/panteao-das-treze-estrelas/coecyr#ritual-de-despedida-de-coecyr).
 
-## ?
+## 06/07/2024
 Grupo recebe fama de vilões terríveis entre gigantes, após ataques na caverna do roc, ao sul de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk).
+
+## 05/10/2024
+Ataque de assassinos foi encomendado por [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) como uma ação sem perdas possíveis, caso o grupo morresse, impediria que eles mudassem de lado e fiquem a favor dA Guerra, caso sobrevivam, veriam as cartas falsas sobre os assassinos serem parte dA Guerra e os antagonizaria.
