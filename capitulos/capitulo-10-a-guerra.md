@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T10:35:12.048Z
+date: 2025-02-22T10:57:40.932Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -66,6 +66,11 @@ No dia seguinte, o grupo busca Arsalanov para levá-los até Jawhara'alsahara. A
 Após a vigarice, Addran busca uma florete à venda, encontrando uma antiga de aço. Addran insiste que a viagem para [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) seja feita à pés, buscando convencer o Arsalanov a seguir o grupo até Jawhara'alsahara. Ao fim do dia de viagem, o grupo prepara um acampamento. Saindo para caçar, Magnus vê uma yuanti fugindo de outro que a persegue, o grupo a protege e após ela pergunta se eles são o grupo que partiu de Dere' Sabz, ela os ataca, outros assassinos surgem da sombra para auxiliar o ataque.
 
 > "Morte aos traidores!" - Yuanti
+
+Nos corpos dos assassinos o grupo encontra tatuagens semelhantes às da esfinge, e uma carta escrita:
+
+> Eles estão saindo de [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz) em direção a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr), intercepte-os e os mate lá.
+
 
 ### Ahr
 
