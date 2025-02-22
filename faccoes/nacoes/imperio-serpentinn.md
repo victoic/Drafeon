@@ -2,7 +2,7 @@
 title: Imperio Serpentinn
 description: 
 published: true
-date: 2025-02-22T12:58:37.975Z
+date: 2025-02-22T13:02:16.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:13.575Z
@@ -16,8 +16,10 @@ O Império Serpentinn é um antigo e isolado império que habita O Grande Desert
 ## Moeda
 Cada reino-individual possui suas próprias moedas, com exceção da moeda zarim firûzeh, utilizada em negociações entre reinos-individuais. Apesar disso, existem valores padronizados (zarim) que são comuns em todos os reinos-individuais.
 
-- 1 Zarim Yaqût = 2 Zarim Azfar
-- 1 Zarim Zumurud = 2 Zarim Yaqût
+- 1 Zarim Firûzeh = 4 Zarim Yaqût
+- 1 Zarim Safîr = 2,5 Zarim Yaqût
+- 1 Zarim Yaqût = 2 Zarim Zumurud
+- 1 Zarim Zumurud = 20 Zarim Azfar
 
 | Moeda do Império Serpentinn (Zarim) |	Moeda do Império Dragão	Equivalência |
 | --------------------------- | ------------------------------------ |
