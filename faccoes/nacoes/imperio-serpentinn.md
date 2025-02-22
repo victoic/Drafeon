@@ -2,7 +2,7 @@
 title: Imperio Serpentinn
 description: 
 published: true
-date: 2025-02-22T10:20:07.883Z
+date: 2025-02-22T12:58:37.975Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:13.575Z
@@ -14,17 +14,18 @@ dateCreated: 2024-08-13T19:56:13.575Z
 O Império Serpentinn é um antigo e isolado império que habita O Grande Deserto.
 
 ## Moeda
-Cada reino-individual possui suas próprias moedas, com exceção da moeda zarim firûzeh, utilizada em negociações entre reinos-individuais.
+Cada reino-individual possui suas próprias moedas, com exceção da moeda zarim firûzeh, utilizada em negociações entre reinos-individuais. Apesar disso, existem valores padronizados (zarim) que são comuns em todos os reinos-individuais.
 
-### Dere' Sabz
+- 1 Zarim Yaqût = 2 Zarim Azfar
+- 1 Zarim Zumurud = 2 Zarim Yaqût
 
-| Moeda de Dere' Sabz (Zarim) |	Moeda do Império Dragão	Equivalência |
+| Moeda do Império Serpentinn (Zarim) |	Moeda do Império Dragão	Equivalência |
 | --------------------------- | ------------------------------------ |
+| Zarim Firûzeh (Turquesa) |	1 Zarim Firûzeh = 20 moedas de platina|
 | Zarim Safîr (Safira) |	1 Zarim Safîr = 5 moedas de platina |
+| Zarim Yaqût (Rubi) |	1 Zarim Yaqût = 20 moedas de ouro|
 | Zarim Zumurud (Esmeralda) |	1 Zarim Zumurud = 10 moedas de ouro |
-|Zarim Yaqût (Rubi) |	1 Zarim Yaqût = 20 moedas de ouro|
-|Zarim Azfar (Ônix) |	1 Zarim Azfar = 5 moedas de prata|
-|Zarim Firûzeh (Turquesa) |	1 Zarim Firûzeh = 20 moedas de platina|
+| Zarim Azfar (Ônix) |	1 Zarim Azfar = 5 moedas de prata|
 {.dense}
 
 1. Zarim Safîr (Safira): Sendo a moeda mais valiosa e associada a transações de grande porte, como terrenos e tributos, sua conversão para moedas de platina reflete sua raridade e prestígio.
