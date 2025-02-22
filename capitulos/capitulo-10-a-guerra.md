@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T09:58:53.577Z
+date: 2025-02-22T10:07:50.011Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -60,7 +60,7 @@ No dia seguinte, o grupo busca Arsalanov para levá-los até Jawhara'alsahara. A
 - Addran: Addran da Silva;
 - Amy: 
 - Grot:
-- Magnus: 
+- Magnus: Malevolente de Victoic 
 - Zerke: 
 
 ### Ahr
