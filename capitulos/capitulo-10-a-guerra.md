@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T00:32:20.849Z
+date: 2025-02-22T00:36:56.669Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -56,9 +56,11 @@ Magnus invoca a Roc e o grupo parte ao leste em busca de Purtale Magk, passando 
 # Relações
 ## Aliados
 - [Irien Galaniell](/individuos/irien-galaniell)
+- [Arsalanov](/individuos/arsalanov)
 
 ## Neutros
 - [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi)
+- [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra)
 
 ## Adversários
 - [](/individuos/)
