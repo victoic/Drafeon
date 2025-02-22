@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T00:21:28.533Z
+date: 2025-02-22T00:23:31.687Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -954,7 +954,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > [Amy](/individuos/personagens-de-jogadores/amy), Addran e Grot visitam Irien Galaniell onde relatam a Irien Galaniell de suas ações e da morte da tripulação do Garras Platinas. Irien se mostra altamente impactada pela notícia. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) leva o grupo de roc em direção ao leste, buscando Purtale Magk e a encontrando no segundo dia.
 >
-> Zerke tenta carregar o ovo de roc, se peidando no processo.
+> Zerke tenta carregar o ovo de roc, se peidando no processo. Carregando dois ovos, o grupo chega na praça central onde fica o Palácio das Serpentes. 
 {.is-info}
 
 - [21/09/2024](https://www.youtube.com/watch?v=R766MM3MNwY) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
