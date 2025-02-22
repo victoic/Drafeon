@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T09:55:30.008Z
+date: 2025-02-22T09:58:07.014Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -58,7 +58,7 @@ No dia seguinte, o grupo busca Arsalanov para levá-los até Jawhara'alsahara. A
 - Addran: Addran da Silva;
 - Amy: 
 - Grot:
-- Magnus:
+- Magnus: 
 - Zerke: 
 
 > Ao passar pelos portões, os aventureiros entram em uma larga avenida de pedra calcária que leva diretamente à Praça das Areias. O calor do deserto é suavizado por pequenos canais de água fresca que correm pelas laterais da rua, alimentados por fontes subterrâneas. Palavras em Yuan-ti gravadas nas pedras dos edifícios dão boas-vindas aos que chegam, com frases que exaltam a força e a resiliência da cidade.
