@@ -2,7 +2,7 @@
 title: Ahr
 description: 
 published: true
-date: 2025-02-22T09:22:27.683Z
+date: 2025-02-22T09:24:07.414Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T09:22:27.683Z
@@ -43,6 +43,6 @@ Os viajantes devem registrar seus nomes em uma tábua de pedra administrada por 
 `População` 64.000
 `Gentílico` Ahri 
 `Sub-locações` 
-`Governante` [Ahr'tar Hadiya Zaresh](/individuos/ahrtar-zaniar-khazra)
+`Governante` [Ahr'tar Hadiya Zaresh](/individuos/ahrtar-hadiya-zaresh)
 `Organizações Dominantes` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
 `Organizações Incluídas`
