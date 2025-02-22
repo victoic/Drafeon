@@ -2,7 +2,7 @@
 title: Yuanti Nortista
 description: 
 published: true
-date: 2025-02-21T23:29:33.404Z
+date: 2025-02-22T04:27:10.987Z
 tags: cultura
 editor: markdown
 dateCreated: 2025-02-21T23:28:49.253Z
@@ -43,3 +43,25 @@ Ouro e prata são amplamente utilizados em joias, como colares, braceletes, e an
 
 ## Cultura
 Os yuanti nortistas falam a língua yuanti, mas em um dialeto próprio, chamado yuanti nortês.
+
+### Culinária
+
+1. Kebab de Roc. Feito com a carne de uma ave gigante chamada Roc, este kebab é temperado com especiarias locais, incluindo açafrão, cardamomo, e pimenta do deserto. A carne é grelhada lentamente sobre carvão, resultando em uma textura suculenta e um sabor levemente defumado.
+
+2. Figos Recheados com Mel de Mandragora. Figos colhidos dos bosques ao norte são recheados com uma mistura de mel raro feito a partir das flores da mandragora e nozes trituradas. Este prato doce é servido como sobremesa e é famoso por suas propriedades calmantes.
+
+3. Sopa de Serpente das Dunas. Uma iguaria quente, feita com a carne de uma espécie de serpente que habita as dunas ao sul da cidade. A sopa é temperada com ervas locais e engrossada com leite de cabra. É considerada um prato revigorante, especialmente para viajantes que enfrentam longas jornadas pelo deserto.
+
+4. Arroz com Trufas Negras do Bosque. Um prato luxuoso, preparado com trufas negras que crescem nas florestas úmidas ao norte de Dere' Sabz. O arroz é cozido lentamente com as trufas, cardamomo e uma pitada de açafrão, criando uma combinação rica e terrosa.
+
+5. Pão de Lavanda e Pistache. Pães finos perfumados com lavanda silvestre e misturados com pistaches do deserto são comuns nos banquetes da cidade. Esses pães delicados são servidos quentes, acompanhando pratos principais ou como um lanche leve.
+
+6. Estufado de Lagarto do Deserto. O estufado é preparado com carne de lagarto, uma iguaria local, cozida com tâmaras, cominho, cebolas caramelizadas e uma variedade de especiarias. O resultado é um prato com um sabor adocicado e apimentado, perfeito para as noites frias no deserto.
+
+7. Ovos de Corvo das Montanhas. Os corvos que habitam as montanhas próximas fornecem ovos de tamanho grande, que são cozidos lentamente em ervas e azeite de oliva local. Esses ovos são apreciados pela sua textura macia e sabor suave.
+
+8. Chá de Roseira Negra. Feito a partir das pétalas da rara roseira negra, que cresce apenas nas regiões mais sombreadas dos bosques, este chá é conhecido por seu aroma intenso e propriedades curativas. Costuma ser servido após refeições ou em momentos de relaxamento.
+
+9. Dúzzi de Pêssegos. Uma sobremesa tradicional, onde pêssegos são cozidos lentamente em mel e especiarias, como cravo e canela, e servidos com creme de leite fresco. O prato é famoso por seu equilíbrio entre doçura e frescor.
+
+10. Peixe das Fontes de Nemeza. Este peixe raro é encontrado nas águas cristalinas das fontes de Nemeza, nas partes mais arborizadas de Dere' Sabz. Grelhado com ervas e servido com limão do deserto, o prato é leve e refrescante, mas difícil de encontrar, já que os peixes são escassos e altamente valorizados.
