@@ -2,7 +2,7 @@
 title: Ahr'tar Zaniar Khazra
 description: 
 published: true
-date: 2025-02-22T04:24:24.868Z
+date: 2025-02-22T04:31:16.017Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-22T04:24:24.868Z
@@ -21,3 +21,14 @@ Ele é famoso por sua habilidade de manter a ordem entre as castas, sendo visto 
 Zaniar Khazra é um político nato. Ele é astuto o suficiente para não declarar abertamente sua lealdade contra Al-Haro, mas trabalha nos bastidores para minar o avanço de seus seguidores, sabendo que a estabilidade de sua cidade depende da ordem estabelecida pelos Ahr'tar. Ele está particularmente interessado nos efeitos do comércio com o Império Dragão, e rumores indicam que ele tem investigado os recentes ataques aos navios, procurando por conexões que possam enfraquecer Al-Haro sem provocar uma guerra aberta.
 
 Dere' Sabz, sob seu governo, é uma cidade que prospera no equilíbrio, mas há tensão no ar, pois Zaniar sabe que o conflito é inevitável, e ele está se preparando silenciosamente para garantir que o caos da guerra civil não destrua seu vale precioso.
+
+# Informações
+`Data de Nascimento` 1682 ED
+`Local de Nascimento` [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz)
+`Sexo Biológico` Masculino
+`Olhos` Verdes prfundos
+`Cabelos` Escamas verdes
+`Altura` 1,85 m
+`Peso` 88 Kg
+`Organizações Associadas` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
+`Títulos` [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar)
