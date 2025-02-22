@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T12:39:41.922Z
+date: 2025-02-22T12:50:54.714Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1010,7 +1010,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [03/12/2024](https://www.youtube.com/watch?v=vh9C7BLQyQQ) | Data narrativa: 10 de Woton de 1755 ED - 10 de Woton de 1755 ED
 
-> O grupo chega a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) onde passam por uma vistoria nas muralhas e um registro de visitante.
+> O grupo chega a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) onde passam por uma vistoria nas muralhas e um registro de visitante. Zerke é proibido de entrar com sua arma e então busca uma forma ilegal de adentrar as muralhas.
 {.is-info}
 
 
