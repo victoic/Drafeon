@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T04:21:11.411Z
+date: 2025-02-22T04:21:39.186Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -973,7 +973,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > [Grot](/individuos/personagens-de-jogadores/grot) recebe um mapa local do Ahr'tar Afshin Abedi. Ahr'tar Afshin Abedi se mostra preocupado com as notícias do ataque que o grupo sofreu, dado que isso simboliza a proximidade dA Guerra ao seu reino. Ahr'tar Afshin Abedi entrega uma moeda demonstrando seu favor, após pedido do Zerke, saindo do palácio olhares esquisitos são direcionados aos heróis e o grupo voa na roc em direção a [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz).
 >
-> Em Dere' Sabz, conhecem [Varsalanov](/individuos/varsalanov), a quem contratam como tradutor. Varsalanov leva o grupo ao palácio do [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra), onde mostram a moeda de favor de Purtale Magk e conseguem uma conferência. Dado que será necessário aguardar cerca de duas horas, o grupo é levado para as fontes termais, onde há comida e música constante. [Zhoarin Vasshara](/individuos/zhoarin-vasshara) aborda o grupo sobre sua presença.
+> Em Dere' Sabz, conhecem [Varsalanov](/individuos/varsalanov), a quem contratam como tradutor. Varsalanov leva o grupo ao palácio do [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra), onde mostram a moeda de favor de Purtale Magk e conseguem uma conferência. Dado que será necessário aguardar cerca de duas horas, o grupo é levado para as fontes termais, onde há comida e música constante. [Zhoarin Vasshara](/individuos/zhoarin-vasshara), um sobrinho de 4º grau de Ahr'tar Zaniar Khazra aborda o grupo sobre sua presença.
 {.is-info}
 
 - [05/10/2024](https://www.youtube.com/watch?v=_xptpXY3i1k) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
