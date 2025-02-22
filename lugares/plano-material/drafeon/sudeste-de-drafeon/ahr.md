@@ -2,7 +2,7 @@
 title: Ahr
 description: 
 published: true
-date: 2025-02-22T13:30:24.201Z
+date: 2025-02-22T13:30:29.609Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T09:22:27.683Z
@@ -78,7 +78,7 @@ O palácio é dividido em três seções principais:
 
 # Informações
 `Tipo` Reino-individual, Cidade
-`População` 88.000
+`População` 64.000
 `Gentílico` Ahri 
 `Sub-locações` 
 `Governante` [Ahr'tar Hadiya Zaresh](/individuos/ahrtar-hadiya-zaresh)
