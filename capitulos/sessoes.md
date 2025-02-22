@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T03:35:24.421Z
+date: 2025-02-22T03:36:38.927Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -971,7 +971,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Fala de libertação, mas trouxe apenas caos e desordem ao Império Serpentinn" - Ahr'tar Afshin Abedi
 
-> [Grot](/individuos/personagens-de-jogadores/grot) recebe um mapa local do Ahr'tar Afshin Abedi.
+> [Grot](/individuos/personagens-de-jogadores/grot) recebe um mapa local do Ahr'tar Afshin Abedi. Ahr'tar Afshin Abedi se mostra preocupado com as notícias do ataque que o grupo sofreu, dado que isso simboliza a proximidade dA Guerra ao seu reino.
 {.is-info}
 
 - [05/10/2024](https://www.youtube.com/watch?v=_xptpXY3i1k) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
