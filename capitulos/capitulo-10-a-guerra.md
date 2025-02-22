@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T12:49:15.663Z
+date: 2025-02-22T12:53:23.843Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -127,6 +127,19 @@ Zerke após não ser permitido de entrar na cidade com sua arma, se retira.
 | Itens Mágicos a Declarar | (Todos os itens) |
 | Itens A Portar Dentro da Cidade | (Todos os itens) |
 | Número | 29474 |
+| REJEITADO | |
+
+#### Formulário Padrão de Entrada a Ahr (Magnus)
+| - |- |
+| **Nome** | **Magnus** |
+| O que é | Magnus Ponta-de-Lança |
+| Idade | 18 |
+| Altura | 213 cm |
+| Descrição | Verde, muito forte, poucas roupas |
+| Intenções | Audiência com o Ahr'tar para falar sobre A Guerra |
+| Itens Mágicos a Declarar | (Todos os itens) |
+| Itens A Portar Dentro da Cidade | (Todos os itens) menos machado |
+| Número | 29475 |
 
 #### Entrada na Cidade
 
