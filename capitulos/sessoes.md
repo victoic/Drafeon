@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T11:25:59.576Z
+date: 2025-02-22T11:26:15.786Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -994,7 +994,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Eles estão saindo de [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz) em direção a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr), intercepte-os e os mate lá.
 
-- [10/11/2024](https://www.youtube.com/watch?v=hvawD8P5nVs) | Data narrativa: 09 de Woton de 1755 ED - 09 de Woton de 1755 ED
+- [10/11/2024](https://www.youtube.com/watch?v=hvawD8P5nVs) | Data narrativa: 09 de Woton de 1755 ED - 10 de Woton de 1755 ED
 
 > O grupo desconfia do envolvimento dos [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar) no envio dos assassinos. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) relembra o grupo que não necessariamente há envolvimento do [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), pois meios de espionagem arcana podem ter sido utilizados.
 >
