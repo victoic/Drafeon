@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T13:37:05.756Z
+date: 2025-02-22T13:45:28.164Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
