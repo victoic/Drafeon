@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T11:46:15.311Z
+date: 2025-02-22T11:47:01.629Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1000,7 +1000,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Magnus levanta também a possibilidade de [Arsalanov](/individuos/arsalanov) ser o espião, utilizando os [brincos](/itens/Brinco-de-Sussurros). O grupo, em silêncio, lentamente olha na direção do Arsalanov que come tranquilamente. Durante a noite de descanso, o grupo é roubado após o Addran adentrar a escuridão em busca de adversários.
 >
-> Caneta e tinta e dois diamantes da Amy são roubados.
+> Caneta e tinta e dois diamantes da Amy são roubados. Algumas rações do Grot foram levadas.
 {.is-info}
 
 > "Eu vi e não disse nada." - [Fofusho](/individuos/fofusho)
