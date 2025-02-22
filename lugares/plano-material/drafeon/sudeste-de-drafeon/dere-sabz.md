@@ -2,7 +2,7 @@
 title: Dere' Sabz
 description: 
 published: true
-date: 2025-02-22T04:17:07.689Z
+date: 2025-02-22T09:31:09.749Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T03:55:22.217Z
@@ -41,6 +41,9 @@ Dentro, o Palácio das Sete Dunas é um labirinto de corredores abertos e pátio
 Há sete pátios principais, cada um representando uma das dunas e os diferentes aspectos da vida e natureza: o Pátio das Areias dedicado ao deserto, o Pátio dos Ventos representando as mudanças climáticas, e outros que simbolizam a fertilidade, sabedoria, e as estações do ano. Cada um desses pátios possui uma função cerimonial e também é usado para audiências públicas, onde o Ahr’tar escuta as questões do povo.
 
 O palácio é ao mesmo tempo uma fortaleza e uma obra de arte, símbolo da resistência e da elegância de Dere' Sabz, equilibrando o peso da tradição e a beleza da natureza.
+
+## Bens
+[Bahran Taheri](/individuos/bahran-taheri)
 
 # Informações
 `Tipo` Reino-individual, Cidade
