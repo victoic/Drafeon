@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T10:07:30.638Z
+date: 2025-02-22T10:07:51.689Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -980,7 +980,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [05/10/2024](https://www.youtube.com/watch?v=_xptpXY3i1k) | Data narrativa: 09 de Woton de 1755 ED - 09 de Woton de 1755 ED
 
-> Após o dia de descanço, o grupo planeja vender itens "falsos" do [Grot](/individuos/personagens-de-jogadores/grot) para conseguir moedas locais, buscam [Arsalanov](/individuos/varsalanov) para guiá-los até [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), mas Arsalanov mas ele mostra que vendeu o anel dado pelo [Grot](/individuos/personagens-de-jogadores/grot) e se mudará ao norte. Arsalanov aceita levâ-los até [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) e os aponta para [Bahrin Taherin](/individuos/bahrin-taherin), onde vendem os itens usando nomes falsos: Addran como Addran da Silva (de [Oito Monte](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)); Amy como ; Grot como ; Magnus como Malevolente; Zerke como.
+> Após o dia de descanço, o grupo planeja vender itens "falsos" do [Grot](/individuos/personagens-de-jogadores/grot) para conseguir moedas locais, buscam [Arsalanov](/individuos/varsalanov) para guiá-los até [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), mas Arsalanov mas ele mostra que vendeu o anel dado pelo [Grot](/individuos/personagens-de-jogadores/grot) e se mudará ao norte. Arsalanov aceita levâ-los até [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) e os aponta para [Bahrin Taherin](/individuos/bahrin-taherin), onde vendem os itens usando nomes falsos: Addran como Addran da Silva (de [Oito Monte](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)); Amy como ; Grot como ; Magnus como Malevolente de Victoic; Zerke como.
 >
 > Vendem um par de botas por 40 Zarim Firûzeh e um cinto de força de gigante por 35 Zarim Firûzeh; 1 Zarim Azfar à amy por uma adaga não mágica.
 {.is-info}
