@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T12:53:23.843Z
+date: 2025-02-22T13:03:50.492Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -102,7 +102,6 @@ Ao chegar em Ahr, o grupo passa pelo processo de inspeção, questionamento e re
 | Itens A Portar Dentro da Cidade | (Todos os itens) |
 | Número | 29472 |
 
-
 #### Formulário Padrão de Entrada a Ahr (Amy)
 | - |- |
 | **Nome** | **Eimi, a fada** |
@@ -126,8 +125,7 @@ Zerke após não ser permitido de entrar na cidade com sua arma, se retira.
 | Intenções | Audiência com o Ahr'tar para falar sobre A Guerra |
 | Itens Mágicos a Declarar | (Todos os itens) |
 | Itens A Portar Dentro da Cidade | (Todos os itens) |
-| Número | 29474 |
-| REJEITADO | |
+| Número | REJEITADO |
 
 #### Formulário Padrão de Entrada a Ahr (Magnus)
 | - |- |
