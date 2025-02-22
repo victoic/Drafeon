@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T11:26:15.786Z
+date: 2025-02-22T11:26:56.108Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1001,7 +1001,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Magnus levanta também a possibilidade de [Arsalanov](/individuos/arsalanov) ser o espião, utilizando os [brincos](/itens/Brinco-de-Sussurros). O grupo, em silêncio, lentamente olha na direção do Arsalanov que come tranquilamente.
 {.is-info}
 
-- [03/12/2024](https://www.youtube.com/watch?v=vh9C7BLQyQQ) | Data narrativa: 03 de Woton de 1755 ED - 26 de Mudur de 1755 ED
+- [03/12/2024](https://www.youtube.com/watch?v=vh9C7BLQyQQ) | Data narrativa: 10 de Woton de 1755 ED - 10 de Mudur de 1755 ED
 
 > .
 {.is-info}
