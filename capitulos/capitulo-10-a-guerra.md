@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T13:24:06.137Z
+date: 2025-02-22T13:37:05.756Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -146,6 +146,8 @@ Um membro da [Sussurros das Areias](/faccoes/faccoes-independentes/sussurros-das
 > A cidade é um mosaico de tons ocres e verdes suaves, com pequenas palmeiras e árvores resistentes ao calor espalhadas pelas praças. O som do mercado é vivo, com mercadores gritando suas ofertas em uma mistura de idiomas, desde o yuanti até línguas mais comuns como dracônico ou comum.
 >
 > Os aventureiros rapidamente percebem a aura de alerta que permeia Ahr. Soldados caminham lado a lado com civis, enquanto grupos de mercadores debatem com viajantes os perigos do deserto. Ao fundo, a Torre das Lâminas domina o horizonte, lembrando a todos da presença constante de uma força protetora pronta para agir contra qualquer ameaça.
+
+Arsalanov leva o grupo ao Palácio do Escudo de Dunas, onde guardas questionam seus desejos.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
