@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T03:47:28.448Z
+date: 2025-02-22T03:53:31.937Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -48,7 +48,7 @@ Magnus invoca a Roc e o grupo parte ao leste em busca de Purtale Magk, passando 
 
 Addran tenta seduzir [Zarrmina Ahr'tarzadeh](/individuos/zarrmina-ahrtarzadeh), mas é impedido pelo Zerke. O Ahr'tar Afshin Abedi explica sobre A Guerra, que é tanto uma guerra quanto um indivíduo e que o caos se expalha a partir do sul. Após deixarem o palácio, Zerke volta para solicitar algum token do favor do Ahr'tar Afshin Abedi, que lhes dá uma [moeda do ahr'tar afshin abedi](/itens/moeda-do-ahrtar-afshin-abedi), uma moeda de esmeralda. Conforme saem da cidade, o grupo nota olhares esquisitos em sua direção, que se desviam quando percebidos. Zerke acena a todos.
 
-Utilizando a roc do Magnus, o grupo rapidamente chega a [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz).
+Utilizando a roc do Magnus, o grupo rapidamente chega a [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz). Na cidade, encontram um elfo realizando compras e o abordam.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
