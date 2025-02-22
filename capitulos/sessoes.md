@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T13:38:56.389Z
+date: 2025-02-22T13:46:09.996Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1012,7 +1012,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > O grupo chega a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) onde passam por uma vistoria nas muralhas e um registro de visitante onde pagam 72 Zerim Azfar. Zerke é proibido de entrar com sua arma e então busca uma forma ilegal de adentrar as muralhas, pagando nove Zarim Firûzeh e um favor para um membro da [Sussurros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias) para entrar pelos esgotos.
 >
-> Enquanto Zerke aguarda o fim da tarde para entrar na cidade, o resto do grupo vai ao palácio solicitar uma conferência com [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar).
+> Enquanto Zerke aguarda o fim da tarde para entrar na cidade, o resto do grupo vai ao palácio solicitar uma conferência com [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar) [Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh), os guardas são rápidos em informar que estrangeiros não serão recebidos.
 {.is-info}
 
 
