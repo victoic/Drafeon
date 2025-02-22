@@ -2,7 +2,7 @@
 title: Ahr
 description: 
 published: true
-date: 2025-02-22T13:33:27.532Z
+date: 2025-02-22T13:35:28.834Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T09:22:27.683Z
@@ -54,6 +54,10 @@ Especialidade: Carne seca temperada e um forte licor de ervas conhecido como Zah
 **Taverna:** "Areia e Estrelas" (Reg va Setareh / رگ و ستاره)
 Descrição: Uma taverna elegante e tranquila, iluminada por lamparinas que imitam o brilho das estrelas. É frequentada por mercadores e estudiosos.
 Especialidade: Uma bebida refrescante chamada Shab-e Koochek ("Noite Pequena"), feita com água de rosas, gelo e um toque de limão.
+
+**Taverna:** "A Serpente Adormecida" (Mar-e Khabideh / مار خابیده)
+Descrição: Uma taverna subterrânea com tetos baixos e uma atmosfera abafada. É conhecida por suas apostas e jogos de dados. As histórias dizem que antigos guerreiros Yuan-ti descansam sob o local.
+Especialidade: Um ensopado de carne de lagarto e uma cerveja amarga de grãos locais.
 
 ## Palácio do Escudo de Dunas 
 > Sipr-e Reg em yuanti (سپر رگ)
