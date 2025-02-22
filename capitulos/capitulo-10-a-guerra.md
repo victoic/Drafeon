@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T12:41:37.560Z
+date: 2025-02-22T12:42:21.617Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -115,6 +115,17 @@ Ao chegar em Ahr, o grupo passa pelo processo de inspeção, questionamento e re
 | Itens A Portar Dentro da Cidade | (Todos os itens) menos a varinha e o cajado |
 | Número | 29473 |
 
+#### Formulário Padrão de Entrada a Ahr (Magnus)
+| - |- |
+| **Nome** | **Magnus** |
+| O que é | Draconato |
+| Idade | 2000 |
+| Altura | 60 cm |
+| Descrição | Azul, cabelos azuis, roupas azuis |
+| Intenções | Se tornar um espadachin |
+| Itens Mágicos a Declarar | (Todos os itens) |
+| Itens A Portar Dentro da Cidade | (Todos os itens) menos a varinha e o cajado |
+| Número | 29473 |
 
 #### Entrada na Cidade
 
