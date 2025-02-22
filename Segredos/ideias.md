@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2025-02-21T16:45:03.990Z
+date: 2025-02-22T03:16:21.071Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-03T15:45:25.832Z
@@ -10,6 +10,31 @@ dateCreated: 2025-02-03T15:45:25.832Z
 
 # Ideias
 Esta página contém ideias para o futuro de Drafeon e das campanhas jogadas no cenário.
+
+## Ahr'tar Afshi Abedi
+
+Quando o grupo encontra Ahr'tar Afshin Abedi, ele os recebe com formalidade no grandioso salão de seu palácio, uma construção imponente de colunas esculpidas em serpentes e tapeçarias que retratam cenas da glória do Império Serpentinn. O Ahr'tar está sentado em um trono de marfim adornado com pedras preciosas, seu olhar frio e analítico acompanha cada movimento dos aventureiros. Ele os saúda educadamente, mas com uma postura de desconfiança velada, medindo cada palavra que diz.
+### Direcionamentos Sutis para o Sul:
+
+Afshin Abedi ouve atentamente quando o grupo menciona os ataques aos navios do Império Dragão e, em resposta, começa a plantar sugestões que os levem em direção ao sul, onde a esfinge Al-Haro está liderando a revolta, sem mencionar explicitamente sua oposição.
+
+Sugerindo Interesses Mercantis: "Quanto aos ataques aos navios... Parece que os mares têm se tornado mais instáveis recentemente. Há rumores de movimentações incomuns vindo do sul, onde as rotas marítimas costumavam ser mais tranquilas. Talvez os problemas estejam ligados àqueles que buscam desestabilizar o império. Muitas vezes, onde há desordem, há interesses conflitantes."
+
+Referências às Mudanças: "Ouvi dizer que certas figuras emergiram das sombras em algumas partes do império, particularmente em regiões mais ao sul, onde nosso controle tem sido, digamos, testado. Nossos interesses mercantis são fortes, mas não imunes às influências de forças desestabilizadoras. Talvez o que procuram esteja além dos desertos."
+
+Notando o Declínio da Ordem: "Vocês perceberão que, embora nosso império seja vasto e poderoso, certas regiões no sul têm enfrentado dificuldades... Provavelmente resultado de agitadores externos e forças dissidentes que, sem dúvida, não apreciam nossa prosperidade. Certos indivíduos parecem inclinados a incitar conflitos."
+
+### Explicação dos Acontecimentos da Revolta de Al-Haro (Fazendo os Ahr'tar Parecerem os Mocinhos):
+
+Quando o grupo pergunta sobre a revolta liderada por Al-Haro, Afshin responde cuidadosamente, buscando manipular a narrativa para fazer os Ahr'tar parecerem os defensores da ordem e da paz, enquanto Al-Haro é pintada como uma vilã destruidora.
+
+Descrevendo a Revolta com Desprezo: "Ah, Al-Haro... uma criatura ardilosa. Uma esfinge que se esconde atrás de belas palavras de liberdade e justiça, mas que na verdade não passa de uma semeadora de caos. Ela fala de libertação, mas trouxe apenas morte e desordem. Os escravos que ela liberta tornam-se seus servos fanáticos, armados com raiva e violência. Eles acreditam estar livres, mas agora seguem cegamente sua nova senhora da guerra."
+
+Posicionando os Ahr'tar como Defensores: "Nós, os Ahr'tar, sempre buscamos o equilíbrio, manter a paz e garantir a prosperidade de nosso povo. Não somos os tiranos que ela tenta pintar. Sim, temos um sistema de castas, mas é ele que manteve o império unido e forte por gerações. A revolta dela não é sobre justiça; é sobre poder. Ela deseja ascender a algo mais do que mortal, e para isso, precisa da guerra. O que Al-Haro realmente quer é transformar este mundo em um campo de batalha, onde todos nós somos suas peças."
+
+Inversão Moral: "Enquanto ela e seus seguidores marcham pelo império, saqueando e destruindo, nós tentamos restaurar a ordem. Esses ataques aos navios do Império Dragão? Provavelmente parte de sua tentativa de enfraquecer nossas relações com outros reinos, causar rupturas comerciais e, com isso, abrir caminho para sua própria ascensão. Al-Haro não se importa com as consequências... ela só se interessa pelo caos que pode usar a seu favor."
+
+Afshin termina sua explicação com uma expressão de pesar calculada, como se estivesse genuinamente preocupado com a estabilidade do império. Ele insinua que o grupo pode ser útil para descobrir mais, sem direcioná-los diretamente ao conflito, mas deixando claro que a chave para compreender os ataques aos navios pode estar ligada às agitações no sul, onde a influência de Al-Haro cresce.
 
 ## Novos Deuses
 
