@@ -2,7 +2,7 @@
 title: Imperio Serpentinn
 description: 
 published: true
-date: 2025-02-22T10:16:34.107Z
+date: 2025-02-22T10:20:07.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:13.575Z
@@ -22,7 +22,7 @@ Cada reino-individual possui suas próprias moedas, com exceção da moeda zarim
 | --------------------------- | ------------------------------------ |
 | Zarim Safîr (Safira) |	1 Zarim Safîr = 5 moedas de platina |
 | Zarim Zumurud (Esmeralda) |	1 Zarim Zumurud = 10 moedas de ouro |
-|Zarim Yaqût (Rubi) |	1 Zarim Yaqût = 20 moedas de prata|
+|Zarim Yaqût (Rubi) |	1 Zarim Yaqût = 20 moedas de ouro|
 |Zarim Azfar (Ônix) |	1 Zarim Azfar = 5 moedas de prata|
 |Zarim Firûzeh (Turquesa) |	1 Zarim Firûzeh = 20 moedas de platina|
 {.dense}
