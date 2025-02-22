@@ -2,7 +2,7 @@
 title: Ahr
 description: 
 published: true
-date: 2025-02-22T13:30:29.609Z
+date: 2025-02-22T13:33:27.532Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T09:22:27.683Z
@@ -37,6 +37,23 @@ Na entrada principal, um grande portão reforçado com metal, decorado com ental
 Ao chegar ao portão, visitantes são parados e submetidos a um rigoroso processo de inspeção. Guardas examinam suas roupas, armas e pertences, enquanto questionam o propósito de sua visita e exigem uma explicação clara de suas intenções. Estrangeiros são vistos com desconfiança, especialmente com os boatos de infiltrados aliados a Al-haro.
 
 Os viajantes devem registrar seus nomes em uma tábua de pedra administrada por escribas de sangue puro, e suas descrições são comparadas com relatos de procurados. Se estiverem carregando itens mágicos, os guardas exigem que declarem suas propriedades e intenções de uso, pois a cidade tem aversão a encantamentos que possam ser usados contra a população. Uma taxa de entrada, simbólica, é cobrada, geralmente paga em prata ou com algo valioso ao comércio local.
+
+## Bens
+**Taverna:** "Refúgio do Viajante" (Panah-e Musafir / پناه مسافر)
+Descrição: Localizada próxima à entrada da cidade, esta taverna é um ponto de parada para comerciantes e aventureiros que chegam do deserto. Suas paredes são decoradas com mapas antigos e objetos perdidos nas dunas, como bússolas enferrujadas e odres de água vazios.
+Especialidade: Chá de ervas do deserto e uma sopa de lentilhas apimentada chamada Ash-e Sahra.
+
+**Taverna:** "Sombras do Oásis" (Sayeh-e Cheshmeh / سایه چشمه)
+Descrição: Escondida em uma rua estreita, essa taverna oferece um ambiente mais discreto e sombrio. É frequentada por mercenários, informantes e outros personagens com negócios secretos.
+Especialidade: Licor de tâmaras fermentadas e pratos leves, como pão achatado com mel e especiarias.
+
+**Taverna:** "A Lâmina do Escorpião" (Tigh-e Aqrab / تیغ عقرب)
+Descrição: Um estabelecimento mais rústico, onde lutadores e guerreiros costumam se reunir. Há um pequeno espaço para competições de braço de ferro e histórias de batalhas passadas.
+Especialidade: Carne seca temperada e um forte licor de ervas conhecido como Zahr-e Reg ("Veneno das Dunas").
+
+**Taverna:** "Areia e Estrelas" (Reg va Setareh / رگ و ستاره)
+Descrição: Uma taverna elegante e tranquila, iluminada por lamparinas que imitam o brilho das estrelas. É frequentada por mercadores e estudiosos.
+Especialidade: Uma bebida refrescante chamada Shab-e Koochek ("Noite Pequena"), feita com água de rosas, gelo e um toque de limão.
 
 ## Palácio do Escudo de Dunas 
 > Sipr-e Reg em yuanti (سپر رگ)
