@@ -2,7 +2,7 @@
 title: Dere' Sabz
 description: 
 published: true
-date: 2025-02-22T09:43:57.434Z
+date: 2025-02-22T09:47:59.062Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T03:55:22.217Z
@@ -43,7 +43,7 @@ Há sete pátios principais, cada um representando uma das dunas e os diferentes
 O palácio é ao mesmo tempo uma fortaleza e uma obra de arte, símbolo da resistência e da elegância de Dere' Sabz, equilibrando o peso da tradição e a beleza da natureza.
 
 ## Bens
-**Loja:** [Caminho Silencioso](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz), uma das mais prestigiadas em Dere’ Sabz. Localizada em um edifício discreto feito de pedra branca com detalhes em jade, as janelas são cobertas por cortinas grossas que não permitem olhar o interior. A porta é ornamentada com símbolos antigos e proteções mágicas, selos que Bahram afirma terem sido colocados por um antigo mago do império. No interior, o ambiente é iluminado por lamparinas encantadas que emitem luz suave, criando uma atmosfera serena. Suas prateleiras estão repletas de pergaminhos, amuletos, armas mágicas, e artefatos vindos de diversas partes do mundo. 
+**Loja:** [Caminho Silencioso](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz), uma das mais prestigiadas em Dere’ Sabz. Localizada no bairro dos artesãos, próximo ao Palácio das Sete Dunas, em um edifício discreto feito de pedra branca com detalhes em jade, as janelas são cobertas por cortinas grossas que não permitem olhar o interior. A porta é ornamentada com símbolos antigos e proteções mágicas, selos que Bahram afirma terem sido colocados por um antigo mago do império. No interior, o ambiente é iluminado por lamparinas encantadas que emitem luz suave, criando uma atmosfera serena. Suas prateleiras estão repletas de pergaminhos, amuletos, armas mágicas, e artefatos vindos de diversas partes do mundo. 
 *Loja de Itens Mágicos. Proprietário: [Bahran Taheri](/individuos/bahran-taheri)*
 
 # Informações
