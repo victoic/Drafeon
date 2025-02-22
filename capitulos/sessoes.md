@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T03:14:58.765Z
+date: 2025-02-22T03:27:15.279Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -966,7 +966,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [21/09/2024](https://www.youtube.com/watch?v=R766MM3MNwY) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
 
-> .
+> Entregando os ovos ao [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi), o grupo pede informações sobre A Guerra e as tatuagens encontradas. Addran tenta dar em cima da filha do [Ahr'Tar](/rankings-e-titulos/imperio-serpentinn/ahrtar), [Zarrmina Ahr'tarzadeh](/individuos/zarrmina-ahrtarzadeh).
 {.is-info}
 
 - [05/10/2024](https://www.youtube.com/watch?v=_xptpXY3i1k) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
