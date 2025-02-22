@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T12:01:33.133Z
+date: 2025-02-22T12:04:33.286Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1008,7 +1008,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > A Porta Voz surge à Amy durante a noite e a garante uma dádiva do Anjo Azul, a capacidade de falar e entender yuanti.
 {.is-info}
 
-- [03/12/2024](https://www.youtube.com/watch?v=vh9C7BLQyQQ) | Data narrativa: 10 de Woton de 1755 ED - 10 de Mudur de 1755 ED
+- [03/12/2024](https://www.youtube.com/watch?v=vh9C7BLQyQQ) | Data narrativa: 10 de Woton de 1755 ED - 10 de Woton de 1755 ED
 
 > .
 {.is-info}
