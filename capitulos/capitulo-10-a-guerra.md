@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T11:19:42.546Z
+date: 2025-02-22T11:35:36.391Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -71,7 +71,7 @@ Nos corpos dos assassinos o grupo encontra tatuagens semelhantes às da esfinge,
 
 > Eles estão saindo de [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz) em direção a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr), intercepte-os e os mate lá.
 
-No dia seguinte o grupo discute o ataque, vendo possibilidade do ataque ter originado do dA Guerra ou dos [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar).
+Encontrando um lugar seguro para realizar um descanso, o grupo discute o ataque, vendo possibilidade do ataque ter originado do dA Guerra ou dos [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar).
 
 
 ### Ahr
