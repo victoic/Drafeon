@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T04:09:12.155Z
+date: 2025-02-22T04:22:02.842Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -48,7 +48,11 @@ Magnus invoca a Roc e o grupo parte ao leste em busca de Purtale Magk, passando 
 
 Addran tenta seduzir [Zarrmina Ahr'tarzadeh](/individuos/zarrmina-ahrtarzadeh), mas é impedido pelo Zerke. O Ahr'tar Afshin Abedi explica sobre A Guerra, que é tanto uma guerra quanto um indivíduo e que o caos se expalha a partir do sul. Após deixarem o palácio, Zerke volta para solicitar algum token do favor do Ahr'tar Afshin Abedi, que lhes dá uma [moeda do Ahr'tar Afshin Abedi](/itens/moeda-do-ahrtar-afshin-abedi), uma moeda de esmeralda. Conforme saem da cidade, o grupo nota olhares esquisitos em sua direção, que se desviam quando percebidos. Zerke acena a todos.
 
+## Viagem ao Deserto
+
 Utilizando a roc do Magnus, o grupo rapidamente chega a [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz). Na cidade, encontram um elfo realizando compras e o abordam. O elfo, chamado [Arsalanov](/individuos/arsalanov), é contratado como tradutor, o pagamento é um anel mágico criado pelo Grot, mas criado de forma a ser desfeito no dia seguinte. Arsalanov leva o grupo até o Palácio das Sete Dunas, onde o grupo apresenta a moeda do Ahr'tar Afshin Abedi para receber uma conferência ao Ahr'tar Zaniar Khazra.
+
+Dado que será necessário aguardar cerca de duas horas, o grupo é levado para as fontes termais, onde há comida e música constante. [Zhoarin Vasshara](/individuos/zhoarin-vasshara), um sobrinho de 4º grau de Ahr'tar Zaniar Khazra aborda o grupo sobre sua presença.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
