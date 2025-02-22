@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T09:58:07.014Z
+date: 2025-02-22T09:58:53.577Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -50,6 +50,8 @@ Addran tenta seduzir [Zarrmina Ahr'tarzadeh](/individuos/zarrmina-ahrtarzadeh), 
 
 ## Destino ao Sul
 
+### Dere' Sabz
+
 Utilizando a roc do Magnus, o grupo rapidamente chega a [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz). Na cidade, encontram um elfo realizando compras e o abordam. O elfo, chamado [Arsalanov](/individuos/arsalanov), é contratado como tradutor, o pagamento é um anel mágico criado pelo Grot, mas criado de forma a ser desfeito no dia seguinte. Arsalanov leva o grupo até o Palácio das Sete Dunas, onde o grupo apresenta a moeda do Ahr'tar Afshin Abedi para receber uma conferência ao Ahr'tar Zaniar Khazra.
 
 Dado que será necessário aguardar cerca de duas horas, o grupo é levado para as fontes termais, onde há comida e música constante. [Zhoarin Vasshara](/individuos/zhoarin-vasshara), um sobrinho de 4º grau de Ahr'tar Zaniar Khazra aborda o grupo sobre sua presença. Na conferência com o Ahr'tar Zaniar Khazra, o grupo aprende sobre as castas do Império Serpentinn e os motivos dA Guerra, o líder de Dere' Sabz diz buscar uma solução colaborativa entre todos os envolvidos, mas o método dA Guerra não será a resposta. O grupo descansa em seu palácio.
@@ -61,9 +63,11 @@ No dia seguinte, o grupo busca Arsalanov para levá-los até Jawhara'alsahara. A
 - Magnus: 
 - Zerke: 
 
+### Ahr
+
 > Ao passar pelos portões, os aventureiros entram em uma larga avenida de pedra calcária que leva diretamente à Praça das Areias. O calor do deserto é suavizado por pequenos canais de água fresca que correm pelas laterais da rua, alimentados por fontes subterrâneas. Palavras em Yuan-ti gravadas nas pedras dos edifícios dão boas-vindas aos que chegam, com frases que exaltam a força e a resiliência da cidade.
 >
-> A cidade é um mosaico de tons ocres e verdes suaves, com pequenas palmeiras e árvores resistentes ao calor espalhadas pelas praças. O som do mercado é vivo, com mercadores gritando suas ofertas em uma mistura de idiomas, desde o Yuan-ti até línguas mais comuns como dracônico ou comum.
+> A cidade é um mosaico de tons ocres e verdes suaves, com pequenas palmeiras e árvores resistentes ao calor espalhadas pelas praças. O som do mercado é vivo, com mercadores gritando suas ofertas em uma mistura de idiomas, desde o yuanti até línguas mais comuns como dracônico ou comum.
 >
 > Os aventureiros rapidamente percebem a aura de alerta que permeia Ahr. Soldados caminham lado a lado com civis, enquanto grupos de mercadores debatem com viajantes os perigos do deserto. Ao fundo, a Torre das Lâminas domina o horizonte, lembrando a todos da presença constante de uma força protetora pronta para agir contra qualquer ameaça.
 
