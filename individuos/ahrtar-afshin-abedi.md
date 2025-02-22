@@ -2,7 +2,7 @@
 title: Ahr'tar Afshin Abedi
 description: 
 published: true
-date: 2025-02-22T03:13:29.898Z
+date: 2025-02-22T03:19:53.504Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-21T20:50:45.429Z
@@ -16,7 +16,7 @@ Ahr'tar Afshin Abedi foi um yuanti abominação habitante e governante de [Purta
 
 ## Personalidade
 
-Ahr'tar Afshin Abedi é um líder complexo e calculista, movido por um forte senso de dever para com sua família e, especialmente, por um amor quase obsessivo por sua única filha. Ele é astuto e impiedoso na política, governando com uma combinação de charme envenenado e uma ameaça sempre presente de força brutal. Embora seja altamente pragmático e cínico, acreditando que todos têm um preço ou uma fraqueza a ser explorada, ele também é profundamente leal à sua linhagem e às tradições do Império Serpentinn.
+Ahr'tar Afshin Abedi é um líder complexo e calculista, movido por um forte senso de dever para com sua família e, especialmente, por um amor quase obsessivo por sua única filha, [Arrmina Ahr'tarzadeh](/individuos/arrmina-ahrtarzadeh). Ele é astuto e impiedoso na política, governando com uma combinação de charme envenenado e uma ameaça sempre presente de força brutal. Embora seja altamente pragmático e cínico, acreditando que todos têm um preço ou uma fraqueza a ser explorada, ele também é profundamente leal à sua linhagem e às tradições do Império Serpentinn.
 
 Ahr'tar Afshin Abedi é metódico em suas interações, raramente revelando seus verdadeiros pensamentos ou intenções. Ele aprecia a arte da negociação e do jogo mental, sempre avaliando o valor de cada indivíduo que encontra. A missão de encontrar um ovo de Roc, um pedido caprichoso de sua filha mimada, reflete seu desejo de mimá-la e protegê-la, mesmo que isso signifique colocar outros em perigo.
 
