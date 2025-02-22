@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T13:06:56.927Z
+date: 2025-02-22T13:18:26.811Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -76,6 +76,8 @@ Encontrando um lugar seguro para realizar um descanso, o grupo discute o ataque,
 ### Ahr
 
 Ao chegar em Ahr, o grupo passa pelo processo de inspeção, questionamento e registro. O guarda [Rashan Kaveh](/individuos/rashan-kaveh) os inspeciona e o escribão [Zehir Nima](/individuos/zehir-nima) os interroga e entrega seus números de visitantes. Zerke, após não ser permitido de entrar na cidade com sua arma, se retira e usa a linguagem dos ladinos para encontrar alguém capaz de ilegalmente o pôr para dentro da muralha.
+
+Zerke paga dezenove Zarim Firûzeh para um membro da [Sussurros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias) para entrar pelos esgotos.
 
 #### Formulário Padrão de Entrada a Ahr (Grot)
 | - |- |
