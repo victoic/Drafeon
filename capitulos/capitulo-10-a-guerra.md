@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T03:22:35.091Z
+date: 2025-02-22T03:28:38.099Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -45,6 +45,8 @@ Em Porto Novo e sem mais capacidade de teletransportar, o grupo se divide em bus
 Zerke aproveita a conversa com Baddali para espalhar suas aventuras no Império Serpentinn e o oferece 50 peças de ouro para que ele conte as histórias nas tavernas locais. Reconsiderando, Zerke leva o Baddali a uma taverna próxima imediatamente. Amy, Addran e Grot visitam Irien Galaniell onde relatam a Irien Galaniell de suas ações e da morte da tripulação do Garras Platinas.
 
 Magnus invoca a Roc e o grupo parte ao leste em busca de Purtale Magk, passando por [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso) no caminho e avistando o [Kraz](/individuos/personagens-de-jogadores/saile). Sob posse de dois ovos, o grupo chega ao Palácio das Serpentes, onde veem um outro grupo adentrar. O mensageiro, [Jenab Hasar'](/individuos/jenab-hasar), permite que o grupo visite o Ahr'tar Afshin Abedi mesmo não sendo os primeiros e o grupo adentra o palácio.
+
+Addran tenta seduzir [Zarrmina Ahr'tarzadeh](/individuos/zarrmina-ahrtarzadeh), mas é impedido pelo Zerke.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
