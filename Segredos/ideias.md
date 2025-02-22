@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2025-02-22T09:20:27.586Z
+date: 2025-02-22T14:01:46.819Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-03T15:45:25.832Z
@@ -12,8 +12,10 @@ dateCreated: 2025-02-03T15:45:25.832Z
 Esta página contém ideias para o futuro de Drafeon e das campanhas jogadas no cenário.
 
 ## Ahr'tar Afshi Abedi
-
+<details>
+  
 Quando o grupo encontra Ahr'tar Afshin Abedi, ele os recebe com formalidade no grandioso salão de seu palácio, uma construção imponente de colunas esculpidas em serpentes e tapeçarias que retratam cenas da glória do Império Serpentinn. O Ahr'tar está sentado em um trono de marfim adornado com pedras preciosas, seu olhar frio e analítico acompanha cada movimento dos aventureiros. Ele os saúda educadamente, mas com uma postura de desconfiança velada, medindo cada palavra que diz.
+  
 ### Direcionamentos Sutis para o Sul:
 
 Afshin Abedi ouve atentamente quando o grupo menciona os ataques aos navios do Império Dragão e, em resposta, começa a plantar sugestões que os levem em direção ao sul, onde a esfinge Al-Haro está liderando a revolta, sem mencionar explicitamente sua oposição.
@@ -36,7 +38,11 @@ Inversão Moral: "Enquanto ela e seus seguidores marcham pelo império, saqueand
 
 Afshin termina sua explicação com uma expressão de pesar calculada, como se estivesse genuinamente preocupado com a estabilidade do império. Ele insinua que o grupo pode ser útil para descobrir mais, sem direcioná-los diretamente ao conflito, mas deixando claro que a chave para compreender os ataques aos navios pode estar ligada às agitações no sul, onde a influência de Al-Haro cresce.
 
+</details>
+
 ## Ahr
+
+<details>
 
 Em Ahr, o clima é de tensão silenciosa e preparação constante. Sendo a última cidade antes do deserto e próxima das linhas de conflito com os exércitos de Al-haro, a população vive em um estado de alerta constante. Patrulhas armadas aumentaram nas ruas e nas fronteiras, com guardas e milicianos prontos para impedir incursões. Conversas em mercados e tavernas giram em torno de boatos sobre batalhas recentes, de escravos libertados atacando caravanas e de cidades distantes já caídas nas mãos da esfinge e seu exército. Apesar da aparente calma que Ahr'tar Hadiya Zaresh exige da população, a preocupação com um cerco iminente está na mente de todos.
 
@@ -67,20 +73,33 @@ Em vez de receber os aventureiros no palácio, Hadiya Zaresh pode:
 - Oferecer-lhes acomodações em uma hospedaria protegida, mas simples.
 - Delegar encontros com eles a um conselheiro de confiança, que agiria como intermediário.
 - Testar sua lealdade, impondo uma tarefa para provar sua intenção antes de sequer considerar um convite formal.
+</details>
 
 ## Novos Deuses
 
+<details>
+  
 - Al-Haro: Basear em [Isperia](https://5e.tools/bestiary.html#isperia_ggr), mecânicas de ativação de outras criaturas.
 - Terra: Basear em [Cradle of the Stone Scion](https://5e.tools/bestiary.html#cradle%20of%20the%20stone%20scion_bgg); Ar: Basear em [Cradle of the Cloud Scion](https://5e.tools/bestiary.html#cradle%20of%20the%20cloud%20scion_bgg); Fogo: Basear em [Cradle of the Fire Scion](https://5e.tools/bestiary.html#cradle%20of%20the%20fire%20scion_bgg); Água: Basear em [Cradle of the Frost Scion](https://5e.tools/bestiary.html#cradle%20of%20the%20frost%20scion_bgg).
 - Jianyama: Basear em Maho-Tsukai Jian (Monsters of The Orient), mecânicas de imortalidade, pula de corpo em corpo, invoca novos corpos com ações lendárias, ritual para destruir.
 - Lazuliel: Basear em [Empyrean](https://5e.tools/bestiary.html#empyrean_xmm), combinar mecânicas de cada um dos anteriores ou dos artefatos.
 
+</details>
+  
 ## Sessão de 10 Anos
+
+<details>
+
 Em **10/03/2028**: uma sessão onde o grupo faz pequenas missões saltando no tempo, visitando momentos marcantes da primeira campanha.
 
+</details>
+  
 # Mecânicas
 
 ## Escrita de Livros:
+
+<details>
+
 Por capítulo, um teste de performance ou perícia relevante ao tema.
 
 | Total do Teste | Resultado |
@@ -91,3 +110,5 @@ Por capítulo, um teste de performance ou perícia relevante ao tema.
 | 16-20          | Ótimo     |
 | >20            | Obra-prima|
 {.dense}
+  
+</details>
