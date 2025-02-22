@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T12:31:44.292Z
+date: 2025-02-22T12:36:08.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -82,11 +82,26 @@ Ao chegar em Ahr, o grupo passa pelo processo de inspeção, questionamento e re
 | - |- |
 | **Nome** | **Krrrot** |
 | O que é | Gulobulin |
+| Idade | 75 |
 | Altura | 92.3 cm |
 | Descrição | Largo |
 | Intenções | Audiência com o Ahr'tar para falar sobre A Guerra |
 | Itens Mágicos a Declarar | (Todos os itens) |
+| Itens A Portar Dentro da Cidade | (Todos os itens) |
 | Número | 29471 |
+
+#### Formulário Padrão de Entrada a Ahr (Addran)
+| - |- |
+| **Nome** | **Addran** |
+| O que é | Humano |
+| Idade | 24 |
+| Altura | 175 cm |
+| Descrição | Largo |
+| Intenções | Se tornar um espadachin |
+| Itens Mágicos a Declarar | (Todos os itens) |
+| Itens A Portar Dentro da Cidade | (Todos os itens) |
+| Número | 29471 |
+
 
 #### Entrada na Cidade
 
