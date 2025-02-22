@@ -2,7 +2,7 @@
 title: Dere' Sabz
 description: 
 published: true
-date: 2025-02-22T03:55:22.217Z
+date: 2025-02-22T03:56:41.501Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T03:55:22.217Z
@@ -14,7 +14,7 @@ dateCreated: 2025-02-22T03:55:22.217Z
 > Inspiração persa. (دره سبز)
 {.is-info}
 
-Dere' Sabz é uma cidade pitoresca localizada na região sul do Império Serpentinn, marcando a transição entre os vastos bosques do norte e o imponente deserto ao sul. Ao contrário das cidades desérticas mais áridas, Dere' Sabz é bem arborizada, com uma abundância de vegetação que serpenteia pelas ruas e se mistura harmoniosamente com a arquitetura da cidade, criando um ambiente único de serenidade e beleza.
+Dere' Sabz é uma cidade pitoresca localizada na região sul do [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), marcando a transição entre os vastos bosques do norte e o imponente deserto ao sul. Ao contrário das cidades desérticas mais áridas, Dere' Sabz é bem arborizada, com uma abundância de vegetação que serpenteia pelas ruas e se mistura harmoniosamente com a arquitetura da cidade, criando um ambiente único de serenidade e beleza.
 
 ## Arquitetura e Estrutura Urbana
 
@@ -22,7 +22,7 @@ A arquitetura de Dere' Sabz reflete essa transição natural, combinando o uso d
 
 ## Pontos Importantes
 
-O Bosque da Harmonia: Localizado no coração da cidade, este bosque sagrado é um lugar onde os habitantes de Dere' Sabz realizam cerimônias em honra a Coecyr, o deus da natureza e do equilíbrio. Árvores antigas dominam a paisagem, com folhas que parecem mudar de cor com as estações de forma quase mágica, criando uma atmosfera de calma espiritual.
+O Bosque da Harmonia: Localizado no coração da cidade, este bosque sagrado é um lugar onde os habitantes de Dere' Sabz realizam cerimônias. Árvores antigas dominam a paisagem, com folhas que parecem mudar de cor com as estações de forma quase mágica, criando uma atmosfera de calma espiritual.
 
 O Palácio das Sete Dunas: Residência do Ahr'tar local, o palácio é uma maravilha arquitetônica. Situado no topo de uma pequena elevação natural, o palácio tem vista para toda a cidade e é composto por sete grandes cúpulas de arenito, cada uma representando uma virtude associada à nobreza da casta Yuan-ti. Jardins exuberantes rodeiam o palácio, com fontes que derramam água cristalina em canais que descem pela cidade.
 
