@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T12:43:32.518Z
+date: 2025-02-22T12:49:15.663Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -111,18 +111,19 @@ Ao chegar em Ahr, o grupo passa pelo processo de inspeção, questionamento e re
 | Altura | 60 cm |
 | Descrição | Azul, cabelos azuis, roupas azuis |
 | Intenções | Audiência com o Ahr'tar para falar sobre A Guerra |
-| Itens Mágicos a Declarar | (Todos os itens) |
-| Itens A Portar Dentro da Cidade | (Todos os itens) menos a varinha e o cajado |
+| Itens Mágicos a Declarar | (Todos os itens, menos varinha e cetro) |
+| Itens A Portar Dentro da Cidade | (Todos os itens declarados) |
 | Número | 29473 |
 
-#### Formulário Padrão de Entrada a Ahr (Magnus)
+#### Formulário Padrão de Entrada a Ahr (Zerke)
+Zerke após não ser permitido de entrar na cidade com sua arma, se retira.
 | - |- |
-| **Nome** | **Magnus** |
+| **Nome** | **Zerke Montravu hero** |
 | O que é | Draconato |
-| Idade | 2000 |
-| Altura | 60 cm |
+| Idade | 22 |
+| Altura | 160 cm |
 | Descrição | Azul, cabelos azuis, roupas azuis |
-| Intenções | As melhores, ajudar o povo |
+| Intenções | Audiência com o Ahr'tar para falar sobre A Guerra |
 | Itens Mágicos a Declarar | (Todos os itens) |
 | Itens A Portar Dentro da Cidade | (Todos os itens) |
 | Número | 29474 |
