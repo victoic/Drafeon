@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T10:57:40.932Z
+date: 2025-02-22T11:19:42.546Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -70,6 +70,8 @@ Após a vigarice, Addran busca uma florete à venda, encontrando uma antiga de a
 Nos corpos dos assassinos o grupo encontra tatuagens semelhantes às da esfinge, e uma carta escrita:
 
 > Eles estão saindo de [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz) em direção a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr), intercepte-os e os mate lá.
+
+No dia seguinte o grupo discute o ataque, vendo possibilidade do ataque ter originado do dA Guerra ou dos [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar).
 
 
 ### Ahr
