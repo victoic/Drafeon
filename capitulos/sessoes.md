@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T00:42:43.453Z
+date: 2025-02-22T00:45:05.841Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -959,8 +959,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > "Então é verdade o que dizem, dois, dois ovos." - Mensageiro
 
-> Zerke não finaliza suas frases falando com o mensageiro. O mensageiro afirma que o justo [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar) [Afshin Abedi](/individuos/ahrtar-afshin-abedi) os receberá para uma visita. Zerke conjura magia para que ele e o Grot.
+> Zerke não finaliza suas frases falando com o mensageiro. O mensageiro afirma que o justo [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar) [Afshin Abedi](/individuos/ahrtar-afshin-abedi) os receberá para uma visita. Zerke conjura magia para que ele e o Grot possam se comunicar. 
 {.is-info}
+
+> "Então, temos mais visitantes." - Ahr'tar Afshin Abedi
 
 - [21/09/2024](https://www.youtube.com/watch?v=R766MM3MNwY) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
 
