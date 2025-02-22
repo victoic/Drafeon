@@ -2,7 +2,7 @@
 title: Ahr'tar Zaniar Khazra
 description: 
 published: true
-date: 2025-02-22T04:31:16.017Z
+date: 2025-02-22T04:31:53.094Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-22T04:24:24.868Z
@@ -11,6 +11,8 @@ dateCreated: 2025-02-22T04:24:24.868Z
 # Ahr'tar Zaniar Khazra
 > (زنير خزرا)
 {.is-info}
+
+Ahr'tar Zaniar Khazra foi um yuanti habitante e governante de [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz).
 
 O governante de Dere' Sabz é Ahr'tar Zaniar Khazra, um yuanti de sangue puro, conhecido por sua mente estratégica e temperamento calmo, mas calculista. Zaniar possui olhos amarelos penetrantes e uma postura imponente. Seus traços serpentinos são sutis, com pele escamada verde-pálido nas mãos e pescoço, mas sua presença exala um ar de autoridade que nenhum habitante ousa questionar. Ao contrário de outros Ahr'tar mais inclinados a governar com punho de ferro, Zaniar prefere uma abordagem mais diplomática, favorecendo a harmonia entre as castas e incentivando a prosperidade econômica por meio de comércio.
 
