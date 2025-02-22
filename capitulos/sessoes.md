@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-21T23:55:25.038Z
+date: 2025-02-22T00:09:06.841Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -948,11 +948,11 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Amy tenta teletrasnportar novamente mas descobre que o destino não é um alvo possível, então em desespero, teletransporta o grupo novamente para Porto Novo.
 {.is-info}
 
-- [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 06 de Woton de 1755 ED - 06 de Woton de 1755 ED
+- [31/08/2024](https://www.youtube.com/watch?v=Ve-vSbCIoIg) | Data narrativa: 07 de Woton de 1755 ED - 08 de Woton de 1755 ED
 
 > Em Porto Novo e sem mais capacidade de teletransportar, o grupo se divide em busca de uma forma de retornar a [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk). [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) encontra [Baddali](/individuos/baddali-copo-cheio) em busca de mapas para o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), onde consegue um mapa com a divisão entre o [Império Dragão](/faccoes/nacoes/imperio-dragao) e o Império Serpentinn. Zerke leva Baddali ao [Gigante Azul](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), uma taverna local para que contem as suas histórias de aventura no Império Serpentinn, entrando em sua armadura dourada reluzente.
 >
-> [Amy](/individuos/personagens-de-jogadores/amy), Addran e Grot visitam Irien Galaniell onde relatam a Irien Galaniell de suas ações e da morte da tripulação do Garras Platinas. Irien se mostra altamente impactada pela notícia. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) leva o grupo de roc em direção ao lest, buscando Purtale Magk.
+> [Amy](/individuos/personagens-de-jogadores/amy), Addran e Grot visitam Irien Galaniell onde relatam a Irien Galaniell de suas ações e da morte da tripulação do Garras Platinas. Irien se mostra altamente impactada pela notícia. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) leva o grupo de roc em direção ao leste, buscando Purtale Magk encontrando a cidade no segundo dia.
 {.is-info}
 
 - [21/09/2024](https://www.youtube.com/watch?v=R766MM3MNwY) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
