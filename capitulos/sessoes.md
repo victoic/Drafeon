@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T10:10:46.390Z
+date: 2025-02-22T10:12:10.277Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -982,7 +982,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > Após o dia de descanço, o grupo planeja vender itens "falsos" do [Grot](/individuos/personagens-de-jogadores/grot) para conseguir moedas locais, buscam [Arsalanov](/individuos/varsalanov) para guiá-los até [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), mas Arsalanov mas ele mostra que vendeu o anel dado pelo [Grot](/individuos/personagens-de-jogadores/grot) e se mudará ao norte. Arsalanov aceita levâ-los até [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) e os aponta para [Bahrin Taherin](/individuos/bahrin-taherin), onde vendem os itens usando nomes falsos: Addran como Addran da Silva (de [Oito Monte](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo)); Amy como ; Grot como ; Magnus como Malevolente de Victoic; Zerke como Gustavo de Sem Vennto.
 >
-> Vendem um par de botas por 40 Zarim Firûzeh e um cinto de força de gigante por 35 Zarim Firûzeh; 1 Zarim Azfar à amy por uma adaga não mágica.
+> Vendem um par de botas por 40 Zarim Firûzeh e um cinto de força de gigante por 35 Zarim Firûzeh; 1 Zarim Azfar à amy por uma adaga não mágica. [Amy](/individuos/personagens-de-jogadores/amy) pergunta se Bahrin conhece o Anjo Azul, mas ele não conhece.
 {.is-info}
 
 - [19/10/2024](https://www.youtube.com/watch?v=hL9MQ5moB9E) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
