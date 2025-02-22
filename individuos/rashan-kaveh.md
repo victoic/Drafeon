@@ -2,7 +2,7 @@
 title: Rashan Kaveh
 description: 
 published: true
-date: 2025-02-22T13:10:28.761Z
+date: 2025-02-22T13:11:25.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T12:26:08.678Z
@@ -46,4 +46,4 @@ Caso o grupo demonstre hostilidade ou tente burlar os protocolos, Rashan rapidam
 `Altura` 1,70 m
 `Peso` 80 Kg
 `Organizações Associadas` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
-`Títulos`
+`Títulos` Guarda
