@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T03:33:45.920Z
+date: 2025-02-22T03:35:02.239Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -957,7 +957,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Zerke tenta carregar o ovo de roc, se peidando no processo. Carregando dois ovos, o grupo chega na praça central onde fica o Palácio das Serpentes, no entanto observam um outro grupo entrando no palácio. Os guardas solicitam a presença do mensageiro.
 {.is-info}
 
-> "Então é verdade o que dizem, dois, dois ovos." - Mensageiro
+> "Então é verdade o que dizem, dois, dois ovos." - [Jenab Hasar'](/individuos/jenab-hasar)
 
 > Zerke não finaliza suas frases falando com o mensageiro. O mensageiro afirma que o justo [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar) [Afshin Abedi](/individuos/ahrtar-afshin-abedi) os receberá para uma visita. Zerke conjura magia para que ele, o Addran e o Grot possam se comunicar com os yuanti.
 {.is-info}
