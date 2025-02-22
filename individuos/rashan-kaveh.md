@@ -2,7 +2,7 @@
 title: Rashan Kaveh
 description: 
 published: true
-date: 2025-02-22T13:09:55.078Z
+date: 2025-02-22T13:10:28.761Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T12:26:08.678Z
@@ -13,7 +13,7 @@ Rashan Kaveh foi um yuanti habitante de [Ahr](/lugares/plano-material/drafeon/su
 
 ## Aparência
 
-Rashan é um Yuan-ti de sangue puro, de constituição robusta, com escamas esparsas ao longo do pescoço e dos antebraços, que reluzem em um tom esverdeado sob a luz do sol.
+Rashan é um yuanti de sangue puro, de constituição robusta, com escamas esparsas ao longo do pescoço e dos antebraços, que reluzem em um tom esverdeado sob a luz do sol.
 
 Ele veste uma armadura de couro reforçada com detalhes em bronze, adornada com o símbolo da serpente em espiral, representando a cidade de Ahr. Um elmo aberto exibe seu rosto sério e olhos dourados e penetrantes.
 
