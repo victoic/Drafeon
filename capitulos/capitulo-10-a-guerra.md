@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T12:13:21.545Z
+date: 2025-02-22T12:15:21.259Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -99,6 +99,7 @@ Ao chegar em Ahr, o grupo passa pelo processo de inspeção, questionamento e re
 ## Neutros
 - [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi)
 - [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra)
+- [Nasir Farrokhzad](/individuos/nasir-farrokhzad)
 
 ## Adversários
 - [](/individuos/)
