@@ -2,7 +2,7 @@
 title: Sudeste De Drafeon
 description: 
 published: true
-date: 2025-02-22T03:50:00.343Z
+date: 2025-02-22T12:06:59.661Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:58:25.504Z
@@ -79,7 +79,7 @@ O Sudeste possui alguns poucos vilarejos de porte pequeno e médio que sobrevive
 `Sub-locações` **Império Dragão:** [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso#costa-do-repouso), [Felicidade](/lugares/plano-material/drafeon/sudeste-de-drafeon/felicidade#felicidade), [Poço Raso (Vilarejo)](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso-vilarejo), [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo), [Sem Vento](/lugares/plano-material/drafeon/sudeste-de-drafeon/sem-vento#sem-vento), [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes) | **Império Serpentinn:** [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr), [Almaedi'](/lugares/plano-material/drafeon/sudeste-de-drafeon/almaedi), [Alqa'im](/lugares/plano-material/drafeon/sudeste-de-drafeon/alqaim), [Altabia](/lugares/plano-material/drafeon/sudeste-de-drafeon/altabia), [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz), [Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana), [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), [Kasifisad](/lugares/plano-material/drafeon/sudeste-de-drafeon/kasifisad), [Madina](/lugares/plano-material/drafeon/sudeste-de-drafeon/madina), [Markaz'](/lugares/plano-material/drafeon/sudeste-de-drafeon/markaz), [Oul](/lugares/plano-material/drafeon/sudeste-de-drafeon/oul), [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk), [Talik Altayart](/lugares/plano-material/drafeon/sudeste-de-drafeon/talik-altayart)
 `Organização Dominante` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
 `Organizações Incluídas` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
-[`Etnias`](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias-do-sudeste-de-drafeon#etnias-do-sudeste-de-drafeon)
+[`Etnias`](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias)
 
 -----
 # Mapa do Sudeste de Drafeon
