@@ -2,7 +2,7 @@
 title: Purtale Magk
 description: 
 published: true
-date: 2025-02-22T00:42:13.455Z
+date: 2025-02-22T03:52:54.504Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-21T20:32:53.470Z
@@ -43,6 +43,6 @@ Dentro do palácio, o ar é constantemente perfumado com incenso de mirra e sân
 `População` 41.000
 `Gentílico` Purtale-Magkia 
 `Sub-locações` 
-`Governante` [Ahrtar Afshin Abedi](/individuos/yrcri-magnus)
+`Governante` [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi)
 `Organizações Dominantes` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
 `Organizações Incluídas`
