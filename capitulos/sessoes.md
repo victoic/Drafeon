@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T10:33:39.201Z
+date: 2025-02-22T10:53:12.026Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -989,8 +989,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [19/10/2024](https://www.youtube.com/watch?v=hL9MQ5moB9E) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
 
-> .
+> Os assassinos são derrotados e o grupo encontra tatuagens nos corpos. Além disso, um deles portava uma mensagem.
 {.is-info}
+
+> Eles estão saindo de [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz) em direção a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr), intercepte-os e os mate lá.
 
 - [10/11/2024](https://www.youtube.com/watch?v=hvawD8P5nVs) | Data narrativa: 03 de Woton de 1755 ED - 03 de Woton de 1755 ED
 
