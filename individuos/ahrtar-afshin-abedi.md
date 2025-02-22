@@ -2,8 +2,8 @@
 title: Ahr'tar Afshin Abedi
 description: 
 published: true
-date: 2025-02-22T03:19:53.504Z
-tags: 
+date: 2025-02-22T15:48:58.419Z
+tags: segredo
 editor: markdown
 dateCreated: 2025-02-21T20:50:45.429Z
 ---
