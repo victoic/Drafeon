@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T09:19:25.498Z
+date: 2025-02-22T09:52:35.635Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -53,6 +53,8 @@ Addran tenta seduzir [Zarrmina Ahr'tarzadeh](/individuos/zarrmina-ahrtarzadeh), 
 Utilizando a roc do Magnus, o grupo rapidamente chega a [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz). Na cidade, encontram um elfo realizando compras e o abordam. O elfo, chamado [Arsalanov](/individuos/arsalanov), é contratado como tradutor, o pagamento é um anel mágico criado pelo Grot, mas criado de forma a ser desfeito no dia seguinte. Arsalanov leva o grupo até o Palácio das Sete Dunas, onde o grupo apresenta a moeda do Ahr'tar Afshin Abedi para receber uma conferência ao Ahr'tar Zaniar Khazra.
 
 Dado que será necessário aguardar cerca de duas horas, o grupo é levado para as fontes termais, onde há comida e música constante. [Zhoarin Vasshara](/individuos/zhoarin-vasshara), um sobrinho de 4º grau de Ahr'tar Zaniar Khazra aborda o grupo sobre sua presença. Na conferência com o Ahr'tar Zaniar Khazra, o grupo aprende sobre as castas do Império Serpentinn e os motivos dA Guerra, o líder de Dere' Sabz diz buscar uma solução colaborativa entre todos os envolvidos, mas o método dA Guerra não será a resposta. O grupo descansa em seu palácio.
+
+No dia seguinte, o grupo busca Arsalanov para levá-los até Jawhara'alsahara. Arsalanov diz não querer ir em direção A Guerra e mostra que vendeu o anel dado como pagamento pelo Grot. Após pagarem 100 peças de ouro adiantado para que ele os levasse em um local para que pudessem vender itens mágicos (falsos), ele os leva ao [Caminho Silencioso](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz#bens).
 
 > Ao passar pelos portões, os aventureiros entram em uma larga avenida de pedra calcária que leva diretamente à Praça das Areias. O calor do deserto é suavizado por pequenos canais de água fresca que correm pelas laterais da rua, alimentados por fontes subterrâneas. Palavras em Yuan-ti gravadas nas pedras dos edifícios dão boas-vindas aos que chegam, com frases que exaltam a força e a resiliência da cidade.
 >
