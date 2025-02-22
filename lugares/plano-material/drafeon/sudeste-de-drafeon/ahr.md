@@ -2,7 +2,7 @@
 title: Ahr
 description: 
 published: true
-date: 2025-02-22T09:24:07.414Z
+date: 2025-02-22T13:29:51.074Z
 tags: lugar, império serpentinn
 editor: markdown
 dateCreated: 2025-02-22T09:22:27.683Z
@@ -37,6 +37,44 @@ Na entrada principal, um grande portão reforçado com metal, decorado com ental
 Ao chegar ao portão, visitantes são parados e submetidos a um rigoroso processo de inspeção. Guardas examinam suas roupas, armas e pertences, enquanto questionam o propósito de sua visita e exigem uma explicação clara de suas intenções. Estrangeiros são vistos com desconfiança, especialmente com os boatos de infiltrados aliados a Al-haro.
 
 Os viajantes devem registrar seus nomes em uma tábua de pedra administrada por escribas de sangue puro, e suas descrições são comparadas com relatos de procurados. Se estiverem carregando itens mágicos, os guardas exigem que declarem suas propriedades e intenções de uso, pois a cidade tem aversão a encantamentos que possam ser usados contra a população. Uma taxa de entrada, simbólica, é cobrada, geralmente paga em prata ou com algo valioso ao comércio local.
+
+## Palácio do Escudo de Dunas 
+> Sipr-e Reg em yuanti (سپر رگ)
+
+O nome Sipr-e Reg reflete o papel do palácio como a primeira linha de defesa contra invasores vindos do deserto. Ele simboliza tanto a proteção da cidade quanto a resistência da Ahr'tar em tempos de guerra.
+
+### Arquitetura e Design
+
+O Palácio do Escudo de Dunas é uma fortaleza que combina funcionalidade militar e opulência austera. Localizado em uma posição elevada na extremidade sul da cidade de Ahr, o palácio se projeta como uma extensão natural das muralhas e penhascos circundantes.
+
+- Paredes Exteriores: Construídas de arenito dourado reforçado com obsidiana, as paredes refletem o brilho do sol, dificultando a observação em climas claros. As muralhas são grossas, com parapeitos ornamentados que lembram ondas de areia em movimento.
+- Portões Principais: Dois portões gigantescos de bronze, conhecidos como Portões do Vento Silencioso, são adornados com relevos de dunas cruzadas e guerreiros armados.
+
+### Estrutura Interna
+
+O palácio é dividido em três seções principais:
+
+1. O Pátio das Areias Eternas:
+
+- Um espaço aberto cercado por colunas decoradas com motivos geométricos.
+- No centro, há um círculo de areia branca importada de desertos distantes, onde reuniões militares e cerimônias são realizadas.
+
+2. Os Salões do Refúgio Solar:
+
+- A ala administrativa e de recepção, composta por salões decorados com tapeçarias de lã e seda em tons de ocre, vermelho e dourado.
+- O salão principal, onde a Ahr'tar Hadiya Zaresh recebe visitantes, é decorado com arcos entrelaçados e grandes candelabros de cristal que imitam a luz do sol ao entardecer.
+- Um trono elevado de mármore negro e ouro repousa no final do salão, com entalhes representando escudos e lanças.
+
+3. A Torre dos Ventos Calmos:
+
+- A ala residencial e estratégica, onde a Ahr'tar vive e conduz seus conselhos mais confidenciais.
+- A torre oferece uma vista panorâmica do deserto ao sul, permitindo o monitoramento de qualquer movimentação nas dunas.
+- Quartos privados são decorados com simplicidade elegante, com paredes pintadas em azul e dourado para evocar o céu ao amanhecer.
+
+### Pontos Notáveis
+
+- Jardim das Dunas Encantadas: Um jardim protegido com vegetação resistente ao deserto, incluindo palmeiras e arbustos espinhentos, além de fontes que imitam pequenos oásis.
+- Sala das Aljavas Eternas: Um arsenal subterrâneo onde armas e armaduras são mantidas em estado impecável, prontos para qualquer emergência.
 
 # Informações
 `Tipo` Reino-individual, Cidade
