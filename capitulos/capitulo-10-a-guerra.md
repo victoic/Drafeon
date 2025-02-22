@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T12:29:56.028Z
+date: 2025-02-22T12:31:44.292Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -78,20 +78,23 @@ Encontrando um lugar seguro para realizar um descanso, o grupo discute o ataque,
 
 Ao chegar em Ahr, o grupo passa pelo processo de inspeção, questionamento e registro. O guarda [Rashan Kaveh](/individuos/rashan-kaveh)
 
-> Ao passar pelos portões, os aventureiros entram em uma larga avenida de pedra calcária que leva diretamente à Praça das Areias. O calor do deserto é suavizado por pequenos canais de água fresca que correm pelas laterais da rua, alimentados por fontes subterrâneas. Palavras em Yuan-ti gravadas nas pedras dos edifícios dão boas-vindas aos que chegam, com frases que exaltam a força e a resiliência da cidade.
->
-> A cidade é um mosaico de tons ocres e verdes suaves, com pequenas palmeiras e árvores resistentes ao calor espalhadas pelas praças. O som do mercado é vivo, com mercadores gritando suas ofertas em uma mistura de idiomas, desde o yuanti até línguas mais comuns como dracônico ou comum.
->
-> Os aventureiros rapidamente percebem a aura de alerta que permeia Ahr. Soldados caminham lado a lado com civis, enquanto grupos de mercadores debatem com viajantes os perigos do deserto. Ao fundo, a Torre das Lâminas domina o horizonte, lembrando a todos da presença constante de uma força protetora pronta para agir contra qualquer ameaça.
-
-### Formulário Padrão de Entrada a Ahr (Grot)
+#### Formulário Padrão de Entrada a Ahr (Grot)
 | - |- |
 | **Nome** | **Krrrot** |
 | O que é | Gulobulin |
 | Altura | 92.3 cm |
 | Descrição | Largo |
 | Intenções | Audiência com o Ahr'tar para falar sobre A Guerra |
-| Itens Mágicos a Declarar | |
+| Itens Mágicos a Declarar | (Todos os itens) |
+| Número | 29471 |
+
+#### Entrada na Cidade
+
+> Ao passar pelos portões, os aventureiros entram em uma larga avenida de pedra calcária que leva diretamente à Praça das Areias. O calor do deserto é suavizado por pequenos canais de água fresca que correm pelas laterais da rua, alimentados por fontes subterrâneas. Palavras em Yuan-ti gravadas nas pedras dos edifícios dão boas-vindas aos que chegam, com frases que exaltam a força e a resiliência da cidade.
+>
+> A cidade é um mosaico de tons ocres e verdes suaves, com pequenas palmeiras e árvores resistentes ao calor espalhadas pelas praças. O som do mercado é vivo, com mercadores gritando suas ofertas em uma mistura de idiomas, desde o yuanti até línguas mais comuns como dracônico ou comum.
+>
+> Os aventureiros rapidamente percebem a aura de alerta que permeia Ahr. Soldados caminham lado a lado com civis, enquanto grupos de mercadores debatem com viajantes os perigos do deserto. Ao fundo, a Torre das Lâminas domina o horizonte, lembrando a todos da presença constante de uma força protetora pronta para agir contra qualquer ameaça.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
