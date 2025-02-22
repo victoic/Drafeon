@@ -2,8 +2,10 @@
 title: Sudeste De Drafeon
 description: 
 published: true
-date: 2020-04-16T15:41:40.516Z
+date: 2025-02-22T03:38:41.538Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:58:25.504Z
 ---
 
 <!-- SUBTITLE: Lar dos pântanos do Povo-Lagarto -->
@@ -76,6 +78,7 @@ O Sudeste possui alguns poucos vilarejos de porte pequeno e médio que sobrevive
 `Tipo` Região
 `Sub-locações` [Costa do Repouso](/lugares/plano-material/drafeon/sudeste-de-drafeon/costa-do-repouso#costa-do-repouso), [Felicidade](/lugares/plano-material/drafeon/sudeste-de-drafeon/felicidade#felicidade), [Poço Raso (Vilarejo)](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo#poco-raso-vilarejo), [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo#porto-novo), [Sem Vento](/lugares/plano-material/drafeon/sudeste-de-drafeon/sem-vento#sem-vento), [Vila das Pontes](/lugares/plano-material/drafeon/sudeste-de-drafeon/vila-das-pontes#vila-das-pontes)
 `Organização Dominante` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
+`Organizações Incluídas` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
 [`Etnias`](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias-do-sudeste-de-drafeon#etnias-do-sudeste-de-drafeon)
 
 -----
