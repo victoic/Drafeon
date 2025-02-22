@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T10:14:55.298Z
+date: 2025-02-22T10:16:11.205Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -59,7 +59,7 @@ Dado que será necessário aguardar cerca de duas horas, o grupo é levado para 
 No dia seguinte, o grupo busca Arsalanov para levá-los até Jawhara'alsahara. Arsalanov diz não querer ir em direção A Guerra e mostra que vendeu o anel dado como pagamento pelo Grot. Após pagarem 100 peças de ouro adiantado para que ele os levasse em um local para que pudessem vender itens mágicos (falsos), ele os leva ao [Caminho Silencioso](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz#bens). O grupo cria nomes falsos:
 - Addran: Addran da Silva;
 - Amy: Amy de Faéria
-- Grot: 
+- Grot: Não se apresentou
 - Magnus: Malevolente de Victoic 
 - Zerke: Gustavo de Sem Vento
 
