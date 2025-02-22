@@ -2,7 +2,7 @@
 title: Rashan Kaveh
 description: 
 published: true
-date: 2025-02-22T12:26:08.678Z
+date: 2025-02-22T13:09:55.078Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T12:26:08.678Z
@@ -38,7 +38,7 @@ Rashan era o primeiro ponto de contato do que chegam às muralhas de Ahr. Ele co
 Caso o grupo demonstre hostilidade ou tente burlar os protocolos, Rashan rapidamente chamará reforços. Por outro lado, se as respostas forem satisfatórias, ele os encaminhará ao portão principal, onde poderão ser apresentados a Nasir Farrokhzad para mais negociações.
 
 # Informações
-`Data de Nascimento` 1670 ED
+`Data de Nascimento` 1710 ED
 `Local de Nascimento` [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr)
 `Sexo Biológico` Masculino
 `Olhos` Amendoados
