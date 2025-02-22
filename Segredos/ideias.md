@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2025-02-22T03:16:21.071Z
+date: 2025-02-22T09:15:51.126Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-03T15:45:25.832Z
@@ -35,6 +35,24 @@ Posicionando os Ahr'tar como Defensores: "Nós, os Ahr'tar, sempre buscamos o eq
 Inversão Moral: "Enquanto ela e seus seguidores marcham pelo império, saqueando e destruindo, nós tentamos restaurar a ordem. Esses ataques aos navios do Império Dragão? Provavelmente parte de sua tentativa de enfraquecer nossas relações com outros reinos, causar rupturas comerciais e, com isso, abrir caminho para sua própria ascensão. Al-Haro não se importa com as consequências... ela só se interessa pelo caos que pode usar a seu favor."
 
 Afshin termina sua explicação com uma expressão de pesar calculada, como se estivesse genuinamente preocupado com a estabilidade do império. Ele insinua que o grupo pode ser útil para descobrir mais, sem direcioná-los diretamente ao conflito, mas deixando claro que a chave para compreender os ataques aos navios pode estar ligada às agitações no sul, onde a influência de Al-Haro cresce.
+
+## Ahr
+
+Em Ahr, o clima é de tensão silenciosa e preparação constante. Sendo a última cidade antes do deserto e próxima das linhas de conflito com os exércitos de Al-haro, a população vive em um estado de alerta constante. Patrulhas armadas aumentaram nas ruas e nas fronteiras, com guardas e milicianos prontos para impedir incursões. Conversas em mercados e tavernas giram em torno de boatos sobre batalhas recentes, de escravos libertados atacando caravanas e de cidades distantes já caídas nas mãos da esfinge e seu exército. Apesar da aparente calma que Ahr'tar Hadiya Zaresh exige da população, a preocupação com um cerco iminente está na mente de todos.
+
+### Boatos e Aventuras em Ahr
+
+Caçada ao Informante: Existem rumores de que agentes de Al-haro conseguiram se infiltrar em Ahr, recrutando simpatizantes entre os trabalhadores insatisfeitos e membros das castas mais baixas. Ahr'tar Hadiya Zaresh está oferecendo uma recompensa significativa para quem puder descobrir a identidade dos infiltrados e frustrar suas operações.
+
+O Eco da Montanha: Diz-se que um grupo de rebeldes montou um esconderijo em cavernas nas montanhas ao redor de Ahr. Estas cavernas foram previamente abandonadas devido a antigas maldições e criaturas perigosas. Há uma oferta para qualquer grupo corajoso o suficiente para limpar as cavernas e verificar se os boatos são reais.
+
+A Expedição ao Templo do Vento Perdido: Nas profundezas do deserto, distante e inacessível, fica um antigo templo onde se diz haver segredos sobre a magia da guerra e defesa. Uma expedição foi organizada para recuperar quaisquer relíquias ou armas que possam ser úteis para Ahr na luta contra Al-haro, mas não voltou. A cidade busca aventureiros para descobrir o paradeiro da expedição e retornar com artefatos que possam ajudar na guerra iminente.
+
+Lamento das Dunas: Viajantes e mercadores dizem ouvir o som de tambores ao anoitecer, um presságio sinistro que muitos acreditam ser causado pelo avanço dos exércitos de Al-haro. O Ahr'tar está buscando aventureiros dispostos a investigar e confirmar se Al-haro está enviando tropas para emboscar caravanas nas rotas de comércio e de suprimento da cidade.
+
+O Pacto da Serpente: Existe um rumor de que alguns altos membros do império em outras cidades estariam considerando um pacto com Al-haro para preservar seus territórios, oferecendo apoio indireto. Hadiya Zaresh teme que algum comandante de cidade vizinha já tenha traído o Império e está em busca de qualquer evidência para antecipar uma possível traição. A investigação, no entanto, deve ser conduzida em segredo.
+
+Ahr, assim, tornou-se não apenas uma cidade em preparação para a guerra, mas um ponto de oportunidade para aventureiros em busca de recompensas, glória ou simplesmente a chance de fazer a diferença em um império à beira de conflitos.
 
 ## Novos Deuses
 
