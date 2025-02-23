@@ -2,7 +2,7 @@
 title: Nasir Farrokhzad
 description: 
 published: true
-date: 2025-02-22T12:20:50.861Z
+date: 2025-02-23T17:24:29.241Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T12:20:50.861Z
@@ -13,7 +13,7 @@ Nasir Farrokhzad foi um yuanti habitante de [Ahr](/lugares/plano-material/drafeo
 
 ## Aparência
 
-Um Yuan-ti de sangue puro, Nasir apresenta traços serpentinos sutis, como olhos dourados com pupilas fendidas e uma textura levemente escamada em sua pele esverdeada.
+Um Yuan-ti de malison, Nasir apresenta traços serpentinos sutis, como olhos dourados com pupilas fendidas e uma textura escamada em sua pele esverdeada.
 
 Veste uma túnica de seda escura decorada com padrões dourados e verdes que remetem à iconografia das serpentes. Uma corrente fina de ouro com um pingente em forma de olho pendurado em seu pescoço simboliza sua posição de conselheiro.
 
