@@ -2,7 +2,7 @@
 title: Mestre
 description: 
 published: true
-date: 2025-02-23T12:38:34.836Z
+date: 2025-02-23T23:59:07.527Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-23T12:33:50.420Z
@@ -16,3 +16,4 @@ dateCreated: 2025-02-23T12:33:50.420Z
 - [Ideias](/mestre/ideias)
 - [Segredos](/mestre/segredos)
 - [Próximas Sessões](/mestre/proximo)
+- [Playlists](/mestre/playlists)
