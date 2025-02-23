@@ -1,8 +1,8 @@
 ---
-title: proximo
+title: Próximas Sessões
 description: 
 published: true
-date: 2025-02-23T12:37:46.357Z
+date: 2025-02-23T16:04:23.427Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-23T12:37:46.357Z
