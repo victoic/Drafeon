@@ -2,8 +2,8 @@
 title: Segredos
 description: 
 published: true
-date: 2025-02-22T10:28:25.847Z
-tags: segredo
+date: 2025-02-23T12:25:21.859Z
+tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-04T00:10:01.562Z
 ---
