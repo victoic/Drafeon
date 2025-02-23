@@ -2,7 +2,7 @@
 title: Enciclopédia de Drafeon
 description: 
 published: true
-date: 2025-02-03T15:42:36.063Z
+date: 2025-02-23T12:26:36.093Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:09.173Z
@@ -22,15 +22,5 @@ Drafeon é um continente pequeno, porém com uma enorme diversidade de biomas, p
 
 Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possui o objetivo de reunir e harmonizar todas as raças conscientes. Porém esta é uma tarefa difícil, com o grande tamanho do império, controlar e proteger os quatro cantos das criaturas que discordam da ideia de união e da corrupção e ambição de seus próprios líderes.
 
-* [**CAPÍTULOS**](/capitulos)
-* [**DIVINDIDADES**](/divindades#divindades)
-* [**DOCUMENTOS**](/documentos#documentos)
-* [**FACÇÕES**](/faccoes#faccoes)
-* [**FAUNA e FLORA**](/fauna-e-flora#fauna-e-flora)
-* [**INDIVÍDUOS**](/individuos#individuos)
-* [**ITENS**](/itens#itens)
-* [**LENDAS e EVENTOS**](/lendas-e-eventos#lendas-e-eventos)
-* [**LUGARES**](/lugares#lugares)
-* [**LINHA DO TEMPO**](/linha-do-tempo#linha-do-tempo)
-* [**RANKINGS e TÍTULOS**](/rankings-e-titulos#rankings-e-titulos)
-* [**VEÍCULOS**](/veiculos#veiculos)
+> Utilize o menu lateral para navega ou a barra de busca acima.
+{.is-info}
