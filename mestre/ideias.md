@@ -1,8 +1,8 @@
 ---
 title: Ideias
-description: Ideias para o futuru de Drafeon
+description: Ideias para o futuro de Drafeon
 published: true
-date: 2025-02-23T12:36:53.755Z
+date: 2025-02-23T12:38:14.635Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-23T12:34:48.178Z
