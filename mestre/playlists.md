@@ -2,7 +2,7 @@
 title: Playlists
 description: Músicas para Utilizar nas Sessões
 published: true
-date: 2025-02-25T14:31:03.012Z
+date: 2025-02-25T15:09:27.938Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-25T11:58:39.126Z
@@ -16,6 +16,7 @@ dateCreated: 2025-02-25T11:58:39.126Z
 ## Chefe
 
 - [Azaroth](/mestre/playlists/azaroth)
+- [Al-Haro](/mestre/playlists/al-haro)
 
 ## Emoção
 
