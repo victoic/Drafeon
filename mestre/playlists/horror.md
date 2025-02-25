@@ -2,7 +2,7 @@
 title: Horror
 description: 
 published: true
-date: 2025-02-25T14:10:32.621Z
+date: 2025-02-25T14:10:53.062Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-25T12:41:03.382Z
@@ -24,3 +24,10 @@ https://adrianvonziegler.bandcamp.com/track/oath
 https://adrianvonziegler.bandcamp.com/track/mother-2
 https://adrianvonziegler.bandcamp.com/track/deathless-2
 https://adrianvonziegler.bandcamp.com/track/harbinger-of-death-2
+https://adrianvonziegler.bandcamp.com/track/whispers-in-the-dark
+https://adrianvonziegler.bandcamp.com/track/otherworld
+https://adrianvonziegler.bandcamp.com/track/fj-lnir
+https://adrianvonziegler.bandcamp.com/track/sgar-r
+https://adrianvonziegler.bandcamp.com/track/seredina-zimy
+https://adrianvonziegler.bandcamp.com/track/lone-wolf
+https://vindsvept.bandcamp.com/track/invocation
