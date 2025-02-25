@@ -2,7 +2,7 @@
 title: Deserto
 description: Playlist
 published: true
-date: 2025-02-25T15:32:52.263Z
+date: 2025-02-25T16:05:59.529Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-25T15:32:52.263Z
@@ -72,3 +72,22 @@ https://faryafaraji.bandcamp.com/track/lament-for-leonidas
 https://faryafaraji.bandcamp.com/track/ili-and-karatal
 
 ## Sul (Árabe/Egípcio/Somali)
+https://adrianvonziegler.bandcamp.com/track/son-of-the-hawk
+https://adrianvonziegler.bandcamp.com/track/desert-magic
+https://adrianvonziegler.bandcamp.com/track/hual-hadi
+https://adrianvonziegler.bandcamp.com/track/enchanted-palace-2
+https://adrianvonziegler.bandcamp.com/track/sleeping-sabre-2
+https://adrianvonziegler.bandcamp.com/track/bone-temple
+https://adrianvonziegler.bandcamp.com/track/desert-magic
+https://adrianvonziegler.bandcamp.com/track/dust-and-shadows-2
+https://adrianvonziegler.bandcamp.com/track/silent-sentinel-2
+https://waitandseemusic.bandcamp.com/track/waaqle
+https://waitandseemusic.bandcamp.com/track/samia
+https://rodamakratidi.bandcamp.com/track/ferah
+https://rodamakratidi.bandcamp.com/track/kamancheh-improvisation
+https://rodamakratidi.bandcamp.com/track/huma
+https://rodamakratidi.bandcamp.com/track/lusnahar
+https://rodamakratidi.bandcamp.com/track/e-risi
+https://rodamakratidi.bandcamp.com/track/nezir-niyaz
+https://rodamakratidi.bandcamp.com/track/oud-improvisation
+https://rodamakratidi.bandcamp.com/track/didar-tasnif
