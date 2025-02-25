@@ -2,7 +2,7 @@
 title: Playlists
 description: Músicas para Utilizar nas Sessões
 published: true
-date: 2025-02-25T11:58:39.126Z
+date: 2025-02-25T12:59:22.069Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-25T11:58:39.126Z
@@ -24,7 +24,6 @@ dateCreated: 2025-02-25T11:58:39.126Z
 - [Feliz/Festa](/mestre/playlists/feliz-festa)
 - [Heróico](/mestre/playlists/heroico)
 - [Horror](/mestre/playlists/horror)
-- [Suspense](/mestre/playlists/suspense)
 
 ## Local
 
