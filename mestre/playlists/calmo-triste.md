@@ -2,7 +2,7 @@
 title: Calmo/Triste
 description: 
 published: true
-date: 2025-02-25T12:55:04.870Z
+date: 2025-02-25T14:19:48.470Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-25T12:55:04.870Z
@@ -27,3 +27,4 @@ https://adrianvonziegler.bandcamp.com/track/aelath-n
 https://adrianvonziegler.bandcamp.com/track/longing-2
 https://adrianvonziegler.bandcamp.com/track/the-endless-woods-2
 https://adrianvonziegler.bandcamp.com/track/the-elder-lords
+https://adrianvonziegler.bandcamp.com/track/pluto-2
