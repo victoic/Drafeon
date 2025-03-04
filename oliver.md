@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-04T23:48:27.244Z
+date: 2025-03-04T23:48:44.339Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -36,7 +36,7 @@ Papai precisou viajar pra longe i.i, mas mamãe tá mandando notícias minhas pa
 > "Depois disso chorei tanto que minha mãe ficou preocupada, mas era sono e dormi"
 
 - 28/02/2025
-Fiquei doente! Estou tossindo e espirrando e com catarro, mas mamãe tá me protegendo e me dando carinho vou ficar bom logo logo.
+Fiquei doente! Estou tossindo e espirrando e com catarro, mas mamãe tá me protegendo e me dando carinho, vou ficar bom logo logo.
 
 - 01/03/2025
 Viajei com mamãe, vovó Selma e vovô Wellington para Floriano - PI, vou ver papai de novo :D. Vou morar aqui com mamãe e papai. Aqui eu tenho meu próprio quarto, mas vou continuar dormindo com mamãe e papai pq é melhor.
