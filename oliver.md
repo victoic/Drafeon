@@ -2,13 +2,12 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-04T23:52:03.988Z
+date: 2025-03-04T23:53:02.333Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
 ---
 
-# Diário de Oliver
 - 11/01/2025
 Eu nasci! Papai chorou muito, nasci forte e calminho.
 
