@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-02-17T13:42:30.294Z
+date: 2025-03-04T23:48:27.244Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -23,6 +23,9 @@ Fiz um mês! Papai e mamãe fizeram um bolo vegano que ficou uma delícia, mesmo
 
 - 12/01/2025
 Tirei fotos com vovó Selma e vovô Wellington.
+
+- 15/02/2025
+Viajei pela primeira vez! Fui com mamãe, papai e vovó Selma para Triunfo, na casa de vovó Sandra. La eu ajudei eles a fazer a mudança das coisas do salão de mamãe para a casa de vovó Selma.
  
 - 16/02/2025
 Papai precisou viajar pra longe i.i, mas mamãe tá mandando notícias minhas para ele.
@@ -31,3 +34,9 @@ Papai precisou viajar pra longe i.i, mas mamãe tá mandando notícias minhas pa
 > "Bom dia, Papai!"
 
 > "Depois disso chorei tanto que minha mãe ficou preocupada, mas era sono e dormi"
+
+- 28/02/2025
+Fiquei doente! Estou tossindo e espirrando e com catarro, mas mamãe tá me protegendo e me dando carinho vou ficar bom logo logo.
+
+- 01/03/2025
+Viajei com mamãe, vovó Selma e vovô Wellington para Floriano - PI, vou ver papai de novo :D. Vou morar aqui com mamãe e papai. Aqui eu tenho meu próprio quarto, mas vou continuar dormindo com mamãe e papai pq é melhor.
