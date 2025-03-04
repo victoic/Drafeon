@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-04T23:53:02.333Z
+date: 2025-03-04T23:54:44.934Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -39,3 +39,5 @@ Fiquei doente! Estou tossindo e espirrando e com catarro, mas mamãe tá me prot
 
 - 01/03/2025
 Viajei com mamãe, vovó Selma e vovô Wellington para Floriano - PI, vou ver papai de novo :D. Vou morar aqui com mamãe e papai. Aqui eu tenho meu próprio quarto, mas vou continuar dormindo com mamãe e papai pois eu ainda não posso dormir sozinho.
+
+Hoje, papai e mamãe perceberam que eu não faço mais o barulho de motorzinho quando choro, é o fim de uma era.
