@@ -2,14 +2,14 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-05T00:18:38.902Z
+date: 2025-03-05T00:25:09.996Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
 ---
 
 - 11/01/2025
-Eu nasci! Papai chorou muito, nasci forte e calminho.
+Eu nasci! Papai chorou muito, nasci forte e calminho. Nasci com 2,975 Kg e ?? cm.
 Mamãe tava muito cansada por causa da cirurgia e papai estava com o braço engessado, aí eles chamaram vovó Selma para ajudar a cuidar de mim. Vovó e papai trocaram meu primeiro cocô.
 
 - 12/01/2025
@@ -17,14 +17,15 @@ Tomei minhas primeiras vacinas. Papai diz que eu nem chorei, já mamãe diz que 
 
 - 13/01/2025
 Saí do hospital e fui pra casa de vovó. Quando eu choro parece um motorzinho.
-
 Vovó Sandra veio me visitar pela primeira vez!
  
 - 11/02/2025
 Fiz um mês! Papai e mamãe fizeram um bolo vegano que ficou uma delícia, mesmo eu não comendo. E enfeitaram de pintinho, por como eu fico procurando tetê quando estou com fome.
+Fui na pediatra, Dr.ª Roberta, eu já estou com ?? Kg e ?? cm.
 
 - 12/01/2025
 Tirei fotos com vovó Selma e vovô Wellington.
+Mamãe percebeu que eu estou ficando carequinha! E agora?!
 
 - 15/02/2025
 Viajei pela primeira vez! Fui com mamãe, papai e vovó Selma para Triunfo, na casa de vovó Sandra. Lá eu ajudei eles a fazer a mudança das coisas do salão de mamãe para a casa de vovó Selma.
