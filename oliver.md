@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-05T00:11:08.625Z
+date: 2025-03-05T00:17:02.862Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -18,6 +18,8 @@ Tomei minhas primeiras vacinas. Papai diz que eu nem chorei, já mamãe diz que 
 
 - 13/01/2025
 Saí do hospital e fui pra casa de vovó. Quando eu choro parece um motorzinho.
+
+Vovó Sandra veio me visitar pela primeira vez!
  
 - 11/02/2025
 Fiz um mês! Papai e mamãe fizeram um bolo vegano que ficou uma delícia, mesmo eu não comendo. E enfeitaram de pintinho, por como eu fico procurando tetê quando estou com fome.
