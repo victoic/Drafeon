@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-04T23:58:36.226Z
+date: 2025-03-05T00:09:41.236Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -11,8 +11,10 @@ dateCreated: 2025-02-17T13:36:51.789Z
 - 11/01/2025
 Eu nasci! Papai chorou muito, nasci forte e calminho.
 
+Mamãe tava muito cansada por causa da cirurgia e papai estava com o braço engessado, aí eles chamaram vovó Selma para ajudar a cuidar de mim. Ela e papai trocaram meu primeiro cocô.
+
 - 12/01/2025
-Tomei minhas primeiras vacinas e nem chorei!
+Tomei minhas primeiras vacinas. Papai diz que eu nem chorei, já mamãe diz que eu chorei.
 
 - 13/01/2025
 Saí do hospital e fui pra casa de vovó. Quando eu choro parece um motorzinho.
@@ -37,7 +39,11 @@ Papai precisou viajar pra longe i.i, mas mamãe tá mandando notícias minhas pa
 - 28/02/2025
 Fiquei doente! Estou tossindo e espirrando e com catarro, mas mamãe tá me protegendo e me dando carinho, vou ficar bom logo logo.
 
+Vovó Sandra veio aqui em Serra Talhada e me segurou pela primeira vez. Eu dormi muuuito rápido com ela, todo enroladinho.
+
 - 01/03/2025
+Tirei uma foto linda com titia Giovanna e priminho Ravi.
+
 Viajei com mamãe, vovó Selma e vovô Wellington para Floriano - PI, vou ver papai de novo :D. Vou morar aqui com mamãe e papai. Aqui eu tenho meu próprio quarto, mas vou continuar dormindo com mamãe e papai pois eu ainda não posso dormir sozinho.
 
 - 03/03/2025
