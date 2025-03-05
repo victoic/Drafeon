@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-05T00:09:41.236Z
+date: 2025-03-05T00:11:08.625Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -11,7 +11,7 @@ dateCreated: 2025-02-17T13:36:51.789Z
 - 11/01/2025
 Eu nasci! Papai chorou muito, nasci forte e calminho.
 
-Mamãe tava muito cansada por causa da cirurgia e papai estava com o braço engessado, aí eles chamaram vovó Selma para ajudar a cuidar de mim. Ela e papai trocaram meu primeiro cocô.
+Mamãe tava muito cansada por causa da cirurgia e papai estava com o braço engessado, aí eles chamaram vovó Selma para ajudar a cuidar de mim. Vovó e papai trocaram meu primeiro cocô.
 
 - 12/01/2025
 Tomei minhas primeiras vacinas. Papai diz que eu nem chorei, já mamãe diz que eu chorei.
