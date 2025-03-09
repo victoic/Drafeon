@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-09T12:50:55.935Z
+date: 2025-03-09T12:52:45.454Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -53,4 +53,4 @@ Vovó Selma e vovô Wellington voltaram para Serra Talhada hoje. Antes de irem t
 Hoje, papai e mamãe perceberam que eu não faço mais o barulho de motorzinho quando choro, é o fim de uma era.
 
 - 06/03/2025
-Mamãe e papai me levaram para passear até a pracinha perto de casa, vi várias plantinhas bonitas, mas dormi a maior parte do caminho.
+Hoje mamãe e papai me levaram para passear até a pracinha perto de casa, vi várias plantinhas bonitas, mas dormi a maior parte do caminho.
