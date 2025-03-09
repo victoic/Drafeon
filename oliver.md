@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-09T12:52:45.454Z
+date: 2025-03-09T12:53:41.005Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -54,3 +54,6 @@ Hoje, papai e mamãe perceberam que eu não faço mais o barulho de motorzinho q
 
 - 06/03/2025
 Hoje mamãe e papai me levaram para passear até a pracinha perto de casa, vi várias plantinhas bonitas, mas dormi a maior parte do caminho.
+
+- 07/03/2025
+Fomos passear na pracinha de novo, hoje! Eu consegui ver o céu pela primeira vez, mamãe até tirou uma foto!
