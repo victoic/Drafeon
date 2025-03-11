@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-11T20:09:13.773Z
+date: 2025-03-11T20:12:27.095Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -59,5 +59,5 @@ Hoje mamãe e papai me levaram para passear até a pracinha perto de casa, vi v�
 Fomos passear na pracinha de novo, hoje! Eu consegui ver o céu pela primeira vez, mamãe até tirou uma foto!
 
 - 11/03/2025
-Fiz dois meses! Mamãe e papai me levaram para uma consulta com dra. Sylemann Coêlho. Enquanto mamãe esperava papai foi comprar as coisas para meu mêsversário. Eles fizeram cupcakes enfeitados  de corujinha, porque eu faço barulho de coruja quando bocejo, as fotos ficaram lindas!
-Vovó cantou parabéns para mim por vídeo.
+Fiz dois meses! Mamãe e papai me levaram para uma consulta com dra. Sylemann Coêlho. Enquanto mamãe esperava papai foi comprar as coisas para meu mêsversário. Eles fizeram cupcakes enfeitados  de corujinha, porque eu faço barulho de coruja quando bocejo, as fotos ficaram lindas com a corujinha de pelúcia que vovó Selma fez pra mim! Essa é minha segunda pelúcia, a primeira é um ursinho que mamãe comprou.
+Vovó Selma cantou parabéns para mim por vídeo.
