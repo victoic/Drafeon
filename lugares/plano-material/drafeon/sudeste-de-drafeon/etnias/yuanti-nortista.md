@@ -2,7 +2,7 @@
 title: Yuanti Nortista
 description: 
 published: true
-date: 2025-02-22T04:27:10.987Z
+date: 2025-03-16T01:24:26.866Z
 tags: cultura
 editor: markdown
 dateCreated: 2025-02-21T23:28:49.253Z
@@ -14,6 +14,9 @@ dateCreated: 2025-02-21T23:28:49.253Z
 {.is-info}
 
 Os yuanti nortistas habitam a sub-região no norte do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), acima dos desertos propriamente ditos.
+
+## Saudações
+Ao chegar, durante o dia: Que suas escamas brilhem ao sol -> Que as suas também brilhem.
 
 ## Tradições de Nomeação
 > [Inspiração](https://en.wikipedia.org/wiki/Persian_name)
