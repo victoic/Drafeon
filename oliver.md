@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-16T21:07:25.089Z
+date: 2025-03-16T23:52:14.345Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -70,3 +70,4 @@ Hoje mamãe e papai me levaram para tomar vacina no postinho, mas a enfermeira n
 
 - 16/03/2025
 Hoje apareceu um escorpião enorme aqui em casa! Só não pegou mamãe pois ela é muito atenta, ele estava no sofá! E papai estava me colocando no chão pra ver o mobly, bem pertinho do bicho. Mas papai matou ele e mamãe e papais arrumaram a casa para diminuir a chance de aparecer outro.
+Papai contou a primeira historinha desde que saí da barriga da mamãe, foi sobre como Japlo roubou o pente de Mami Wata, eu fiquei muito animado!
