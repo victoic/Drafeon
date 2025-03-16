@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-02-22T14:43:17.625Z
+date: 2025-03-16T20:55:48.928Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1016,5 +1016,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 >
 > Zerke adentra a muralha pelos esgotos e recebe a mensagem que deve ser entre a um indivíduo na taverna A Lâmina do Escorpião, sem que esse indivíduo perceba.
 {.is-info}
+
+- [13/03/2025](https://youtu.be/fcrdptOpjfc) | Data narrativa: 10 de Woton de 1755 ED
+
+
 
 
