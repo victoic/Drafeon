@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-16T23:52:14.345Z
+date: 2025-03-17T17:55:16.017Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -71,3 +71,6 @@ Hoje mamãe e papai me levaram para tomar vacina no postinho, mas a enfermeira n
 - 16/03/2025
 Hoje apareceu um escorpião enorme aqui em casa! Só não pegou mamãe pois ela é muito atenta, ele estava no sofá! E papai estava me colocando no chão pra ver o mobly, bem pertinho do bicho. Mas papai matou ele e mamãe e papais arrumaram a casa para diminuir a chance de aparecer outro.
 Papai contou a primeira historinha desde que saí da barriga da mamãe, foi sobre como Japlo roubou o pente de Mami Wata, eu fiquei muito animado!
+
+- 17/03/2025
+Mamãe e papai me levaram pra tomar as vacinas de dois meses. Foram dois furinhos na minha perninha esquerda, um furinho na direita e ainda teve uma de gotinhas. Eles dizem que é pra eu não ficar doente , mas tá doendo muuuuito 😭.
