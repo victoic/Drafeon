@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-17T17:55:16.017Z
+date: 2025-03-17T17:57:05.025Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -73,4 +73,4 @@ Hoje apareceu um escorpião enorme aqui em casa! Só não pegou mamãe pois ela 
 Papai contou a primeira historinha desde que saí da barriga da mamãe, foi sobre como Japlo roubou o pente de Mami Wata, eu fiquei muito animado!
 
 - 17/03/2025
-Mamãe e papai me levaram pra tomar as vacinas de dois meses. Foram dois furinhos na minha perninha esquerda, um furinho na direita e ainda teve uma de gotinhas. Eles dizem que é pra eu não ficar doente , mas tá doendo muuuuito 😭.
+Mamãe e papai me levaram pra tomar as vacinas de dois meses. Foram dois furinhos na minha perninha esquerda, um furinho na direita e ainda teve uma de gotinhas. Eles dizem que é pra eu não ficar doente , mas tá doendo muuuuito 😭. Papai comprou um gelzinho geladinho pra ajudar na dor, tomara que funcione.
