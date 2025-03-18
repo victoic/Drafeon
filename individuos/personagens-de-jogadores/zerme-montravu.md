@@ -2,7 +2,7 @@
 title: Zerke Montravu
 description: 
 published: true
-date: 2025-03-18T08:38:42.553Z
+date: 2025-03-18T08:43:01.336Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:57.941Z
@@ -11,9 +11,14 @@ dateCreated: 2024-08-13T19:56:57.941Z
 # Zerke Montravu
 Zerke Montravu é um velho aarakocra, originário de Montravu. Sua plumagem chama a atenção por ser completamente composta por um único tom de branco muito claro. 
 
-Zerke manca do pé direito, onde lhe falta um talão e costumava andar com uma bengala. Apesar da idade, ele ainda aparenta ser forte e bem saudável.
+Zerke manca do pé direito, onde lhe falta um talão e costumava andar com uma bengala. Apesar da idade, ele ainda aparenta ser forte e bem saudável. 
+
+Em 1755, como prêmio de uma competição d[A Caravana]() em [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), Zerke recebeu e consumiu uma poção de rejuvenescimento, voltando a seus anos de ouro e o dando mais confiança e disposição em suas aventuras.
 
 ## História
+
+> A história a seguir foi escrita por Elias
+{.is-info}
 
 Zerke foi levado de sua família alguns dias após nascer. Sua tribo vivia na miséria, e em uma das buscas por alimentos que frequentemente seus pais faziam, encontraram por acaso na estrada um grupo escoltando um humano, Senhor das terras de [Montravu](/lugares/plano-material/drafeon/sudoeste-de-drafeon/montravu), que ficou encantado com a aparência bela do filhote e ofereceu uma quantia generosa em troca de levá-lo como seu animal de estimação. Seus pais, percebendo que talvez nunca mais tivessem tal oportunidade novamente, o venderam para prolongar um pouco mais o fim da tribo.
 
