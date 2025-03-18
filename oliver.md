@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-17T17:57:47.354Z
+date: 2025-03-18T08:46:24.444Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -74,3 +74,4 @@ Papai contou a primeira historinha desde que saí da barriga da mamãe, foi sobr
 
 - 17/03/2025
 Mamãe e papai me levaram pra tomar as vacinas de dois meses. Foram dois furinhos na minha perninha esquerda, um furinho na direita e ainda teve uma de gotinhas. Eles dizem que é pra eu não ficar doente , mas tá doendo muuuuito 😭. Papai comprou um gelzinho geladinho pra ajudar na dor, tomara que funcione.
+Durante a noite fiquei mais calminho, até consegui dormi, mas estou com febre.
