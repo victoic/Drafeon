@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-19T23:09:51.672Z
+date: 2025-03-19T23:23:05.430Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -40,7 +40,7 @@ Papai me colocou no sling pela primeira vez! Dormi na hora.
  
 - 11/02/2025
 Fiz um mês! Papai e mamãe fizeram um bolo vegano que ficou uma delícia, mesmo eu não comendo. E enfeitaram de pintinho, por como eu fico procurando tetê quando estou com fome.
-Fui na pediatra, Dr.ª Roberta, eu já estou com ?? Kg e ?? cm.
+Fui na pediatra, Dr.ª Roberta, eu já estou com ?? Kg e 55 cm.
 
 - 12/01/2025
 Tirei fotos com vovó Selma e vovô Wellington.
