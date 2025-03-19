@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-19T23:00:14.679Z
+date: 2025-03-19T23:09:51.672Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -34,6 +34,9 @@ Papai me viu chupando o dedo pela primeira vez e ainda inventou de filmar!
 
 - 23/01/2025
 Fiz um cocô bem estranho.
+
+- 30/01/2025
+Papai me colocou no sling pela primeira vez! Dormi na hora.
  
 - 11/02/2025
 Fiz um mês! Papai e mamãe fizeram um bolo vegano que ficou uma delícia, mesmo eu não comendo. E enfeitaram de pintinho, por como eu fico procurando tetê quando estou com fome.
