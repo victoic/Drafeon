@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-19T21:55:47.982Z
+date: 2025-03-19T21:55:55.993Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -78,4 +78,4 @@ Mamãe e papai me levaram pra tomar as vacinas de dois meses. Foram dois furinho
 Durante a noite fiquei mais calminho, até consegui dormi, mas estou com febre.
 
 - 18/03/2025
-Eu estou melhor da dor nas minhas perninhas. Mas estou irritado, mas mamãe e papai precisam entender que eu sósei chorar pra me comunicarcom eles. Nem do banho estou gostando mais. Papai e mamãe estão tentando entender o motivo, quando descobrirem eu falo aqui 
+Eu estou melhor da dor nas minhas perninhas. Mas estou irritado, mas mamãe e papai precisam entender que eu sósei chorar pra me comunicar com eles. Nem do banho estou gostando mais. Papai e mamãe estão tentando entender o motivo, quando descobrirem eu falo aqui 
