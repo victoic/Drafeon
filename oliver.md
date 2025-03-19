@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-19T22:31:44.406Z
+date: 2025-03-19T22:33:19.440Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -22,6 +22,9 @@ Vovó Sandra veio me visitar pela primeira vez!
 
 - 14/01/2025
 Meu coto umbilical sangrou, mamãe e papai ficaram tão preocupados que falaram com Dra Roberta e Dra Joanice. Elas disseram que estava tudo bem, ufa!
+
+- 15/01/2025
+Hoje eu dormi com as perninhas dobradas que nem papai.
 
 - 16/01/2025
 Meu olhinho está cheio de remela, não enxergo nada, socorro!
