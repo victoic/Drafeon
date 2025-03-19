@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-19T22:37:38.453Z
+date: 2025-03-19T23:00:14.679Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -28,6 +28,9 @@ Hoje eu dormi com as perninhas dobradas que nem papai.
 
 - 16/01/2025
 Meu olhinho está cheio de remela, não enxergo nada, socorro!
+
+- 18/01/2025
+Papai me viu chupando o dedo pela primeira vez e ainda inventou de filmar!
 
 - 23/01/2025
 Fiz um cocô bem estranho.
