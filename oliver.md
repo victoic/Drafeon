@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-19T21:55:55.993Z
+date: 2025-03-19T21:58:12.655Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -11,7 +11,7 @@ dateCreated: 2025-02-17T13:36:51.789Z
 - 11/01/2025
 Eu nasci! Eram 21:44. Papai chorou muito, segundo papai nasci forte e calminho. Nasci com 2,975 Kg e ?? cm.
 Mamãe fala que cheguei de presente para ela, pois se não houvesse sido preciso a cesaria, eu nasceria no mesmo dia que ela, 12 de janeiro.
-Mamãe tava muito cansada por causa da cirurgia e papai estava com o braço engessado, aí eles chamaram vovó Selma para ajudar a cuidar de mim. Vovó e papai trocaram meu primeiro cocô.
+Mamãe tava muito cansada por causa do trabalho parto e papai estava com o braço engessado, aí eles chamaram vovó Selma para ajudar a cuidar de mim. Vovó e papai trocaram meu primeiro cocô.
 
 - 12/01/2025
 Tomei minhas primeiras vacinas. Papai diz que eu nem chorei, já mamãe diz que eu chorei.
