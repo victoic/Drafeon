@@ -2,14 +2,15 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-18T08:46:24.444Z
+date: 2025-03-19T21:51:58.434Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
 ---
 
 - 11/01/2025
-Eu nasci! Papai chorou muito, nasci forte e calminho. Nasci com 2,975 Kg e ?? cm.
+Eu nasci! Eram 21:44. Papai chorou muito, segundo papai nasci forte e calminho. Nasci com 2,975 Kg e ?? cm.
+Mamãe fala que cheguei de presente para ela, pois se não houvesse sido preciso a cesaria, eu nasceria no mesmo dia que ela, 12 de janeiro.
 Mamãe tava muito cansada por causa da cirurgia e papai estava com o braço engessado, aí eles chamaram vovó Selma para ajudar a cuidar de mim. Vovó e papai trocaram meu primeiro cocô.
 
 - 12/01/2025
