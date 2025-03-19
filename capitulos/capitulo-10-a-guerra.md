@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2025-02-22T13:50:13.378Z
+date: 2025-03-19T14:15:51.877Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-14T19:20:01.749Z
@@ -118,10 +118,10 @@ Um membro da [Sussurros das Areias](/faccoes/faccoes-independentes/sussurros-das
 #### Formulário Padrão de Entrada a Ahr (Zerke)
 | - |- |
 | **Nome** | **Zerke Montravu hero** |
-| O que é | Draconato |
+| O que é | Aarakocra |
 | Idade | 22 |
 | Altura | 160 cm |
-| Descrição | Azul, cabelos azuis, roupas azuis |
+| Descrição | Penas brancas, penas em leque na cabeça, cicatriz na pata direita |
 | Intenções | Audiência com o Ahr'tar para falar sobre A Guerra |
 | Itens Mágicos a Declarar | (Todos os itens) |
 | Itens A Portar Dentro da Cidade | (Todos os itens) |
@@ -129,8 +129,8 @@ Um membro da [Sussurros das Areias](/faccoes/faccoes-independentes/sussurros-das
 
 #### Formulário Padrão de Entrada a Ahr (Magnus)
 | - |- |
-| **Nome** | **Magnus** |
-| O que é | Magnus Ponta-de-Lança |
+| **Nome** | **Magnus Ponta-de-Lança** |
+| O que é | Draconato |
 | Idade | 18 |
 | Altura | 213 cm |
 | Descrição | Verde, muito forte, poucas roupas |
