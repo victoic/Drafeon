@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-19T22:29:35.420Z
+date: 2025-03-19T22:31:44.406Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -36,6 +36,9 @@ Fui na pediatra, Dr.ª Roberta, eu já estou com ?? Kg e ?? cm.
 - 12/01/2025
 Tirei fotos com vovó Selma e vovô Wellington.
 Mamãe percebeu que eu estou ficando carequinha! E agora?!
+
+- 01/02/2025
+Meu irmãozinho Ragnar ficou perto de mim! E mamãe diz que ele nem gosta de criança.
 
 - 15/02/2025
 Viajei pela primeira vez! Fui com mamãe, papai e vovó Selma para Triunfo, na casa de vovó Sandra. Lá eu ajudei eles a fazer a mudança das coisas do salão de mamãe para a casa de vovó Selma.
