@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-19T21:58:12.655Z
+date: 2025-03-19T22:04:32.288Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -70,7 +70,7 @@ Papai e mamãe me amam!
 Hoje mamãe e papai me levaram para tomar vacina no postinho, mas a enfermeira não estava. Teremos que ir na segunda. Mamãe teve uma reação alérgica quando chegamos, ainda bem que eu estava dormindo, senão eu teria ficado muito nervoso.
 
 - 16/03/2025
-Hoje apareceu um escorpião enorme aqui em casa! Só não pegou mamãe pois ela é muito atenta, ele estava no sofá! E papai estava me colocando no chão pra ver o mobly, bem pertinho do bicho. Mas papai matou ele e mamãe e papais arrumaram a casa para diminuir a chance de aparecer outro.
+Hoje apareceu um escorpião enorme aqui em casa! Só não pegou mamãe pois ela é muito atenta, ele estava no sofá! E papai estava me colocando no chão pra ver o mobly, bem pertinho do bicho. Mas papai matou ele e mamãe e papai arrumaram a casa para diminuir a chance de aparecer outro.
 Papai contou a primeira historinha desde que saí da barriga da mamãe, foi sobre como Japlo roubou o pente de Mami Wata, eu fiquei muito animado!
 
 - 17/03/2025
@@ -78,4 +78,4 @@ Mamãe e papai me levaram pra tomar as vacinas de dois meses. Foram dois furinho
 Durante a noite fiquei mais calminho, até consegui dormi, mas estou com febre.
 
 - 18/03/2025
-Eu estou melhor da dor nas minhas perninhas. Mas estou irritado, mas mamãe e papai precisam entender que eu sósei chorar pra me comunicar com eles. Nem do banho estou gostando mais. Papai e mamãe estão tentando entender o motivo, quando descobrirem eu falo aqui 
+Eu estou melhor da dor nas minhas perninhas. Mas estou irritado, mas mamãe e papai precisam entender que eu só sei chorar pra me comunicar com eles. Nem do banho estou gostando mais. Papai e mamãe estão tentando entender o motivo, quando descobrirem eu falo aqui 
