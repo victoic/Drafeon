@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-27T09:21:12.702Z
+date: 2025-03-27T09:24:17.314Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -103,3 +103,6 @@ Eu estou melhor da dor nas minhas perninhas. Mas estou irritado, mas mamãe e pa
 
 - 24/03/2025
 Hoje eu fiquei 8 minutos no tummy time com papai. E de tarde mamãe e papai me colocaram para pisar em arroz, não entendi. Ah, eles ainda não descobriram o motivo de eu estar aperriando no banho, mas eu estou mais tranquilo também.
+
+- 26/03/2025
+Mamãe e papai perceberam que quandp eles estão conversando eu quero participar da conversa. Mamãe até falou que eu entendo eles, só não consigo falar do mesmo jeito, como eles descobriram?!
