@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-27T09:24:17.314Z
+date: 2025-03-27T20:03:11.772Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -87,7 +87,7 @@ Vovó Selma cantou parabéns para mim por vídeo.
 - 12/03/2025
 Papai e mamãe me amam!
 
-- 13/03/2025
+- 14/03/2025
 Hoje mamãe e papai me levaram para tomar vacina no postinho, mas a enfermeira não estava. Teremos que ir na segunda. Mamãe teve uma reação alérgica quando chegamos, ainda bem que eu estava dormindo, senão eu teria ficado muito nervoso.
 
 - 16/03/2025
