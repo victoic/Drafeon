@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-24T17:50:23.960Z
+date: 2025-03-27T09:21:12.702Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -102,4 +102,4 @@ Durante a noite fiquei mais calminho, até consegui dormi, mas estou com febre.
 Eu estou melhor da dor nas minhas perninhas. Mas estou irritado, mas mamãe e papai precisam entender que eu só sei chorar pra me comunicar com eles. Nem do banho estou gostando mais. Papai e mamãe estão tentando entender o motivo, quando descobrirem eu falo aqui.
 
 - 24/03/2025
-Hoje eu fiquei 8 minutos nontummy time com papai. E de tarde mamãe e papai me colocaram para pisar em arroz, não entendi. Ah, eles ainda não descobriram o motivo de eu estar aperriando no banho, mas eu estou mais tranquilo também.
+Hoje eu fiquei 8 minutos no tummy time com papai. E de tarde mamãe e papai me colocaram para pisar em arroz, não entendi. Ah, eles ainda não descobriram o motivo de eu estar aperriando no banho, mas eu estou mais tranquilo também.
