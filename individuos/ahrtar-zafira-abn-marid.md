@@ -2,13 +2,15 @@
 title: Ahr'tar Zafira abn Marid al-Khadir al-Muntadhir al-Qabira
 description: 
 published: true
-date: 2025-03-29T19:46:23.926Z
+date: 2025-03-29T19:49:56.814Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-03-29T19:45:23.619Z
 ---
 
 # Ahr'tar Zafira abn Marid al-Khadir al-Muntadhir al-Qabira
+
+![ahrtar-zafira.webp](/uploads/retratos/ahrtar-zafira.webp =300x){.align-center}
 
 > "Zafira, filho de Marid, o Verdejante, o Esperado, o Esmagador"
 {.is-info}
