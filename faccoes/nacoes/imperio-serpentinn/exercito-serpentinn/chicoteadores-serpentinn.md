@@ -2,10 +2,10 @@
 title: Chicoteadores Serpentinn
 description: 
 published: true
-date: 2021-03-06T23:44:12.134Z
+date: 2025-03-29T21:55:52.457Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-11T16:33:13.750Z
+dateCreated: 2024-08-13T19:58:30.331Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Chicoteadores Serpentinn -->
@@ -28,6 +28,9 @@ As armas carregadas por um chicoteador são:
 * um escudo longo oval, comumente pintado com as cores/símbolos do reinado do batalhão;
 * uma adaga;
 * uma pequena quantidade de dardos de madeira com ponta de bronze (dez dardos).
+
+### Montarias
+Comumente os chicoteadores não possuem montaria, mas ranques especializados podem ser capazes de montar Lagartos Gigantes Anciões ou Elefantes treinados para guerra.
 
 ### Estrutura
 Além dos soldados chicoteadores, uma divisão de guerra possui um Paygan Saalar, que comanda a divisão, uma quantidade de unidades secundárias de suporte que varia com o tamanho da divisão e possivelmente uma unidade arcanaria de suporte.
