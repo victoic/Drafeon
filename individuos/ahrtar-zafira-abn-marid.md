@@ -2,7 +2,7 @@
 title: Ahr'tar Zafira abn Marid al-Khadir al-Muntadhir al-Qabira
 description: 
 published: true
-date: 2025-03-29T19:45:23.619Z
+date: 2025-03-29T19:46:23.926Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-03-29T19:45:23.619Z
@@ -54,8 +54,8 @@ Seu palácio virou o Covil de Al-haro. Os jardins foram transformados em hortas 
 > (Al-haro respondeu: "Mas areia pode sufocar serpentes.")
 
 # Informações
-`Data de Nascimento` 1655 ED
-`Local de Nascimento` [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk)
+`Data de Nascimento` 1625 ED
+`Local de Nascimento` [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara)
 `Sexo Biológico` Masculino
 `Olhos` Âmbar brilhantes
 `Cabelos` Escamas douradas
