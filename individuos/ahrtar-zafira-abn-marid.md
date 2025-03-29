@@ -2,7 +2,7 @@
 title: Ahr'tar Zafira abn Marid al-Khadir al-Muntadhir al-Qabira
 description: 
 published: true
-date: 2025-03-29T19:49:56.814Z
+date: 2025-03-29T19:50:58.701Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-03-29T19:45:23.619Z
@@ -57,6 +57,7 @@ Seu palácio virou o Covil de Al-haro. Os jardins foram transformados em hortas 
 
 # Informações
 `Data de Nascimento` 1625 ED
+`Data de Morte` 1740 ED
 `Local de Nascimento` [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara)
 `Sexo Biológico` Masculino
 `Olhos` Âmbar brilhantes
