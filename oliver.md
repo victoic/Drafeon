@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-30T10:52:20.384Z
+date: 2025-03-30T10:54:18.354Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -111,7 +111,7 @@ Mamãe e papai perceberam que quando eles estão conversando eu quero participar
 Meu quarto está pronto! Ficou lindo!
 
 - 29/03/2025
-Ontem eu me virei duas vezes durante os tummy times com papai, mas ele nao filmou nenhuma vez.
+Ontem eu me virei duas vezes durante os tummy times com papai, mas fui tão rápido que ele nao conseguiu filmar nenhuma vez.
 
 - 30/03/2025
 Hoje no tummy time, papai me filmou mexendo os braços e as pernas como se eu quisesse engatinhar. Mas calma, papai, eu estou só treinando.
