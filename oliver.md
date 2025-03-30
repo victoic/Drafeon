@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-27T21:42:52.442Z
+date: 2025-03-30T10:47:04.926Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -106,3 +106,9 @@ Hoje eu fiquei 8 minutos no tummy time com papai. E de tarde mamãe e papai me c
 
 - 26/03/2025
 Mamãe e papai perceberam que quando eles estão conversando eu quero participar da conversa. Mamãe até falou que eu entendo eles, só não consigo falar do mesmo jeito, como eles descobriram?!
+
+- 28/03/2025
+Meu quarto está pronto! Ficou lindo!
+
+- 29/03/2025
+Ontem eu me virei duas vezes durante os tummy times com papai, mas ele nao filmou nenhuma vez.
