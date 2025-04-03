@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-03-30T10:54:18.354Z
+date: 2025-04-03T03:07:29.023Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -115,3 +115,6 @@ Ontem eu me virei duas vezes durante os tummy times com papai, mas fui tão ráp
 
 - 30/03/2025
 Hoje no tummy time, papai me filmou mexendo os braços e as pernas como se eu quisesse engatinhar. Mas calma, papai, eu estou só treinando.
+
+- 03/04/2025
+Hoje papai chegou de moto do trabalho, mamãe tirou uma foto minha com papai na moto.
