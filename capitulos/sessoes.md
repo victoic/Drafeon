@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-03-31T18:32:12.959Z
+date: 2025-04-06T20:15:52.893Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1028,3 +1028,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Amy](/individuos/personagens-de-jogadores/amy) teleporta com sucesso o grupo para os arredores de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk) e o grupo parte na roc retornando a [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr).
 {.is-info}
 
+- [06/04/2025]() | Data narrativa: 10 de Woton de 1755 ED
+
+> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) negocia com um membro do [Sussuros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias), ganha informações sobre A Guerra e sobre os Ahr'tar.
+{.is-info}
