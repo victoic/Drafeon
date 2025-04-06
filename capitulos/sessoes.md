@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-04-06T20:15:52.893Z
+date: 2025-04-06T20:29:12.556Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1019,7 +1019,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [13/03/2025](https://youtu.be/fcrdptOpjfc) | Data narrativa: 10 de Woton de 1755 ED
 
-> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) incrimina, sem seu conhecimento, um yuanti na tarvena A Lâmina do Escorpião. [Nasie Farrokhzad](/individuos/nasir-farrokhzad) solicita que o grupo se infiltre em uma base dos [Sussurros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias) na cidade buscando um livro de contas, contendo nomes e pagamentos realizados pela organização criminosa, que é carregado por um indivíduo chamado Contador.
+> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) incrimina, sem seu conhecimento, um yuanti na tarvena A Lâmina do Escorpião. [Nasir Farrokhzad](/individuos/nasir-farrokhzad) solicita que o grupo se infiltre em uma base dos [Sussurros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias) na cidade buscando um livro de contas, contendo nomes e pagamentos realizados pela organização criminosa, que é carregado por um indivíduo chamado Contador.
 > O grupo se infiltra na base sem ser percebido e furtam o livro e derrotam o Contador e um grupo de yuanti. Com o livro em mãos Amy teleporta o grupo para os arredores de [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr).
 {.is-info}
 
