@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-04-06T20:29:12.556Z
+date: 2025-04-06T20:31:07.414Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1030,5 +1030,5 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [06/04/2025]() | Data narrativa: 10 de Woton de 1755 ED
 
-> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) negocia com um membro do [Sussuros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias), ganha informações sobre A Guerra e sobre os Ahr'tar.
+> [Addran](/individuos/personagens-de-jogadores/addran-martel) desenvolve um plano para capturar o coiote que auxiliou o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) a entrar em [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr). Zerke negocia com o membro do [Sussuros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias), ganhando informações sobre A Guerra e sobre os Ahr'tar.
 {.is-info}
