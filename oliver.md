@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-04-07T13:58:51.968Z
+date: 2025-04-07T14:00:11.596Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -121,3 +121,6 @@ Hoje papai chegou de moto do trabalho, mamãe tirou uma foto minha com papai na 
 
 - 05/04/2025
 Bati meu recorde! Fiquei 10 minutos no tummy time. Vovó Selma e vovô Wellington estão vindo me visitar. Mamãe tomou banho comigo no chuveiro, primeiro eu tomei um susto, mas a água estava ótima!
+
+- 06/04/2025
+Vovó Selma e vovô Wellington já foram. Mamãe tomou banho de novo comigo no chuveiro, estou me acostumando.
