@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-04-07T14:00:11.596Z
+date: 2025-04-11T21:13:16.487Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -124,3 +124,9 @@ Bati meu recorde! Fiquei 10 minutos no tummy time. Vovó Selma e vovô Wellingto
 
 - 06/04/2025
 Vovó Selma e vovô Wellington já foram. Mamãe tomou banho de novo comigo no chuveiro, estou me acostumando.
+
+- 09/04/2025
+Papai me deu banho de choveiro pela primeira vez hoje, prefiro com a mamãe!
+
+- 11/04/2025
+Hoje eu fiz 3 meses! Mamãe fez um bolo de peixinho para mim, por causa do bico que faço. Papai e mamãe fizeram as decorações e eu tirei fotos com eles e meu irmãozinho Ragnar. Eles iam me levar para passear na pracinha, mas escureceu rápido hoje, mas amanhã eles vão me levar!
