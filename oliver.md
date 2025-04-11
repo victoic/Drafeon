@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-04-11T21:13:16.487Z
+date: 2025-04-11T21:16:32.077Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -127,6 +127,9 @@ Vovó Selma e vovô Wellington já foram. Mamãe tomou banho de novo comigo no c
 
 - 09/04/2025
 Papai me deu banho de choveiro pela primeira vez hoje, prefiro com a mamãe!
+
+- 10/04/2025
+Hoje foi um dia difícil. Tive muita dor, e deixei papai e principalmente mamãe acordados a noite toda preocupados. Tomara que eles descubram logo o que aconteceu.
 
 - 11/04/2025
 Hoje eu fiz 3 meses! Mamãe fez um bolo de peixinho para mim, por causa do bico que faço. Papai e mamãe fizeram as decorações e eu tirei fotos com eles e meu irmãozinho Ragnar. Eles iam me levar para passear na pracinha, mas escureceu rápido hoje, mas amanhã eles vão me levar!
