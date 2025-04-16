@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-04-16T09:02:14.868Z
+date: 2025-04-16T09:03:19.493Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -135,7 +135,7 @@ Hoje foi um dia difícil. Tive muita dor, e deixei papai e principalmente mamãe
 Hoje eu fiz 3 meses! Mamãe fez um bolo de peixinho para mim, por causa do bico que faço. Papai e mamãe fizeram as decorações e eu tirei fotos com eles e meu irmãozinho Ragnar. Eles iam me levar para passear na pracinha, mas escureceu rápido hoje, mas amanhã eles vão me levar!
 
 - 14/04/2025
-Hoje eu andei de moto pela prkmeira vez! Mamãe e papai me levaram para o postinho e tomei mais uma vacina, essa nem me deu reação.
+Hoje eu andei de moto pela primeira vez! Mamãe e papai me levaram para o postinho e tomei mais uma vacina, essa nem me deu reação.
 
 - 15/04/2025
 Mamãe é uma mestre das massagems! Eu estava com dor hoje de noite, ela fez uma massagem que eu soltei vários puns enormes.
