@@ -2,13 +2,16 @@
 title: Império Dragão
 description: 
 published: true
-date: 2025-02-06T13:11:06.156Z
+date: 2025-04-18T20:15:29.787Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:11.337Z
 ---
 
+![bandeira-imperio-dragao.png](/uploads/bandeiras/bandeira-imperio-dragao.png){.align-abstopright}
+
 <!-- SUBTITLE: Visão geral sobre Império Dragão -->
+
 # Império Dragão
 O império foi criado por [Makil Drasonur](/individuos/makil-drasonur#makil-drasonur), o [Imperador Dragão](/faccoes/imperio-dragao#imperio-dragao) durante a Era dos Mortos para a unificação das raças de Drafeon.
 
