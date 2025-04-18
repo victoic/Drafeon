@@ -2,14 +2,14 @@
 title: Imperio Serpentinn
 description: 
 published: true
-date: 2025-02-22T13:03:36.097Z
+date: 2025-04-18T20:26:08.849Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:13.575Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Imperio Serpentinn -->
-![535258315 Ad 05 D 7 A 81 Bf 2 F 9 C 4 Eecb 7 B 2](/uploads/bandeiras/535258315-ad-05-d-7-a-81-bf-2-f-9-c-4-eecb-7-b-2.png "535258315 Ad 05 D 7 A 81 Bf 2 F 9 C 4 Eecb 7 B 2"){.pagelogo}
+![bandeira-imperio-serpentinn.png](/uploads/bandeiras/bandeira-imperio-serpentinn.png){.align-abstopright}
 # Imperio Serpentinn
 O Império Serpentinn é um antigo e isolado império que habita O Grande Deserto.
 
