@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-04-07T11:34:21.139Z
+date: 2025-04-20T01:02:09.544Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1030,5 +1030,10 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [06/04/2025](https://www.youtube.com/watch?v=EbICzC_dTJ4) | Data narrativa: 10 de Woton de 1755 ED
 
-> [Addran](/individuos/personagens-de-jogadores/addran-martel) desenvolve um plano para capturar o coiote que auxiliou o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) a entrar em [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr). Zerke negocia com o membro do [Sussuros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias), ganhando informações sobre A Guerra e sobre os Ahr'tar. O grupo decidiu entregar o livro para ah [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh), onde ganham mais algumas informações sobre os ataques dA Guerra e oferece sopa de [flor de fogo](/fauna-e-flora/flor-de-fogo) para auxiliá-los na viagem pelo deserto. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) solicita que possa fazer pesquisas na biblioteca do palácio.
+> [Addran](/individuos/personagens-de-jogadores/addran-martel) desenvolve um plano para capturar o coiote que auxiliou o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) a entrar em [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr). Zerke negocia com o membro do [Sussuros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias), ganhando informações sobre A Guerra e sobre os Ahr'tar. O grupo decidiu entregar o livro para a [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh), onde ganham mais algumas informações sobre os ataques dA Guerra e oferece sopa de [flor de fogo](/fauna-e-flora/flor-de-fogo) para auxiliá-los na viagem pelo deserto. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) solicita que possa fazer pesquisas na biblioteca do palácio.
+{.is-info}
+
+- [19/04/2025]() | Data narrativa: 10 de Woton de 1755 ED
+
+> O grupo realiza pesquisas. Zerke recebe um token da Ahr'tar.
 {.is-info}
