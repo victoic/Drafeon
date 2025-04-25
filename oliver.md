@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-04-20T17:57:04.030Z
+date: 2025-04-25T16:42:16.224Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -142,3 +142,6 @@ Mamãe é uma mestre das massagems! Eu estava com dor hoje de noite, ela fez uma
 
 - 19/04/2025
 Papai me queimou sem querer. Ele ia limpar meu bumbum pra le dar banho e me colocou na pia sem perceber que a chaleira quente estava junto, aí eu bati a mão nela. Doeu muito, mas já estou bem.
+
+- 24/04/2025
+Hoje foi uma noite difícil, eu fiquei com muitos gases e não consegui soltar, chorei muito. Mamãe foi dormir comigo na rede.
