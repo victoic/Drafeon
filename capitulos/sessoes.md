@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-04-20T03:49:51.407Z
+date: 2025-04-28T12:59:30.432Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1033,7 +1033,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Addran](/individuos/personagens-de-jogadores/addran-martel) desenvolve um plano para capturar o coiote que auxiliou o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) a entrar em [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr). Zerke negocia com o membro do [Sussuros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias), ganhando informações sobre A Guerra e sobre os Ahr'tar. O grupo decidiu entregar o livro para a [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh), onde ganham mais algumas informações sobre os ataques dA Guerra e oferece sopa de [flor de fogo](/fauna-e-flora/flor-de-fogo) para auxiliá-los na viagem pelo deserto. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) solicita que possa fazer pesquisas na biblioteca do palácio.
 {.is-info}
 
-- [19/04/2025]() | Data narrativa: 10 de Woton de 1755 ED a 11 de Woton de 1755 ED
+- [19/04/2025](https://youtu.be/-HF08ozOkF0) | Data narrativa: 10 de Woton de 1755 ED a 11 de Woton de 1755 ED
 
 > O grupo realiza pesquisas nna biblioteca da [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh) em busca de informações sobre a Lâmina do Último Suspiro. Zerke recebe um token da Ahr'tar por sua disposição à auxiliar o [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), recebe também a promessa de uma estátua caso "acabe" com a guerra. O grupo participa de um banquete pela manhã, [Amy](/individuos/personagens-de-jogadores/amy), [Addran](/individuos/personagens-de-jogadores/addran-martel) e [Grot](/individuos/personagens-de-jogadores/grot) se retiram, mas todos recebem a sopa de [flor de fogo](/fauna-e-flora/flor-de-fogo).
 > [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) salva um dos pratos, uma jiboia, prometendo-a que a libertará. Participando de uma competição para se tornarem caçadores do Império Serpentinn, Magnus usa a jiboia como isca para capturar cães piscantes. O grupo é único a ter sucesso em um nível superior, trazendo o cão piscante vivo, como recompensa recebem os tecidos de caçador e um pergaminho de instruções de criação para lagartos gigantes.
