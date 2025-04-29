@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2025-02-23T16:52:44.663Z
+date: 2025-04-29T01:18:36.532Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2025-02-23T12:34:48.178Z
@@ -73,6 +73,24 @@ Em vez de receber os aventureiros no palácio, Hadiya Zaresh pode:
 - Oferecer-lhes acomodações em uma hospedaria protegida, mas simples.
 - Delegar encontros com eles a um conselheiro de confiança, que agiria como intermediário.
 - Testar sua lealdade, impondo uma tarefa para provar sua intenção antes de sequer considerar um convite formal.
+</details>
+
+## A Lâmina do Último Suspiro
+<details>
+
+ **Criação**: Forjada durante a Guerra das Lágrimas de Sangue, quando os deuses Mudur (Guerra) e Aaos (Morte) se uniram para conter uma rebelião de mortais que ameaçava invadir o reino dos deuses.
+  
+ **Material**: Ossos de serpentes primordiais (as primeiras criaturas de Opzot-Ulo) banhados no sangue de um deus-menor traidor.
+
+ **Forma**: Alterna entre uma khopesh curva (quando brandida) e um chicote de vértebras entrelaçadas (quando golpeia à distância).
+  
+ ### Localização
+  
+  Em uma caverna abaixo das areias do deserto no Vale dos Reis Esquecidos;
+  
+ ### O Roubo
+  Sarina roubará o artefato, caso ele não seja entregue.
+  
 </details>
 
 ## Novos Deuses
