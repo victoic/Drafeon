@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-03T23:22:31.953Z
+date: 2025-05-03T23:23:17.323Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -141,7 +141,7 @@ Hoje eu andei de moto pela primeira vez! Mamãe e papai me levaram para o postin
 Mamãe é uma mestre das massagems! Eu estava com dor hoje de noite, ela fez uma massagem que eu soltei vários puns enormes.
 
 - 19/04/2025
-Papai me queimou sem querer. Ele ia limpar meu bumbum pra le dar banho e me colocou na pia sem perceber que a chaleira quente estava junto, aí eu bati a mão nela. Doeu muito, mas já estou bem.
+Papai me queimou sem querer. Ele ia limpar meu bumbum pra me dar banho e me colocou na pia sem perceber que a chaleira quente estava junto, aí eu bati a mão nela. Doeu muito, mas já estou bem.
 
 - 24/04/2025
 Hoje foi uma noite difícil, eu fiquei com muitos gases e não consegui soltar, chorei muito. Mamãe foi dormir comigo na rede.
