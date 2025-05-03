@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-03T23:21:42.824Z
+date: 2025-05-03T23:22:31.953Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -147,7 +147,7 @@ Papai me queimou sem querer. Ele ia limpar meu bumbum pra le dar banho e me colo
 Hoje foi uma noite difícil, eu fiquei com muitos gases e não consegui soltar, chorei muito. Mamãe foi dormir comigo na rede.
 
 - 01/05/2025
-Eu coloquei a minha mão no rosto de mamãe pela primeira vez.
+Eu coloquei a minha mão no rosto de mamãe pela primeira vez. Eu estou dormindo melhor, também.
 
 - 03/05/2025
 Fomos na pracinha de novo, mas hoje papai me levou na bolsa canguru! Foi muito legal, só na volta que eu cansei e pedi pra mamãe me levar no braço. Quando estávamos chegando em casa tivemos que correr de um enxame de insetos.
