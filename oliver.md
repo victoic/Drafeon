@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-03T23:24:46.825Z
+date: 2025-05-07T19:07:28.666Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -151,3 +151,6 @@ Eu coloquei a minha mão no rosto de mamãe pela primeira vez. Eu estou dormindo
 
 - 03/05/2025
 Fomos na pracinha de novo, mas hoje papai me levou na bolsa canguru! Foi muito legal, só na volta que eu cansei e pedi pra mamãe me levar no braço. Quando estávamos chegando em casa tivemos que correr de um enxame de insetos.
+
+- 07/05/2025
+Hoje eu fiz minha primeira obra de arte. Papai e mamãe colocaram tinta em uma sacola e eu fiquei espalhando e misturando as tintas. No fim papai estampou em uma folha de papel.
