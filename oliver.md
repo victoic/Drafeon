@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-07T19:07:28.666Z
+date: 2025-05-12T11:28:01.943Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -154,3 +154,9 @@ Fomos na pracinha de novo, mas hoje papai me levou na bolsa canguru! Foi muito l
 
 - 07/05/2025
 Hoje eu fiz minha primeira obra de arte. Papai e mamãe colocaram tinta em uma sacola e eu fiquei espalhando e misturando as tintas. No fim papai estampou em uma folha de papel.
+
+- 10/05/2025
+Eu virei de barriga para baixo sozinho pela primeira vez. Consegui virar várias vezes seguidas, até uma com vovó Selma vendo. Só que agora não posso mais dormir de charutinho i.i. Por conta disso a noite hoje foi muito ruim.
+
+- 11/05/2025
+Tenho 4 meses! E hoje também foi o primeiro dia das mães de mamãe. Mamãe e papai fizeram o mêsversário de Naruto, parece que eu tenho um redemoinho nas costas que parece o selo do Naruto, mas não sei quem é esse e mamãe disse que só posso assistir quando estiver grande. Tinha cupcakes e docinhos. Papai fez uma pizza pra o dia das mamães.
