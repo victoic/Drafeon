@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-12T11:28:01.943Z
+date: 2025-05-14T08:56:23.594Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -160,3 +160,6 @@ Eu virei de barriga para baixo sozinho pela primeira vez. Consegui virar várias
 
 - 11/05/2025
 Tenho 4 meses! E hoje também foi o primeiro dia das mães de mamãe. Mamãe e papai fizeram o mêsversário de Naruto, parece que eu tenho um redemoinho nas costas que parece o selo do Naruto, mas não sei quem é esse e mamãe disse que só posso assistir quando estiver grande. Tinha cupcakes e docinhos. Papai fez uma pizza pra o dia das mamães.
+
+- 14/05/2025
+Mamãe notou que eu ja sei dobrar as perninhas ficando de joelhos quando estou no tummy time. Só falta ganhar força nos braço pra sair engatinhando.
