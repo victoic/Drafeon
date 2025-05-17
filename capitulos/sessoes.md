@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-05-17T23:31:02.973Z
+date: 2025-05-17T23:32:21.000Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1043,4 +1043,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - [04/05/2025](https://youtu.be/0FpBJUokwLE) | Data narrativa: 11 de Woton de 1755
 
 > O grupo adentra o [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), enfrentando criaturas gigantes terríveis e, ao fim do dia, encontram um grupo de aarakocras nativas, liderados por [Zarah](/individuos/zahra-bint-al-Sahim). O grupo conhece uma velha humana com poderes de divinação. Zarah oferece um local para passarem a noite gélida do deserto após [Grot](/individuos/personagens-de-jogadores/grot) oferecer bebida.
+{.is-info}
+
+- [17/05/2025]() | Data narrativa: 11 de Woton de 1755
+
+> .
 {.is-info}
