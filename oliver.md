@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-14T08:56:23.594Z
+date: 2025-05-19T20:24:59.684Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -163,3 +163,9 @@ Tenho 4 meses! E hoje também foi o primeiro dia das mães de mamãe. Mamãe e p
 
 - 14/05/2025
 Mamãe notou que eu ja sei dobrar as perninhas ficando de joelhos quando estou no tummy time. Só falta ganhar força nos braço pra sair engatinhando.
+
+- 17/05/2025
+Hoje dei os parabéns a vovó e papai mostrou meu desenho com ela. Já estou começando a colocar força nos bracinhos.
+
+- 18/05/2025
+Hoje fui passear com mamãe e papai, vi umas vaquinhas. Elas ficaram curiosas quanto a mim também. Na volta ainda peguei numa florzinha que mamãe me mostrou.
