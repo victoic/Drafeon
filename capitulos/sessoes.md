@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-05-17T23:32:21.000Z
+date: 2025-05-22T23:08:24.940Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1045,7 +1045,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo adentra o [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), enfrentando criaturas gigantes terríveis e, ao fim do dia, encontram um grupo de aarakocras nativas, liderados por [Zarah](/individuos/zahra-bint-al-Sahim). O grupo conhece uma velha humana com poderes de divinação. Zarah oferece um local para passarem a noite gélida do deserto após [Grot](/individuos/personagens-de-jogadores/grot) oferecer bebida.
 {.is-info}
 
-- [17/05/2025]() | Data narrativa: 11 de Woton de 1755
+- [17/05/2025](https://youtu.be/ow6a1DYmbp0) | Data narrativa: 11 de Woton de 1755
 
-> .
+> Grupo conversa com a velha humana nas torres de pedra do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto). Partem em direção a Jawhara'Alasahara, mas encontram um acampamento dA Guerra no caminho. Durante a conversa com os Yuanti rebeldes, Addran faz com que o líder do acampamento, Khalid, "prenda-os". No entanto, Amy espiona Khalid e descobre que ele é um traidor trabalhando para um Ahr'tar.
 {.is-info}
