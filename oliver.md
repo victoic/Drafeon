@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-27T17:52:25.188Z
+date: 2025-05-27T17:56:21.978Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -168,7 +168,7 @@ Mamãe notou que eu ja sei dobrar as perninhas ficando de joelhos quando estou n
 Hoje dei os parabéns a vovó e papai mostrou meu desenho com ela. Já estou começando a colocar força nos bracinhos.
 
 - 18/05/2025
-Hoje fui passear com mamãe e papai, vi umas vaquinhas. Elas ficaram curiosas quanto a mim também. Na volta ainda peguei numa florzinha que mamãe me mostrou.
+Hoje fui passear com mamãe e papai, vi umas vaquinhas. Elas ficaram curiosas quanto a mim também. Na volta ainda peguei numa florzinha que mamãe me mostrou, foi a primeira vez.
 
 - 22/05/2025
 Hoje fui pra consulta e fiz um sucesso! Ri pra todo mundo. Mas papai e mamãe não gostaram da médica.
@@ -177,10 +177,10 @@ Hoje fui pra consulta e fiz um sucesso! Ri pra todo mundo. Mas papai e mamãe n�
 Hoje dormi só com mamãe pq papai viajou para Teresina para trabalhar. Mas amanhã ele volta.
 
 - 25/05/2025
-Hoje passeei com mamãe e papai na pracinha, na volta passamos na casa da professora Suzana, colsga e papai, ela deu coco e limão e eu dei um sorriso.
+Hoje passeei com mamãe e papai, uma cachorrinha seguiu a gente, na volta passamos na casa da professora Suzana, colega de papai, ela deu coco e limão e eu dei um sorriso.
 
 - 26/05/2025
-Mamãe descobriu que estou entrando na "crise dos 5 meses", estou dormindo menos e tendo pesadelos. Se preparem!
+Mamãe descobriu que estou entrando na "crise dos 5 meses", estou dormindo menos, mamando menos e acordando com pesadelos. Se preparem!
 
 - 27/05/2025
-Mamãe notou meu primeiro sinal, parece uma estrela na minha panturrilha esquerda.
+Mamãe notou meu primeiro sinal, parece um coração, na minha panturrilha esquerda, mamãe tem uma parecida.
