@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-19T20:25:23.323Z
+date: 2025-05-27T17:52:25.188Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -169,3 +169,18 @@ Hoje dei os parabéns a vovó e papai mostrou meu desenho com ela. Já estou com
 
 - 18/05/2025
 Hoje fui passear com mamãe e papai, vi umas vaquinhas. Elas ficaram curiosas quanto a mim também. Na volta ainda peguei numa florzinha que mamãe me mostrou.
+
+- 22/05/2025
+Hoje fui pra consulta e fiz um sucesso! Ri pra todo mundo. Mas papai e mamãe não gostaram da médica.
+
+- 23/05/2025
+Hoje dormi só com mamãe pq papai viajou para Teresina para trabalhar. Mas amanhã ele volta.
+
+- 25/05/2025
+Hoje passeei com mamãe e papai na pracinha, na volta passamos na casa da professora Suzana, colsga e papai, ela deu coco e limão e eu dei um sorriso.
+
+- 26/05/2025
+Mamãe descobriu que estou entrando na "crise dos 5 meses", estou dormindo menos e tendo pesadelos. Se preparem!
+
+- 27/05/2025
+Mamãe notou meu primeiro sinal, parece uma estrela na minha panturrilha esquerda.
