@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-27T17:56:21.978Z
+date: 2025-05-29T20:55:03.167Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -184,3 +184,6 @@ Mamãe descobriu que estou entrando na "crise dos 5 meses", estou dormindo menos
 
 - 27/05/2025
 Mamãe notou meu primeiro sinal, parece um coração, na minha panturrilha esquerda, mamãe tem uma parecida.
+
+- 29/05/2025
+Hoje foi um dia muito divertido! Ouvi muito Led Zeppelin e Queen com mamãe, treinei muito meus gritos. Mamãe deu a ideia de armar a piscina para eu tomar um bainho, estava muito calor.  No fim da tarde saímos para ver as platinhas e passarinhos. E ainda me empurrei pra frente, a forma tá errada, mas estou chegando lá!
