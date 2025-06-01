@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-06-01T00:25:01.634Z
+date: 2025-06-01T03:22:38.679Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1050,5 +1050,11 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Grupo conversa com a velha humana nas torres de pedra do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto). Partem em direção a Jawhara'Alasahara, mas encontram um acampamento dA Guerra no caminho. Durante a conversa com os Yuanti rebeldes, Addran faz com que o líder do acampamento, Khalid, "prenda-os". No entanto, Amy espiona Khalid e descobre que ele é um traidor trabalhando para um Ahr'tar.
 {.is-info}
 
-- [31/05/2025]() | Data narraativa: 11 de Woton de 1755
-Zerke não pega nem o colar nem o diário, mas consegue decorar três frases.
+- [31/05/2025]() | Data narrativa: 11 de Woton de 1755
+
+> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) convence [Khalid]() de sua aliança com o Ahr'tar, Khalid como teste final de confiança, pede para Zerke envenenar as fontes de água do acampamento. Zerke concorda, mas se infiltra na tenda de Khalid em busca de provas de sua conexão com os Ahr'tar, encontrando um colar ensanguentado e um diário, que ele decora algumas passagens codificadas.
+>
+> Após o grupo tomar conhecimento do plano de Khalid, resolvem roubar o diário para criar pressão em Khalid. [Addran](/individuos/personagens-de-jogadores/addran-martel) decifra o diário e [Amy](/individuos/personagens-de-jogadores/amy) parte para conversar com Khalid, após descobrir que Khalid age dado que sua filha foi sequestrada pelos Ahr'tar. Durante a conversa com Amy, Khalid tenta conjurar mensagem para informar [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh) da traição do grupo. Zerke impede a conjuração e Khalid ataca. [Grot](/individuos/personagens-de-jogadores/grot), espionava a tenda com um olho arcano. Zerke parte para avisar [Tarek]() da traição de Khalid com a guerra, mostrando o diário. Addran, Grot e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) partem para ajudar Amy no combate. No entanto, Amy se teleporta da tenda de volta a tenda do grupo, Addran, Grot e Magnus chegam a tenda de Khalid, onde dois guardas aliados de Khalid se encontram. Ao entrarem e verem que Khalid nem Amy se encontram lá, Grot conjura um truque de corda para que se escondam da multidão que Zerke leva ao local, evitando que pareçam suspeitos.
+>
+> Os guardas tentam impedir, mas não conseguem. Zerke tenta convencer Tarek que os guardas são aliados de Khalid.
+{.is-info}
