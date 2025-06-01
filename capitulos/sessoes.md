@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-06-01T03:22:38.679Z
+date: 2025-06-01T03:25:36.989Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1050,7 +1050,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Grupo conversa com a velha humana nas torres de pedra do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto). Partem em direção a Jawhara'Alasahara, mas encontram um acampamento dA Guerra no caminho. Durante a conversa com os Yuanti rebeldes, Addran faz com que o líder do acampamento, Khalid, "prenda-os". No entanto, Amy espiona Khalid e descobre que ele é um traidor trabalhando para um Ahr'tar.
 {.is-info}
 
-- [31/05/2025]() | Data narrativa: 11 de Woton de 1755
+- [31/05/2025](https://youtu.be/PgKmFsny0bs) | Data narrativa: 11 de Woton de 1755
 
 > [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) convence [Khalid]() de sua aliança com o Ahr'tar, Khalid como teste final de confiança, pede para Zerke envenenar as fontes de água do acampamento. Zerke concorda, mas se infiltra na tenda de Khalid em busca de provas de sua conexão com os Ahr'tar, encontrando um colar ensanguentado e um diário, que ele decora algumas passagens codificadas.
 >
