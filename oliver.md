@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-05-29T20:55:03.167Z
+date: 2025-06-09T15:07:20.764Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -187,3 +187,6 @@ Mamãe notou meu primeiro sinal, parece um coração, na minha panturrilha esque
 
 - 29/05/2025
 Hoje foi um dia muito divertido! Ouvi muito Led Zeppelin e Queen com mamãe, treinei muito meus gritos. Mamãe deu a ideia de armar a piscina para eu tomar um bainho, estava muito calor.  No fim da tarde saímos para ver as platinhas e passarinhos. E ainda me empurrei pra frente, a forma tá errada, mas estou chegando lá!
+
+- 08/06/2025
+Hoje fiz minha primeira viagem de ônibus. Foi muito demorada! Saímos de 12:30 e chegamos na casa de vovó de 23:00. Só conseguir dormir de noite. Mas papai turou fotos lindas minhas com mamãe.
