@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-06-09T15:07:20.764Z
+date: 2025-06-18T13:00:22.543Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -189,4 +189,19 @@ Mamãe notou meu primeiro sinal, parece um coração, na minha panturrilha esque
 Hoje foi um dia muito divertido! Ouvi muito Led Zeppelin e Queen com mamãe, treinei muito meus gritos. Mamãe deu a ideia de armar a piscina para eu tomar um bainho, estava muito calor.  No fim da tarde saímos para ver as platinhas e passarinhos. E ainda me empurrei pra frente, a forma tá errada, mas estou chegando lá!
 
 - 08/06/2025
-Hoje fiz minha primeira viagem de ônibus. Foi muito demorada! Saímos de 12:30 e chegamos na casa de vovó de 23:00. Só conseguir dormir de noite. Mas papai turou fotos lindas minhas com mamãe.
+Hoje fiz minha primeira viagem de ônibus. Foi muito demorada! Saímos de 12:30 e chegamos na casa de vovó de 23:00. Só conseguir dormir de noite. Mas papai tirou fotos lindas minhas com mamãe.
+
+- 09/06/2025
+Estou doente, com diarreia e febre e logo perto do meu mêsversário..
+
+- 10/06/2025
+Tive uma consulta com a pediatra Roberta, ela estava no dia que nasci. Mamãe e papai tiraram várias dúvidas, mas ficaram com vergonha por não terem levado uma fralda extra.
+
+- 11/06/2025
+Fiz 5 meses! Mamãe e papai aproveitaram o São João e fizeram de cordel/nordeste, tinha bolo de milho (vegano), bolo de rolo, milho cozido e paçoca. Me vestiram de lampião. Foi minha primeira festinha com outras pessoas, uma pena eu estar doente.
+
+- 12/06/2025
+Acordei com febre bem alta. Mamãe e papai me levaram para a emergência, passei o dia lá e não resolveu nada. Titia Giovanna fez um exame em mim e descobriram que é uma bactéria, comecei a tomar um antibiótico.
+
+- 13/06/2025
+Não tive mais febre, mas estou ficando resfriafo. Mamãe e papai estão com medo de ser bronquiolite.
