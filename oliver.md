@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-06-18T13:00:22.543Z
+date: 2025-06-18T13:02:27.335Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -204,4 +204,13 @@ Fiz 5 meses! Mamãe e papai aproveitaram o São João e fizeram de cordel/nordes
 Acordei com febre bem alta. Mamãe e papai me levaram para a emergência, passei o dia lá e não resolveu nada. Titia Giovanna fez um exame em mim e descobriram que é uma bactéria, comecei a tomar um antibiótico.
 
 - 13/06/2025
-Não tive mais febre, mas estou ficando resfriafo. Mamãe e papai estão com medo de ser bronquiolite.
+Não tive mais febre, mas estou ficando resfriafo. Mamãe e papai estão com medo de ser bronquiolite. Eles estão fazendo lavagem no meu nariz, eu odeio.
+
+- 15/06/2025
+Papai viajou para Recife para fazer uma prova e volta amanhã.
+
+- 16/06/2025
+Papai voltou! Mas já estava tarde.
+
+- 17/06/2025
+Papai viajou de novo, dessa vez para buscar meu irmãozinho Ragnar.
