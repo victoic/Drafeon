@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-06-18T13:18:58.407Z
+date: 2025-06-23T00:08:36.865Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -214,3 +214,6 @@ Papai voltou! Mas já estava tarde.
 
 - 17/06/2025
 Papai viajou de novo, dessa vez para buscar meu irmãozinho Ragnar.
+
+- 22/06/2025
+Fui passear com mamãe e papai em Triunfo. Buscamos vovó Sandra e titio Pedro Luiz e fomos para o Pico do Papagaio. Ou tentamos, a estrada é muito ruim, aí eu comecei a chorar e mamãe mandou voltarmos. Aí nós fomos visitar várias praças de Triunfo e depois voltamos para a casa de vovó Selma.
