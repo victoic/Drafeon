@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-06-23T00:08:36.865Z
+date: 2025-06-25T19:18:23.197Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -217,3 +217,9 @@ Papai viajou de novo, dessa vez para buscar meu irmãozinho Ragnar.
 
 - 22/06/2025
 Fui passear com mamãe e papai em Triunfo. Buscamos vovó Sandra e titio Pedro Luiz e fomos para o Pico do Papagaio. Ou tentamos, a estrada é muito ruim, aí eu comecei a chorar e mamãe mandou voltarmos. Aí nós fomos visitar várias praças de Triunfo e depois voltamos para a casa de vovó Selma.
+
+- 23/06/2025
+Hoje foi meu primeiro São João! Papai e mamãe me levaram para uma festinha para eu ver a fogueira e os fogos de artifício, mamãe até segurou uma chuvinha comigo. Era bem depois da minha hora de ninar, então o sono bateu logo. Eu também dormi sem tomar banho kkkk.
+
+- 24/06/2025
+Não gosto mais de tomar banho, eu brigo e choro muito.
