@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-06-01T03:25:36.989Z
+date: 2025-06-28T23:36:04.959Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1057,4 +1057,9 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Após o grupo tomar conhecimento do plano de Khalid, resolvem roubar o diário para criar pressão em Khalid. [Addran](/individuos/personagens-de-jogadores/addran-martel) decifra o diário e [Amy](/individuos/personagens-de-jogadores/amy) parte para conversar com Khalid, após descobrir que Khalid age dado que sua filha foi sequestrada pelos Ahr'tar. Durante a conversa com Amy, Khalid tenta conjurar mensagem para informar [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh) da traição do grupo. Zerke impede a conjuração e Khalid ataca. [Grot](/individuos/personagens-de-jogadores/grot), espionava a tenda com um olho arcano. Zerke parte para avisar [Tarek]() da traição de Khalid com a guerra, mostrando o diário. Addran, Grot e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) partem para ajudar Amy no combate. No entanto, Amy se teleporta da tenda de volta a tenda do grupo, Addran, Grot e Magnus chegam a tenda de Khalid, onde dois guardas aliados de Khalid se encontram. Ao entrarem e verem que Khalid nem Amy se encontram lá, Grot conjura um truque de corda para que se escondam da multidão que Zerke leva ao local, evitando que pareçam suspeitos.
 >
 > Os guardas tentam impedir, mas não conseguem. Zerke tenta convencer Tarek que os guardas são aliados de Khalid.
+{.is-info}
+
+- [28/06/2025]() | Data narrativa: 11 de Woton de 1755
+
+> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) convence [Tarek](), os guardas aliados são mortos pela multidão de forma estranhamente unificada e seus membros decepados e expostos em estacas nas margens do acampamento. Tarek questiona o grupo e é convencido pelo Zerke e pela [Amy](/individuos/personagens-de-jogadores/amy) e os informa que [Vasha]() os acompanhará para [Jawhara'alsahara]().
 {.is-info}
