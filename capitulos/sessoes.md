@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-06-29T11:47:05.754Z
+date: 2025-06-29T11:51:36.585Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1063,5 +1063,5 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 > [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) convence [Tarek](), os guardas aliados são mortos pela multidão de forma estranhamente unificada e seus membros decepados e expostos em estacas nas margens do acampamento. Tarek questiona o grupo e é convencido pelo Zerke e pela [Amy](/individuos/personagens-de-jogadores/amy) e os informa que [Vasha]() os acompanhará para [Jawhara'alsahara](). No antigo palácio de [Zafira](/individuos/ahrtar-zafira-abn-marid), o grupo descobre que [Saraya]() é uma dos generais de [Al-Haro](/individuos/al-haro), e planejam o roubo do Mapa das Estrelas Mortas.
 >
-> O grupo negocia com Soraya recompensas pela ajuda.
+> O grupo negocia com Soraya recompensas pela ajuda: Zerke pede que o tratado de paz receba seu nome; Grot solicita auxilio para completar seu projeto; Magnus pede ajuda para recuperar sua alma; Adran requer pontos de negociação de paz mínimos. Os pontos de negociação são: 1) fim da discriminação por castas; 2) os Ahr'tar precisarão trabalhar nas áreas onde mantinham escravos; 3) fim do culto  [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo) como base do Império.
 {.is-info}
