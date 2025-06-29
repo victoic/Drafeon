@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-06-29T12:20:42.160Z
+date: 2025-06-29T12:22:03.566Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -228,4 +228,4 @@ Não gosto mais de tomar banho, eu brigo e choro muito.
 Agora gosto de banho de novo kkkk.
 
 - 28/06/2025
-Hoje foi a primeira que fiquei longe de mamãe, ela foi trabalhar de tarde. Ainda bem que papai e vovó Selma me colocaram pra dormir muito pra eu não perceber. Também foi a primeira vez que fiquei só com vovó Selma, enquanto papai foi buscar mamãe. No fim da tarde fomos caminhar e vi várias flores coloridas.
+Hoje foi a primeira vez que fiquei longe de mamãe, ela foi trabalhar de tarde. Ainda bem que papai e vovó Selma me colocaram pra dormir muito pra eu não perceber. Também foi a primeira vez que fiquei só com vovó Selma, enquanto papai foi buscar mamãe. No fim da tarde fomos caminhar e vi várias flores coloridas.
