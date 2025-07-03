@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-06-29T12:22:03.566Z
+date: 2025-07-03T22:56:20.131Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -229,3 +229,9 @@ Agora gosto de banho de novo kkkk.
 
 - 28/06/2025
 Hoje foi a primeira vez que fiquei longe de mamãe, ela foi trabalhar de tarde. Ainda bem que papai e vovó Selma me colocaram pra dormir muito pra eu não perceber. Também foi a primeira vez que fiquei só com vovó Selma, enquanto papai foi buscar mamãe. No fim da tarde fomos caminhar e vi várias flores coloridas.
+
+- 02/07/2025
+Papai viajou de novo i.i. Além disso vovó veio passar o dia comigo e mamãe e dormiu aqui <3
+
+- 03/07/2025
+Papai foi aprovado! Vamos nos mudar para uma cidade que mamãe e papai dizem que vai ser melhor. Acho que vou sentir falta das plantinhas. Vovó foi embora. 
