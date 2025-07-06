@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-06T04:21:49.660Z
+date: 2025-07-06T17:05:37.009Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -239,11 +239,11 @@ Papai viajou de novo i.i. Além disso vovó Sandra veio passar o dia comigo e ma
 - 03/07/2025
 Papai foi aprovado! Vamos nos mudar para uma cidade que mamãe e papai dizem que vai ser melhor. Acho que vou sentir falta das plantinhas.
 
-- 04/06/2025
+- 04/07/2025
 Eu aprendi a fazer besourinho depois de ficar vendo todo mundo fazer pra mim, eles acham tão engraçado quando eu faço quanto eu acho quando eles fazem. Vovó Sandra deu banho em mim pela primeira vez.
 
-- 05/06/2025
+- 05/07/2025
 Vovó Sandra foi embora, mamãe disse que papai está voltando. Hoje eu oficialmente comecei a me arrastar, saí até do tapetinho e descobri o chão.
 
-- 06/06/2025
+- 06/07/2025
 Papai chegou de madrugada.
