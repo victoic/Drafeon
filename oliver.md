@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-03T22:57:02.359Z
+date: 2025-07-06T04:21:49.660Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -227,14 +227,23 @@ Não gosto mais de tomar banho, eu brigo e choro muito.
 - 26/06/2025
 Agora gosto de banho de novo kkkk.
 
-- 27/07/2025
+- 27/06/2025
 Papai foi nomeado para um novo emprego!
 
 - 28/06/2025
 Hoje foi a primeira vez que fiquei longe de mamãe, ela foi trabalhar de tarde. Ainda bem que papai e vovó Selma me colocaram pra dormir muito pra eu não perceber. Também foi a primeira vez que fiquei só com vovó Selma, enquanto papai foi buscar mamãe. No fim da tarde fomos caminhar e vi várias flores coloridas.
 
 - 02/07/2025
-Papai viajou de novo i.i. Além disso vovó veio passar o dia comigo e mamãe e dormiu aqui <3
+Papai viajou de novo i.i. Além disso vovó Sandra veio passar o dia comigo e mamãe e vai dormir aqui uns dias <3
 
 - 03/07/2025
-Papai foi aprovado! Vamos nos mudar para uma cidade que mamãe e papai dizem que vai ser melhor. Acho que vou sentir falta das plantinhas. Vovó foi embora. 
+Papai foi aprovado! Vamos nos mudar para uma cidade que mamãe e papai dizem que vai ser melhor. Acho que vou sentir falta das plantinhas.
+
+- 04/06/2025
+Eu aprendi a fazer besourinho depois de ficar vendo todo mundo fazer pra mim, eles acham tão engraçado quando eu faço quanto eu acho quando eles fazem. Vovó Sandra deu banho em mim pela primeira vez.
+
+- 05/06/2025
+Vovó Sandra foi embora, mamãe disse que papai está voltando. Hoje eu oficialmente comecei a me arrastar, saí até do tapetinho e descobri o chão.
+
+- 06/06/2025
+Papai chegou de madrugada.
