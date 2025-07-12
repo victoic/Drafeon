@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-06T17:05:37.009Z
+date: 2025-07-12T15:53:19.515Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -247,3 +247,9 @@ Vovó Sandra foi embora, mamãe disse que papai está voltando. Hoje eu oficialm
 
 - 06/07/2025
 Papai chegou de madrugada.
+
+- 08/07/2025
+Fui para festinha de aniversário do meu primo Ravi, ele fez 5 anos. Fiquei acordado até super tarde, papai e mamãe já sabem que vou aperriar a noite toda.
+
+- 11/07/2025
+Fiz 6 meses! Mamãe e papai fizeram uma festinha de rock & roll, por causa dos meus gritos. Tinha waffles, cupcake de cenoura, bolo, wafer em forma de teclado e chocolate com casquinha em forma de microfone. Papai editou uma música com meus gritos cantando.
