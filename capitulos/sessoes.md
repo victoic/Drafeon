@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-06-29T11:51:36.585Z
+date: 2025-07-13T03:23:55.237Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1064,4 +1064,15 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) convence [Tarek](), os guardas aliados são mortos pela multidão de forma estranhamente unificada e seus membros decepados e expostos em estacas nas margens do acampamento. Tarek questiona o grupo e é convencido pelo Zerke e pela [Amy](/individuos/personagens-de-jogadores/amy) e os informa que [Vasha]() os acompanhará para [Jawhara'alsahara](). No antigo palácio de [Zafira](/individuos/ahrtar-zafira-abn-marid), o grupo descobre que [Saraya]() é uma dos generais de [Al-Haro](/individuos/al-haro), e planejam o roubo do Mapa das Estrelas Mortas.
 >
 > O grupo negocia com Soraya recompensas pela ajuda: Zerke pede que o tratado de paz receba seu nome; Grot solicita auxilio para completar seu projeto; Magnus pede ajuda para recuperar sua alma; Adran requer pontos de negociação de paz mínimos. Os pontos de negociação são: 1) fim da discriminação por castas; 2) os Ahr'tar precisarão trabalhar nas áreas onde mantinham escravos; 3) fim do culto  [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo) como base do Império.
+{.is-info}
+
+- [13/07/2025]() | Data narrativa: 13 de Woton de 1755 - 14 de Woton de 1755
+
+> O grupo passa o fim da tarde em [Jawhara'alsahara](), traçando um curso de viagem para [Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana) usando a Roc do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) para voarem pelas margens. [Addran](/individuos/personagens-de-jogadores/addran-martel) busca informações de perigos da viagem e, junto com a [Amy](/individuos/personagens-de-jogadores/amy), impedem a punição de uma criança Yuanti por um roubo, conseguindo um amuleto com um símbolo de uma aranha de pernas de serpentes. 
+> 
+> [Soraya]() solicita a presença do grupo sobre uma visão, chegando ao local, o grupo observa uma ritual de Soraya, onde veem uma cidada (Jana) sendo destruída por um terremoto após um grupo roubar o Mapa das Estrelas Mortas, Addran percebe algo errado com a visão, que provavelmente foi implantada a Soraya por alguma entidade terceira, após comunicar ao resto do grupo, decidem fingir que a missão parece muito perigosa e dizer que não irão mais a Jana.
+> 
+> Magnus empresta um brinco a Soraya e informa do plano do grupo. Soraya passa a fingir hostilidade, expulsando o grupo do palácio. Saindo do palácio, são ameaçados por [Ahriman Vahdati](), um outro general de [Al-Haro](/individuos/al-haro), mas [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e Amy evitam o combate traduzindo errado para o Addran.
+>
+> O grupo busca abrigo nos arredores da cidade, onde Amy encontra a Porta-Voz e Grot tem uma conversa com a Manopla. Na manhã seguinte o grupo parte em direção ao sul. Grot fez um escudo broquél para o Addran.
 {.is-info}
