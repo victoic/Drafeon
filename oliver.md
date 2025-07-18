@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-18T00:28:28.250Z
+date: 2025-07-18T00:37:51.792Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -216,7 +216,7 @@ Papai voltou! Mas já estava tarde.
 Papai viajou de novo, dessa vez para buscar meu irmãozinho Ragnar.
 
 - 22/06/2025
-Fui passear com mamãe e papai em Triunfo. Buscamos vovó Sandra e titio Pedro Luiz e fomos para o Pico do Papagaio. Ou tentamos, a estrada é muito ruim, aí eu comecei a chorar e mamãe mandou voltarmos. Aí nós fomos visitar várias praças de Triunfo e depois voltamos para a casa de vovó Selma.
+Fui passear com mamãe e papai em Triunfo. Buscamos vovó Sandra e titio Pedro Luiz e fomos para o Pico do Papagaio. Ou tentamos, a estrada é muito ruim, aí eu comecei a chorar e mamãe mandou voltarmos. Aí nós fomos visitar várias praças de Triunfo e depois voltamos para a casa de vovó Selma. Tirei fotos com vovó e titio.
 
 - 23/06/2025
 Hoje foi meu primeiro São João! Papai e mamãe me levaram para uma festinha para eu ver a fogueira e os fogos de artifício, mamãe até segurou uma chuvinha comigo. Era bem depois da minha hora de ninar, então o sono bateu logo. Eu também dormi sem tomar banho kkkk.
@@ -249,7 +249,13 @@ Vovó Sandra foi embora, mamãe disse que papai está voltando. Hoje eu oficialm
 Papai chegou de madrugada.
 
 - 08/07/2025
-Fui para festinha de aniversário do meu primo Ravi, ele fez 5 anos. Fiquei acordado até super tarde, papai e mamãe já sabem que vou aperriar a noite toda.
+Fui para festinha de aniversário do meu primo Ravi, ele fez 5 anos. Fiquei acordado até super tarde, papai e mamãe já sabem que vou aperriar a noite toda. Conheci titia Natali, ela ficou um tempãão comigo, e minha priminha Maria Alice.
+
+- 09/07/2025
+Papai me colocou pra dormir dançando forró, ele tá imitando vovó Selma, mas deu certo.
+
+- 10/07/2025
+Mamãe e papai finalmente tiraram as fotos dos meus 5 meses com meu irmão Ragnar, pq ele não estava aqui no dia da festinha. Me vestiram, e se vestiram, do mesmo jeito do dia. Ragnar não parava de olhar pra mim, ele deve gostar muito de mim.
 
 - 11/07/2025
 Fiz 6 meses! Mamãe e papai fizeram uma festinha de rock & roll, por causa dos meus gritos. Tinha waffles, cupcake de cenoura, bolo, wafer em forma de teclado e chocolate com casquinha em forma de microfone. Papai editou uma música do Led Zeppelin que eu gosto de ouvir, "Immigrant Song", ele colocou meus gritos cantando. Me vestiram de body preto com um adesivo do Led Zeppelin e mamãe colocou uma bandana vermelha na minha cabeça, peguei emprestado um tênis tipo all-star que era do meu priminho Ravi. Tirei fotos com tia Cynthia e com Valda pela primeira vez. Dei um puxão na bochecha de vovô Wellington.
