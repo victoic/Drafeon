@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-18T00:25:05.633Z
+date: 2025-07-18T00:27:07.335Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -252,7 +252,7 @@ Papai chegou de madrugada.
 Fui para festinha de aniversário do meu primo Ravi, ele fez 5 anos. Fiquei acordado até super tarde, papai e mamãe já sabem que vou aperriar a noite toda.
 
 - 11/07/2025
-Fiz 6 meses! Mamãe e papai fizeram uma festinha de rock & roll, por causa dos meus gritos. Tinha waffles, cupcake de cenoura, bolo, wafer em forma de teclado e chocolate com casquinha em forma de microfone. Papai editou uma música do Led Zeppelin que eu gosto de ouvir, "Immigrant Song", ele colocou meus gritos cantando.
+Fiz 6 meses! Mamãe e papai fizeram uma festinha de rock & roll, por causa dos meus gritos. Tinha waffles, cupcake de cenoura, bolo, wafer em forma de teclado e chocolate com casquinha em forma de microfone. Papai editou uma música do Led Zeppelin que eu gosto de ouvir, "Immigrant Song", ele colocou meus gritos cantando. Tirei fotos com tia Cynthia e com Valda pela primeira vez. Dei um puxão na bochecha de vovô Wellington.
 
 - 12/07/2025
 Vovó Selma me deu um presente: uma pulseira de figa! Xô olhado!
