@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-12T15:53:19.515Z
+date: 2025-07-18T00:20:47.864Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -252,4 +252,10 @@ Papai chegou de madrugada.
 Fui para festinha de aniversário do meu primo Ravi, ele fez 5 anos. Fiquei acordado até super tarde, papai e mamãe já sabem que vou aperriar a noite toda.
 
 - 11/07/2025
-Fiz 6 meses! Mamãe e papai fizeram uma festinha de rock & roll, por causa dos meus gritos. Tinha waffles, cupcake de cenoura, bolo, wafer em forma de teclado e chocolate com casquinha em forma de microfone. Papai editou uma música com meus gritos cantando.
+Fiz 6 meses! Mamãe e papai fizeram uma festinha de rock & roll, por causa dos meus gritos. Tinha waffles, cupcake de cenoura, bolo, wafer em forma de teclado e chocolate com casquinha em forma de microfone. Papai editou uma música do Led Zeppelin que eu gosto de ouvir, "Immigrant Song", ele colocou meus gritos cantando.
+
+- 15/07/2025
+Hoje eu comi pela primeira vez. Papai e mamãe me deram tangerina de café da manhã, eu achei um pouco estranho. No almoço me deram arroz, ervilhas, frango desfiado e cenoura cozida, meu preferido foi a cenoura. Mamãe e papai se surpreenderam que eu fiz careta comendo arroz. Depois do almoço me deram um banho, tem banho de tarde agora? Mas pelo menos me deram uns brinquedinhos na banheira. Vovó Selma fez um chapéu novo para mim, fui passear na pracinha com mamãe e papai usando ele.
+
+- 16/07/2025
+Comi banana pela primeira vez, papai me deu no café da manhã, gostei muito. Papai ainda me deu água pela primeira vez depois que terminei, eu adorei também. No almoço comi abobrinha, frango assado, arroz e feijão verde, mamãe ainda me deu morango de sobremesa, fiz uma careta no começo, mas foi só até me acostumar. Na janta me deram melão, comi a fatia toda.
