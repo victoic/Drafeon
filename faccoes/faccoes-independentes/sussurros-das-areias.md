@@ -2,7 +2,7 @@
 title: Sussurros das Areias
 description: 
 published: true
-date: 2025-07-24T22:25:26.742Z
+date: 2025-07-24T22:27:14.020Z
 tags: crime
 editor: markdown
 dateCreated: 2025-02-22T13:16:26.320Z
@@ -11,7 +11,7 @@ dateCreated: 2025-02-22T13:16:26.320Z
 # Sussurros das Areias
 Sussuros das Areias foi uma guilda criminosa atuante no [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn).
 
-Em 1755 a guilda sofreu um golpe moderado em seus planos de infiltração na cidade de [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) após [A Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) cooperar com o Império Serpentinn para descobrir nomes de associados dentro da cidade. No entanto, os heróis permitiram que líderes da organização na cidade se safassem.
+Em 1755 a guilda sofreu um golpe moderado em seus planos de infiltração na cidade de [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr) após [A Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) cooperar com o Império Serpentinn para infiltrar a base local da guilda e recuperar um livro com nomes de associados dentro da cidade. No entanto, os heróis permitiram que líderes da organização na cidade se safassem.
 
 ## Simbolo
 O emblema da guilda é um círculo preto com bordas desgastadas, evocando a ideia de algo oculto e misterioso. Dentro do círculo, há a silhueta de uma lâmina curva (similar a um khanjar ou jambiya) cruzada com uma pena estilizada, simbolizando a dualidade entre precisão mortal e delicadeza estratégica.
