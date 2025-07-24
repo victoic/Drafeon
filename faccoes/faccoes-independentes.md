@@ -2,7 +2,7 @@
 title: Faccoes Independentes
 description: 
 published: true
-date: 2025-02-05T20:46:30.104Z
+date: 2025-07-24T22:21:55.204Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:58.290Z
@@ -16,6 +16,7 @@ dateCreated: 2024-08-13T19:48:58.290Z
 * [Eremitas de Vanfalenard](/faccoes/faccoes-independentes/eremitas-de-vanfalenard#eremitas-de-vanfalenard)
 * [Ordem de Déz](/faccoes/faccoes-independentes/ordem-de-dez#ordem-de-dez)
 * [Oitavos, Os](/faccoes/faccoes-independentes/os-oitavos)
+* [Sussuros das Areias](/faccoes/faccoes-independentes/sussurros-das-areias)
 
 ## Facções Malignas
 * [Conciliábulo Negro](/faccoes/faccoes-independentes/conciliabulo-negro#conciliabulo-negro)
