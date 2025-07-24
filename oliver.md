@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-24T17:37:09.468Z
+date: 2025-07-24T17:39:22.805Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -274,6 +274,9 @@ Papai assinou o termo de posse do novo emprego dele, eu ouvi mamãe e papai fala
 
 - 18/07/2025
 Hoje foi aniversário de papai, ele fez muitos anos. Mamãe fez um bolo de chocolate e coco pra ele e de noite vovô Wellington levou todo mundo pra jantar em Raimundo, fiquei acordado até tarde. Além disso, Bolsonaro recebeu uma tornozeleira eletrônica. Foi um dia bom.
+
+- 19/07/2025
+Fomos visitar vovó Sandra em Triunfo, tirei fotos com ela e titio Rafael me segurou. Depois demos uma volta no açude comigo no meu carrinho.
 
 - 20/07/2025
 Viajamos para Recife, vamos passar uns dias procurando um lugar para morarmos aqui. Mamãe achou que eu ia dormir muito mal, mas dormi a noite toda.
