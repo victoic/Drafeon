@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-24T17:43:41.233Z
+date: 2025-07-24T17:44:59.064Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -282,10 +282,10 @@ Fomos visitar vovó Sandra em Triunfo, tirei fotos com ela e titio Rafael me seg
 Viajamos para Recife, vamos passar uns dias procurando um lugar para morarmos aqui. Mamãe achou que eu ia dormir muito mal, mas dormi a noite toda.
 
 - 21/07/2025
-Visitamos 5 apartamentos, um deles é muito bom! Tomara que nós consigamos ele. Comi grão-de-bico pela primeira vez. Papai e mamãe me levaram para conhecer Dayvid amigo de papai de noite.
+Visitamos 5 apartamentos, um deles é muito bom! Tomara que nós consigamos ele. Comi grão-de-bico pela primeira vez, tentaram me dar goiaba, mas eu não quis. Papai e mamãe me levaram para conhecer Dayvid amigo de papai de noite.
 
 - 22/07/2025
-Papai levou eu e mamãe para ver um apartamento que ele olhou sozinho ontem, gostamos, mas é mais longe e caro. De noite me levaram para conhecer minha tia-avó Christine e tio-avô Marcelo, eles adoraram me conhecer, fizeram um jantar para nós e me deram um presente! Tiramos uma foto juntos! Dormi muuuuito tarde hoje.
+Papai levou eu e mamãe para ver um apartamento que ele olhou sozinho ontem, gostamos, mas é mais longe e caro. Tentaram me dar goiaba de novo, já disse que não quero! De noite me levaram para conhecer minha tia-avó Christine e tio-avô Marcelo, eles adoraram me conhecer, fizeram um jantar para nós e me deram um presente! Tiramos uma foto juntos! Dormi muuuuito tarde hoje.
 
 - 23/07/2025
 Estamos voltando para a casa de vovó Selma! O apartamento bom não deu certo.. Mas mamãe me mostrou uns peixes enormes no posto quando paramos para almoçar.
