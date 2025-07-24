@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-24T17:39:22.805Z
+date: 2025-07-24T17:43:41.233Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -276,16 +276,16 @@ Papai assinou o termo de posse do novo emprego dele, eu ouvi mamãe e papai fala
 Hoje foi aniversário de papai, ele fez muitos anos. Mamãe fez um bolo de chocolate e coco pra ele e de noite vovô Wellington levou todo mundo pra jantar em Raimundo, fiquei acordado até tarde. Além disso, Bolsonaro recebeu uma tornozeleira eletrônica. Foi um dia bom.
 
 - 19/07/2025
-Fomos visitar vovó Sandra em Triunfo, tirei fotos com ela e titio Rafael me segurou. Depois demos uma volta no açude comigo no meu carrinho.
+Fomos visitar vovó Sandra em Triunfo, tirei fotos com ela e titio Rafael me segurou. Depois demos uma volta no açude comigo no carrinho que eu ganhei de vovó Selma.
 
 - 20/07/2025
 Viajamos para Recife, vamos passar uns dias procurando um lugar para morarmos aqui. Mamãe achou que eu ia dormir muito mal, mas dormi a noite toda.
 
 - 21/07/2025
-Visitamos 5 apartamentos, um deles é muito bom! Tomara que nós consigamls ele. Papai e mamãe me levaram para conhecer Dayvid amigo de papai de noite. Comi grão-de-bico pela primeira vez.
+Visitamos 5 apartamentos, um deles é muito bom! Tomara que nós consigamos ele. Comi grão-de-bico pela primeira vez. Papai e mamãe me levaram para conhecer Dayvid amigo de papai de noite.
 
 - 22/07/2025
-Papai levou eu e mamãe para ver um apartamento que ele olhou sozinho ontem, gostamos, mas é mais longe e caro. De noite me levaram para conhecer minha tia-avó Christine e tio-avô Marcelo,  dormi muuuuito tarde hoje.
+Papai levou eu e mamãe para ver um apartamento que ele olhou sozinho ontem, gostamos, mas é mais longe e caro. De noite me levaram para conhecer minha tia-avó Christine e tio-avô Marcelo, eles adoraram me conhecer, fizeram um jantar para nós e me deram um presente! Tiramos uma foto juntos! Dormi muuuuito tarde hoje.
 
 - 23/07/2025
 Estamos voltando para a casa de vovó Selma! O apartamento bom não deu certo.. Mas mamãe me mostrou uns peixes enormes no posto quando paramos para almoçar.
