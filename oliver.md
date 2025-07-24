@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-24T15:30:44.903Z
+date: 2025-07-24T17:37:09.468Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -275,4 +275,17 @@ Papai assinou o termo de posse do novo emprego dele, eu ouvi mamãe e papai fala
 - 18/07/2025
 Hoje foi aniversário de papai, ele fez muitos anos. Mamãe fez um bolo de chocolate e coco pra ele e de noite vovô Wellington levou todo mundo pra jantar em Raimundo, fiquei acordado até tarde. Além disso, Bolsonaro recebeu uma tornozeleira eletrônica. Foi um dia bom.
 
-- 19
+- 20/07/2025
+Viajamos para Recife, vamos passar uns dias procurando um lugar para morarmos aqui. Mamãe achou que eu ia dormir muito mal, mas dormi a noite toda.
+
+- 21/07/2025
+Visitamos 5 apartamentos, um deles é muito bom! Tomara que nós consigamls ele. Papai e mamãe me levaram para conhecer Dayvid amigo de papai de noite. Comi grão-de-bico pela primeira vez.
+
+- 22/07/2025
+Papai levou eu e mamãe para ver um apartamento que ele olhou sozinho ontem, gostamos, mas é mais longe e caro. De noite me levaram para conhecer minha tia-avó Christine e tio-avô Marcelo,  dormi muuuuito tarde hoje.
+
+- 23/07/2025
+Estamos voltando para a casa de vovó Selma! O apartamento bom não deu certo.. Mas mamãe me mostrou uns peixes enormes no posto quando paramos para almoçar.
+
+- 24/07/2025
+Comi ameixa pela primeira vez no cafe da manhã e carne de boi pela primeira vez no almoço
