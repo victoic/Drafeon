@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-18T00:37:51.792Z
+date: 2025-07-24T15:30:44.903Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -271,3 +271,8 @@ Comi banana pela primeira vez, papai me deu no café da manhã, gostei muito. Pa
 
 - 17/07/2025
 Papai assinou o termo de posse do novo emprego dele, eu ouvi mamãe e papai falando que vamos para Recife procurar nossa nova casa nesse fim de semana. Hoje a tarde titia Giovanna (acho que não falei antes, mas ela está com um novo priminho na barriga, Ryan) estava aqui com Ravi. Enquanto mamãe fazia um bolo para papai, titia ficou me segurando. Mamãe ainda tirou uma foto minha com Ravi, perto da árvore do terraço de vovó Selma.
+
+- 18/07/2025
+Hoje foi aniversário de papai, ele fez muitos anos. Mamãe fez um bolo de chocolate e coco pra ele e de noite vovô Wellington levou todo mundo pra jantar em Raimundo, fiquei acordado até tarde. Além disso, Bolsonaro recebeu uma tornozeleira eletrônica. Foi um dia bom.
+
+- 19
