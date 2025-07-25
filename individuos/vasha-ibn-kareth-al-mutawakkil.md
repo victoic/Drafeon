@@ -2,7 +2,7 @@
 title: Vasha ibn Kareth al-Mutawakkil 
 description: 
 published: true
-date: 2025-07-25T21:55:22.440Z
+date: 2025-07-25T22:53:46.449Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T21:55:22.440Z
@@ -20,7 +20,7 @@ Vasha era um yuanti puro-sangue com escamas prateadas e olhos cor de jade. Usa u
 Em 1755 ED, enquanto acampava no [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto) com um exército liderado por [Khalid al-Muntasir](/individuos/khalid-al-muntasir), ela participou da descoberta da traição de Khalid pela [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) e guiou o grupo até [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara).
 
 # Informações
-`Data de Nascimento` 1580 ED
+`Data de Nascimento` 1716 ED
 `Local de Nascimento` [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara)
 `Sexo Biológico` Feminino
 `Olhos` verde jade
