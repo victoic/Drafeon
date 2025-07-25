@@ -2,7 +2,7 @@
 title: Khalid al-Muntasir
 description: 
 published: true
-date: 2025-07-25T23:45:02.988Z
+date: 2025-07-25T23:45:22.740Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T23:45:02.988Z
@@ -34,8 +34,8 @@ Em 1755 ED, enquanto comandava um acampamento no [Grande Deserto](/lugares/plano
 
 # Informações
 `Data de Nascimento` 1721 ED
-`Local de Nascimento` [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara)
-`Sexo Biológico` Feminino
+`Local de Nascimento` [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr)
+`Sexo Biológico` Masculino
 `Olhos` amarelos
 `Cabelos` Escamas douradas
 `Altura` 2,25 m
