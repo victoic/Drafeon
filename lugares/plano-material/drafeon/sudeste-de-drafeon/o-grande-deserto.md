@@ -2,7 +2,7 @@
 title: Grande Deserto, O
 description: 
 published: true
-date: 2025-02-03T10:09:21.024Z
+date: 2025-07-25T15:54:15.646Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:59:17.939Z
@@ -20,4 +20,5 @@ A região se divide, em linhas gerais, em norte e sul. Ao norte dO Grande Desert
 # Informações
 `Tipo` Deserto
 `Organizações Dominantes` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn)
+`Sub-locações` [Vale dos Reis Esquecidos](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto/vale-dos-reis-esquecidos)
 
