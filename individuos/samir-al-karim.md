@@ -2,14 +2,14 @@
 title: Samir "Sabi" Al-Karim
 description: 
 published: true
-date: 2025-07-25T20:49:26.371Z
+date: 2025-07-25T20:50:27.766Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T20:49:26.371Z
 ---
 
 # Samir "Sabi" Al-Karim
-Samir foi um araakocra habitante do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), apelidado de "Sabi" por seus amigos.
+Samir foi um aarakocra habitante do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), apelidado de "Sabi" por seus amigos.
 
 Samir tinha aparência idosa, com penas brancas e desgastadas, usava mantas remendadas e óculos de crital. Era um gambiarrista, consertando tudo que possível para si e seus amigos, tinha sempre uma analogia sábia a falar.
 
