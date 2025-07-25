@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2025-07-25T15:33:57.563Z
+date: 2025-07-25T15:34:12.798Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:13.494Z
@@ -18,6 +18,8 @@ dateCreated: 2024-08-13T19:48:13.494Z
 ## Armas
 [Brasas, Machado das](/itens/machado-das-brasas)
 [Chamas, Machado das](/itens/machado-das-chamas)
+[Lâmina do Último Suspiro, A](/itens/a-lamina-do-ultimo-suspiro)
+[Lança Iridescente](/itens/lança-iridescente)
 [Pistola](/itens/pistola#pistola)
 [Pistola Leve](/itens/pistola-leve#pistola-leve)
 [Pacificadora](/itens/pacificadora)
