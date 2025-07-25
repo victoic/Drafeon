@@ -2,7 +2,7 @@
 title: Sharaja-Ahr'tar Malik al-Raijis ibn Hashim al-Maut al-Madina al-Zill
 description: 
 published: true
-date: 2025-07-25T15:24:38.568Z
+date: 2025-07-25T15:24:53.455Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-07-25T15:24:19.082Z
@@ -54,4 +54,4 @@ Era dito que Malik evitava espelhos, pois seu reflexo não o obedecia.
 `Altura` 3,00 m
 `Peso` 780 Kg
 `Organizações Associadas` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
-`Títulos` [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar)
+`Títulos` [Sharaja](/rankings-e-titulos/imperio-serpentinn/sharaja)-[Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar)
