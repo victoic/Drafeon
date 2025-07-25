@@ -2,7 +2,7 @@
 title: Itens
 description: 
 published: true
-date: 2025-07-25T15:32:48.366Z
+date: 2025-07-25T15:33:57.563Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:13.494Z
@@ -27,6 +27,7 @@ dateCreated: 2024-08-13T19:48:13.494Z
 ## Artefatos
 [Coração de Azaroth](/itens/coracao-de-azaroth#coracao-de-azaroth)
 [Lâmina do Último Suspiro, A](/itens/a-lamina-do-ultimo-suspiro)
+[Lança Iridescente](/itens/lança-iridescente)
 
 ## Bebidas & Alimentos
 [Cachaça de Barro](/itens/cachaca-de-barro#cachaca-de-barro)
