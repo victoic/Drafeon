@@ -2,14 +2,14 @@
 title: Tariq "Tufão" ibn Rashid
 description: 
 published: true
-date: 2025-07-25T20:40:50.071Z
+date: 2025-07-25T20:50:19.128Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T20:40:50.071Z
 ---
 
 # Tariq "Tufão" ibn Rashid
-Tariq foi um araakocra habitante do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), apelidado de Tufão por seu amigos. Tufão possuía aparência de abutre, com penas cinzas e usava sempre um tapa-olho de couro. Seu braço direito possuía tatuagens representando tribos araakocras com as quais ele já havia batalhado.
+Tariq foi um aarakocra habitante do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), apelidado de Tufão por seu amigos. Tufão possuía aparência de abutre, com penas cinzas e usava sempre um tapa-olho de couro. Seu braço direito possuía tatuagens representando tribos araakocras com as quais ele já havia batalhado.
 
 Tariq foi um desertor do exército do [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), tinha costume de falar pouco, mas ser direto. Suas habilidades eram focadas em combate aéreo.
 
