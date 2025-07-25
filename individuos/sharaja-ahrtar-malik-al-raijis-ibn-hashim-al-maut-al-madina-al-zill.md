@@ -2,7 +2,7 @@
 title: Sharaja-Ahr'tar Malik al-Raijis ibn Hashim al-Maut al-Madina al-Zill
 description: 
 published: true
-date: 2025-07-25T15:24:19.082Z
+date: 2025-07-25T15:24:38.568Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-07-25T15:24:19.082Z
@@ -47,7 +47,7 @@ Era dito que Malik evitava espelhos, pois seu reflexo não o obedecia.
 
 # Informações
 `Data de Nascimento` 1580 ED
-`Local de Nascimento` [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara)
+`Local de Nascimento` [Madina](/lugares/plano-material/drafeon/sudeste-de-drafeon/madina)
 `Sexo Biológico` Masculino
 `Olhos` Vermelhos sem pupilas
 `Cabelos` Escamas negras opála com veias douradas
