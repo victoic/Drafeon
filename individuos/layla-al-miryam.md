@@ -2,14 +2,14 @@
 title: Layla "Lena" Al-Miryam
 description: 
 published: true
-date: 2025-07-25T20:45:23.455Z
+date: 2025-07-25T20:50:38.310Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T20:45:23.455Z
 ---
 
 # Layla "Lena" Al-Miryam
-Layla foi uma araakocra habitante do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto). Ela foi uma música talentosa, expandindo os conceitos musicais com sons experimentais e ritmos dançantes. Foi apelidada de "Lena" por seus amigos.
+Layla foi uma aarakocra habitante do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto). Ela foi uma música talentosa, expandindo os conceitos musicais com sons experimentais e ritmos dançantes. Foi apelidada de "Lena" por seus amigos.
 
 Layla tinha aparência de um falcão, com penas douradas. Costumava sempre usar um véu feito de miçangas. Ela era uma exímia contadora de histórias, mas também fofoqueira.
 
