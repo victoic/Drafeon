@@ -2,7 +2,7 @@
 title: Sharaja-Ahr'tar Malik al-Raijis ibn Hashim al-Maut al-Madina al-Zill
 description: 
 published: true
-date: 2025-07-25T15:24:53.455Z
+date: 2025-07-25T16:13:55.195Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-07-25T15:24:19.082Z
@@ -12,6 +12,8 @@ dateCreated: 2025-07-25T15:24:19.082Z
 
 > Tradução aproximada: "Malik, Filho de Hashim, o Raiante, a Morte, da Cidade, a Sombra", árabe
 {.is-info}
+
+![sharaja-ahrtar-malik.webp](/uploads/retratos/sharaja-ahrtar-malik.webp =300x){.align-center}
 
 > "Minha sombra é o único mapa que seu povo precisa."
 
