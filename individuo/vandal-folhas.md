@@ -2,7 +2,7 @@
 title: Vandal Folhas
 description: 
 published: true
-date: 2025-02-06T17:25:30.198Z
+date: 2025-07-25T21:01:40.567Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T14:19:54.268Z
