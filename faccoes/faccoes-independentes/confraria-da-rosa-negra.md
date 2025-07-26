@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-02-19T22:05:58.812Z
+date: 2025-07-26T02:42:24.753Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -54,6 +54,17 @@ Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confrari
 
 > \* Membros do grupo original formado na taverna Flechas Dormentes, em [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo).
 {.is-info}
+
+```kroki
+mermaid
+
+graph TD
+  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )
+  B --> C{ How to contribute? }
+  C --> D[ Reporting bugs ]
+  C --> E[ Sharing ideas ]
+  C --> F[ Advocating ]
+```
 
 ## Formações
 ### 1ª Formação
