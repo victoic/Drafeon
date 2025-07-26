@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-07-26T03:55:18.272Z
+date: 2025-07-26T03:55:43.483Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -61,7 +61,7 @@ mermaid
 config:
     theme: neutral
     themeVariables:
-        txtColor: "#FFF"
+        textColor: "#FFF"
 ---
 gantt
     title Membros
