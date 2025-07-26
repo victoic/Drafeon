@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-07-26T03:26:28.940Z
+date: 2025-07-26T03:26:52.063Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -57,12 +57,7 @@ Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confrari
 
 ```kroki
 mermaid
----
-config:
-  theme: 'neutral'
-  themeVariables:
-  	textColor: '#FFF'
----
+
 gantt
     title Membros
     dateFormat  YYYY-MM-DD
