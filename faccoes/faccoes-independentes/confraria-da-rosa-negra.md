@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-07-26T03:26:52.063Z
+date: 2025-07-26T03:47:14.780Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -76,11 +76,25 @@ gantt
     Dexter Kenway*     :a5, 1753-06-01, 1753-07-30
     Drecnis Ragnoom    :a6, 1753-08-01, 1753-09-30
     Hellên Starindust  :a7, 1753-12-01, 1755-03-30
-    Jonathan Bellevere :a8,1755-02-01, 1755-07-10
+    Jonathan Bellevere :a8,1755-02-15, 1755-07-10
     Kraz*              :a9, 1753-06-01, 1754-02-28
     Ozidius Sackropper :a10, 1753-08-01, 1753-09-30
     Son Kong           :a11, 1753-07-01, 1753-07-15
     Veles Lupis Lugh   :a12, 1753-08-01, 1755-07-11
+
+    F1 : vert, v1, 1753-06-01, 1d
+    F2 : vert, v2, 1753-07-01, 1d
+    F3 : vert, v3, 1753-07-15, 1d
+    F4 : vert, v4, 1753-08-30, 1d
+    F5 : vert, v5, 1753-08-01, 1d
+    F6 : vert, v6, 1753-09-30, 1d
+    F7 : vert, v7, 1753-12-01, 1d
+    F8 : vert, v8, 1754-01-01, 1d
+    F9 : vert, v9, 1754-02-28, 1d
+    F10 : vert, v10, 1754-04-01, 1d
+    F11 : vert, v11, 1755-02-01, 1d
+    F12 : vert, v12, 1755-02-15, 1d
+    F13 : vert, v13, 1755-07-11, 1d
 ```
 
 ## Formações
