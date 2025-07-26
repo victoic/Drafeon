@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-07-26T03:47:14.780Z
+date: 2025-07-26T03:47:57.726Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -81,7 +81,6 @@ gantt
     Ozidius Sackropper :a10, 1753-08-01, 1753-09-30
     Son Kong           :a11, 1753-07-01, 1753-07-15
     Veles Lupis Lugh   :a12, 1753-08-01, 1755-07-11
-
     F1 : vert, v1, 1753-06-01, 1d
     F2 : vert, v2, 1753-07-01, 1d
     F3 : vert, v3, 1753-07-15, 1d
