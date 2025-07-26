@@ -2,7 +2,7 @@
 title: Arsalanov
 description: 
 published: true
-date: 2025-02-22T14:27:39.488Z
+date: 2025-07-26T02:33:18.548Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T14:27:39.488Z
@@ -15,7 +15,7 @@ Arsalanov, como um cidadão comum em Dere' Sabz, vive uma vida humilde, mas dign
 
 Apesar de sua falta de prestígio social, Arsalanov é respeitado por aqueles que conhecem seu ofício e pela sua dedicação ao equilíbrio entre natureza e funcionalidade em seus produtos. Ele não busca fama ou poder, mas se preocupa com o bem-estar de sua comunidade e com a manutenção da harmonia em Dere' Sabz.
 
-Em Woton de 1755, Arsalanov passou a acompanhar a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) como tradutor, enquanto vijavam até [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr).
+Em Woton de 1755, Arsalanov passou a acompanhar a [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) como tradutor, enquanto viajavam até [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr).
 
 # Informações
 `Nascimento` 1522 ED
