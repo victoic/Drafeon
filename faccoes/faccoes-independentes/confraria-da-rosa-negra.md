@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-07-26T03:53:05.126Z
+date: 2025-07-26T03:55:18.272Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -60,6 +60,8 @@ mermaid
 ---
 config:
     theme: neutral
+    themeVariables:
+        txtColor: "#FFF"
 ---
 gantt
     title Membros
@@ -98,6 +100,7 @@ gantt
     %%F12 : vert, v12, 1755-02-15, 1d
     %%F13 : vert, v13, 1755-07-11, 1d
 ```
+{.center}
 
 ## Formações
 ### 1ª Formação
