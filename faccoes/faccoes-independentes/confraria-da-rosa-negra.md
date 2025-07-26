@@ -2,7 +2,7 @@
 title: Confraria da Rosa Negra
 description: 
 published: true
-date: 2025-07-26T02:46:13.505Z
+date: 2025-07-26T03:26:28.940Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:55:40.483Z
@@ -57,15 +57,35 @@ Diversos membros já passaram pelo grupo, antes e depois de se nomearem Confrari
 
 ```kroki
 mermaid
-
+---
+config:
+  theme: 'neutral'
+  themeVariables:
+  	textColor: '#FFF'
+---
 gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
+    title Membros
+    dateFormat  YYYY-MM-DD
+    axisFormat  %Y ED
+    section Atual
+    Addran Martel          :active, 1755-07-12, 1755-08-30
+    Amy                    :active, 1755-02-01, 1755-08-30
+    Magnus Ponta-de-Lança* :active, 1753-06-01, 1755-08-30
+    Grot                   :active, 1755-07-12, 1755-08-30
+    Zerke Montravu         :active, 1754-04-01, 1755-08-30
+    section Antigos
+    Aldror*            :a1, 1753-06-01, 1753-06-30
+    Amadán Shelfey*    :a2, 1753-06-01, 1753-08-30
+    Arprax Alt'ash*    :a3, 1753-06-01, 1753-07-30
+    Dagor Tilgo        :a4, 1754-01-01, 1754-02-28
+    Dexter Kenway*     :a5, 1753-06-01, 1753-07-30
+    Drecnis Ragnoom    :a6, 1753-08-01, 1753-09-30
+    Hellên Starindust  :a7, 1753-12-01, 1755-03-30
+    Jonathan Bellevere :a8,1755-02-01, 1755-07-10
+    Kraz*              :a9, 1753-06-01, 1754-02-28
+    Ozidius Sackropper :a10, 1753-08-01, 1753-09-30
+    Son Kong           :a11, 1753-07-01, 1753-07-15
+    Veles Lupis Lugh   :a12, 1753-08-01, 1755-07-11
 ```
 
 ## Formações
