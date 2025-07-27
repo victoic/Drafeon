@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-07-13T03:25:48.183Z
+date: 2025-07-27T14:52:44.131Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1066,7 +1066,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > O grupo negocia com Soraya recompensas pela ajuda: Zerke pede que o tratado de paz receba seu nome; Grot solicita auxilio para completar seu projeto; Magnus pede ajuda para recuperar sua alma; Adran requer pontos de negociação de paz mínimos. Os pontos de negociação são: 1) fim da discriminação por castas; 2) os Ahr'tar precisarão trabalhar nas áreas onde mantinham escravos; 3) fim do culto  [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo) como base do Império.
 {.is-info}
 
-- [13/07/2025](https://youtu.be/Sj1tunCzYPQ) | Data narrativa: 13 de Woton de 1755 - 14 de Woton de 1755
+- [12/07/2025](https://youtu.be/Sj1tunCzYPQ) | Data narrativa: 13 de Woton de 1755 - 14 de Woton de 1755
 
 > O grupo passa o fim da tarde em [Jawhara'alsahara](), traçando um curso de viagem para [Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana) usando a Roc do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) para voarem pelas margens. [Addran](/individuos/personagens-de-jogadores/addran-martel) busca informações de perigos da viagem e, junto com a [Amy](/individuos/personagens-de-jogadores/amy), impedem a punição de uma criança Yuanti por um roubo, conseguindo um amuleto com um símbolo de uma aranha de pernas de serpentes. 
 > 
@@ -1075,4 +1075,13 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Magnus empresta um brinco a Soraya e informa do plano do grupo. Soraya passa a fingir hostilidade, expulsando o grupo do palácio. Saindo do palácio, são ameaçados por [Ahriman Vahdati](), um outro general de [Al-Haro](/individuos/al-haro), mas [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e Amy evitam o combate traduzindo errado para o Addran.
 >
 > O grupo busca abrigo nos arredores da cidade, onde Amy encontra a Porta-Voz e Grot tem uma conversa com a Manopla. Na manhã seguinte o grupo parte em direção ao sul. Grot fez um escudo broquél para o Addran.
+{.is-info}
+
+- [26/07/2025](https://youtu.be/18IyBXxROa8) | Data narrativa: 14 de Woton
+
+> O grupo altera o plano de viagem, indo primeiro pelo deserto em direção às montanhas do oeste. Após roubarem tábuas de madeira dos rebeldes em [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), o grupo cria um "trenó" puxando por um cavalo mágico conjurado pelo [Zerke](/individuos/personagens-de-jogadores/zerme-montravu). O calor afeta gravemente o grupo, especialmente o [Addran](/individuos/personagens-de-jogadores/addran-martel), [Amy](/individuos/personagens-de-jogadores/amy) usa muito de suas habilidades para manter o grupo saudável.
+>
+> Após avistarem um acampamento rebelde, o grupo para à distância para descansar, quando observam um esqudrão do exército imperial, acompanhado de uma máquina de guerra em forma de escorpião, dizimar o acampamento. Zerke passa algumas horas trabalhando em diamantes para transformá-los em itens mais úteis para a Amy, enquanto [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), [Grot](/individuos/personagens-de-jogadores/grot) e Addran vão até o acampamento buscar algo útil.
+>
+> Grot encontra um pouco de sopa de flor de fogo, mas um pequeno grupo de batedores do exército imperial volta ao local do acampamento, Grot e Magnus sorrateiramente iniciam o retorno ao resto do grupo. Addran, no entanto, decide investigar mais de perto os batedores, mas é avistado e combate inicia. Um dos batedores sinaliza com um instrumento, um veículo que flutua na areia entra no combate e o grupo o rouba e finaliza os batedores.
 {.is-info}
