@@ -2,7 +2,7 @@
 title: Imperio Serpentinn
 description: 
 published: true
-date: 2025-04-18T20:26:08.849Z
+date: 2025-07-28T18:05:18.668Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:13.575Z
@@ -11,7 +11,12 @@ dateCreated: 2024-08-13T19:56:13.575Z
 <!-- SUBTITLE: Visão geral sobre Imperio Serpentinn -->
 ![bandeira-imperio-serpentinn.png](/uploads/bandeiras/bandeira-imperio-serpentinn.png){.align-abstopright}
 # Imperio Serpentinn
-O Império Serpentinn é um antigo e isolado império que habita O Grande Deserto.
+O Império Serpentinn é um antigo e isolado império que habita O [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), culturalmente dividido entre norte e sul, regiões divididas pelo deserto. O império possui uma estrutura política de cidades-reinos altamente independentes, cada uma reinada por um [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar), um Yuan-ti de casta alta de sangue divino. Todos os Ahr'tars, no entanto, juram lealdade ao [Sharaja](/rankings-e-titulos/imperio-serpentinn/sharaja).
+
+Demograficamente, o império possui um sistema rígido de castas.
+
+## Religião
+Oficialmente, o império serpentinn venera o que chamam de Panteísmo da Serpente Constritora, uma variação do [panteão das treze estrelas](/divindades/panteao-das-treze-estrelas) que possui [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo) como deus-pai, com o Sharaja sendo seu avatar ou encarnação, e os demais deuses do panteão tomando papeis subjugados ou adversários.
 
 ## Moeda
 Cada reino-individual possui suas próprias moedas, com exceção da moeda zarim firûzeh, utilizada em negociações entre reinos-individuais. Apesar disso, existem valores padronizados (zarim) que são comuns em todos os reinos-individuais.
