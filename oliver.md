@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-07-24T17:44:59.064Z
+date: 2025-08-01T16:07:49.280Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -291,4 +291,16 @@ Papai levou eu e mamãe para ver um apartamento que ele olhou sozinho ontem, gos
 Estamos voltando para a casa de vovó Selma! O apartamento bom não deu certo.. Mas mamãe me mostrou uns peixes enormes no posto quando paramos para almoçar.
 
 - 24/07/2025
-Comi ameixa pela primeira vez no cafe da manhã e carne de boi pela primeira vez no almoço
+Comi ameixa pela primeira vez no cafe da manhã e carne de boi pela primeira vez no almoço.
+
+- 29/07/2025
+Fui visitar e me despedir de vovó Sandra, titio Pedro Luiz e titio Rafael em Triunfo, ainda tirei um cochilo, tava friozinho lá.
+
+- 30/07/2025
+Nos mudamos de novo! Vovó Selma e vovô Wellington levou eu, mamãe e papai de carro para o apartamento que vamos morar em Recife, é bem pequeneninho. Mas papai já disse que esse é por um ou dois meses só. Ele começa o novo emprego amanhã.
+
+- 31/07/2025
+Papai foi trabalhar pela primeira vez na Fiocruz, ele ficou muito tempo fora! Vovó Selma e vovô Wellington voltaram para Serra Talhada, mas deixaram uma feira aqui antes de ir. Quando papai chegou, fomos com mamãe para a cobertura do prédio olhar o pôr do sol e depois no rooftop, onde mamãe ficou comigo em uma rede.
+
+- 01/08/2025
+Comi tomate cru, gostei demais!
