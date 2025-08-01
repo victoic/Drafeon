@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-08-01T16:21:22.821Z
+date: 2025-08-01T16:33:08.307Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -291,7 +291,13 @@ Papai levou eu e mamãe para ver um apartamento que ele olhou sozinho ontem, gos
 Estamos voltando para a casa de vovó Selma! O apartamento bom não deu certo.. Mas mamãe me mostrou uns peixes enormes no posto quando paramos para almoçar.
 
 - 24/07/2025
-Comi ameixa pela primeira vez no cafe da manhã e carne de boi pela primeira vez no almoço.
+Comi ameixa pela primeira vez no cafe da manhã e carne de boi pela primeira vez no almoço. Titia Giovanna me deu um brinquedinho de presente pra eu usar durante meus banhos.
+
+- 25/07/2025
+Hoje tomei mais três vacinas e a vitamina A de gotinha, chorei muuito. Minha perninha esquerda ficou sem mexer e mamãe e papai ficaram preocupados com isso.
+
+- 26/07/2025
+Voltei a mexer a perninha!
 
 - 29/07/2025
 Fui visitar e me despedir de vovó Sandra, titio Pedro Luiz e titio Rafael em Triunfo, ainda tirei um cochilo, tava friozinho lá.
