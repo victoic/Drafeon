@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-08-01T16:07:49.280Z
+date: 2025-08-01T16:21:22.821Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
