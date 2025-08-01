@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-08-01T16:33:08.307Z
+date: 2025-08-01T16:37:37.621Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -296,7 +296,7 @@ Comi ameixa pela primeira vez no cafe da manhã e carne de boi pela primeira vez
 - 25/07/2025
 Hoje tomei mais três vacinas e a vitamina A de gotinha, chorei muuito. Minha perninha esquerda ficou sem mexer e mamãe e papai ficaram preocupados com isso.
 
-- 26/07/2025
+- 27/07/2025
 Voltei a mexer a perninha!
 
 - 29/07/2025
