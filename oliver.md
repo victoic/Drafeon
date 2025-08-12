@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-08-01T16:37:37.621Z
+date: 2025-08-12T21:53:48.642Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -309,4 +309,22 @@ Nos mudamos de novo! Vovó Selma e vovô Wellington levou eu, mamãe e papai de 
 Papai foi trabalhar pela primeira vez na Fiocruz, ele ficou muito tempo fora! Vovó Selma e vovô Wellington voltaram para Serra Talhada, mas deixaram uma feira aqui antes de ir. Quando papai chegou, fomos com mamãe para a cobertura do prédio olhar o pôr do sol e depois no rooftop, onde mamãe ficou comigo em uma rede.
 
 - 01/08/2025
-Comi tomate cru, gostei demais!
+Comi tomate cru, gostei demais! Papai comprou um boné do MST.
+
+- 02/08/2025
+De manhã eu tive alergia, fiquei cheio de bolinhas. Papai e mamãe me levaram para a parque da jaqueira, foi muito divertido. É um parque que papai ia quando criança e mamãe e papai iam juntos antes de mim. De noite mamãe foi fazer exercício e papai ficou comigo na cobertura.
+
+- 03/08/2025
+Mamãe foi fazer exercício e papai ficou comigo de novo!
+
+- 04/08/2025
+Mamãe fez uma carninha com tomate que ficou uma deliiicia!
+
+- 05/08/2025
+Tive alergia de novo e ninguém sabe o que é. De tarde eu comi abacaxi oela primeira vez.
+
+- 07/08/2025
+Dessa vez fiquei com manchinhas vermelhas em volta da boca, pode ter sido a casca do kiwi. Estou conseguido ficar de quatro apoios direto, já já vou estar engatinhando. Além disso fico quase em pé no berço me apoiando na borda.
+
+
+
