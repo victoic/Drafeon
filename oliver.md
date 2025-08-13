@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-08-12T22:36:28.972Z
+date: 2025-08-13T17:54:01.788Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -326,5 +326,8 @@ Tive alergia de novo e ninguém sabe o que é. De tarde eu comi abacaxi oela pri
 - 07/08/2025
 Dessa vez fiquei com manchinhas vermelhas em volta da boca, pode ter sido a casca do kiwi. Estou conseguido ficar de quatro apoios direto, já já vou estar engatinhando. Além disso fico quase em pé no berço me apoiando na borda.
 
+- 10/08/2025
+Mamãe e papai me levaram para a piscina daqui do prédio! Foi muito divertido! Eu não tenho a fraldinha certa pra entrar na água, então tive que ficar pouco tempo.
+
 - 11/08/2025
-Fiz 7 meses!!! Nao teve nada hoje ainda, pq tá difícil para papai e mamae planejarem, mas já fiquei sabendo que vai ser da música da música do leãozinho  que eu adoro!
+Fiz 7 meses!!! Nao teve nada hoje ainda, pq tá difícil para papai e mamae planejarem, mas já fiquei sabendo que vai ser da música da música do leãozinho que eu adoro! Hoje no almoço comi abóbora pela primeira vez, adorei. Levei três quedinhas hoje também, mas faz parte, estou aprendendo a me mover por aí.
