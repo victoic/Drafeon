@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-08-13T17:54:01.788Z
+date: 2025-08-13T18:01:12.680Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -318,6 +318,8 @@ De manhã eu tive alergia, fiquei cheio de bolinhas. Papai e mamãe me levaram p
 Mamãe foi fazer exercício e papai ficou comigo de novo!
 
 - 04/08/2025
+> "Adorei a carninha que mamãe fez"
+
 Mamãe fez uma carninha com tomate que ficou uma deliiicia!
 
 - 05/08/2025
