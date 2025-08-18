@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-08-13T18:01:12.680Z
+date: 2025-08-18T12:41:35.200Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -333,3 +333,9 @@ Mamãe e papai me levaram para a piscina daqui do prédio! Foi muito divertido! 
 
 - 11/08/2025
 Fiz 7 meses!!! Nao teve nada hoje ainda, pq tá difícil para papai e mamae planejarem, mas já fiquei sabendo que vai ser da música da música do leãozinho que eu adoro! Hoje no almoço comi abóbora pela primeira vez, adorei. Levei três quedinhas hoje também, mas faz parte, estou aprendendo a me mover por aí.
+
+- 16/08/2025
+Hoje foi minha festinha! Foi no rooftop do prédio. Papai fez várias panquecas de banana, aveia e pasta de amendoim, mamãe recortou os enfeites e tinha até um leãozinho feito de frutas! Foi muito legal! Ligaram para vovó Selma para ela mostrar meu irmãozinho Ragnar e podermos tirar nossa foto juntos. Junto dos enfeites papai imprimiu uma foto minha e uma dele com mamãe para colocar na mesa dele no trabalho.
+
+- 17/08/2025
+Eu vi o mar! Mamãe e papai me levaram para o parque Dona Lindú, lá tinha várias barraquinhas e era muito bonito. Era bem pertinho do mar, então mamãe e papai me levaram para ver de uma escada de madeira. É uma banheirinha gigante! Mas não tava na hora do meu banho ainda.
