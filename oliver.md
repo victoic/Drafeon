@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-08-18T12:41:35.200Z
+date: 2025-08-19T16:09:15.262Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -339,3 +339,9 @@ Hoje foi minha festinha! Foi no rooftop do prédio. Papai fez várias panquecas 
 
 - 17/08/2025
 Eu vi o mar! Mamãe e papai me levaram para o parque Dona Lindú, lá tinha várias barraquinhas e era muito bonito. Era bem pertinho do mar, então mamãe e papai me levaram para ver de uma escada de madeira. É uma banheirinha gigante! Mas não tava na hora do meu banho ainda.
+
+- 18/08/2025
+Papai comprou jambo! Ele e mamãe gostam muito, certeza que eu vou gostar também :D. De noite mamãe fez uma coxinha com franguinho, abóbora e aveia, fiz uma arte!
+
+- 19/08/2025
+Adorei jambo!
