@@ -2,7 +2,7 @@
 title: Diário de Oliver
 description: 
 published: true
-date: 2025-08-19T16:09:15.262Z
+date: 2025-08-26T22:03:24.023Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-17T13:36:51.789Z
@@ -345,3 +345,6 @@ Papai comprou jambo! Ele e mamãe gostam muito, certeza que eu vou gostar també
 
 - 19/08/2025
 Adorei jambo!
+
+- 26/08/2025
+Hoje foi um dia muito bom! Papai pode ficar em casa e então nós fomos para a piscina, dessa vez entrei de verdade, com minha boinha, roupa de banho e até fralda impermeável! De tarde dormi com mamãe e depois fomos no Assaí fazer feira, fui no sling nos braços de mamãe e dormi de novo! Comi pitaya pela primeira vez também de noite.
