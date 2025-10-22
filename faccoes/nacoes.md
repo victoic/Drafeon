@@ -2,10 +2,10 @@
 title: Nações
 description: 
 published: true
-date: 2020-12-18T01:08:15.574Z
+date: 2025-10-22T19:19:32.638Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-11T16:25:57.409Z
+dateCreated: 2024-08-13T19:49:00.475Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Nações -->
