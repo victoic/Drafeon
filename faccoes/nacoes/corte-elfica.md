@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-10-22T19:21:22.092Z
+date: 2025-10-22T19:21:30.849Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -29,5 +29,5 @@ Efetivamente, esse processo solidificou o poder na mão de algumas famílias em 
 `Sistema Econômico` Sistema de Permuta, Tradicional 
 `Moeda` Peças de Platina (vale 10), Peças de Ouro (vale 1), Peças de Prata (vale 1/10), Peças de Bronze (vale 1/100) 
 `Localização` [Drafeon ](/lugares/plano-material/drafeon#drafeon) 
-`Nações Vizinhas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
+`Nações Vizinhas` 
 [`Rankings e Títulos`](/rankings-e-titulos#corte-elfica)
