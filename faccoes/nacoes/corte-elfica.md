@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-10-22T00:23:11.697Z
+date: 2025-10-22T00:23:28.351Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -19,9 +19,6 @@ A união dos Elfos os permitiu trocarem conhecimento e obter aprendizado aprofun
 Um membro líder de cada uma das raças é apontado para a Corte, se tornando o representante dos bem-estar de sua raça e de todos os elfos. Durante a [Era dos Mortos](/linha-do-tempo), diversos sucubiram às promessas de poder fácil e vida eterna e se aliaram e fortificaram o exército dos mortos. Este processos levou ao início de uma restrição do arcanismo pela sociedade comum, limitando o aprendizado e utilização do arcano a famílias poderosas e organizações de repressão selecionadas.
 
 Efetivamente, esse processo solidificou o poder na mão de algumas famílias em todas as três cortes. Cidades e sociedades élficas são altamente dependentes do arcano, mas por indivíduos selecionados.
-
-## Organização Militar
-A Corte po
 
 `Tipo` Geopolítico, Reino
 `Nomes Alternativos` Império Élfico 
