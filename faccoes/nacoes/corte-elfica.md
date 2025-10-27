@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-10-27T03:38:23.859Z
+date: 2025-10-27T16:01:25.514Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -58,7 +58,11 @@ Para oficiais de campo, na parte superior é posta uma forma geométrica com uma
 
 Para oficiais generais, a insígnia continua apresentando a forma geométrica da cor da corte de onde o oficial iniciou sua carreira, onde antes se apresentavam as espadas determinando o ranque, se encontra a figura da águia de três cabeças, em cores também da corte de origem. Abaixo da águia uma quantidade de uma a três estrelas de cinco pontas expõem o ranque do oficial. No rodapé da insígnia se encontra três semicirculos dourados.
 
-Algumas unidades de elite operam em paralelo à hierarquia militar da Corte Élfica, respondendo diretamente ao Senhores de Guerra-Magos ou aos próprios Triarcas. Esses são: Strazh (Страж - Guardião), são guarda-costas pessoal de oficiais generais, membros da oligarquia ou locais de importância arcana crítica; Myslyvets na Chakluniv (Мисливець на Чаклунів - Caçador de Bruxas), operativo da Ordem dos Caçadores de Bruxas. Atua como polícia militar, inquisidor e força de contra-insurgência. Sua principal função é caçar e "neutralizar" usuários de magia não autorizados dentro das fronteiras élficas; Tkach Smerti (Ткач Смерті - Tecelão da Morte), são membros de pleno direito de um dos três exércitos de elite altamente mágicos (Tece-Sonhos, Olhos de Upzot-Myf, Irmandade do Rio Drieper). São os ativos estratégicos da Corte Élfica, implantados para mudar o curso de uma batalha.
+## Forças Especiais
+
+Algumas unidades de elite operam em paralelo à hierarquia militar da Corte Élfica, respondendo diretamente ao Senhores de Guerra-Magos ou aos próprios Triarcas. Esses são: Strazh (Страж - Guardião), são guarda-costas pessoal de oficiais generais, membros da oligarquia ou locais de importância arcana crítica; Myslyvets na Chakluniv (Мисливець на Чаклунів - Caçador de Bruxas), operativo da Ordem dos Caçadores de Bruxas. Atua como polícia militar secreta, inquisidor e força de contra-insurgência. Sua principal função é caçar e "neutralizar" usuários de magia não autorizados dentro das fronteiras élficas; Tkach Smerti (Ткач Смерті - Tecelão da Morte), são membros de pleno direito de um dos três exércitos de elite altamente mágicos (Tece-Sonhos, Olhos de Upzot-Myf, Irmandade do Rio Drieper). São os ativos estratégicos da Corte Élfica, implantados para mudar o curso de uma batalha.
+
+Oficiais do exército podem ser convocados a integrar uma dessas forças, passando por uma série de provas e treinamentos intensivos. Ao concluir, o oficial recebe um broche mágico que pode ser usado para o identificar, dado a posse de equipamentos específicos de reconhecimento arcano.
 
 `Tipo` Geopolítico, Reino
 `Nomes Alternativos` Império Élfico 
