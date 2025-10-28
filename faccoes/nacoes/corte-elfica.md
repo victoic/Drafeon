@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-10-27T16:01:25.514Z
+date: 2025-10-28T01:24:38.387Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -63,6 +63,33 @@ Para oficiais generais, a insígnia continua apresentando a forma geométrica da
 Algumas unidades de elite operam em paralelo à hierarquia militar da Corte Élfica, respondendo diretamente ao Senhores de Guerra-Magos ou aos próprios Triarcas. Esses são: Strazh (Страж - Guardião), são guarda-costas pessoal de oficiais generais, membros da oligarquia ou locais de importância arcana crítica; Myslyvets na Chakluniv (Мисливець на Чаклунів - Caçador de Bruxas), operativo da Ordem dos Caçadores de Bruxas. Atua como polícia militar secreta, inquisidor e força de contra-insurgência. Sua principal função é caçar e "neutralizar" usuários de magia não autorizados dentro das fronteiras élficas; Tkach Smerti (Ткач Смерті - Tecelão da Morte), são membros de pleno direito de um dos três exércitos de elite altamente mágicos (Tece-Sonhos, Olhos de Upzot-Myf, Irmandade do Rio Drieper). São os ativos estratégicos da Corte Élfica, implantados para mudar o curso de uma batalha.
 
 Oficiais do exército podem ser convocados a integrar uma dessas forças, passando por uma série de provas e treinamentos intensivos. Ao concluir, o oficial recebe um broche mágico que pode ser usado para o identificar, dado a posse de equipamentos específicos de reconhecimento arcano.
+
+## Honras
+A Corte Élfica possui um conjunto de meritos e medalhas para recompensar ações de seu exército, que podem ser dividas em medalhas de honra e bravura, medalhas de serviço e campanha, e títulos de mérito e nobreza.
+
+### Medalhas de Honra e Bravura (Ордени та Медалі - Orderny ta Medalí)
+
+1. Ordem da Águia Triúna (Орден Триголового Орла - Orden Tryholovoho Orla). Concedida por apresentar valor excepcional e liderança em uma batalha que resulte em uma vitória estratégica crucial para a Corte. **Descrição:** Um broche de platina ou ouro no formato da águia de três cabeças, com cada cabeça segurando um símbolo diferente: uma espada (Mudur), um cajado arcano (Nituhnna) e uma roda dentada (Obris). No peito da águia, um grande rubi é incrustado. **Significado:** A mais alta condecoração militar por bravura. Concedida diretamente pelo Triunvirato Militar. Os portadores são tratados como heróis nacionais e ganham acesso vitalício a certos privilégios da nobreza menor.
+
+1. Estrela da Ordem de Gelo (Зірка Ордена Льоду - Zirka Orderna L'odu). Concedida por apresentar tenacidade e resiliência inabaláveis em defesa de uma posição, contra odds esmagadoras. **Descrição:** Uma estrela de cinco pontas feita de cristal azul pálido, montada sobre uma coroa de folhas de pinheiro de prata. Emite uma leve névoa de frio. **Significado:** Uma condecoração tipicamente Veneri, mas aberta a todos. Simboliza a "Geada Interna" - a capacidade de não quebrar sob pressão. É altamente valorizada pela infantaria de linha de frente.
+
+1. Cruz da Vigilância Inquebrável (Хрест Непохитної Варти - Khrest Nepokhytnoyi Varty). Concedida por obter sucesso em identificar, neutralizar ou capturar usuários de magia não autorizados que representavam uma ameaça significativa. **Descrição:** Uma cruz grega de ferro negro. No centro, um olho estilizado de esmalte branco com uma pupila de âmbar. **Significado:** A medalha dos Caçadores de Bruxas de maior sucesso. Concedida pela Ordem dos Caçadores de Bruxas e endossada pelo comando Drow. Portá-la pode gerar tanto respeito quanto medo e ódio na população comum.
+
+### Medalhas de Serviço e Campanha (Медалі за Службу і Кампанію - Medali za Sluzhbu i Kampaniyu)
+
+1. Medalha da Teia Leal (Медаль Вірної Павутини - Medal' Virnoyi Pavutyny). Concedida por demonstrar serviço exemplar e leal em campanhas de longa duração, ou por realizações significativas em logística, inteligência ou suporte arcano. **Descrição:** Um disco de bronze com uma teia de aranha finamente gravada. No centro, uma pequena pedra (âmbar para Drow, jaspe vermelho para Cotassi, quartzo azul para Veneri) denota a corte de origem. **Significado:** Uma medalha versátil para oficiais não-combatentes e especialistas que mantêm a máquina de guerra funcionando. Mostra que o portador é um "fio leal" na grande teia do império.
+
+1. Fita da Campanha do Espectro (Стрічка Кампанії Привида - Strichka Kampaniyi Pryvyda). Concedida por participar em uma campanha militar majoritária contra ameaças arcano-naturais. **Descrição:** Uma fita para ser usada no uniforme. Suas cores são preto (escuridão/morte), prata (magia/espírito) e verde-apodrecido (decadência). **Significado:** Mais do que uma medalha de honra, é um símbolo de sobrevivência. Todos que a usam testemunharam os horrores únicos da guerra contra entidades não-materiais, criando um vínculo sombrio entre seus portadores.
+
+### Títulos de Mérito e Nobreza (Титули За Заслуги - Tytuly Za Zasluhy)
+
+1. Herói do Império Élfico (Герой Ельфійської Імперії - Heroi El'fiys'koyi Imperiyi).  Concedido por realizar atos de valor ou serviço que mudaram o curso de uma guerra ou salvaram a vida de um membro da oligarquia. **Privilégios:** O título é hereditário. A família do portador recebe uma propriedade (um "Dvir" ou "Pomestye") e uma pequena cota anual de materiais arcanos do tesouro imperial. É a porta de entrada mais comum para a baixa nobreza militar.
+
+1. Mestre de Guerra da Corte (Войовничий Майстер Кору - Voyovnychyy Mayster Koru) Concedido por realizar inovação tática ou tecnológica que aumente significativamente a eficácia militar (ex.: um novo feitiço de batalha, uma melhoria em equipamento, uma doutrina de treinamento superior). **Privilégios:** Um título vitalício que vem com uma posição de ensino em uma das academias militares de elite e o direito de aconselhar o comando de seu braço militar. É cobiçado por magos de guerra e engenheiros.
+
+1. Selo do Serviço Leal (Печатка Вірної Служби - Pechatka Virnoyi Sluzhby). Concedido por obter 250 anos de serviço impecável e ininterrupto nas forças armadas, sem qualquer infração disciplinar. **Privilégios:** Não é um título nobre, mas um status legal. O portador e sua família imediata estão isentos de alguns impostos e têm o direito de portar armas em todas as cidades élficas. É uma forma de garantir a lealdade da longa carreira de soldados e oficiais de baixo escalão
+
+1. A Marca do Silêncio (Мітка Мовчання - Mitka Movchannya). Concedida por realizar serviços prestados à segurança do Estado que, por sua natureza, devem permanecer não reconhecidos publicamente. Isso inclui assassinato, tortura, desaparecimento de dissidentes e supressão de revoltas de forma brutal e total. **Descrição:** uma tatuagem arcana invisível aplicada no pulso ou na nuca do operativo. Só pode ser vista sob a luz de um feitiço de revelação específico. **Significado:** Ter a "Marcação" é um sinal de que se é um dos assassinos e solucionadores de problemas mais confiáveis do regime. É um símbolo de prestígio sombrio entre os Caçadores de Bruxas, os Olhos de Upzot-Myf e os oficiais de inteligência. Ser "Marcado" significa que você sabe demais para ser permitido deixar o serviço, mas também tem o poder silencioso de quem faz o trabalho sujo que mantém o Triunvirato no poder.
 
 `Tipo` Geopolítico, Reino
 `Nomes Alternativos` Império Élfico 
