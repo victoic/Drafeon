@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-10-28T01:58:34.025Z
+date: 2025-10-28T17:50:36.968Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -58,16 +58,16 @@ Para oficiais de campo, na parte superior é posta uma forma geométrica com uma
 
 Para oficiais generais, a insígnia continua apresentando a forma geométrica da cor da corte de onde o oficial iniciou sua carreira, onde antes se apresentavam as espadas determinando o ranque, se encontra a figura da águia de três cabeças, em cores também da corte de origem. Abaixo da águia uma quantidade de uma a três estrelas de cinco pontas expõem o ranque do oficial. No rodapé da insígnia se encontra três semicirculos dourados.
 
-## Forças Especiais
+### Forças Especiais
 
 Algumas unidades de elite operam em paralelo à hierarquia militar da Corte Élfica, respondendo diretamente ao Senhores de Guerra-Magos ou aos próprios Triarcas. Esses são: Strazh (Страж - Guardião), são guarda-costas pessoal de oficiais generais, membros da oligarquia ou locais de importância arcana crítica; Myslyvets na Chakluniv (Мисливець на Чаклунів - Caçador de Bruxas), operativo da Ordem dos Caçadores de Bruxas. Atua como polícia militar secreta, inquisidor e força de contra-insurgência. Sua principal função é caçar e "neutralizar" usuários de magia não autorizados dentro das fronteiras élficas; Tkach Smerti (Ткач Смерті - Tecelão da Morte), são membros de pleno direito de um dos três exércitos de elite altamente mágicos (Tece-Sonhos, Olhos de Upzot-Myf, Irmandade do Rio Drieper). São os ativos estratégicos da Corte Élfica, implantados para mudar o curso de uma batalha.
 
 Oficiais do exército podem ser convocados a integrar uma dessas forças, passando por uma série de provas e treinamentos intensivos. Ao concluir, o oficial recebe um broche mágico que pode ser usado para o identificar, dado a posse de equipamentos específicos de reconhecimento arcano.
 
-## Honras
+### Honras
 A Corte Élfica possui um conjunto de meritos e medalhas para recompensar ações de seu exército, que podem ser dividas em medalhas de honra e bravura, medalhas de serviço e campanha, e títulos de mérito e nobreza.
 
-### Medalhas de Honra e Bravura (Ордени та Медалі - Orderny ta Medalí)
+#### Medalhas de Honra e Bravura (Ордени та Медалі - Orderny ta Medalí)
 
 1. Ordem da Águia Triúna (Орден Триголового Орла - Orden Tryholovoho Orla). Concedida por apresentar valor excepcional e liderança em uma batalha que resulte em uma vitória estratégica crucial para a Corte. **Descrição:** Um broche de platina ou ouro no formato da águia de três cabeças, com cada cabeça segurando um símbolo diferente: uma espada (Mudur), um cajado arcano (Nituhnna) e uma roda dentada (Obris). No peito da águia, um grande rubi é incrustado. **Significado:** A mais alta condecoração militar por bravura. Concedida diretamente pelo Triunvirato Militar. Os portadores são tratados como heróis nacionais e ganham acesso vitalício a certos privilégios da nobreza menor.
 
@@ -75,13 +75,13 @@ A Corte Élfica possui um conjunto de meritos e medalhas para recompensar açõe
 
 1. Cruz da Vigilância Inquebrável (Хрест Непохитної Варти - Khrest Nepokhytnoyi Varty). Concedida por obter sucesso em identificar, neutralizar ou capturar usuários de magia não autorizados que representavam uma ameaça significativa. **Descrição:** Uma cruz grega de ferro negro. No centro, um olho estilizado de esmalte branco com uma pupila de âmbar. **Significado:** A medalha dos Caçadores de Bruxas de maior sucesso. Concedida pela Ordem dos Caçadores de Bruxas e endossada pelo comando Drow. Portá-la pode gerar tanto respeito quanto medo e ódio na população comum.
 
-### Medalhas de Serviço e Campanha (Медалі за Службу і Кампанію - Medali za Sluzhbu i Kampaniyu)
+#### Medalhas de Serviço e Campanha (Медалі за Службу і Кампанію - Medali za Sluzhbu i Kampaniyu)
 
 1. Medalha da Teia Leal (Медаль Вірної Павутини - Medal' Virnoyi Pavutyny). Concedida por demonstrar serviço exemplar e leal em campanhas de longa duração, ou por realizações significativas em logística, inteligência ou suporte arcano. **Descrição:** Um disco de bronze com uma teia de aranha finamente gravada. No centro, uma pequena pedra (âmbar para Drow, jaspe vermelho para Cotassi, quartzo azul para Veneri) denota a corte de origem. **Significado:** Uma medalha versátil para oficiais não-combatentes e especialistas que mantêm a máquina de guerra funcionando. Mostra que o portador é um "fio leal" na grande teia do império.
 
 1. Fita da Campanha do Espectro (Стрічка Кампанії Привида - Strichka Kampaniyi Pryvyda). Concedida por participar em uma campanha militar majoritária contra ameaças arcano-naturais. **Descrição:** Uma fita para ser usada no uniforme. Suas cores são preto (escuridão/morte), prata (magia/espírito) e verde-apodrecido (decadência). **Significado:** Mais do que uma medalha de honra, é um símbolo de sobrevivência. Todos que a usam testemunharam os horrores únicos da guerra contra entidades não-materiais, criando um vínculo sombrio entre seus portadores.
 
-### Títulos de Mérito e Nobreza (Титули За Заслуги - Tytuly Za Zasluhy)
+#### Títulos de Mérito e Nobreza (Титули За Заслуги - Tytuly Za Zasluhy)
 
 1. Herói do Império Élfico (Герой Ельфійської Імперії - Heroi El'fiys'koyi Imperiyi).  Concedido por realizar atos de valor ou serviço que mudaram o curso de uma guerra ou salvaram a vida de um membro da oligarquia. **Privilégios:** O título é hereditário. A família do portador recebe uma propriedade (um "Dvir" ou "Pomestye") e uma pequena cota anual de materiais arcanos do tesouro imperial. É a porta de entrada mais comum para a baixa nobreza militar.
 
