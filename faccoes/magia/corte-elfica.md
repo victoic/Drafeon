@@ -2,7 +2,7 @@
 title: Magias Militares da Corte Élfica
 description: 
 published: true
-date: 2025-10-28T18:16:52.852Z
+date: 2025-10-28T18:20:27.915Z
 tags: corte-elfica
 editor: markdown
 dateCreated: 2025-10-28T18:16:52.852Z
@@ -14,5 +14,5 @@ Em seus esforços de controle do arcano, a [Corte Élfica](/faccoes/nacoes/corte
 ## Identificar Conjurador
 Magia de 1º círculo.
 
-> Você identifica seu laço com o conjurador de uma magia ou criador de um objeto mágico. Você sente sua relação como uma das: a) Laço íntimo (família, amigos de infância, grandes amores, arqui-inimigos); b) Laço forte (amigos, família estendida, inimigos); c) Laço fraco (conhecidos); d) Desconhecidos.
+> Você identifica seu laço com o conjurador de uma magia inbuída em um item que você possa tocar. Você sente sua relação como uma das: a) Laço íntimo (família, amigos de infância, grandes amores, arqui-inimigos); b) Laço forte (amigos, família estendida, inimigos); c) Laço fraco (conhecidos); d) Desconhecidos.
 {.is-info}
