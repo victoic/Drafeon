@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-10-28T01:24:38.387Z
+date: 2025-10-28T01:58:34.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -37,7 +37,7 @@ A promoção entre os Desyatniks e Sotniks pode ser por mérito. Entretanto, tor
 ### Hierarquia
 Quanto a hierarquia, existem seis níveis de oficiais, sendo três níveis de oficiais de campo e três níveis de oficiais generais:
 
-1. [Triarkh Viys'kovyy](/rankings-e-titulos/triarkh-viyskovyy) (Тріарх Військовий - Triarca Militar). O líder militar supremo de cada uma das três Cortes (um Veneri, um Drow, um Cotassi). Juntos, formam o Triunvirato Militar. Função: Comandar todo o esforço de guerra da Corte Élfica. Estrategistas de mais alto nível, respondendo apenas ao triunvirato político. Eles aprovam invasões, alocam os exércitos de elite e declaram lei marcial.
+1. [Triarkh Viys'kovyy](/rankings-e-titulos/triarkh-viyskovyy) (Тріарх Військовий - Triarca Militar). O líder militar supremo de cada uma das três Cortes (um Veneri, um Drow, um Cotassi). Juntos, formam o Triunvirato Militar. Função: Comandar todo o esforço de guerra da Corte Élfica. Estrategistas de mais alto nível, respondendo apenas ao triunvirato político. Eles aprovam invasões, alocam os exércitos de elite e declaram lei marcial. </br>![triarca_militar-drieper.webp](/rankings-e-titulos/triarca_militar-drieper.webp =67x125)![triarca_militar-drownia.webp](/rankings-e-titulos/triarca_militar-drownia.webp =67x125)![triarca_militar-veneria.webp](/rankings-e-titulos/triarca_militar-veneria.webp =67x125)
 1. [Volodar Viyny-Charivnyk](/rankings-e-titulos/volodar-viyny-charivnyk) (Володар Війни-Чарівник - Senhor da Guerra-Mago). O principal conselheiro arcano e comandante de guerra mágica de cada Triarca. Um cargo de imensa confiança e poder. Função: Supervisionar todos os aspectos da guerra arcana: desenvolvimento de feitiços ofensivos e defensivos, quebra de magia inimiga, gestão dos recursos mágicos e comando direto dos exércitos de elite.
 1. [Generál Polkovnik](/rankings-e-titulos/general-polkovnik) (Генерал Полковник - General de Corpo). Comanda um "Polk" (Полк - Corpo de Exército), uma força combinada de cerca de 10.000 soldados de todas os braços. Responsável por uma frente de batalha ou uma grande região.
 1. [Voievoda](/rankings-e-titulos/voievoda) (Воєвода - Senhor da Guerra). Comanda um "Polubok" (Полубок - Meio-Corpo), aproximadamente 5.000 soldados. Lidera grandes ofensivas ou defesas regionais.
