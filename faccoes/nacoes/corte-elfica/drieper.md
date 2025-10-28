@@ -2,10 +2,10 @@
 title: Drieper
 description: 
 published: true
-date: 2021-05-22T23:17:13.655Z
+date: 2025-10-28T18:45:44.342Z
 tags: 
 editor: markdown
-dateCreated: 2021-05-11T20:37:53.359Z
+dateCreated: 2024-08-13T19:57:51.467Z
 ---
 
 ![drieper.png](/uploads/bandeiras/drieper.png){.align-abstopright}
@@ -24,7 +24,7 @@ O reino é composto, majoritariamente por Cotassi (Elfos da Florestas), mas por 
 - Todos os homens são iguais.
 
 ## Liderança
-Drieper é comandado por um líder escolhido a voto popular na capital do reino a cada dez anos. O curto período de liderança, para um elfo, é definido para que nenhum indíviduo possa acumular poder excessivo.
+Drieper é comandado por um líder escolhido a voto popular assimétrico entre líderes de famílias oligárquicas, a eleição ocorre na capital do reino a cada dez anos. O curto período de liderança, para um elfo, é definido para que nenhum indíviduo possa acumular poder excessivo.
 
 Modelos semelhantes, com pequenas variações de tempo, são tomadas em subdivisões do reino.
 
