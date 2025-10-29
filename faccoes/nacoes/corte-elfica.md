@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-10-29T18:04:18.807Z
+date: 2025-10-29T19:14:11.766Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -23,7 +23,44 @@ Um membro líder de cada uma das raças é apontado para a Corte, se tornando o 
 Efetivamente, esse processo solidificou o poder na mão de algumas famílias em todas as três cortes. Cidades e sociedades élficas são altamente dependentes do arcano, essa dependência em conjunto com a ampla restrição no uso do arcano intensifica o poder e controle das oligarquias da Corte.
 
 ## Economia
+A economia da Corte Élfica é baseada em grande produção controlada por famílias com alta afinidade ao arcano, criando produtos e serviços para o Estado, para outras famílias oligárquicas e para a população em geral. O controle da magia por essas famílias gera as seguintes relações de trabalho:
 
+- Servos por Dívida (Боржні Кріпаки - Borzhni Kripaky): A maioria. Trabalham nas minas, florestas e fazendas das Grandes Casas para pagar pela "proteção" e pelo uso da infraestrutura mágica básica. Sua dívida é hereditária.
+- Contratados Municipais (Муніципальні Підряди - Munitsypal'ni Pidriady): Trabalham na manutenção das cidades (limpeza, construção menor) sob contratos temporários e sem direitos. São a classe baixa urbana.
+- Recrutas de Cota (Квотні Рекрути - Kvotni Rekruty): Todo jovem adulto deve servir no exército por um período. Para as famílias pobres, este é um "emprego" que paga a dívida familiar. É uma forma de o estado obter mão-de-obra militar grátis enquanto oferece um "caminho" para a liberdade que poucos vivem para alcançar.
+- Aprendizes "Abençoados" (Благословенні Учні - Blahoslovenni Uchni): Uma minoria ínfima com afinidade arcana que é recrutada à força para as academias militares. Eles são doutrinados para se tornarem a próxima geração de opressores, ganhando privilégios em troca de sua lealdade.
+
+As principais casas da Corte Élfica são:
+
+1. Casa Zoryanov (Зорянов) - "Os Senhores do Céu Invernal"
+        Monopólio: Infraestrutura de Suporte Vital e Comunicação. Controlam os Obihrivachi (geradores de calor), os Ochysnyky (purificadores de água/solo) e a rede de Dzerkal'nyy Zv'yazok (comunicação por imagem-espelho).
+        Fonte de Poder: Eles literalmente controlam o clima dentro das cidades e a capacidade de se comunicar à distância. Sem eles, Veneria congela e fica isolada. Cobram "taxas de utilização" de toda a população, da maior empresa à mais humilde cabana.
+        Exploração do Trabalho: Empregam milhares como "Aferidores de Núcleos Arcano", trabalhadores que substituem os cristais gastos nos geradores, uma função perigosa que expõe os indivíduos a radiação arcana residual.
+
+1. Casa Volkov (Волков) - "Os Forjadores do Gelo"
+        Monopólio: Produção de Armamento e Armadura Arcana. Fornecem 80% do equipamento para os militares Veneri e uma grande parcela para as outras cortes. São os principais donos da Kuznya Polyarnoyi Zori (Forja da Estrela Polar).
+        Fonte de Poder: São os únicos capazes de forjar o "Aço-Gelo", um metal encantado que é ao mesmo tempo leve e resistente. O exército depende deles. Sua riqueza é garantida por contratos de defesa maciços e perpetuamente renovados.
+        Exploração do Trabalho: Controlam as minas de metais raros e as "Fazendas de Elementais", onde entidades menores de gelo são escravizadas para resfriar as forjas. Os mineiros e "Domadores de Elementais" têm vida curta e brutal.
+        
+1. Casa Myf (Міф) - "Os Fiéis da Teia"
+        Monopólio: Segurança Interna e Pesquisa de Contramagia. São os fundadores e principais financiadores da Ordem dos Caçadores de Bruxas. Controlam a Pavutynnyy Shpyl' (Agulha da Teia) e a Chorna Brama Alkhimiyi (Portal Negro da Alquimia).
+        Fonte de Poder: Eles são os arquitetos da repressão arcana. Desenvolvem as ferramentas (grilhões, poções supressoras) e treinam os operativos que mantêm a população não-mágica sob controle. Também são os principais fornecedores de venenos e maldições para o estado.
+        Exploração do Trabalho: Sua fonte primária de "matéria-prima" são os escravos. Eles comandam as "Leilões de Carne Viva" onde prisioneiros e "infratores arcanais" são vendidos. Também empregam "Testadores de Poções", uma posição com taxa de mortalidade de 100%.
+
+1. Casa Cherno (Черно) - "Os Senhores do Vácuo"
+        Monopólio: Mineração de Cristais Arcanos e Combustível Vital. Controlam as profundas minas onde cristais naturais (os "Sangue da Terra") são extraídos. Também são pioneiros em pesquisas de "Transfusão de Essência Vital", drenando a força vital de escravos para alimentar rituais complexos.
+        Fonte de Poder: Eles controlam a bateria de toda a sociedade élfica. Sem os cristais da Casa Cherno, a infraestrutura da Casa Zoryanov falha. Suas pesquisas abomináveis são toleradas porque fornecem uma fonte de energia "conveniente".
+        Exploração do Trabalho: As minas são um moedor de carne. Trabalhadores escravizados, muitas vezes com seus pulsos acorrentados, extraem cristais sob ameaça constante de desmoronamentos e de criaturas que habitam as profundezas. A expectativa de vida em uma mina Cherno é medida em meses.
+
+1. Casa Koval (Коваль) - "Os Mercadores da Floresta"
+        Monopólio: Exploração Madeireira, Agricultura em Larga Escala e Recrutamento Militar. Controlam os direitos de corte das florestas antigas e as vastas fazendas coletivas que alimentam a Corte. Também são responsáveis por gerenciar as cotas de recrutas que Drieper deve fornecer ao exército.
+        Fonte de Poder: Eles controlam a comida e a matéria-prima. Também são os "fazedores de reis" de Drieper, usando seu controle sobre as comunidades rurais para garantir que apenas líderes que os favoreçam ascendam. A família de Bohdan Koval pertence a esta casa.
+        Exploração do Trabalho: A população camponesa vive em "Comunas Livres", que são, na prática, fazendas coletivas de propriedade da Casa Koval. As famílias trabalham a terra, mas toda a produção excedente é tomada pela Casa para "distribuição e comércio". Quem não atinge a cota vê seus privilégios (acesso a ferramentas, proteção) revogados.
+
+1. Casa Dazhboh (Дажбог) - "Os Guardiões do Rio"
+        Monopólio: Transporte Fluvial, Comércio Inter-Cortes e Pecuária Mágica. Controlam os barcos que navegam o Rio Drieper e os direitos de pedágio. Também criam e vendem as bestas montaria para a cavalaria Cotassi.
+        Fonte de Poder: Eles são a artéria comercial de Drieper. Nada entra ou sai sem pagar um tributo a eles. Também possuem um monopólio quase total sobre a criação dos corços-guerreiros, tornando o braço Morinssereg dependente de seus produtos.
+        Exploração do Trabalho: Empregam uma grande força de "Balseiros" e "Criadores de Bestas". Estes são considerados trabalhos "privilegiados", mas os balseiros enfrentam os perigos do rio (e dos Afogados dos Drow), enquanto os criadores estão sujeitos a ataques de bestas mágicas não totalmente domadas.
 
 ## Militar
 A organização militar da Corte Élfica se divide em cinco braços:
