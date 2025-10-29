@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-10-28T17:51:12.872Z
+date: 2025-10-29T18:04:18.807Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -21,6 +21,9 @@ A corte se divide em três regiões: [Drownia](/faccoes/nacoes/corte-elfica/drow
 Um membro líder de cada uma das raças é apontado para a Corte, se tornando o representante dos bem-estar de sua raça e de todos os elfos. Durante a [Era dos Mortos](/linha-do-tempo), diversos sucubiram às promessas de poder fácil e vida eterna e se aliaram e fortificaram o exército dos mortos. Este processos levou ao início de uma restrição do arcanismo pela sociedade comum, limitando o aprendizado e utilização do arcano a famílias poderosas e organizações de repressão selecionadas.
 
 Efetivamente, esse processo solidificou o poder na mão de algumas famílias em todas as três cortes. Cidades e sociedades élficas são altamente dependentes do arcano, essa dependência em conjunto com a ampla restrição no uso do arcano intensifica o poder e controle das oligarquias da Corte.
+
+## Economia
+
 
 ## Militar
 A organização militar da Corte Élfica se divide em cinco braços:
