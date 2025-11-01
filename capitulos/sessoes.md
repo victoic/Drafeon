@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-11-01T23:52:08.327Z
+date: 2025-11-01T23:53:12.229Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1093,4 +1093,4 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Ao fim da tarde, o grupo é envolto em uma a tempestade de areia e metais, onde o grupo é emboscado por Yuanti imperiais, montadores de dragões de areia, um árduo combate se inicia o grupo é forçado a bater em retirada, mas não antes do Nefelin atropelar ambos o Zerke e o [Addran](/individuos/personagens-de-jogadores/addran-martel) após ser deixado não manuseado. Após fugirem, o grupo chega às montanhas, onde o Nefelin não funciona e montam acampamento para descansar pela noite.
 {.is-info}
 
-- 18/10/2025 | Data narrativa: 15 de Woton
+- [18/10/2025](https://youtu.be/1gMsfy_DjYA) | Data narrativa: 15 de Woton
