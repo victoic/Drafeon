@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-10-19T00:15:36.739Z
+date: 2025-11-01T23:52:08.327Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1086,9 +1086,11 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 > Grot encontra um pouco de sopa de flor de fogo, mas um pequeno grupo de batedores do exército imperial volta ao local do acampamento, Grot e Magnus sorrateiramente iniciam o retorno ao resto do grupo. Addran, no entanto, decide investigar mais de perto os batedores, mas é avistado e combate inicia. Um dos batedores sinaliza com um instrumento, um veículo que flutua na areia entra no combate e o grupo o rouba e finaliza os batedores.
 {.is-info}
 
-- 26/07/2025 | Data narrativa: 14 de Woton
+- 04/10/2025 | Data narrativa: 14 de Woton - 15 de Woton
 
 > Após o fim do combate com o batedores do Império Serpentinn e tomada do [Nefelin](/veiculos/nefelin), [Grot](/individuos/personagens-de-jogadores/grot) e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) investigam os mecanismos de funcionamento do navio, descobrindo que ele é ativado com o uso de poder arcano ou com sangue nobre Yuanti. Grot ativa o navio e o grupo parte em direção às montanhas. [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) navega na proa do Nefelin, enquanto o [Tozo] é puxado por uma corda do lado de fora.
 >
 > Ao fim da tarde, o grupo é envolto em uma a tempestade de areia e metais, onde o grupo é emboscado por Yuanti imperiais, montadores de dragões de areia, um árduo combate se inicia o grupo é forçado a bater em retirada, mas não antes do Nefelin atropelar ambos o Zerke e o [Addran](/individuos/personagens-de-jogadores/addran-martel) após ser deixado não manuseado. Após fugirem, o grupo chega às montanhas, onde o Nefelin não funciona e montam acampamento para descansar pela noite.
 {.is-info}
+
+- 18/10/2025 | Data narrativa: 15 de Woton
