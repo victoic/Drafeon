@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-11-02T03:37:14.250Z
+date: 2025-11-02T03:37:25.076Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1096,6 +1096,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 - [18/10/2025](https://youtu.be/1gMsfy_DjYA) | Data narrativa: 15 de Woton
 > O grupo parte em viagem a Jana pelas montanhas, após discutirem o destino do nefelin e deciderem deixá-lo na montanha. Em um momento, todos seus itens mágicos, incluindo a Roc do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) somem e não existe som. Eles chegam em uma região de completa ausência do arcano.
 Após caírem, escalarem e passarem por desafios do local sem conseguir usar magia, o grupo chega ao cume da montanha, onde encontram o fóssil de uma enorme serpente. Ao investigarem a serpente, descobrindo que ela era um mensageiro dos deuses, recebem uma bênção de Aaos que dura 48h.
+{.is-info}
 
 - 01/11/2025 | Data narrativa: 15 de Woton - 16 de Woton
 > O grupo enfrenta o colosso de gelo, mas conforme o combate se torna desfavorável, o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) o convence de deixá-los continuar para que ele volte a dormir, o gigante solicita uma recompensa e o grupo discute que item dar, o [Grot](/individuos/personagens-de-jogadores/grot) tenta oferecer um Tozo, mas no fim, Grot conjura uma mágia para que ele possa dormir tranquilamente (dizendo que seria por um milênio) e o Zerke conta histórias (em que ele é o personagem principal).
