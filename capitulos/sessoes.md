@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-11-02T03:37:25.076Z
+date: 2025-11-02T03:38:09.762Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1100,6 +1100,8 @@ Após caírem, escalarem e passarem por desafios do local sem conseguir usar mag
 
 - 01/11/2025 | Data narrativa: 15 de Woton - 16 de Woton
 > O grupo enfrenta o colosso de gelo, mas conforme o combate se torna desfavorável, o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) o convence de deixá-los continuar para que ele volte a dormir, o gigante solicita uma recompensa e o grupo discute que item dar, o [Grot](/individuos/personagens-de-jogadores/grot) tenta oferecer um Tozo, mas no fim, Grot conjura uma mágia para que ele possa dormir tranquilamente (dizendo que seria por um milênio) e o Zerke conta histórias (em que ele é o personagem principal).
-O grupo chega a Jana e após tentar invadir a muralha com o Fofusho, que é morto pela muralha, resolvem tentar conseguir uma audiência direta com o [Ahr'tar Amir](). Os guardas os interrogam sobre como quem os enviou, como chegaram na cidade e após a [Amy](/individuos/personagens-de-jogadores/amy) tomar as rédeas da conversa, o comandante dos portões é "convencido" a dar a audiência e os chama para dentro da cidade. Amy é cortada em suas falas por um guarda, o que a irrita.
-Zerke decide ficar do lado de fora, mas é intimado a entrar por um guarda de voz sinistra. Dentro da sala, são requisitados a deixar seus itens mágicos e armas, [Addran](/individuos/personagens-de-jogadores/addran-martel) percebe a presença de um gás venenoso nas paredes e após avisar ao grupo, Zerke inicia o combate.
+>
+> O grupo chega a Jana e após tentar invadir a muralha com o Fofusho, que é morto pela muralha, resolvem tentar conseguir uma audiência direta com o [Ahr'tar Amir](). Os guardas os interrogam sobre como quem os enviou, como chegaram na cidade e após a [Amy](/individuos/personagens-de-jogadores/amy) tomar as rédeas da conversa, o comandante dos portões é "convencido" a dar a audiência e os chama para dentro da cidade. Amy é cortada em suas falas por um guarda, o que a irrita.
+>
+>Zerke decide ficar do lado de fora, mas é intimado a entrar por um guarda de voz sinistra. Dentro da sala, são requisitados a deixar seus itens mágicos e armas, [Addran](/individuos/personagens-de-jogadores/addran-martel) percebe a presença de um gás venenoso nas paredes e após avisar ao grupo, Zerke inicia o combate.
 {.is-info}
