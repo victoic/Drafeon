@@ -2,13 +2,14 @@
 title: Enciclopédia de Drafeon
 description: 
 published: true
-date: 2025-11-02T12:34:49.586Z
+date: 2025-11-02T12:35:04.988Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:09.173Z
 ---
 
-<!-- SUBTITLE: Introdução à Drafeon e seus Arredores-->
+> Utilize o menu lateral para navegar ou a barra de busca acima.
+{.is-info}
 
 # Enciclopédia de Drafeon
 
@@ -21,6 +22,3 @@ Mitos contam de como os primordiais criaram o mundo, antes mesmo do surgimento d
 Drafeon é um continente pequeno, porém com uma enorme diversidade de biomas, possuindo montanhas, florestas e bosques, mares, lagos e rios, ilhas em água e no ar, cavernas, masmorras e ruínas e até mesmo desertos. 
 
 Impérios convivem e disputam entre si, o maior deles, o Império Dragão, possui o objetivo de reunir e harmonizar todas as raças conscientes. Porém esta é uma tarefa difícil, com o grande tamanho do império, controlar e proteger os quatro cantos das criaturas que discordam da ideia de união e da corrupção e ambição de seus próprios líderes.
-
-> Utilize o menu lateral para navegar ou a barra de busca acima.
-{.is-info}
