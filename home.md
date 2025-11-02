@@ -2,7 +2,7 @@
 title: Enciclopédia de Drafeon
 description: 
 published: true
-date: 2025-11-02T12:35:04.988Z
+date: 2025-11-02T12:35:32.592Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:09.173Z
@@ -13,7 +13,7 @@ dateCreated: 2024-08-13T19:48:09.173Z
 
 # Enciclopédia de Drafeon
 
-Olhe em volta, tudo o que você vê e além pertence a Drafeon e Drafeon pertence ao Império Dragão, longa vida ao Imperador! Mas cuidado, nem todos concordam com isso, muitos são os que querem um pedaço de Drafeon para si e alguns até conseguem. Mas nada disso é importante, só o que importa é o que você fará nessa terra, quem você será.
+> Olhe em volta, tudo o que você vê e além pertence a Drafeon e Drafeon pertence ao Império Dragão, longa vida ao Imperador! Mas cuidado, nem todos concordam com isso, muitos são os que querem um pedaço de Drafeon para si e alguns até conseguem. Mas nada disso é importante, só o que importa é o que você fará nessa terra, quem você será.
 
 Drafeon é o nome dado a um continente povoado por seres místicos, pessoas desbravadoras,  mistérios antigos e poderes imensos. 
 
