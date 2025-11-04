@@ -2,7 +2,7 @@
 title: Morana
 description: da casa Zlatkova
 published: true
-date: 2025-11-04T14:55:58.017Z
+date: 2025-11-04T15:09:48.946Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-04T14:49:27.720Z
@@ -21,7 +21,7 @@ Morana é fria, paciente e incrivelmente calculista. Ela vê o mundo através da
 
 - Morana foi respeitada por seu poder e idade. 
 - Quanto a [Alexei](/individuos/alexei-volkov), Morana precisava da legitimidade política e do poder militar convencional de Veneria. Eles se respeitaram intelectualmente, mas se consideraram moralmente superiores um ao outro.
-- Quanto a [Bohdan](/individuos/bohdan-koval). Morana via os Cotassi como um campo de teste para suas pragas e armas biológicas, e Bohdan como um peão útil
+- Quanto a [Bohdan](/individuos/bohdan-koval). Morana via os Cotassi como um campo de teste para suas pragas e armas biológicas, e Bohdan como um peão útil.
 
 # Informações
 `Data de Nascimento` 1 de Opzot-Ulo de 908
