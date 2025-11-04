@@ -2,7 +2,7 @@
 title: Morana
 description: da casa Zlatkova
 published: true
-date: 2025-11-04T14:51:19.395Z
+date: 2025-11-04T14:53:58.359Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-04T14:49:27.720Z
@@ -32,4 +32,4 @@ Morana é fria, paciente e incrivelmente calculista. Ela vê o mundo através da
 `Altura` 2,16 m
 `Peso` 70 Kg
 `Organizações Associadas` [Corte ÉLfica](/faccoes/nacoes/corte-elfica)
-`Títulos` [Triarca](/rankings-e-titulos/corte-elfica/triarca) de [Drownia](/faccoes/nacoes/corte-elfica/drownia), matriarca da casa [Zlatkova](/faccoes/faccoes-familiares/zlatkova), [Sacerdotisa-mãe de Upzot-myf]()
+`Títulos` [Triarca](/rankings-e-titulos/corte-elfica/triarca) de [Drownia](/faccoes/nacoes/corte-elfica/drownia), matriarca da casa [Zlatkova](/faccoes/faccoes-familiares/zlatkova), [Sacerdotisa-mãe de Upzot-myf](/rankings-e-titulos/corte-elfica/sacerdotisa-mae)
