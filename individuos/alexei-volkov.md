@@ -2,7 +2,7 @@
 title: Alexei
 description: da casa Volkov
 published: true
-date: 2025-11-04T15:01:41.601Z
+date: 2025-11-04T15:05:03.195Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-04T15:01:41.601Z
@@ -19,8 +19,8 @@ Alexei é um tradicionalista orgulhoso e um estrategista nato. Ele acredita piam
 
 ## Relacionamentos com o Triunvirato
 
-- Alexei precisa da inovação arcana e da mão de obra escrava de Drownia. Eles se respeitam intelectualmente, mas se consideram moralmente superiores um ao outro.
-- Alexei vê Bohdan como um brutamontes inculto. Suas reuniões são frequentemente carregadas de insultos velados e provocações.
+- Quanto a [Morana](/individuos/morana-zlatkova), Alexei precisava da inovação arcana e da mão de obra escrava de Drownia. Eles se respeitaram intelectualmente, mas se consideraram moralmente superiores um ao outro.
+- Quanto a [Bohdan](/individuos/bohdan-koval), Alexei via Bohdan como um brutamontes inculto. Suas reuniões eram frequentemente carregadas de insultos velados e provocações.
 
 # Informações
 `Data de Nascimento` 14 de Zifelia de 1303
