@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-10-29T19:14:11.766Z
+date: 2025-11-04T15:10:24.240Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -134,7 +134,7 @@ A Corte Élfica possui um conjunto de meritos e medalhas para recompensar açõe
 `Tipo` Geopolítico, Reino
 `Nomes Alternativos` Império Élfico 
 `Gentílico` Elficain 
-`Líder`  
+`Líder` [Morana (Zlatkova)](/individuos/morana-zlatkova), [Alexei (Volkov)](/individuos/alexei-volkov), [Bohdan (Koval)](/individuos/bohdan-koval)
 `Sistema Governamental` Triarquia, Absoluta 
 `Estrutura de Poder` Estado Unitário 
 `Sistema Econômico` Sistema de Permuta, Tradicional 
