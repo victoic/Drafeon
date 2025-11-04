@@ -2,7 +2,7 @@
 title: Alexei
 description: da casa Volkov
 published: true
-date: 2025-11-04T15:05:03.195Z
+date: 2025-11-04T15:09:19.252Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-04T15:01:41.601Z
@@ -31,4 +31,4 @@ Alexei é um tradicionalista orgulhoso e um estrategista nato. Ele acredita piam
 `Altura` 2,00 m
 `Peso` 85 Kg
 `Organizações Associadas` [Corte Élfica](/faccoes/nacoes/corte-elfica)
-`Títulos` [Triarca](/rankings-e-titulos/corte-elfica/triarca) de [Drownia](/faccoes/nacoes/corte-elfica/drownia)
+`Títulos` [Triarca](/rankings-e-titulos/corte-elfica/triarca) de [Veneria](/faccoes/nacoes/corte-elfica/veneria)
