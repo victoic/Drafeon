@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-11-16T03:48:03.323Z
+date: 2025-11-16T03:50:26.014Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1106,7 +1106,7 @@ Após caírem, escalarem e passarem por desafios do local sem conseguir usar mag
 >Zerke decide ficar do lado de fora, mas é intimado a entrar por um guarda de voz sinistra. Dentro da sala, são requisitados a deixar seus itens mágicos e armas, [Addran](/individuos/personagens-de-jogadores/addran-martel) percebe a presença de um gás venenoso nas paredes e após avisar ao grupo, Zerke inicia o combate.
 {.is-info}
 
-- [16/11/2025]() | Data narrativa: 16 de Woton de 1755
+- [15/11/2025]() | Data narrativa: 16 de Woton de 1755
 > O grupo enfrenta os guardas da muralha de [Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana), derrotando-os com facilidade. Barulhos de rochas se movendo, flashes de luz, e sangue borbulhante dos derrotados intensificam o nervosismo do grupo. Ao tentarem fugir encontram a muralha coberta de gás ácido e flashes potentes de luz periódicos. [Addran](/individuos/personagens-de-jogadores/addran-martel) é desafiado pelo [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) a atravessar o gás e fica altamente ferido. Addran se isola em uma dimensão de bolso para evitar os flashes de luz enquanto o resto do grupo planeja como atravessar o gás para fora da cidade. [Amy](/individuos/personagens-de-jogadores/amy) e [Grot](/individuos/personagens-de-jogadores/grot) se teleportam para longe, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) correm invisíveis. Quando a magia do Addran se dissipa, ele se encontra cercado de inimigos, mas é capaz de despistá-los com sua velocidade.
 >
 > O grupo se reencontra para planejar seus próximos passos.
