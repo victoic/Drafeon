@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-12-02T17:52:50.904Z
+date: 2025-12-02T18:17:03.828Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1113,5 +1113,7 @@ Após caírem, escalarem e passarem por desafios do local sem conseguir usar mag
 {.is-info}
 
 - [29/11/2025]() | Data narrativa: 16 de Woton de 1755
->
+> O grupo, após se reagruparem, decidem buscar uma entrada secundária que foi detectada pelo [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca). No entanto, notando o reforço nas defesas da cidade, incluindo a chegada de montadores de dragões, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se torna invisível e voa abaixo em volta da cidade buscando a entrada, enquanto o resto do grupo anda seguindo seu caminho. No caminho, Zerke recebe uma mensagem de uma estranha chamada [Zahra](/individuos/zahra-bint-nasir-al-hikma-al-asrar-umm-al-kitman), avisando que ele pode ser facilmente avistado e que caso queiram passagem, esperem o contato dela.
+> Após o grupo discutir, o grupo decide esperar a figura misteriosa apesar dos riscos. Zahra encontra o grupo e negocia a passagem deles em troca de um item que se encontra junto ao [Mapa das Estrelas Mortas](/itens/mapa-das-estrelas-mortas), o [Olho de Ittar](/itens/olho-de-ittar). [Amy](/individuos/personagens-de-jogadores/amy) discute com Zahra, buscando extrair informações sobre ela, Zahra assume que o item consegue prever tempestades de areia, o que facilitará seu trabalho. O grupo precisa assinar um contrato para concordar com a troca. Zahra os informa de encontrá-la no mercado após entrarem na cidade, e se desfaz em areia.
+> Zahra conjura uma magia de ilusão no grupo, tornando-os em Yuantis e os entrega poções de enlargar. Ela direciona o grupo a um canto da muralha e ensina uma canção que eles devem cantar para abrir uma passagem secreta. Chegando na muralha o grupo abre a passagem enquanto são perseguidos por um guarda da muralha, que fica preso conforme a muralha se solifica novamente após o grupo atravessar. O grupo vai até o mercado.
 {.is-info}
