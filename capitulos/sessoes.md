@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-12-02T18:17:03.828Z
+date: 2025-12-14T14:29:15.198Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1112,8 +1112,18 @@ Após caírem, escalarem e passarem por desafios do local sem conseguir usar mag
 > O grupo se reencontra para planejar seus próximos passos.
 {.is-info}
 
-- [29/11/2025]() | Data narrativa: 16 de Woton de 1755
+- [29/11/2025](https://youtu.be/Vzw1USYaaCA) | Data narrativa: 16 de Woton de 1755
 > O grupo, após se reagruparem, decidem buscar uma entrada secundária que foi detectada pelo [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca). No entanto, notando o reforço nas defesas da cidade, incluindo a chegada de montadores de dragões, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se torna invisível e voa abaixo em volta da cidade buscando a entrada, enquanto o resto do grupo anda seguindo seu caminho. No caminho, Zerke recebe uma mensagem de uma estranha chamada [Zahra](/individuos/zahra-bint-nasir-al-hikma-al-asrar-umm-al-kitman), avisando que ele pode ser facilmente avistado e que caso queiram passagem, esperem o contato dela.
 > Após o grupo discutir, o grupo decide esperar a figura misteriosa apesar dos riscos. Zahra encontra o grupo e negocia a passagem deles em troca de um item que se encontra junto ao [Mapa das Estrelas Mortas](/itens/mapa-das-estrelas-mortas), o [Olho de Ittar](/itens/olho-de-ittar). [Amy](/individuos/personagens-de-jogadores/amy) discute com Zahra, buscando extrair informações sobre ela, Zahra assume que o item consegue prever tempestades de areia, o que facilitará seu trabalho. O grupo precisa assinar um contrato para concordar com a troca. Zahra os informa de encontrá-la no mercado após entrarem na cidade, e se desfaz em areia.
 > Zahra conjura uma magia de ilusão no grupo, tornando-os em Yuantis e os entrega poções de enlargar. Ela direciona o grupo a um canto da muralha e ensina uma canção que eles devem cantar para abrir uma passagem secreta. Chegando na muralha o grupo abre a passagem enquanto são perseguidos por um guarda da muralha, que fica preso conforme a muralha se solifica novamente após o grupo atravessar. O grupo vai até o mercado.
+{.is-info}
+
+- [13/12/2025](https://youtu.be/foK1weiMukY) | Data narrativa: 16 de Woton de 1755
+> O grupo busca [Zahra](/individuos/zahra-bint-al-sahim) no mercado de [Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana), disfarçados de [yuanti](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias/yuanti-sulista). Durante a busca, observam a brutalidade cotidiana da escravidão no [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn). Ao passarem por uma tenda de venda de brinquedos, um dos brinquedos fala com o grupo em uma mensagem críptica sobre a localização de Zahra. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) investiga a loja e descobre que Zahra está aos fundos dessa loja os esperando.
+>
+> Zahra os informa da localização dos itens no Palácio das Estrelas e os entrega um conjunto de chaves, que ela informa abrirem salas no Templo de [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo), ela fala sobre um poema que pode abrir as portas da biblioteca secreta do palácio. Ela também dá informações sobre as habilidades do [Ahr'tar Amir ibn Jibril al Mal'un al Janawi abu al Azab](/individuos/ahrtar-amir-ibn-jibril-al-mal'un-al-janawi-abu-al-azab).
+>
+> [Addran](/individuos/personagens-de-jogadores/addran-martel) disfarça o [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) de mercador de escravos e o resto do grupo de escravos. Infelizmente o Magnus é incapaz de falar a língua yuanti, apenas entende graças a uma magia do Zerke. [Amy](/individuos/personagens-de-jogadores/amy) e Zerke falam pelo Magnus. Disfarçados, o grupo vai até o templo de Opzot-Ulo, onde fingem que irão realizar um sacrifício. Após um momento tenso com um sacerdorte, o grupo mata o sacerdote sorrateiramente, mas ao continuarem adentrando o templo levantam suspeita de um orador. Agora devem continuar adentrando o templo considerando o limite de tempo até que autoridades de Jana os encontrem no templo.
+>
+> CENA ÉPICA: conforme passavam por um corredor infestado de vermes-tecelões, Zerke fica para trás do grupo e é cercado por uma infinidade de vermes. No entanto, com sua fé (em si mesmo) e suas habilidade extraordinárias (seu escudo arcano), ele resiste as ondas de vermes que tentam atacá-lo e consegue sobressair o desafio ileso.
 {.is-info}
