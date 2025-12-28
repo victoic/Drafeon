@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-12-14T14:29:15.198Z
+date: 2025-12-28T15:42:21.758Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1126,4 +1126,10 @@ Após caírem, escalarem e passarem por desafios do local sem conseguir usar mag
 > [Addran](/individuos/personagens-de-jogadores/addran-martel) disfarça o [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) de mercador de escravos e o resto do grupo de escravos. Infelizmente o Magnus é incapaz de falar a língua yuanti, apenas entende graças a uma magia do Zerke. [Amy](/individuos/personagens-de-jogadores/amy) e Zerke falam pelo Magnus. Disfarçados, o grupo vai até o templo de Opzot-Ulo, onde fingem que irão realizar um sacrifício. Após um momento tenso com um sacerdorte, o grupo mata o sacerdote sorrateiramente, mas ao continuarem adentrando o templo levantam suspeita de um orador. Agora devem continuar adentrando o templo considerando o limite de tempo até que autoridades de Jana os encontrem no templo.
 >
 > CENA ÉPICA: conforme passavam por um corredor infestado de vermes-tecelões, Zerke fica para trás do grupo e é cercado por uma infinidade de vermes. No entanto, com sua fé (em si mesmo) e suas habilidade extraordinárias (seu escudo arcano), ele resiste as ondas de vermes que tentam atacá-lo e consegue sobressair o desafio ileso.
+{.is-info}
+
+- [27/12/2025](https://youtu.be/iDQ5GQXRuHo) | Data narrativa: 16 de Woton de 1755
+> O grupo retorna a seu disfarce de sacerdote yuanti e adentra o 2º andar do Templo de Opzot-Ulo. Ao chegarem em um salão onde um grupo de sacerdotes dançava, ao tentarem passar sorrateiramente, um dos sacerdotes desconfia e inicia um interrogatório, [Amy](/individuos/personagens-de-jogadores/amy) e [Grot](/individuos/personagens-de-jogadores/grot) conseguem responder o suficiente para serem permitidos continuar o caminho. No 3º andar encontram um poço de líquido verde borbulhante, dois sacerdotes e um golem de carne. Novamente, o grupo é interrogado, dessa vez pelo golem que questiona a presença de sua marca óssea. Amy cria uma ilusão da marca com ajuda de Grot e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu).
+>
+> O grupo é permitido passagem, mas são acompanhados por um sacerdote. No andar seguinte, o sacerdote explica a presença do grupo a um acólito da peste e o grupo é encaminhado ao coração, onde dois sacerdotes iniciam combate.
 {.is-info}
