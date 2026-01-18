@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-01-18T14:06:56.432Z
+date: 2026-01-18T14:09:51.670Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1138,7 +1138,7 @@ Após caírem, escalarem e passarem por desafios do local sem conseguir usar mag
 > O grupo derrota os sacerdotes e um verme-mãe tecelã e descobrem que a passagem para o próximo nível se encontra dentro do "coração" no centro da sala. Subindo, o grupo se encontra em uma sala com uma orbe de âmnion, on nada um parasita que escreve o poema da praga.
 {.is-info}
 
-- [17/01/2026]() | Data narrativa: 16 de Woton de 1755
+- [17/01/2026](https://youtu.be/lJUr7uLUCjc) | Data narrativa: 16 de Woton de 1755
 > O grupo chega a [Biblioteca das Vísceras Ocultas](), onde [Amy](/individuos/personagens-de-jogadores/amy) realiza a leitura em voz alta do [poema da praga primordial](), causan enjoos e vômitos de vermes vivos no [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e no [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca). Conforme o Zerke observa a deterioração da Amy com leitura, ele parte em direção ao orbe de âmnion com sua adaga em mãos, destruindo a membrana. A orbe explode em líquido e gritos e o verme se apossa da língua do Zerke, lhe permitindo recitar o poema, falar deep speech e yuanti.
 > Conforme tremores iniciam no templo, o grupo foge do templo em direção ao palácio.
 {.is-info}
