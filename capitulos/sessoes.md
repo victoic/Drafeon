@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2025-12-28T15:42:21.758Z
+date: 2026-01-18T00:31:36.806Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1132,4 +1132,8 @@ Após caírem, escalarem e passarem por desafios do local sem conseguir usar mag
 > O grupo retorna a seu disfarce de sacerdote yuanti e adentra o 2º andar do Templo de Opzot-Ulo. Ao chegarem em um salão onde um grupo de sacerdotes dançava, ao tentarem passar sorrateiramente, um dos sacerdotes desconfia e inicia um interrogatório, [Amy](/individuos/personagens-de-jogadores/amy) e [Grot](/individuos/personagens-de-jogadores/grot) conseguem responder o suficiente para serem permitidos continuar o caminho. No 3º andar encontram um poço de líquido verde borbulhante, dois sacerdotes e um golem de carne. Novamente, o grupo é interrogado, dessa vez pelo golem que questiona a presença de sua marca óssea. Amy cria uma ilusão da marca com ajuda de Grot e [Zerke](/individuos/personagens-de-jogadores/zerme-montravu).
 >
 > O grupo é permitido passagem, mas são acompanhados por um sacerdote. No andar seguinte, o sacerdote explica a presença do grupo a um acólito da peste e o grupo é encaminhado ao coração, onde dois sacerdotes iniciam combate.
+{.is-info}
+
+- [03/01/2026]() | Data narrativa: 16 de Woton de 1755
+> O grupo derrota os sacerdotes e um verme-mãe tecelã e descobrem que a passagem para o próximo nível se encontra dentro do "coração" no centro da sala. Subindo, o grupo se encontra em uma sala com uma orbe de âmnion, on nada um parasita que escreve o poema da praga.
 {.is-info}
