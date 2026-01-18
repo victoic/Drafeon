@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-01-18T00:31:36.806Z
+date: 2026-01-18T14:06:56.432Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1134,6 +1134,20 @@ Após caírem, escalarem e passarem por desafios do local sem conseguir usar mag
 > O grupo é permitido passagem, mas são acompanhados por um sacerdote. No andar seguinte, o sacerdote explica a presença do grupo a um acólito da peste e o grupo é encaminhado ao coração, onde dois sacerdotes iniciam combate.
 {.is-info}
 
-- [03/01/2026]() | Data narrativa: 16 de Woton de 1755
+- [03/01/2026](https://youtu.be/kNh_brcNDqE) | Data narrativa: 16 de Woton de 1755
 > O grupo derrota os sacerdotes e um verme-mãe tecelã e descobrem que a passagem para o próximo nível se encontra dentro do "coração" no centro da sala. Subindo, o grupo se encontra em uma sala com uma orbe de âmnion, on nada um parasita que escreve o poema da praga.
 {.is-info}
+
+- [17/01/2026]() | Data narrativa: 16 de Woton de 1755
+> O grupo chega a [Biblioteca das Vísceras Ocultas](), onde [Amy](/individuos/personagens-de-jogadores/amy) realiza a leitura em voz alta do [poema da praga primordial](), causan enjoos e vômitos de vermes vivos no [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e no [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca). Conforme o Zerke observa a deterioração da Amy com leitura, ele parte em direção ao orbe de âmnion com sua adaga em mãos, destruindo a membrana. A orbe explode em líquido e gritos e o verme se apossa da língua do Zerke, lhe permitindo recitar o poema, falar deep speech e yuanti.
+> Conforme tremores iniciam no templo, o grupo foge do templo em direção ao palácio.
+{.is-info}
+
+> Eu nasci do silêncio que veio antes da mentira.
+Cada segredo é um verme que come o tempo de trás pra frente.
+O líquido grita porque lembrou que foi um beijo.
+O tecido de carne viva é feito de arrependimentos que ainda não aconteceram.
+A praga não mata. Ela apenas lembra ao corpo que ele é feito de mentiras.
+Opzot-Ulo não é deus. É o primeiro medo que inventamos para explicar o porquê de sangrarmos.
+Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, você também falhou.
+> - amy recitando o poema da praga primordial
