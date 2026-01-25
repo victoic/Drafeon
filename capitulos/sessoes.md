@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-01-25T00:35:24.208Z
+date: 2026-01-25T03:12:56.386Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1153,5 +1153,8 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > - Amy, recitando o poema da praga primordial
 
 - [24/01/2026]() | Data narrativa: 16 de Woton de 1755
-> 
+> O grupo adentra o Palácio das Estrelas, onde ao encontrarem um grande grupo de Golens de Âmbar, se retiram a um rope trick para tomar um descanso. Durante o descanso, o [Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab](/individuos/ahrtar-amir-ibn-jibril-al-mal'un-al-janawi-abu-al-azab), adentra o rope trick, o que deveria ser impossível, e fala ao grupo que os espera.
 > {.is-info}
+
+> O palácio calcula. Eu imagino. Vocês existem. Eu sei o que buscam. Vamos dançar.
+> - Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab
