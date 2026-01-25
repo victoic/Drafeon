@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-01-18T14:09:51.670Z
+date: 2026-01-25T00:06:39.794Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1150,4 +1150,8 @@ O tecido de carne viva é feito de arrependimentos que ainda não aconteceram.
 A praga não mata. Ela apenas lembra ao corpo que ele é feito de mentiras.
 Opzot-Ulo não é deus. É o primeiro medo que inventamos para explicar o porquê de sangrarmos.
 Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, você também falhou.
-> - amy recitando o poema da praga primordial
+> - Amy, recitando o poema da praga primordial
+
+- [24/01/2026]() | Data narrativa: 16 de Woton de 1755
+> 
+> {.is-info}
