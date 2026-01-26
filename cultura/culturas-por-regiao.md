@@ -2,7 +2,7 @@
 title: Culturas por região
 description: 
 published: true
-date: 2026-01-26T17:09:55.403Z
+date: 2026-01-26T17:12:25.904Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-26T17:05:30.421Z
@@ -26,6 +26,7 @@ dateCreated: 2026-01-26T17:05:30.421Z
 ## Sul de Drafeon
 
 ## Sudoeste de Drafeon
+[Draconatos do Sudoeste de Drafeon](/cultura/etnias/draconatos)
 
 ## Oeste de Drafeon
 
