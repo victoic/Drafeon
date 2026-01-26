@@ -2,7 +2,7 @@
 title: Sudeste De Drafeon
 description: 
 published: true
-date: 2025-07-26T02:27:20.483Z
+date: 2026-01-26T17:09:04.806Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:58:25.504Z
@@ -82,7 +82,7 @@ O Sudeste possui alguns poucos vilarejos de porte pequeno e médio que sobrevive
 
 `Organização Dominante` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao) 
 `Organizações Incluídas` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
-[`Etnias`](/lugares/plano-material/drafeon/sudeste-de-drafeon/etnias)
+[`Etnias`](/cultura/culturas-por-regiao#sudeste-de-drafeon)
 
 -----
 # Mapa do Sudeste de Drafeon
