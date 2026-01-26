@@ -2,7 +2,7 @@
 title: Yuanti Nortista
 description: 
 published: true
-date: 2025-03-16T01:24:26.866Z
+date: 2026-01-26T17:05:56.881Z
 tags: cultura
 editor: markdown
 dateCreated: 2025-02-21T23:28:49.253Z
