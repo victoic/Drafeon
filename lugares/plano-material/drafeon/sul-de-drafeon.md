@@ -2,7 +2,7 @@
 title: Sul de Drafeon
 description: 
 published: true
-date: 2025-02-04T14:42:46.629Z
+date: 2026-01-26T17:13:53.103Z
 tags: lugar, região
 editor: markdown
 dateCreated: 2024-08-13T19:58:27.882Z
@@ -74,7 +74,7 @@ Cânion arenoso e desértico que parte das margens do Mar do Meio.
 `Organizações Incluidas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Sub-locações` [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte#horizonte), [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez#porto-preciez), [Rochedo](/lugares/plano-material/drafeon/sul-de-drafeon/rochedo), [Oito Montes (Vilarejo)](/lugares/plano-material/drafeon/sul-de-drafeon/oito-montes-vilarejo), [Casa Notri](/lugares/plano-material/drafeon/sul-de-drafeon/casa-notri), [Mergulho](/lugares/plano-material/drafeon/sul-de-drafeon/mergulho), [Baía Forte](/lugares/plano-material/drafeon/sul-de-drafeon/baia-forte), [Min'Etrange](/lugares/plano-material/drafeon/sul-de-drafeon/minetrange), [Cruzamento](/lugares/plano-material/drafeon/sul-de-drafeon/cruzamento), [Assustados](/lugares/plano-material/drafeon/sul-de-drafeon/assustados), [Estrada do Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/estrada-do-horizonte), [Grande Champ](/lugares/plano-material/drafeon/sul-de-drafeon/grande-champ), [Ici](/lugares/plano-material/drafeon/sul-de-drafeon/ici), [Castelo D'Orr](/lugares/plano-material/drafeon/sul-de-drafeon/castelo-dorr), [Remo](/lugares/plano-material/drafeon/sul-de-drafeon/remo), [Águas Negras](/lugares/plano-material/drafeon/sul-de-drafeon/aguas-negras), [Beira Rio](/lugares/plano-material/drafeon/sul-de-drafeon/beira-rio), [Pinhos](/lugares/plano-material/drafeon/sul-de-drafeon/pinhos), [Vila da Ponte](/lugares/plano-material/drafeon/sul-de-drafeon/vila-da-ponte), [Mar Raso](/lugares/plano-material/drafeon/sul-de-drafeon/mar-raso)
-[`Etnias`](/lugares/plano-material/drafeon/sul-de-drafeon/etnias-do-sul-de-drafeon#etnias-do-sul-de-drafeon)
+[`Etnias`](/cultura/culturas-por-regiao#sul-de-drafeon)
 
 -----
 # Mapa do Sul de Drafeon
