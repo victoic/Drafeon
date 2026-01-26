@@ -2,8 +2,10 @@
 title: Terras Tristitia
 description: 
 published: true
-date: 2019-11-11T16:33:33.921Z
+date: 2026-01-26T17:16:07.076Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:58:38.518Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Terras Tristitia -->
@@ -35,5 +37,5 @@ Alguma poucas comunidades pacíficas e secretivas de uma outra espécie endêmic
 # Informações
 `Tipo` Ilha
 `Organizações Dominantes` Tribos Draconatos, Tribos Minotauro
-[`Etnias`](/lugares/plano-material/drafeon/noroeste-de-drafeon/terras-tristitia/etnias-de-terras-tristia)
+[`Etnias`](/cultura/culturas-por-regiao#terras-tristias)
 
