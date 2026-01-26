@@ -2,7 +2,7 @@
 title: Culturas por região
 description: 
 published: true
-date: 2026-01-26T17:12:25.904Z
+date: 2026-01-26T17:15:42.625Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-26T17:05:30.421Z
@@ -35,3 +35,5 @@ dateCreated: 2026-01-26T17:05:30.421Z
 ## Norte de Drafeon
 
 ## Nordeste de Drafeon
+
+## Terras Tristias
