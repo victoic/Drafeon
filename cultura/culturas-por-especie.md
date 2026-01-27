@@ -2,7 +2,7 @@
 title: Culturas por Espécie
 description: 
 published: true
-date: 2026-01-27T14:20:56.876Z
+date: 2026-01-27T14:22:22.475Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T11:53:31.589Z
@@ -19,7 +19,7 @@ dateCreated: 2026-01-27T11:53:31.589Z
 [Gnomos Drafeanos](/cultura/etnias/gnomos-drafeanos)
 
 ## [Humano](/fauna-e-flora/especies-inteligentes/humano)
-[Humanos Francos](/cultura/etnias/humanos-francos)
+[Humanos Drafeanos](/cultura/etnias/humanos-francos)
 
 ## [Povo Lagarto](/fauna-e-flora/especies-inteligentes/povo-lagarto)
 [Povo Lagarto do Sudeste de Drafeon](/cultura/etnias/povo-lagarto-do-sudeste-de-drafeon)
