@@ -2,7 +2,7 @@
 title: Culturas por região
 description: 
 published: true
-date: 2026-01-26T19:12:45.658Z
+date: 2026-01-27T11:53:38.217Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-26T17:05:30.421Z
