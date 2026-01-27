@@ -2,7 +2,7 @@
 title: Humanos Drafeanos
 description: 
 published: true
-date: 2026-01-27T16:44:07.066Z
+date: 2026-01-27T16:47:31.746Z
 tags: cultura
 editor: markdown
 dateCreated: 2026-01-27T14:22:17.174Z
@@ -52,4 +52,6 @@ A [igreja das treze estrelas](/faccoes/faccoes-independentes/igreja-das-treze-es
 
 ## Vestimentas
 
-Vestimentas humano drafeana incluem simples túnicas com capa sobreposta. Chapéus, véus e tiaras compõem acessários comuns. Cintos são utilizados em conjunto com as túnicas e longas botas de couro. Vestimentas mais finas são fabricadas em materiais melhores e possuem mais detalhes e cores.
+Vestimentas humano drafeana incluem simples túnicas com capa sobreposta, homens usam túnicas mais curtas e botas mais longas. Chapéus, véus e tiaras compõem acessários comuns. Cintos são utilizados em conjunto com as túnicas e longas botas de couro. Vestimentas mais finas são fabricadas em materiais melhores e possuem mais detalhes e cores.
+
+![vestimentas-humano-drafeano-m.webp](/uploads/itens/vestimentas-humano-drafeano-m.webp)![vestimentas-humano-drafeano-f.webp](/uploads/itens/vestimentas-humano-drafeano-f.webp)
