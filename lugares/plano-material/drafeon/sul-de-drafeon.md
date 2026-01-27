@@ -2,16 +2,16 @@
 title: Sul de Drafeon
 description: 
 published: true
-date: 2026-01-27T15:06:02.774Z
+date: 2026-01-27T15:06:55.947Z
 tags: lugar, região
 editor: markdown
 dateCreated: 2024-08-13T19:58:27.882Z
 ---
 
 # Sul de Drafeon
-O Sul de Drafeon é uma antiga região habitada primariamente por humanos e foi uma das últimas a ser integrada na divisão política atual do Império Dragão, em 180, com a realização de um trato com o rei [Carolus I](/individuos/carolus-i).
+O Sul de Drafeon é uma antiga região habitada primariamente por humanos e foi uma das últimas a ser integrada na divisão política atual do Império Dragão, em 180ED, com a realização de um trato com o rei [Carolus I](/individuos/carolus-i).
 
-Durante o reinado humano a região era de Corte Itinerante, onde os reis e suas cortes não possuiam capital fixa e governavam viajando pelas regiões de seu reino. Após a junção com o o Império, uma capital fixa foi requisitada, a que passou a ser em [Castelo D'Orr]() mas logo foi transferida à [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez).
+Durante o reinado humano a região era de Corte Itinerante, onde os reis e suas cortes não possuiam capital fixa e governavam viajando pelas regiões de seu reino. Após a junção com o o Império, uma capital fixa foi requisitada, a que passou a ser em [Castelo D'Orr](/lugares/plano-material/drafeon/sul-de-drafeon/castelo-dorr) mas logo foi transferida à [Porto Preciez](/lugares/plano-material/drafeon/sul-de-drafeon/porto-preciez).
 
 Em 303 foi construída a Torre do Arquimago na região que em breve se tornaria a cidade de [Horizonte](/lugares/plano-material/drafeon/sul-de-drafeon/horizonte#horizonte). Com o crescimento de Horizonte, a cidade se tornou uma região política isenta do governo do Sul.
 
