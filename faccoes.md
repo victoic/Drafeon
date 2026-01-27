@@ -2,8 +2,10 @@
 title: Facções
 description: 
 published: true
-date: 2019-11-11T16:27:09.354Z
+date: 2026-01-27T12:00:24.884Z
 tags: 
+editor: markdown
+dateCreated: 2024-08-13T19:48:04.786Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Facções -->
