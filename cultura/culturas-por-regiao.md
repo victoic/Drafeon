@@ -2,7 +2,7 @@
 title: Culturas por região
 description: 
 published: true
-date: 2026-01-27T14:13:55.493Z
+date: 2026-01-27T16:48:35.291Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-26T17:05:30.421Z
@@ -36,5 +36,8 @@ dateCreated: 2026-01-26T17:05:30.421Z
 ### Tribos Orcs
 
 ## Sul de Drafeon
+
+### Império Dragão
+[Humanos Drafeanos](/cultura/etnias/humanos-drafeanos)
 
 ## Terras Tristias
