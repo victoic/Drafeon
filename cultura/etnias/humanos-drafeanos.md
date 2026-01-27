@@ -2,7 +2,7 @@
 title: Humanos Drafeanos
 description: 
 published: true
-date: 2026-01-27T16:47:31.746Z
+date: 2026-01-27T16:47:55.164Z
 tags: cultura
 editor: markdown
 dateCreated: 2026-01-27T14:22:17.174Z
@@ -10,7 +10,7 @@ dateCreated: 2026-01-27T14:22:17.174Z
 
 # Humanos Drafeanos
 
-> Os assentamentos humanos da região possuem cultura semelhante ao Império Carolíngio [Arquitetura](https://en.wikipedia.org/wiki/Carolingian_architecture), [Arte](https://en.wikipedia.org/wiki/Carolingian_art), [Império](https://en.wikipedia.org/wiki/Carolingian_Empire)
+> Inspiração: Império Carolíngio [Arquitetura](https://en.wikipedia.org/wiki/Carolingian_architecture), [Arte](https://en.wikipedia.org/wiki/Carolingian_art), [Império](https://en.wikipedia.org/wiki/Carolingian_Empire)
 {.is-info}
 
 ## História
