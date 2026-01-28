@@ -2,7 +2,7 @@
 title: Culturas por Espécie
 description: 
 published: true
-date: 2026-01-28T13:58:14.963Z
+date: 2026-01-28T13:58:24.090Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T11:53:31.589Z
@@ -22,7 +22,7 @@ dateCreated: 2026-01-27T11:53:31.589Z
 [Goblins do Sudeste de Drafeon](/cultura/etnias/goblins-do-sudeste-de-drafeon)
 
 ## [Humano](/fauna-e-flora/especies-inteligentes/humano)
-[Humanos Drafeanos](/cultura/etnias/humanos-francos)
+[Humanos Drafeanos](/cultura/etnias/humanos-drafeanos)
 
 ## [Orc](/fauna-e-flora/especies-inteligentes/orc)
 [Orcs do Sudeste de Drafeon](/cultura/etnias/orcs-do-sudeste-de-drafeon)
