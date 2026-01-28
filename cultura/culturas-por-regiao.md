@@ -2,7 +2,7 @@
 title: Culturas por região
 description: 
 published: true
-date: 2026-01-28T13:15:53.549Z
+date: 2026-01-28T13:16:12.290Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-26T17:05:30.421Z
@@ -35,7 +35,7 @@ dateCreated: 2026-01-26T17:05:30.421Z
 [Goblins do Sudeste de Drafeon](/cultura/etnias/goblins-do-sudeste-de-drafeon)
 
 ### Tribos Orcs
-[Orcs do Sudeste de Drafeon](/cultura/etnias/goblins-do-sudeste-de-drafeon)
+[Orcs do Sudeste de Drafeon](/cultura/etnias/orcs-do-sudeste-de-drafeon)
 
 ## Sul de Drafeon
 
