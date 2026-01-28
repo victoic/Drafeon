@@ -2,7 +2,7 @@
 title: Culturas por região
 description: 
 published: true
-date: 2026-01-27T16:48:35.291Z
+date: 2026-01-28T11:13:58.238Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-26T17:05:30.421Z
@@ -32,8 +32,10 @@ dateCreated: 2026-01-26T17:05:30.421Z
 [Yuanti Sulista](/cultura/etnias/yuanti-sulista)
 
 ### Tribos Goblins
+[Goblins do Sudeste de Drafeon](/cultura/etnias/goblins-do-sudeste-de-drafeon)
 
 ### Tribos Orcs
+[Orcs do Sudeste de Drafeon](/cultura/etnias/goblins-do-sudeste-de-drafeon)
 
 ## Sul de Drafeon
 
