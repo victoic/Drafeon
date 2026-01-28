@@ -2,7 +2,7 @@
 title: Culturas por Espécie
 description: 
 published: true
-date: 2026-01-28T13:58:06.826Z
+date: 2026-01-28T13:58:14.963Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T11:53:31.589Z
