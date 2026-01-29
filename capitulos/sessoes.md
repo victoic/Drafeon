@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-01-25T03:16:53.484Z
+date: 2026-01-29T14:01:48.922Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -906,7 +906,7 @@ O portal se abre e conforme os dois entram, pelo portal o grupo observa a frente
 
 - [08/06/2024](https://www.youtube.com/watch?v=SM_W5O6QQxk) | Data narrativa: 03 de Woton de 1755 ED - 05 de Woton de 1755 ED
 
-> A cobra do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) mede os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) durante um descanço. [Amy](/individuos/personagens-de-jogadores/amy) faz um acordo com a Porta Voz para que um dos prisioneiros do [Reino Azul](/lugares/faeria/inverno/reino-azul) em troca da morte do prisioneiro.
+> A cobra do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) mede os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) durante um descanço. [Amy](/individuos/personagens-de-jogadores/amy) faz um acordo com a Porta Voz para que um dos prisioneiros do [Reino Azul](/faccoes/nacoes/corte-descontente/reino-azul) em troca da morte do prisioneiro.
 >
 > Após falhar em assassinar o prisioneiro, o grupo exige que a Amy explique, onde ela conta sobre o Anjo Azul e a Porta Voz e suas ameaças. O grupo então assassina o prisioneiro em uma demonstração de lealdade à Amy.
 {.is-info}
