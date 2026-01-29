@@ -2,7 +2,7 @@
 title: Inverno
 description: 
 published: true
-date: 2026-01-29T14:00:23.248Z
+date: 2026-01-29T14:11:34.857Z
 tags: lugar
 editor: markdown
 dateCreated: 2026-01-29T13:57:49.759Z
@@ -20,4 +20,4 @@ O inverno, sendo o reino da tristeza e da serenidade, está associado ao element
 # Informações
 `Tipo` Região
 `Organizações Incluidas` [Corte Descontente](/faccoes/nacoes/corte-descontente), [Reino Azul](/faccoes/nacoes/corte-descontente/reino-azul)
-`Sub-locações` 
+`Sub-locações` [Grande Azul](/lugares/faeria/inverno/grande-azul)
