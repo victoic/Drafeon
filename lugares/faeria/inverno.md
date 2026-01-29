@@ -2,8 +2,8 @@
 title: Inverno
 description: 
 published: true
-date: 2026-01-29T14:11:34.857Z
-tags: lugar
+date: 2026-01-29T14:20:21.165Z
+tags: lugar, região
 editor: markdown
 dateCreated: 2026-01-29T13:57:49.759Z
 ---
