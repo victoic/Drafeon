@@ -2,7 +2,7 @@
 title: Faéria
 description: 
 published: true
-date: 2025-02-13T15:18:52.218Z
+date: 2026-01-29T13:35:17.524Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:54:30.357Z
@@ -16,5 +16,6 @@ Faéria é o plano silvestre, que mímica Drafeon em sua geografia, porém com u
 # Informações
 `Tipo` Plano Dimensional
 `Nome Alternativo` Plano Faério
+`Organizações Incluidas` [Corte Contente](/faccoes/nacoes/corte-contente), [Corte Descontente](/faccoes/nacoes/corte-descontente)
 `Sub-locações` [Verão](/lugares/faeria/verao), [Primavera](/lugares/faeria/primavera), [Outono](/lugares/faeria/outono), [Inverno](/lugares/faeria/inverno), [Cidade Dourada](/lugares/faeria/verao/cidade-dourada), [Túneis dos Paredões](lugares/faeria/outono/tuneis-dos-paredoes)
 `Mitos Relacionados` [A Lenda de Sanwu Konn, O Rei de Faéria](/lendas-e-eventos/a-lenda-de-sanwu-konn#a-lenda-de-sanwu-konn)
