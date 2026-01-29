@@ -2,14 +2,14 @@
 title: Amy
 description: A princesa fada
 published: true
-date: 2026-01-29T14:00:54.769Z
+date: 2026-01-29T15:41:14.496Z
 tags: fada, jogador
 editor: markdown
 dateCreated: 2025-02-13T15:04:47.429Z
 ---
 
 # Amy
-Amy foi um fada nativa de [Faéria](/lugares/faeria) e princesa do [Reino Azul](/faccoes/nacoes/corte-descontente/reino-azul).
+Amy foi uma [povo-fada](/fauna-e-flora/especies-inteligentes/povo-fada) nativa de [Faéria](/lugares/faeria) e princesa do [Reino Azul](/faccoes/nacoes/corte-descontente/reino-azul).
 
 Em 1 de Fateus de 1755, Amy se juntou à [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra), após esses a salvarem de um ataque de elementais nos arredores de [Poço Raso](/lugares/plano-material/drafeon/sudeste-de-drafeon/poco-raso-vilarejo).
 
