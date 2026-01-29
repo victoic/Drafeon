@@ -2,7 +2,7 @@
 title: Reino Azul
 description: 
 published: true
-date: 2026-01-29T15:42:43.301Z
+date: 2026-01-29T15:45:17.850Z
 tags: lugar, fortaleza
 editor: markdown
 dateCreated: 2026-01-29T15:42:29.911Z
@@ -20,7 +20,7 @@ O luto, o sentimento de perda, e até mesmo o sentimento agridoce do que ficou n
 
 A fortaleza foi a terra natal de [Amy](/individuos/personagens-de-jogadores/amy), aventureira da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) e princesa real. Sua mãe, [Nyx](/individuos/nyx), foi rainha do reino azul.
 
-No ano 1705 da Era de Drafeon, no calendário imperial do [plano material](/lugares/plano-material), uma poderosa criatura conhecida apenas como [anjo azul](/individuos/lazuliel) atacou e subjugou o Reino Azul, sequestrando a família real. Com controle do reino, o anjo azul passou a ordenar buscas por itens aos súditos, tomando interesse peculiar sob a princesa Amy. Em 1755 ED, o anjo azul enviou Amy ao plano material onde ela encontrou a Confraria da Rosa Negra.
+No ano 1705 da Era de Drafeon, no calendário imperial do [plano material](/lugares/plano-material), uma poderosa criatura conhecida apenas como [anjo azul](/individuos/lazuliel) atacou e subjugou o Reino Azul, sequestrando a família real. Com controle do reino, o anjo azul passou a ordenar buscas por itens aos súditos, tomando interesse peculiar sobre a princesa Amy. Em 1755 ED, o anjo azul enviou Amy ao plano material onde ela encontrou a Confraria da Rosa Negra.
 
 ## Arquitetura
 
