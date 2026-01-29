@@ -2,14 +2,14 @@
 title: Primavera
 description: 
 published: true
-date: 2026-01-29T14:16:50.231Z
-tags: lugar
+date: 2026-01-29T14:19:18.821Z
+tags: lugar, região
 editor: markdown
 dateCreated: 2026-01-29T14:16:50.231Z
 ---
 
 # Primavera
-Primavera é uma das quatro regiões principais de [faéria](/lugares/faeria). A Primavera é associado com o elemento terra. 
+Primavera é uma das quatro regiões principais de [faéria](/lugares/faeria). A Primavera é associada com o elemento terra. 
 
 A primavera é a transição do inverno para o verão. É repleta de alegria e otimismo, à medida que a tristeza se dissipa e dá lugar à esperança.
 
