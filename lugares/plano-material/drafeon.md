@@ -2,7 +2,7 @@
 title: Drafeon
 description: 
 published: true
-date: 2025-02-13T23:11:54.546Z
+date: 2026-01-29T12:59:08.995Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:57:09.616Z
@@ -23,5 +23,5 @@ Um grande lago, chamado Mar do Meio se encontra no centro da terra. Diversas gra
 # Informações
 `Nomes Alternativos` 
 `Tipo` Massa de Terra 
-`Organizações Incluidas` [Corte Élfica](/faccoes/nacoes/corte-elfica), [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Grande Império Orc ](/faccoes/nacoes/grande-imperio-orc), [Império Serpetinn](/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn), [Reino Anão](/faccoes/nacoes/reino-anao)
-`Sub-locações` [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon), [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon), [Sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), [Leste de Drafeon](/lugares/plano-material/drafeon/leste-de-drafeon), [Noroeste de Drafeon](/lugares/plano-material/drafeon/noroeste-de-drafeon), [Norte de Drafeon](/lugares/plano-material/drafeon/norte-de-drafeon), [Nordeste de Drafeon](/lugares/plano-material/drafeon/nordeste-de-drafeon), [Mar do Meio](/lugares/plano-material/drafeon/mar-do-meio#mar-do-meio), [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo#mar-do-limbo)
+`Organizações Incluidas` [Corte Élfica](/faccoes/nacoes/corte-elfica), [Grande Império Orc ](/faccoes/nacoes/grande-imperio-orc), [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao), [Império Serpetinn](/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn), [Reino Anão](/faccoes/nacoes/reino-anao)
+`Sub-locações` [Leste de Drafeon](/lugares/plano-material/drafeon/leste-de-drafeon), [Mar do Limbo](/lugares/plano-material/drafeon/mar-do-limbo#mar-do-limbo), [Mar do Meio](/lugares/plano-material/drafeon/mar-do-meio#mar-do-meio), [Nordeste de Drafeon](/lugares/plano-material/drafeon/nordeste-de-drafeon), [Noroeste de Drafeon](/lugares/plano-material/drafeon/noroeste-de-drafeon), [Norte de Drafeon](/lugares/plano-material/drafeon/norte-de-drafeon), [Sudeste de Drafeon](/lugares/plano-material/drafeon/sudeste-de-drafeon), [Sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), [Sul de Drafeon](/lugares/plano-material/drafeon/sul-de-drafeon)
