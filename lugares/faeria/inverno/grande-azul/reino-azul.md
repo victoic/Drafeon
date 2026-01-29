@@ -2,7 +2,7 @@
 title: Reino Azul
 description: 
 published: true
-date: 2026-01-29T16:46:53.380Z
+date: 2026-01-29T16:49:21.139Z
 tags: lugar, fortaleza
 editor: markdown
 dateCreated: 2026-01-29T15:42:29.911Z
@@ -36,7 +36,7 @@ Majoritariamente, a fortaleza é habitada por [povo-fada](/fauna-e-flora/especie
 
 O Reino Azul é um governo monarca. A família real (não existe sobrenome), é líderada sempre por uma rainha, caso a rainha se case, seu marido se torna rei. Um rei sem rainha não pode existir, no entanto.
 
-Para que uma nova rainha seja definida, uma princesa deve comer a [geleia real](/itens/geleia-real), criada de pólen mágico em um ritual. Ao comer a geleia, traços físicos da princesa se alteram e ela se torna rainha, carregando ainda mais o peso emocional da região. Caso uma rainha esteja viva durante o processo, ela morre instantaneamente.
+Para que uma nova rainha seja definida, uma princesa deve comer a [geleia real](/itens/geleia-real), criada de pólen mágico em um ritual. Ao comer a geleia, traços físicos da princesa se alteram drásticamente, com seu tamanho aumentando para o tamanho de um [humano](/fauna-e-flora/especies-inteligentes/humano) comum. Assim, a princesa se torna rainha, carregando ainda mais o peso emocional da região. Caso uma rainha esteja viva durante o processo, ela morre instantaneamente.
 
 Fadas fêmeas da família real possuem sempre nomes com três letras.
 
