@@ -2,7 +2,7 @@
 title: Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab
 description: 
 published: true
-date: 2025-07-26T01:57:11.078Z
+date: 2026-01-29T13:04:06.380Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-07-26T01:57:11.078Z
@@ -16,7 +16,7 @@ dateCreated: 2025-07-26T01:57:11.078Z
 
 > "A dor é a única verdade. Através dela, Opzot-Ulo sussurra seus desígnios."
 
-> "Jana não tem muralhas... tem um tumor divino chamado Amir."
+> "As muralhas de Jana... Elas são um tumor divino chamado Amir."
 > — Soraya Nejem, general de Al-haro.
 
 ## Aparência
