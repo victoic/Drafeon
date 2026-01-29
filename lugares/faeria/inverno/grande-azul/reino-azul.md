@@ -2,7 +2,7 @@
 title: Reino Azul
 description: 
 published: true
-date: 2026-01-29T16:43:27.292Z
+date: 2026-01-29T16:46:53.380Z
 tags: lugar, fortaleza
 editor: markdown
 dateCreated: 2026-01-29T15:42:29.911Z
@@ -26,11 +26,11 @@ No ano 1705 da Era de Drafeon, no calendário imperial do [plano material](/luga
 
 A fortaleza em si possui três níveis: no primeiro habitam a população plebeia que serve a família real, além de mercadores fornecem aos plebeus. O segundo nível habita a nobresia, ambas intelectual e militar, com bibliotecas, laboratórios e forjas. O último nível é composto pelas habitações reais, com salões de festas, pomares e jardins gélidos.
 
-Combinações de metais, rochas e gelo compõem a arquitetura local. Entalhes detalhados e esculturas pomposas enfeitam as quinas e fachadas da fortaleza. 
+Combinações de metais, rochas e gelo compõem a arquitetura local. Entalhes detalhados e esculturas pomposas enfeitam as quinas e fachadas da fortaleza. Contrastando o tamanho das fadas habitantes do palácio, a arquitetura local é grandiosa, com portas, janelas, salas e móveis muito maiores do que o tamanho necessário para seus habitantes, mas sempre com adaptações que permitam uso confortável. Salões e corredores altos e largos permitem voo livre e movimento ágil.
 
 ## Demografia
 
-Majoritariamente, a fortaleza é habitada por [povo-fada](/fauna-e-flora/especies-inteligentes/povo-fada), mas outras espécies de fadas também habitam a fortaleza, considerando as limitações de mobilidade pelo tamanho das construções.
+Majoritariamente, a fortaleza é habitada por [povo-fada](/fauna-e-flora/especies-inteligentes/povo-fada), mas outras espécies de fadas também habitam a fortaleza.
 
 ## Política
 
