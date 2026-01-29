@@ -2,7 +2,7 @@
 title: Primavera
 description: 
 published: true
-date: 2026-01-29T14:19:18.821Z
+date: 2026-01-29T14:20:37.998Z
 tags: lugar, região
 editor: markdown
 dateCreated: 2026-01-29T14:16:50.231Z
@@ -20,3 +20,9 @@ Embora a beleza permeie a primavera, mais do que em qualquer outra estação, ne
 Emocionalmente, a primavera é o reino da alegria, do amor e da felicidade, mas também da inveja e da vaidade. Essas são as duas maneiras de encarar a transição do inverno para o verão: ou se alegrando com a chegada do verão ou invejando a alegria alheia e desejando-a para si. (Novamente, o inverno não se transforma em verão de fato; esses são apenas os sentimentos associados a ele.)
 
 A primavera, sendo a estação revigorante da mudança, onde os pássaros cantam e o amor está no ar, está associada ao elemento vento.
+
+# Informações
+`Tipo` Região
+`Organizações Incluidas` 
+`Sub-locações` 
+`Mitos Relacionados` 
