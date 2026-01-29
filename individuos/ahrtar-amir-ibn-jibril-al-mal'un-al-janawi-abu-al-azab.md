@@ -2,7 +2,7 @@
 title: Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab
 description: 
 published: true
-date: 2026-01-29T13:04:06.380Z
+date: 2026-01-29T13:04:56.720Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-07-26T01:57:11.078Z
@@ -45,4 +45,4 @@ Amir é paranóico e megalomaníaco, acreditando que Al-Haro é um teste enviado
 `Altura` 3,00 m
 `Peso` 780 Kg
 `Organizações Associadas` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
-`Títulos` [Sharaja](/rankings-e-titulos/imperio-serpentinn/sharaja)-[Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar)
+`Títulos` [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar)
