@@ -2,7 +2,7 @@
 title: Faccoes Independentes
 description: 
 published: true
-date: 2025-07-24T22:21:55.204Z
+date: 2026-01-30T16:03:17.469Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:58.290Z
@@ -41,7 +41,7 @@ dateCreated: 2024-08-13T19:48:58.290Z
 * [Três Mãos](/faccoes/faccoes-independentes/tres-maos#tres-maos)
 
 ## Sub-nações
-* [Tribo do Alto Desfiladeiro](/faccoes/faccoes-independentes/tribo-do-alto-desfiladeiro#tribo-do-alto-desfiladeiro)
-* [Tribo Carazul](/faccoes/faccoes-independentes/tribo-carazul#tribo-carazul)
-* [Tribo Fauxa Azuu](/faccoes/faccoes-independentes/tribo-fauxa-azuu#tribo-fauxa-azuu)
-* [Tribo Machadão](/faccoes/faccoes-independentes/tribo-machadao#tribo-machadao)
+* [Tribo do Alto Desfiladeiro](/faccoes/nacoes/tribos-orc/tribo-do-alto-desfiladeiro)
+* [Tribo Carazul](/faccoes/nacoes/tribos-orc/tribo-carazul)
+* [Tribo Fauxa Azuu](/faccoes/nacoes/tribos-orc/tribo-fauxa-azuu)
+* [Tribo Machadão](/faccoes/nacoes/tribos-orc/tribo-machadao)
