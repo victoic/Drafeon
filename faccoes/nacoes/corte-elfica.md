@@ -2,7 +2,7 @@
 title: Corte Élfica
 description: 
 published: true
-date: 2025-11-04T15:10:24.240Z
+date: 2026-01-30T14:55:46.826Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:56:06.777Z
@@ -11,7 +11,7 @@ dateCreated: 2024-08-13T19:56:06.777Z
 <!-- SUBTITLE: Visão geral sobre Corte Élfica -->
 
 # Corte Élfica
-A Corte Élfica, também conhecida como Império Élfico, é a nação localizada ao extremo norte de Drafeon. A Corte surgiu como uma aliança entre grupos das três principais espécies élficas: [Veneri](/fauna-e-flora/especies-inteligentes/elfo-veneri), [Cotassi](/fauna-e-flora/especies-inteligentes/elfo-da-floresta) e [Drows](/fauna-e-flora/especies-inteligentes/elfo-negro), para se unificarem e defenderem contra os terrores que vagavam o [Plano Material](/lugares/plano-material#plano-material) após a [Reclusão dos Deuses]().
+A Corte Élfica, uma tentativa de herdar a grandeza do antigo [Império Élfico](/faccoes/nacoes/imperio-elfico), foi uma nação localizada ao extremo norte de Drafeon. A Corte surgiu como uma aliança entre grupos das três principais espécies élficas: [Veneri](/fauna-e-flora/especies-inteligentes/elfo-veneri), [Cotassi](/fauna-e-flora/especies-inteligentes/elfo-da-floresta) e [Drows](/fauna-e-flora/especies-inteligentes/elfo-negro), para se unificarem e defenderem contra os terrores que vagavam o [Plano Material](/lugares/plano-material#plano-material) após a [grande guerra de Kog](/lendas-e-eventos/grande-guerra-de-kog).
 
 A união dos Elfos os permitiu trocarem conhecimento e obter aprendizado aprofundado sobre o arcano, a Corte Élfica logo se tornou o hepicentro cutural, acadêmico e econômico de [Drafeon](/lugares/plano-material/drafeon#drafeon). A soberania élfica durou até [A Grande Guerra de Kog](), onde grande parte da nação foi devastada. A Corte Élfica é, atualmente, uma sombra do que já foi, apesar de voltar a prosperar com a união das raças proposta por [Makil Drasonur](/individuos/makil-drasonur#makil-drasonur).
 
