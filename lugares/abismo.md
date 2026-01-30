@@ -2,10 +2,10 @@
 title: Abismo
 description: 
 published: true
-date: 2021-05-26T16:28:12.455Z
+date: 2026-01-30T15:56:28.259Z
 tags: lugar
 editor: markdown
-dateCreated: 2021-05-24T19:08:56.506Z
+dateCreated: 2024-08-13T19:54:25.815Z
 ---
 
 # Abismo
