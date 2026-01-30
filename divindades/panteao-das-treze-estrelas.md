@@ -2,7 +2,7 @@
 title: Panteão das Treze Estrelas
 description: 
 published: true
-date: 2026-01-30T16:00:38.170Z
+date: 2026-01-30T16:01:33.429Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:42.891Z
@@ -37,4 +37,4 @@ Os 11 deuses não mais possuem acesso direto ao Plano Material, onde todos nós 
 # Informações
 `Tipo` Religioso, Panteão
 `Gentílico` Deus(a)
-`Organizações Associadas` [Império Dragão](/faccoes/imperio-dragao#imperio-dragao)
+`Organizações Associadas` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
