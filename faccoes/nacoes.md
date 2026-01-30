@@ -2,7 +2,7 @@
 title: Nações
 description: 
 published: true
-date: 2026-01-30T14:49:43.934Z
+date: 2026-01-30T14:55:59.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:49:00.475Z
@@ -29,3 +29,4 @@ Diversos impérios, nações e outras facções geopolíticas surgiram e caíram
 
 ### Nações da Era dos Mortos
 * [Império dos Mortos](/faccoes/nacoes/imperios-dos-mortos)
+* [Império Élfico](/faccoes/nacoes/imperio-elfico)
