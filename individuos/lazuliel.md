@@ -2,7 +2,7 @@
 title: Lazuliel
 description: O Anjo Azul
 published: true
-date: 2026-01-30T16:38:26.523Z
+date: 2026-01-30T18:12:16.592Z
 tags: segredo, boss, celestial
 editor: markdown
 dateCreated: 2025-02-21T15:46:13.237Z
