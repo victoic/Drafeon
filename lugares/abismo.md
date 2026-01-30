@@ -2,7 +2,7 @@
 title: Abismo
 description: 
 published: true
-date: 2026-01-30T15:57:48.389Z
+date: 2026-01-30T15:58:13.478Z
 tags: lugar
 editor: markdown
 dateCreated: 2024-08-13T19:54:25.815Z
@@ -21,7 +21,7 @@ Diversos estudiosos já tentaram indexar as camadas do Abismo, a seguir são lis
 - **Camada 1:** [Pazunia](/lugares/abismo/pazunia), uma planície rochosa e desértica por onde corre o Rio de Sangue que dá acesso ao [Mar Astral](/lugares/mar-astral).
 
 ### Camadas 101-200
-- **Camada 176:** [Coração do Vazio](/lugares/abismo/coracao-do-vazio), um continente coberto por um céu sem estrelas e envolto por um fino pó branco. Dominado pelo [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal) [Fraz-Urb'luu](/individuos/senhor-abissal/fraz-urbluu).
+- **Camada 176:** [Coração do Vazio](/lugares/abismo/coracao-do-vazio), um continente coberto por um céu sem estrelas e envolto por um fino pó branco. Dominado pelo [Lorde Abissal](/rankings-e-titulos/magico/lorde-abissal) [Fraz-Urb'luu](/individuos/fraz-urbluu).
 
 # Informações
 `Tipo` Plano dimensional
