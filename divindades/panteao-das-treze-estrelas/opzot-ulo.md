@@ -2,10 +2,10 @@
 title: Opzot-Ulo
 description: 
 published: true
-date: 2021-11-05T19:24:26.106Z
+date: 2026-02-04T17:07:51.013Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-11T16:31:25.107Z
+dateCreated: 2024-08-13T19:55:11.090Z
 ---
 
 <!-- SUBTITLE: Deus das Pragas e da Insanidade -->
@@ -13,6 +13,10 @@ dateCreated: 2019-11-11T16:31:25.107Z
 
 # Opzot-Ulo
 Upzot-Ulo se apresenta como um ser híbrido entre aranha, escorpião e serpente. Seu corpo é o de uma aranha verde, seu corpo é coberto de pele e em seu abdômen se encontra uma espiral negra. De seu abdômen uma longa calda se curva para cima de seu corpo, na ponta se encontra um ferrão venenoso. Onde se encontraria o cabeça da aranha, o corpo de uma serpente se alonga, terminando em uma cabeça escamosa com oito olhos vermelhos.
+
+## Cultos
+
+No [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn) o culto a Opzot-Ulo é obrigatório. Sua descrição diverge da utilizada pela [Igreja das Treze Estrelas](/faccoes/faccoes-independentes/igreja-das-treze-estrelas), com Opzot-Ulo tomando a forma de uma serpente que devora o mundo. O alto clero Serpentinn possui um foco maior nos aspectos insanos de Opzot-Ulo, com cultos, rituais, experimentos e estudos no relacionado a distorção dimensional e deformação física.
 
 ## Domínios Divinos
 Deus das Pragas e da Insanidade Domínio dos Truques, Domínio da Guerra.
