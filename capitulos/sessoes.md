@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-01-29T14:01:48.922Z
+date: 2026-02-08T03:38:10.878Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1158,3 +1158,8 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 
 > O palácio calcula. Eu imagino. Vocês existem. Eu sei o que buscam. Vamos dançar.
 > - Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab
+
+- [08/02/2026]() | Data narrativa: 16 de Woton de 1755
+> O grupo consegue derrotar os Golens de Âmbar e exploram a geometria impossível do vestíbulo. Após conseguirem chegar ao próximo andar, encontram uma sala em loop com salas com conexões incertas. [Addran](/individuos/personagens-de-jogadores/addran-martel) passa por uma rachadura temporal, que o torna exausto conforme o tempo passa mais rápido.
+>
+> O grupo se separa passando por salas diferentes e Zerke é atacado por Golens de Âmbar. {.is-info}
