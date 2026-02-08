@@ -2,7 +2,7 @@
 title: Grot
 description: 
 published: true
-date: 2026-02-02T19:32:46.684Z
+date: 2026-02-08T03:31:57.797Z
 tags: jogador
 editor: markdown
 dateCreated: 2025-02-20T10:04:42.204Z
@@ -26,4 +26,4 @@ Em Obris de 1755, Grot se uniu a [Confraria da Rosa Negra](/faccoes/faccoes-inde
 `Altura` 1,05 m
 `Peso` 32 Kg
 `Organizações Associadas` [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra)
-`Títulos` Grão-Mestre Artesão (auto imposto)
+`Títulos` [Grão-Mestre Artesão](/rankings-e-titulos/tribos-goblin/grao-mestre-artesao)
