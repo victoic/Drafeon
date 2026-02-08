@@ -2,14 +2,14 @@
 title: Grot
 description: 
 published: true
-date: 2026-02-08T03:31:57.797Z
+date: 2026-02-08T03:33:48.746Z
 tags: jogador
 editor: markdown
 dateCreated: 2025-02-20T10:04:42.204Z
 ---
 
 # Grot
-Grot foi um goblin, nativo de [Tunailmhor](/lugares/plano-material/drafeon/sudeste-de-drafeon/tunailmhor), especificamente do lado do lago da tribo. Grot foi treinado em uma multitude de disciplinas de artesanato, manufatura e gastronomia. 
+Grot foi um goblin, nativo de [Tunailmhor](/lugares/plano-material/drafeon/sudeste-de-drafeon/tunailmhor), especificamente do lado do lago da tribo. Grot foi treinado em uma multitude de disciplinas de artesanato, manufatura e gastronomia. Em sua infância ele fez grande amizade com o filho do líder Sicrano, o maior guerreiro de sua tribo.
 
 Em 1741 ED, o líder do lado do bosque, [Fulano](/individuos/fulano) executou um plano para incentivar um pequeno grupo de opositores à usurpação de [Sicrano](/individuos/sicrano), líder do lado do lago, após encontrar um [artefato](/itens) em uma tumba. O golpe acarretou no massacre de todos os goblins que apoiavam Sicrano, Grot sendo o único que conseguiu escapar com vida.
 
