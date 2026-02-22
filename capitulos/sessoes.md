@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-02-08T04:11:13.364Z
+date: 2026-02-22T03:51:21.037Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1163,3 +1163,6 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > O grupo consegue derrotar os Golens de Âmbar e exploram a geometria impossível do vestíbulo. Após conseguirem chegar ao próximo andar, encontram uma sala em loop com salas com conexões incertas. [Addran](/individuos/personagens-de-jogadores/addran-martel) passa por uma rachadura temporal, que o torna exausto conforme o tempo passa mais rápido.
 >
 > O grupo se separa passando por salas diferentes, Zerke encontra relatos de aprendizes que desaprendem geometria comum e um livro de feitos de [Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab](/individuos/ahrtar-amir-ibn-jibril-al-mal'un-al-janawi-abu-al-azab). Após a leitura, Zerke sai da sala e é atacado por Golens de Âmbar. {.is-info}
+
+- [21/02/2026]() | Data narrativa: 16 de Woton de 1755
+> O grupo explora o primeiro andar do Palácio das Estrelas, derrotando os golens de âmbar, apesar de praticamente nenhum membro do grupo prestar ajuda ao [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), com exceção da [Amy](/individuos/personagens-de-jogadores/amy). O grupo finalmente encontra o logarithmus que leva ao 2º andar e lá inicia uma tática defensiva para enfrentar criaturas que se encontram na biblioteca.{.is-info}
