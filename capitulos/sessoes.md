@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-03-08T03:25:48.173Z
+date: 2026-03-08T03:26:52.736Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1167,5 +1167,5 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 - [21/02/2026](https://youtu.be/uOrA8EvVi1s) | Data narrativa: 16 de Woton de 1755
 > O grupo explora o primeiro andar do Palácio das Estrelas, derrotando os golens de âmbar, apesar de praticamente nenhum membro do grupo prestar ajuda ao [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), com exceção da [Amy](/individuos/personagens-de-jogadores/amy). O grupo finalmente encontra o logarithmus que leva ao 2º andar e lá inicia uma tática defensiva para enfrentar criaturas que se encontram na biblioteca.{.is-info}
 
-- [07/03/2026]() | Data narrativa: 16 de Woton de 1755
+- [07/03/2026](https://youtu.be/tY-za-skd38) | Data narrativa: 16 de Woton de 1755
 > O grupo se sobressai contra os yuanti da biblioteca e encontra um mapa parcial. Após investigarem o mapa, informações pessoais de [Amy](/individuos/personagens-de-jogadores/amy), [Grot](/individuos/personagens-de-jogadores/grot) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) surgem no mapa. Já [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) consegue entender o mapa e descobre a localização de um artefato: o dado de primeira classe. Após encontrarem, acidentalmente, a passagem para o nível seguinte, o grupo encontra mais adversários. {.is-info}
