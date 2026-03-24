@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-03-24T00:40:29.321Z
+date: 2026-03-24T00:42:50.527Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1170,7 +1170,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 - [07/03/2026](https://youtu.be/tY-za-skd38) | Data narrativa: 16 de Woton de 1755
 > O grupo se sobressai contra os yuanti da biblioteca e encontra um mapa parcial. Após investigarem o mapa, informações pessoais de [Amy](/individuos/personagens-de-jogadores/amy), [Grot](/individuos/personagens-de-jogadores/grot) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) surgem no mapa. Já [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) consegue entender o mapa e descobre a localização de um artefato: o dado de primeira classe. Após encontrarem, acidentalmente, a passagem para o nível seguinte, o grupo encontra mais adversários. {.is-info}
 
-- [21/03/2026]() | Data narrativa: 16 de Woton de 1755
+- [21/03/2026](https://youtu.be/q--UfeNt8Kk) | Data narrativa: 16 de Woton de 1755
 > O grupo chega a um 3º andar do palácio, um cubo com escadas que direcionam às paredes e tetos, com cada lado da sala tendo um propósito. Ao entrarem, Golens de Âmbar se direcionam para enfretá-los, mas a voz de [Ahr'tar Amir](/individuos/ahrtar-amir-ibn-jibril-al-mal'un-al-janawi-abu-al-azab) os ordena a permitir que o grupo prossiga. [Zerke] interpreta isso como uma chance para descansar, mas Ahr'tar Amir prontamente informa que sua misericordia foi ume erro.
 >
 > O grupo rapidamente explora o andar, com [Grot](/individuos/personagens-de-jogadores/grot) coletando 5Kg de rochas combustíveis de sangue e um martelo com cabeça de âmbar com uma bolha no centro e um conjunto de ferramentas de tortura, [Addran](/individuos/personagens-de-jogadores/addran-martel) coletando uma espada de ossos, [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) um martelo com cabeça curva para cima, como um bicórnio, [Amy](/individuos/personagens-de-jogadores/amy) coletando um cajado enorme e Zerke pegando um chicote de três cordas que se encontram em ponta comum, formando um 'Y'.
