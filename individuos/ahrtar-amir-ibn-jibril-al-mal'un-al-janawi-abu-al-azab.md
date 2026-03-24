@@ -2,7 +2,7 @@
 title: Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab
 description: 
 published: true
-date: 2026-01-29T13:04:56.720Z
+date: 2026-03-24T00:19:11.900Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-07-26T01:57:11.078Z
@@ -18,6 +18,10 @@ dateCreated: 2025-07-26T01:57:11.078Z
 
 > "As muralhas de Jana... Elas são um tumor divino chamado Amir."
 > — Soraya Nejem, general de Al-haro.
+
+Acreditando estar sendo testado por [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo), Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab permitiu que os membros da [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) adentrassem seu palácio em busca do [Mapa das Estrelas Mortas](/itens/mapa-das-estrelas-mortas), para que ele mesmo pudesse derrota-los, como calculou inúmeras vezes.
+
+Nesse confronto, Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab foi derrotado e morto, tendo sua cabeça decaptada como prêmio por [Zerke Montravu](/individuos/personagens-de-jogadores/zerme-montravu).
 
 ## Aparência
 Amir possuía escamas negras como petróleo, com pústulas vibrantes que exalam gases tóxicos e dupla cauda de serpente-de-coral (padrões vermelhos e negros), cada ponta com uma boca que sussurra maldições em Primordial.
