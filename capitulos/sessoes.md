@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-03-24T00:42:50.527Z
+date: 2026-03-24T00:57:38.666Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1179,6 +1179,6 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 >
 > No entanto, após a Amy encontrar o portão da sala de tesouros e iniciar a recitar o [poema da praga primordial](/documentos/poema-da-praga-primordial) o grupo, com exceção do Zerke que ainda está em superposição, se reunem junto à Amy. Após o portão abrir, o grupo se encontra perante 4 versões do Ahr'tar Amir, que inicia um diálogo com o grupo, Grot oferece chá a uma das versões. Ahr'tar Amir oferece itens de seu tesouro para que o grupo use contra ele no combate. 
 >
-> Amy escolhe o Broto negro de 5cm com pétalas que absorvem luz, Grot escolhe o grão de 2cm, casca de noite solidificada, Addran escolhe o meteorito negro de 3cm, Magnus escolhe a lente de cristal azul-turquesa, Zerke escolhe o fio prateado de 30cm com brilho de vela (Zerke). O combate se inicia, com apenas uma das versões do Ahr'tar Amir se mantendo. Após um duro combate, Ahr'tar Amir é derrotado e o palácio inicia a tremer como em desmoronamento. O grupo rapidamente coleta alguns itens da sala de tesouro. {.is-info}
+> Amy escolhe o Broto negro de 5cm com pétalas que absorvem luz, Grot escolhe o grão de 2cm, casca de noite solidificada, Addran escolhe o meteorito negro de 3cm, Magnus escolhe a lente de cristal azul-turquesa, Zerke escolhe o fio prateado de 30cm com brilho de vela (Zerke). O combate se inicia, com apenas uma das versões do Ahr'tar Amir se mantendo. Após um duro combate, Ahr'tar Amir é derrotado e o palácio inicia a tremer como em desmoronamento. O grupo rapidamente coleta alguns itens da sala de tesouro (Zerke - Conta de Ábaco, ). {.is-info}
 
 > "Vocês chegam tarde. Eu calculei cem mil versões deste momento. Em quarenta e sete mil, vocês morreram no corredor. Em trinta mil, nunca existiram. Em vinte mil, eu os servi de jantar. Em duzentos e nove, vocês me mataram." - Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab
