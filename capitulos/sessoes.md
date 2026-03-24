@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-03-08T03:26:52.736Z
+date: 2026-03-24T00:40:29.321Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1169,3 +1169,16 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 
 - [07/03/2026](https://youtu.be/tY-za-skd38) | Data narrativa: 16 de Woton de 1755
 > O grupo se sobressai contra os yuanti da biblioteca e encontra um mapa parcial. Após investigarem o mapa, informações pessoais de [Amy](/individuos/personagens-de-jogadores/amy), [Grot](/individuos/personagens-de-jogadores/grot) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) surgem no mapa. Já [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) consegue entender o mapa e descobre a localização de um artefato: o dado de primeira classe. Após encontrarem, acidentalmente, a passagem para o nível seguinte, o grupo encontra mais adversários. {.is-info}
+
+- [21/03/2026]() | Data narrativa: 16 de Woton de 1755
+> O grupo chega a um 3º andar do palácio, um cubo com escadas que direcionam às paredes e tetos, com cada lado da sala tendo um propósito. Ao entrarem, Golens de Âmbar se direcionam para enfretá-los, mas a voz de [Ahr'tar Amir](/individuos/ahrtar-amir-ibn-jibril-al-mal'un-al-janawi-abu-al-azab) os ordena a permitir que o grupo prossiga. [Zerke] interpreta isso como uma chance para descansar, mas Ahr'tar Amir prontamente informa que sua misericordia foi ume erro.
+>
+> O grupo rapidamente explora o andar, com [Grot](/individuos/personagens-de-jogadores/grot) coletando 5Kg de rochas combustíveis de sangue e um martelo com cabeça de âmbar com uma bolha no centro e um conjunto de ferramentas de tortura, [Addran](/individuos/personagens-de-jogadores/addran-martel) coletando uma espada de ossos, [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) um martelo com cabeça curva para cima, como um bicórnio, [Amy](/individuos/personagens-de-jogadores/amy) coletando um cajado enorme e Zerke pegando um chicote de três cordas que se encontram em ponta comum, formando um 'Y'.
+>
+> Chegando no andar seguinte, Addran encontra uma sala quente e úmida, com paredes cobertas por uma membrana e com um cristal flutuante ao centro, ele, junto com o Grot, traçam um plano para carregar o cristal, mas ao sair da sala o cristal deixa de flutuar e é abandonado. Zerke encontra uma sala de espelho e é transportado entre superposições do espaço. Enquanto isso, Magnus se distancia do grupo seguindo ao nível superior.
+>
+> No entanto, após a Amy encontrar o portão da sala de tesouros e iniciar a recitar o [poema da praga primordial](/documentos/poema-da-praga-primordial) o grupo, com exceção do Zerke que ainda está em superposição, se reunem junto à Amy. Após o portão abrir, o grupo se encontra perante 4 versões do Ahr'tar Amir, que inicia um diálogo com o grupo, Grot oferece chá a uma das versões. Ahr'tar Amir oferece itens de seu tesouro para que o grupo use contra ele no combate. 
+>
+> Amy escolhe o Broto negro de 5cm com pétalas que absorvem luz, Grot escolhe o grão de 2cm, casca de noite solidificada, Addran escolhe o meteorito negro de 3cm, Magnus escolhe a lente de cristal azul-turquesa, Zerke escolhe o fio prateado de 30cm com brilho de vela (Zerke). O combate se inicia, com apenas uma das versões do Ahr'tar Amir se mantendo. Após um duro combate, Ahr'tar Amir é derrotado e o palácio inicia a tremer como em desmoronamento. O grupo rapidamente coleta alguns itens da sala de tesouro. {.is-info}
+
+> "Vocês chegam tarde. Eu calculei cem mil versões deste momento. Em quarenta e sete mil, vocês morreram no corredor. Em trinta mil, nunca existiram. Em vinte mil, eu os servi de jantar. Em duzentos e nove, vocês me mataram." - Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab
