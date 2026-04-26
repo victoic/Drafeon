@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-04-26T04:18:01.991Z
+date: 2026-04-26T04:20:55.342Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1183,7 +1183,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 
 > "Vocês chegam tarde. Eu calculei cem mil versões deste momento. Em quarenta e sete mil, vocês morreram no corredor. Em trinta mil, nunca existiram. Em vinte mil, eu os servi de jantar. Em duzentos e nove, vocês me mataram." - Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab
 
-- [14/04/2026]() | Data narrativa: 16 de Woton de 1755 - 17 de Woton de 1755
+- [14/04/2026](https://youtu.be/dbwqAGqntgY) | Data narrativa: 16 de Woton de 1755 - 17 de Woton de 1755
 > O grupo foge da cidade de [Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana), entregando o [Olho de Ittar]() para [Zahra](/individuos/zahra-bint-al-sahim), após saírem da cidade, observam enquanto a Jana é encoberta por suas próprias muralhas. Nas montanhas, o grupo é abordado [Tufão](/individuos/tariq-ibn-rashid), com quem coversam e oferecem abrigo no domo arcano para passarem a noite. {.is-info}
 
 - [25/04/2026]() | Data narrativa: 17 de Woton de 1755 - 18 de Woton de 1755
