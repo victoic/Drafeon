@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-04-26T04:17:45.345Z
+date: 2026-04-26T04:18:01.991Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1186,7 +1186,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 - [14/04/2026]() | Data narrativa: 16 de Woton de 1755 - 17 de Woton de 1755
 > O grupo foge da cidade de [Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana), entregando o [Olho de Ittar]() para [Zahra](/individuos/zahra-bint-al-sahim), após saírem da cidade, observam enquanto a Jana é encoberta por suas próprias muralhas. Nas montanhas, o grupo é abordado [Tufão](/individuos/tariq-ibn-rashid), com quem coversam e oferecem abrigo no domo arcano para passarem a noite. {.is-info}
 
-- [26/04/2026]() | Data narrativa: 17 de Woton de 1755 - 18 de Woton de 1755
+- [25/04/2026]() | Data narrativa: 17 de Woton de 1755 - 18 de Woton de 1755
 > O grupo faz a viagem pelo [Muro das Pontas](/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas) voando no [roc](/fauna-e-flora/roc) do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), em direção ao artefato. Lembrando dos acontecimentos de quando viajaram em direção à [Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana), eles desviam da montanha onde enfrentaram um colosso de gelo, e toma um caminho mais longo buscando evitar a região de [arcana](/magia) nula.
 > 
 > Por insistência do [Addran](/individuos/personagens-de-jogadores/addran-martel), e considerando o calor extremo do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), o grupo decide buscar o [nefelim](/faccoes/nacoes/exercito-serpentinn) que deixaram escondido nas montanhas.
