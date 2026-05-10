@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-04-26T04:21:57.768Z
+date: 2026-05-10T04:37:43.122Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1195,3 +1195,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 >
 > No caminho, um velho yuanti recebe comida do Zerke e promete espalhar sobre seus feitos e em também os avisa de uma emboscada cerca de 2 quilometros à frente. O grupo, cautelosamente, planeja uma contra-emboscada, mas não conseguem encontrar os agressores. Finalmente, Amy consegue encontrar a localização: abaixo do chão no meio do deserto. O grupo inicia tentativas de escavar e buscar informações sobre o local, com o Magnus usando magia e o Zerke detectando algo mágico abaixo deles. {.is-info}
 
+- [09/05/2026]() | Data narrativa: 18 de Woton de 1755
+> O grupo passa a tarde e a noite investigando o deserto e buscando respostas sobre como encontra o artefato. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) considera fortemente resumir sua parceria com o verme após conversarem melhor. [Amy](/individuos/personagens-de-jogadores/amy) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) investigam livros retirados do [Palácio das Estrelas](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana), porém Magnus danifica um dos livros. Amy chama o Zerke para passar as páginas cuidadosamente para que ela possa ler, descobrindo que o local onde o artefato está é uma obra de [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo).
+>
+> Após o verme substituir novamente a língua do Zerke, eles esperam algumas horas e o céu noturno é preenchido por nuvens escuras, que fazem escuridão completa envolver a região. Um portal aparece, o grupo atravessa e são engolidos pelas areias. Caindo em uma caverna onde não existe ar. Diversas estátuas são lentamente soterradas na areia, o Magnus tenta "roubar" um cajado de uma das estátuas e o quebra, fazendo com que a estátua viva e os ataque. [Grot](/individuos/personagens-de-jogadores/grot) destrói facilmente a estátua e o grupo chega a um obelisco que os julga quanto a imortalidade e divindade. {.is-info}
