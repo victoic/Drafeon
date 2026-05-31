@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-05-10T04:56:05.358Z
+date: 2026-05-31T05:04:35.554Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1199,3 +1199,12 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > O grupo passa a tarde e a noite investigando o deserto e buscando respostas sobre como encontra o artefato. [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) considera fortemente resumir sua parceria com o verme após conversarem melhor. [Amy](/individuos/personagens-de-jogadores/amy) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) investigam livros retirados do [Palácio das Estrelas](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana), porém Magnus danifica um dos livros. Amy chama o Zerke para passar as páginas cuidadosamente para que ela possa ler, descobrindo que o local onde o artefato está é uma obra de [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo).
 >
 > Após o verme substituir novamente a língua do Zerke, eles esperam algumas horas e o céu noturno é preenchido por nuvens escuras, que fazem escuridão completa envolver a região. Um portal aparece, o grupo atravessa e são engolidos pelas areias. Caindo em uma caverna onde não existe ar. Diversas estátuas são lentamente soterradas na areia, o Magnus tenta "roubar" um cajado de uma das estátuas e o quebra, fazendo com que a estátua viva e os ataque. [Grot](/individuos/personagens-de-jogadores/grot) destrói facilmente a estátua e o grupo chega a um obelisco que os julga quanto a imortalidade e divindade. {.is-info}
+
+- [31/05/2026]() | Data narrativa: 19 de Woton de 1755 ED
+> O grupo enfrenta o desafio das pontes dos dedos quebrados, onde mãos fantasmagóricas tentam capturar o grupo através de pontes sobre um imenso vácuo. Inicialmente [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e [Amy](/individuos/personagens-de-jogadores/amy) chegam à sala, com a Amy sendo capturada e o Zerke a salvando. O risco de gastar seu único ar restante para conjurar agrava a situação. O restante do grupo chega, com [Addran](/individuos/personagens-de-jogadores/addran-martel) sendo o último.
+> Magnus conjura Passos Largos na Amy e começa a sufocar rapidamente.
+> Addran e [Grot](/individuos/personagens-de-jogadores/grot) contemplam reliazar manobras complexas para cortar caminho, sob risco de cair no abismo. Zerke convence o grupo a conjurar Truque de Corda para que o Magnus possa recuperar o fôlego e o grupo possa se preparar melhor.
+> Após chegarem ao fim das pontes, e com o Magnus sendo capturado uma quantidade cômica de vezes e se recusar a deixar as pontes até que o último (incluindo o Paladino) saiam em segurança, o grupo passa para um grande lago coberto de máscaras e um navio naufragado ao fundo.
+> O grupo adentra o lago e é atacado por um Kraken, que logo se mostra inofencivo ao grupo, mas é morto pelo Grot de qualquer forma. Zerke, Grot e Addran tentam múltiplas vezes abrir um alçaoão no deque do navio, mas não tem sucesso. Magnus consegue, iniciando um redemoinho que leva o grupo para um labirinto de espelhos.
+> Os espelhos refletem versão tristes, derrotadas e malignas de cada um dos membros do grupo.
+> {.is-info}
