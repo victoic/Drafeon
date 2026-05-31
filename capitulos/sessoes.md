@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-05-31T05:04:35.554Z
+date: 2026-05-31T05:07:15.989Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1200,7 +1200,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 >
 > Após o verme substituir novamente a língua do Zerke, eles esperam algumas horas e o céu noturno é preenchido por nuvens escuras, que fazem escuridão completa envolver a região. Um portal aparece, o grupo atravessa e são engolidos pelas areias. Caindo em uma caverna onde não existe ar. Diversas estátuas são lentamente soterradas na areia, o Magnus tenta "roubar" um cajado de uma das estátuas e o quebra, fazendo com que a estátua viva e os ataque. [Grot](/individuos/personagens-de-jogadores/grot) destrói facilmente a estátua e o grupo chega a um obelisco que os julga quanto a imortalidade e divindade. {.is-info}
 
-- [31/05/2026]() | Data narrativa: 19 de Woton de 1755 ED
+- [31/05/2026](https://youtu.be/y__8KHZuKKs) | Data narrativa: 19 de Woton de 1755 ED
 > O grupo enfrenta o desafio das pontes dos dedos quebrados, onde mãos fantasmagóricas tentam capturar o grupo através de pontes sobre um imenso vácuo. Inicialmente [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) e [Amy](/individuos/personagens-de-jogadores/amy) chegam à sala, com a Amy sendo capturada e o Zerke a salvando. O risco de gastar seu único ar restante para conjurar agrava a situação. O restante do grupo chega, com [Addran](/individuos/personagens-de-jogadores/addran-martel) sendo o último.
 > Magnus conjura Passos Largos na Amy e começa a sufocar rapidamente.
 > Addran e [Grot](/individuos/personagens-de-jogadores/grot) contemplam reliazar manobras complexas para cortar caminho, sob risco de cair no abismo. Zerke convence o grupo a conjurar Truque de Corda para que o Magnus possa recuperar o fôlego e o grupo possa se preparar melhor.
