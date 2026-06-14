@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-06-14T04:03:17.333Z
+date: 2026-06-14T12:50:13.979Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1209,7 +1209,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Os espelhos refletem versão tristes, derrotadas e malignas de cada um dos membros do grupo.
 > {.is-info}
 
-- [13/06/2026]() | Data narrativa: 19 de Woton de 1755 ED
+- [13/06/2026](https://www.youtube.com/watch?v=pvvGeQVsd4M) | Data narrativa: 19 de Woton de 1755 ED
 > O grupo continua a exploração do labirinto dos reflexos. No entanto, notam membros estranhos do grupo conforme passam pelos corredores, que agiam de foram ligeiramente desconcertante, ou seguiam caminhos contrários aos informados pelo grupo.
 > [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) resolve atacar um desses membros, desconfiando ser uma ilusão ou cópia de seus companheiros. Isso inicia um processo de ataque de todas as cópias, que encurralam o Zerke, deixando-o em uma posição difícil.
 > [Grot](/individuos/personagens-de-jogadores/grot) e o Paladino passam pela porta ao centro do labirinto e chegam ao anfiteatro, iniciando as explorações do ambiente.
