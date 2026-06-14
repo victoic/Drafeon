@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-06-14T00:47:34.462Z
+date: 2026-06-14T04:03:17.333Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1207,4 +1207,12 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Após chegarem ao fim das pontes, e com o Magnus sendo capturado uma quantidade cômica de vezes e se recusar a deixar as pontes até que o último (incluindo o Paladino) saiam em segurança, o grupo passa para um grande lago coberto de máscaras e um navio naufragado ao fundo.
 > O grupo adentra o lago e é atacado por um Kraken, que logo se mostra inofencivo ao grupo, mas é morto pelo Grot de qualquer forma. Zerke, Grot e Addran tentam múltiplas vezes abrir um alçaoão no deque do navio, mas não tem sucesso. Magnus consegue, iniciando um redemoinho que leva o grupo para um labirinto de espelhos.
 > Os espelhos refletem versão tristes, derrotadas e malignas de cada um dos membros do grupo.
+> {.is-info}
+
+- [13/06/2026]() | Data narrativa: 19 de Woton de 1755 ED
+> O grupo continua a exploração do labirinto dos reflexos. No entanto, notam membros estranhos do grupo conforme passam pelos corredores, que agiam de foram ligeiramente desconcertante, ou seguiam caminhos contrários aos informados pelo grupo.
+> [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) resolve atacar um desses membros, desconfiando ser uma ilusão ou cópia de seus companheiros. Isso inicia um processo de ataque de todas as cópias, que encurralam o Zerke, deixando-o em uma posição difícil.
+> [Grot](/individuos/personagens-de-jogadores/grot) e o Paladino passam pela porta ao centro do labirinto e chegam ao anfiteatro, iniciando as explorações do ambiente.
+> [Addran](/individuos/personagens-de-jogadores/addran-martel) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) retornam o caminho já percorrido para salvar o Zerke das cópias.
+> [Amy](/individuos/personagens-de-jogadores/amy), invisível, também alcança o anfiteatro, a tempo de ouvir um Yuanti translúcido que falava um dialeto antigo explicando ao Grot que devem interpretar a "Queda dos Yuanti", mas não possuem atores suficientes. Grot conjura truque de corda, e sobre com o Paladino e Amy para estudar os papéis da peça. Finalmente, os demais conseguem alcançar o anfiteatro.
 > {.is-info}
