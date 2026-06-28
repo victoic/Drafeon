@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-06-28T00:30:12.236Z
+date: 2026-06-28T04:46:30.266Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1218,4 +1218,5 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > {.is-info}
 
 - [27/06/2026]() | Data narrativa: 19 de Woton de 1755 ED
-> {.is-info}
+> O grupo realiza a peça da queda dos Yuanti, interpretando com maestria a história da corrupção dos Yuanti poe [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo), criação das castas, tentativa de invasão de Celestia, forja da Lâmina do Último Suspiro, e continuação fúnebre dos yuanti com o império Serpentinn.
+> Após a peça, a plateia fantasmagórica desparece e as cortinas no fundo do teatro se abrem, revelando um alçapão que leva a uma enorme caverna.{.is-info}
