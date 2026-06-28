@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-06-14T12:50:13.979Z
+date: 2026-06-28T00:30:12.236Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1215,4 +1215,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > [Grot](/individuos/personagens-de-jogadores/grot) e o Paladino passam pela porta ao centro do labirinto e chegam ao anfiteatro, iniciando as explorações do ambiente.
 > [Addran](/individuos/personagens-de-jogadores/addran-martel) e [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) retornam o caminho já percorrido para salvar o Zerke das cópias.
 > [Amy](/individuos/personagens-de-jogadores/amy), invisível, também alcança o anfiteatro, a tempo de ouvir um Yuanti translúcido que falava um dialeto antigo explicando ao Grot que devem interpretar a "Queda dos Yuanti", mas não possuem atores suficientes. Grot conjura truque de corda, e sobre com o Paladino e Amy para estudar os papéis da peça. Finalmente, os demais conseguem alcançar o anfiteatro.
+> {.is-info}
+
+- [27/06/2026]() | Data narrativa: 19 de Woton de 1755 ED
 > {.is-info}
