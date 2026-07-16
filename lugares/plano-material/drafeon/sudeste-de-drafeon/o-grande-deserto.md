@@ -2,7 +2,7 @@
 title: Grande Deserto, O
 description: 
 published: true
-date: 2025-07-25T20:58:30.729Z
+date: 2026-07-16T15:29:48.276Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:59:17.939Z
@@ -32,4 +32,5 @@ O Grande Deserto, além de denominar a região ao extremo leste do Sudeste de Dr
 `Tipo` Deserto
 `Organizações Dominantes` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn#imperio-serpentinn)
 `Sub-locações` [Vale dos Reis Esquecidos](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto/vale-dos-reis-esquecidos)
+  - **Império Serpentinn:** [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr), [Almaedi'](/lugares/plano-material/drafeon/sudeste-de-drafeon/almaedi), [Alqa'im](/lugares/plano-material/drafeon/sudeste-de-drafeon/alqaim), [Altabia](/lugares/plano-material/drafeon/sudeste-de-drafeon/altabia), [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz), [Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana), [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), [Kasifisad](/lugares/plano-material/drafeon/sudeste-de-drafeon/kafisifad), [Madina](/lugares/plano-material/drafeon/sudeste-de-drafeon/madina), [Markaz'](/lugares/plano-material/drafeon/sudeste-de-drafeon/markaz), [Oul](/lugares/plano-material/drafeon/sudeste-de-drafeon/oul), [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk), [Talik Altayart](/lugares/plano-material/drafeon/sudeste-de-drafeon/talik-altayart)
 
