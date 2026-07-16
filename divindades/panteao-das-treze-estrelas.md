@@ -2,7 +2,7 @@
 title: Panteão das Treze Estrelas
 description: 
 published: true
-date: 2026-01-30T16:01:33.429Z
+date: 2026-07-16T15:18:06.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-13T19:48:42.891Z
@@ -11,11 +11,11 @@ dateCreated: 2024-08-13T19:48:42.891Z
 <!-- SUBTITLE: Visão geral sobre Panteão das Treze Estrelas -->
 
 # Panteao Das Treze Estrelas
-Ao mencionar os deuses de [Drafeon](/lugares/plano-material/drafeon#drafeon), é de forma geral considerado o panteão de 11 entidades mais comumente reverados no Império, em conjunto com os 2 primordiais, criadores dos deuses. 
+Ao mencionar os deuses de [Drafeon](/lugares/plano-material/drafeon#drafeon), é de forma geral considerado o panteão de 13 entidades mais comumente reverados no Império, em conjunto com os 2 primordiais, criadores dos deuses. 
 
 Os deuses possuem poderes sobre certos domínios da realidade e das civilizações, alguns fazendo uso desses domínios para exercer influências sobre as criaturas mortais ou simplesmente brincar com o plano mortal, outros preferem pouco interferir com nossa realidade.
 
-Os 11 deuses não mais possuem acesso direto ao Plano Material, onde todos nós nos encontramos, desde o [Adormercer](). Apesar disso, mesmo em seus sonos, os deuses ainda conseguem exercer poderes incríveis sobre nossa realidade, moldando e modificando tudo que se encontra em Drafeon. Muitos desses deuses escolhem devotos fieis para dar uma pequena porção de seus poderes para que façam sua vontade.
+Os 13 deuses não mais possuem acesso direto ao Plano Material, onde todos nós nos encontramos, desde o [Adormercer](). Apesar disso, mesmo em seus sonos, os deuses ainda conseguem exercer poderes incríveis sobre nossa realidade, moldando e modificando tudo que se encontra em Drafeon. Muitos desses deuses escolhem devotos fieis para dar uma pequena porção de seus poderes para que façam sua vontade.
 
 ## Membros
 * [Aaos](/divindades/panteao-das-treze-estrelas/aaos#aaos), Deus dos Sonhos e da Morte
