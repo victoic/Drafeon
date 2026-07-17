@@ -2,7 +2,7 @@
 title: A Lâmina do Último Suspiroa
 description: 
 published: true
-date: 2026-07-17T16:49:39.258Z
+date: 2026-07-17T16:52:54.228Z
 tags: arma
 editor: markdown
 dateCreated: 2025-07-25T15:52:49.047Z
@@ -14,7 +14,7 @@ dateCreated: 2025-07-25T15:52:49.047Z
 
 A Lâmina do Último Suspiro é um Khopesh-Chicote, criada por mortais com auxílio dos deuses [Mudur](/divindades/panteao-das-treze-estrelas/mudur) e [Aaos](/divindades/panteao-das-treze-estrelas/aaos) para conter a rebelião do primeiro império yuanti que ameaçava invadir [Celestia](/lugares/celestia).
 
-Feita de ossos das [Anharalram](/fauna-e-flora/anharalram), a arma alterna entre as formas de khopesh curva e um chicote serpetinn.
+Feita de ossos das [Anharalram](/fauna-e-flora/anharalram) e do sangue do primeiro [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar), a arma alterna entre as formas de khopesh curva e um chicote serpetinn.
 
 ## História
 Durante a [Era dos Deuses](/linha-do-tempo), Mudur e Aaos se uniram para guiar mortais na criação do artefato buscando punir os yuanti que, sob influência de Opzot-Ulo, tentaram usurpar o [Panteão das Treze Estrelas](/divindades/panteao-das-treze-estrelas).
