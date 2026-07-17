@@ -1,8 +1,8 @@
 ---
-title: A Lâmina do Último Suspiroa
+title: A Lâmina do Último Suspiro
 description: 
 published: true
-date: 2026-07-17T16:52:54.228Z
+date: 2026-07-17T18:25:11.261Z
 tags: arma
 editor: markdown
 dateCreated: 2025-07-25T15:52:49.047Z
