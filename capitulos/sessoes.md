@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-06-28T04:46:30.266Z
+date: 2026-07-22T23:03:42.163Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1217,6 +1217,13 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > [Amy](/individuos/personagens-de-jogadores/amy), invisível, também alcança o anfiteatro, a tempo de ouvir um Yuanti translúcido que falava um dialeto antigo explicando ao Grot que devem interpretar a "Queda dos Yuanti", mas não possuem atores suficientes. Grot conjura truque de corda, e sobre com o Paladino e Amy para estudar os papéis da peça. Finalmente, os demais conseguem alcançar o anfiteatro.
 > {.is-info}
 
-- [27/06/2026]() | Data narrativa: 19 de Woton de 1755 ED
+- [27/06/2026](https://youtu.be/jDODxAelXwk) | Data narrativa: 19 de Woton de 1755 ED
 > O grupo realiza a peça da queda dos Yuanti, interpretando com maestria a história da corrupção dos Yuanti poe [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo), criação das castas, tentativa de invasão de Celestia, forja da Lâmina do Último Suspiro, e continuação fúnebre dos yuanti com o império Serpentinn.
 > Após a peça, a plateia fantasmagórica desparece e as cortinas no fundo do teatro se abrem, revelando um alçapão que leva a uma enorme caverna.{.is-info}
+
+
+- [11/06/2026](https://youtu.be/jDODxAelXwk) | Data narrativa: 19 de Woton de 1755 ED
+> O grupo chega à câmara dos punidos, onde conversam com os celestiais Siut e Melchamael, aprisionados por Opzot-Ulo como guardiões do artefato. Após informarem do adormecimento dos deuses, os celestiais caem de desespero e o grupo, após muita discussão, decide sacrificar os celestiais para conseguir acesso ao artefato.
+> [Grot](/individuos/personagens-de-jogadores/grot) coleta parte da areia que Siut se tornou, prometendo-a que fará uma foice em homenagem à ela.
+> Após sacrificar os corações dos celestiais, o grupo chega ao cofre do último suspiro, onde enfrentam uma lembrança de Opzot-Ulo, e conseguem a [Lâmina do Último Suspiro](/itens/a-lamina-do-ultimo-suspiro).
+> {.is-info}
