@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-07-23T13:23:35.908Z
+date: 2026-07-23T13:24:51.421Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1228,7 +1228,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Após sacrificar os corações dos celestiais, o grupo chega ao cofre do último suspiro, onde enfrentam uma lembrança de Opzot-Ulo, e conseguem a [Lâmina do Último Suspiro](/itens/a-lamina-do-ultimo-suspiro).
 > {.is-info}
 
-- [23/07/2026]() | Data narrativa: 19 de Woton de 1755 ED
+- [23/07/2026](https://youtu.be/Y9rosIekX-g) | Data narrativa: 19 de Woton de 1755 ED
 > Após a obtenção da [Lâmina do Último Suspiro](/itens/a-lamina-do-ultimo-suspiro), o grupo conjura truque de corda para descansar e planejar quem carregaria o artefato. Foi decidido, com o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) contrariando a si mesmo por um lapso de julgamento, que [Grot](/individuos/personagens-de-jogadores/grot) identificaria a arma, e após isso que [Addran](/individuos/personagens-de-jogadores/addran-martel) sintonizaria a ela.
 > Addran passou a ouvir vozes e um martelar contínuo. O grupo fez o caminho de volta para a saída da caverna, com Zerke disparando à frente e arrumando briga com uma estátua, do [Ahr'tar Amir](/individuos/ahrtar-amir-ibn-jibril-al-mal'un-al-janawi-abu-al-azab), que o machuva gravemente até que o resto do grupo o alcança, onde suas habilidades brilham (com ajuda do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca)).
 >
