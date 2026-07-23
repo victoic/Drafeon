@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-07-22T23:03:42.163Z
+date: 2026-07-23T13:23:35.908Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1222,8 +1222,16 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Após a peça, a plateia fantasmagórica desparece e as cortinas no fundo do teatro se abrem, revelando um alçapão que leva a uma enorme caverna.{.is-info}
 
 
-- [11/06/2026](https://youtu.be/jDODxAelXwk) | Data narrativa: 19 de Woton de 1755 ED
+- [11/07/2026](https://youtu.be/jDODxAelXwk) | Data narrativa: 19 de Woton de 1755 ED
 > O grupo chega à câmara dos punidos, onde conversam com os celestiais Siut e Melchamael, aprisionados por Opzot-Ulo como guardiões do artefato. Após informarem do adormecimento dos deuses, os celestiais caem de desespero e o grupo, após muita discussão, decide sacrificar os celestiais para conseguir acesso ao artefato.
 > [Grot](/individuos/personagens-de-jogadores/grot) coleta parte da areia que Siut se tornou, prometendo-a que fará uma foice em homenagem à ela.
 > Após sacrificar os corações dos celestiais, o grupo chega ao cofre do último suspiro, onde enfrentam uma lembrança de Opzot-Ulo, e conseguem a [Lâmina do Último Suspiro](/itens/a-lamina-do-ultimo-suspiro).
 > {.is-info}
+
+- [23/07/2026]() | Data narrativa: 19 de Woton de 1755 ED
+> Após a obtenção da [Lâmina do Último Suspiro](/itens/a-lamina-do-ultimo-suspiro), o grupo conjura truque de corda para descansar e planejar quem carregaria o artefato. Foi decidido, com o [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) contrariando a si mesmo por um lapso de julgamento, que [Grot](/individuos/personagens-de-jogadores/grot) identificaria a arma, e após isso que [Addran](/individuos/personagens-de-jogadores/addran-martel) sintonizaria a ela.
+> Addran passou a ouvir vozes e um martelar contínuo. O grupo fez o caminho de volta para a saída da caverna, com Zerke disparando à frente e arrumando briga com uma estátua, do [Ahr'tar Amir](/individuos/ahrtar-amir-ibn-jibril-al-mal'un-al-janawi-abu-al-azab), que o machuva gravemente até que o resto do grupo o alcança, onde suas habilidades brilham (com ajuda do [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca)).
+>
+> Após saírem da caverna, peças-chave do conflito no [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto) parecem ter algum tipo de premonição sobre o surgimento do artefato.
+> {.is-info}
+
