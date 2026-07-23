@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-07-23T13:24:51.421Z
+date: 2026-07-23T18:26:46.742Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1235,3 +1235,13 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Após saírem da caverna, peças-chave do conflito no [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto) parecem ter algum tipo de premonição sobre o surgimento do artefato.
 > {.is-info}
 
+> Ao momento em que pisam fora da caverna, na cidade de [Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr), a [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh) se encontra em sua biblioteca pessoal, diversos servos e guardas ao seu redor enquanto ela lê atentamente. Como uma onda, suas escamas de bronze chacoalham em direção ao seu pescoço. Ela levanta o olhar, preocupada, em direção a um de seus guardas. "Chamem-o, o enviaremos imediatamente. E fechem as muralhas, uma reunião deverá ser convocada em breve."
+
+> Em [Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz), o [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) está deitado sobre tecidos finos e inalando incensos raros, sendo alimentado por uma serva. Ele se levanta em um movimento brusco, empurrando a serva. "Preparem os exércitos para uma campanha, algo grande está acontecendo. Tragam um escribão e um pardal de bronze imediatamente!"
+
+> Em [Madina](/individuos/sharaja-ahrtar-malik-al-raijis-ibn-hashim-al-maut-al-madina-al-zill), em um salão escuro, apenas dois olhos vermelhos brilhantes são visíveis. Eles piscam lentamente. À cerca de 4 metros desse olhar, uma cauda escamosa se move.
+> Em [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), Soraya medita ajoelhada, ao lado da gigantesca esfinge Al-Haro. Ela abre os olhos, "Acredito que encontraram." Como faróis para pequenos insetos, o olhar de Al-Haro se movem iluminando tudo por onde passa, como que buscando a direção do artefato.
+
+> andando à frente de Grot, o paladino paralisa. A mão do goblin mão que vestia a manopla se arrepia. "Ele voltou, e sabe onde estamos. Disso eu sei.", diz o paladino
+
+> Um pequeno sussurro gélido alcança a orelha de Amy. "Ótimo. Agora, escolha um lado, qualquer um, e entrega o artefato."
