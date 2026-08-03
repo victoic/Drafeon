@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-07-23T18:27:04.485Z
+date: 2026-08-03T13:44:40.939Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1245,3 +1245,9 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > andando à frente de Grot, o paladino paralisa. A mão do goblin mão que vestia a manopla se arrepia. "Ele voltou, e sabe onde estamos. Disso eu sei.", diz o paladino
 >
 > Um pequeno sussurro gélido alcança a orelha de Amy. "Ótimo. Agora, escolha um lado, qualquer um, e entrega o artefato."
+
+- [01/08/2026]() | Data narrativa: 19 de Woton de 1755 ED - 20 de Woton de 1755 ED
+
+> O grupo decide partir em viagem, no Nefelin, para [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), com um primeiro dia de viagem desconcertantemente calmo. No segundo dia, uma emboscada inutiliza o Nefelin em areia movediça. Um grupo de Yuantis, seguidores de Al-Haro, atacam o grupo após lançarem o dedo do Hêllen em direção ao navio. 
+> Combate se inicia, com os yuantis buscando obter a lâmina.
+> {.is-info}
