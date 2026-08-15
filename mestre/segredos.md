@@ -2,7 +2,7 @@
 title: Segredos
 description: 
 published: true
-date: 2026-08-15T18:26:54.109Z
+date: 2026-08-15T18:30:25.849Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-23T12:36:07.484Z
@@ -23,7 +23,12 @@ O [Conselho de Horizonte](/faccoes/nacoes/imperio-dragao/conselho-de-horizonte) 
 [Amy](/individuos/personagens-de-jogadores/amy) é amaldiçoada pela [Entidade](/individuos/brazz-ar).
 
 ### Possessão
-A Entidade foo
+A Entidade busca encontrar um segundo livro amaldiçoado e libertar essa outra entidade, para então retornarem ao plano do fogo e restaurar seus corpos.
+
+A personalidade dA Entidade se torna cada vez mais presente em Amy:
+- Desprezo, crueldade e instinto de experimentar em criaturas vivas (não elementais);
+- Sempre olha as capas de todos os livros que vê;
+- Emissão de calor;
 
 ## 06/07/2024
 Grupo recebe fama de vilões terríveis entre gigantes, após ataques na caverna do roc, ao sul de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk).
