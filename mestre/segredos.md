@@ -2,7 +2,7 @@
 title: Segredos
 description: 
 published: true
-date: 2025-02-23T12:36:07.484Z
+date: 2026-08-15T18:06:21.301Z
 tags: segredo
 editor: markdown
 dateCreated: 2025-02-23T12:36:07.484Z
@@ -18,6 +18,12 @@ O [Conselho de Horizonte](/faccoes/nacoes/imperio-dragao/conselho-de-horizonte) 
 ## 06/04/2024
 
 [John](/individuos/personagens-de-jogadores/john) se torna um Ent após a realização do [Ritual de Despedida de Coecyr](/divindades/panteao-das-treze-estrelas/coecyr#ritual-de-despedida-de-coecyr).
+
+## 20/04/2024
+[Amy](/individuos/personagens-de-jogadores/amy) é amaldiçoada pela [Entidade](/individuos/brazz-ar).
+
+### Possessão
+A Entidade foo
 
 ## 06/07/2024
 Grupo recebe fama de vilões terríveis entre gigantes, após ataques na caverna do roc, ao sul de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk).
