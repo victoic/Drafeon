@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-08-15T18:35:57.357Z
+date: 2026-08-16T13:41:24.205Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2025-02-03T14:30:43.100Z
@@ -1250,4 +1250,11 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 
 > O grupo decide partir em viagem, no Nefelin, para [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara), com um primeiro dia de viagem desconcertantemente calmo. No segundo dia, uma emboscada inutiliza o Nefelin em areia movediça. Um grupo de Yuantis, seguidores de Al-Haro, atacam o grupo após lançarem o dedo do Hêllen em direção ao navio. 
 > Combate se inicia, com os yuantis buscando obter a lâmina.
+> {.is-info}
+
+
+- [15/08/2026]() | Data narrativa: 20 de Woton de 1755 ED
+
+> Durante o combate, novos inimigos surgem das areias, danificando pesadamento o nefelin. Além disso, [Sarina Starindust](/individuos/sarina-starindust) aparece a partir de um portal, informando o grupo que o que foi dito sobre [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust) é mentira.
+> O grupo derrota a maior parte dos yuantis, com alguns dos de menor importância fugindo e [Ishraq bint Dusk](/individuos/ishraq-bint-dusk) se rendendo.
 > {.is-info}
