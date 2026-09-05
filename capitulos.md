@@ -2,10 +2,10 @@
 title: Capitulos
 description: 
 published: true
-date: 2025-02-05T14:46:32.845Z
+date: 2026-09-05T09:45:10.240Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-13T19:47:58.090Z
+dateCreated: 2026-09-04T18:49:18.907Z
 ---
 
 <!-- SUBTITLE: Visao geral dos arcos da história -->
