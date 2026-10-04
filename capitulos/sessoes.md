@@ -2,10 +2,10 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-08-16T13:41:24.205Z
+date: 2026-10-04T01:08:44.732Z
 tags: não-narrativo
 editor: markdown
-dateCreated: 2025-02-03T14:30:43.100Z
+dateCreated: 2026-09-04T18:50:25.272Z
 ---
 
 # Relatório de Sessões
@@ -1257,4 +1257,10 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 
 > Durante o combate, novos inimigos surgem das areias, danificando pesadamento o nefelin. Além disso, [Sarina Starindust](/individuos/sarina-starindust) aparece a partir de um portal, informando o grupo que o que foi dito sobre [Hêllen Starindust](/individuos/personagens-de-jogadores/hellen-starindust) é mentira.
 > O grupo derrota a maior parte dos yuantis, com alguns dos de menor importância fugindo e [Ishraq bint Dusk](/individuos/ishraq-bint-dusk) se rendendo.
+> {.is-info}
+
+
+- [26/07/2026]() | Data narrativa: 20 de Woton de 1755 ED - 21 de Woton de 1755 ED
+
+> Após o combate o grupo
 > {.is-info}
