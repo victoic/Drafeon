@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-10-04T01:08:44.732Z
+date: 2026-10-04T03:55:51.458Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2026-09-04T18:50:25.272Z
@@ -1260,7 +1260,12 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > {.is-info}
 
 
-- [26/07/2026]() | Data narrativa: 20 de Woton de 1755 ED - 21 de Woton de 1755 ED
+- [26/09/2026]() | Data narrativa: 20 de Woton de 1755 ED - 21 de Woton de 1755 ED
 
 > Após o combate o grupo
+> {.is-info}
+
+- [04/10/2026]() | Data narrativa: 21 de Woton de 1755 ED - 23 de Woton de 1755 ED
+
+> O grupo negócio com Zaniar Khazra e Soraya Nejem.
 > {.is-info}
