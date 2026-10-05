@@ -2,10 +2,10 @@
 title: Próximas Sessões
 description: 
 published: true
-date: 2026-07-23T18:24:38.416Z
+date: 2026-10-05T16:34:10.086Z
 tags: não-narrativo, segredo
 editor: markdown
-dateCreated: 2025-02-23T12:37:46.357Z
+dateCreated: 2026-09-04T19:01:20.848Z
 ---
 
 - [15/03/2025 e 29/03/2025](/mestre/proximo/15032025)
@@ -15,4 +15,4 @@ dateCreated: 2025-02-23T12:37:46.357Z
 - [01/11/2025 - 17/01/2026](/mestre/proximo/01112025)
 - [31/01/2026](/mestre/proximo/31012026)
 - [11/04/2026](/mestre/proximo/28032026)
-- [22/07/2026](/mestre/proximo/17072026)
+- [22/07/2026 - 04/10/2026](/mestre/proximo/17072026)
