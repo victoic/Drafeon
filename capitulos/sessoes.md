@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-10-04T03:55:51.458Z
+date: 2026-10-05T09:17:28.431Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2026-09-04T18:50:25.272Z
@@ -1262,10 +1262,14 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 
 - [26/09/2026]() | Data narrativa: 20 de Woton de 1755 ED - 21 de Woton de 1755 ED
 
-> Após o combate o grupo
+> Após o combate, o grupo questiona [Ishraq bint Dusk](/individuos/ishraq-bint-dusk), que diz ao grupo ter sido enviada por [Soraya Nejem]() para testar a capacidade do grupo em enviar o item. Após essa revelação, o grupo perde a confiança em [Al-Haro](/individuos/al-haro) e decide mudar os planos.
+>
+> O grupo viaja até o [Muro das Pontas](/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas), buscando um novo local para que a negociaçãoApós discussões internas, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) envia uma mensagem para Soraya e uma mensagem para o [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra), informando que um novo local de negociações foi definido e que espera-os lá para negociações.
 > {.is-info}
 
 - [04/10/2026]() | Data narrativa: 21 de Woton de 1755 ED - 23 de Woton de 1755 ED
 
-> O grupo negócio com Zaniar Khazra e Soraya Nejem.
+> O grupo negocia, individualmente, com Zaniar Khazra e Soraya Nejem no [Muro das Pontas](/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas), Zaniar informa que está disposto a ajudar qualquer um dos lados, dado que sejam feitas garantias quanto a [Dere'sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz) e seu poder sobre a cidade.
+>
+> Soraya reforça sua confusão a respeito da mudança de planos, mas concorda em negociar com Zaniar Khazra. Negociações em conjunto são inciadas.
 > {.is-info}
