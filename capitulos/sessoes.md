@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-10-05T09:33:35.993Z
+date: 2026-10-18T04:58:38.211Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2026-09-04T18:50:25.272Z
@@ -1267,9 +1267,15 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > O grupo viaja até o [Muro das Pontas](/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas), buscando um novo local para que a negociaçãoApós discussões internas, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) envia uma mensagem para Soraya e uma mensagem para o [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra), informando que um novo local de negociações foi definido e que espera-os lá para negociações.
 > {.is-info}
 
-- [04/10/2026](https://youtu.be/eBZzF1_huqI) | Data narrativa: 21 de Woton de 1755 ED - 23 de Woton de 1755 ED
+- [03/10/2026](https://youtu.be/eBZzF1_huqI) | Data narrativa: 21 de Woton de 1755 ED - 23 de Woton de 1755 ED
 
 > O grupo negocia, individualmente, com Zaniar Khazra e Soraya Nejem no [Muro das Pontas](/lugares/plano-material/drafeon/sudeste-de-drafeon/muro-das-pontas), Zaniar informa que está disposto a ajudar qualquer um dos lados, dado que sejam feitas garantias quanto a [Dere'sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz) e seu poder sobre a cidade.
 >
 > Soraya reforça sua confusão a respeito da mudança de planos, mas concorda em negociar com Zaniar Khazra. Negociações em conjunto são inciadas.
 > {.is-info}
+
+- [17/10/2026]() | Data narrativa: 23 de Woton de 1755 ED
+
+> O grupo media as negociações entre [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) e [Soraya Nejem](), com ambos negociando traição ao [Império Serpentinn](). Zaniar exige soberania e domínio sobre o norte, enquanto Soraya exige inteligência e inação proveitosa. Quanto aos escravos, Zaniar pede que ele lidere uma transição gradativa do fim das castas. Enviados de [Malik](/individuos/sharaja-ahrtar-malik-al-raijis-ibn-hashim-al-maut-al-madina-al-zill) chegam ao local, e o tom da negociação muda para uma negociação de paz entre as partes, com ambos acordando uma reunião com todas as partes em [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara).
+> Após as negociações, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se afasta do grupo e envia mensagens para Zaniar, questionando-o sobre uma terceira possibilidade, do Ahr'tar substituir sozinho o Sharaja-Ahr'tar Malik. Zaniar alerta ao perigo dessa possibilidade, mas iniciam planos.
+> [Amy](/individuos/personagens-de-jogadores/amy) teleporta o grupo para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde Zerke apresenta a terceira possibilidade, a pressão sobre Amy se sobressai e ela explode no grupo, com ameaças de tirar a própria vida. O grupo então vota, com o resultado apontado para o auxílio ao Ahr'tar Zaniar Khazra.
