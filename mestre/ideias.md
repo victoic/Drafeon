@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2026-10-30T16:06:07.800Z
+date: 2026-10-30T21:03:02.220Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2026-09-04T19:01:16.193Z
@@ -116,17 +116,23 @@ Em **10/03/2028**: uma sessão onde o grupo faz pequenas missões saltando no te
 
 ## Escrita de Livros:
 
-Por capítulo, um teste de performance ou perícia relevante ao tema.
+Ao iniciar a escrita de um capítulo, um personagem deve primeiramente traçar uma estrutura, definindo o tema do livro, intuito, e quais serão os capítulos.
+Por capítulo, o autor deve realizar um teste da perícia relevante ao tema e comparar o resultado com a tabela abaixo.
 
 v2.0
-| Total do Teste | Resultado |
-|-----------------------------|
-| <=5            | Desastre  |
-| 6-10           | Regular   |
-| 11-20          | Bom       |
-| 21-29          | Ótimo     |
-| >30            | Obra-prima|
+| Total do Teste | Resultado | Nível | Valor |
+|--------------------------------------------|
+| <=5            | Desastre  | 0     | 1pb   |
+| 6-10           | Ruim      | 1     | 5pb   |
+| 11-15          | Regular   | 2     | 1pp   |
+| 16-20          | Bom       | 3     | 1po   |
+| 21-29          | Ótimo     | 4     | 5po   |
+| >30            | Obra-prima| 5     | 50po  |
 {.dense}
+
+O nível de uma obra completa é a média entre os níveis de todos os seus capítulos, arrendodado para baixo. Mecânicas especiais relacionadas à obra devem ser acordadas com o mestre e podem acarretar em modificação nos níveis de dificuldade, com níveis mínimos para efetividade da mecânica ou efetividade parcial a depender do nível.
+
+O valor da obra, listado na tabela acima, pode ser reduzido integral dos custos de treinamentos e processos semelhantes. E está atrelado a livros de um único exemplar. Livros escritos para produção em massa possuem valor drasticamente reduzido.
  
 v1.0
 | Total do Teste | Resultado |
