@@ -2,10 +2,10 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2025-04-29T01:18:36.532Z
+date: 2026-10-30T16:04:23.465Z
 tags: não-narrativo, segredo
 editor: markdown
-dateCreated: 2025-02-23T12:34:48.178Z
+dateCreated: 2026-09-04T19:01:16.193Z
 ---
 
 # Ideias
@@ -120,6 +120,17 @@ Em **10/03/2028**: uma sessão onde o grupo faz pequenas missões saltando no te
 
 Por capítulo, um teste de performance ou perícia relevante ao tema.
 
+v2.0
+| Total do Teste | Resultado |
+|-----------------------------|
+| 1-5            | Desastre  |
+| 6-10           | Regular   |
+| 11-20          | Bom       |
+| 21-29          | Ótimo     |
+| >30            | Obra-prima|
+{.dense}
+ 
+v1.0
 | Total do Teste | Resultado |
 |-----------------------------|
 | 1-5            | Desastre  |
