@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2026-10-30T21:03:02.220Z
+date: 2026-10-30T21:16:24.257Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2026-09-04T19:01:16.193Z
@@ -120,6 +120,7 @@ Ao iniciar a escrita de um capítulo, um personagem deve primeiramente traçar u
 Por capítulo, o autor deve realizar um teste da perícia relevante ao tema e comparar o resultado com a tabela abaixo.
 
 v2.0
+
 | Total do Teste | Resultado | Nível | Valor |
 |--------------------------------------------|
 | <=5            | Desastre  | 0     | 1pb   |
@@ -135,6 +136,7 @@ O nível de uma obra completa é a média entre os níveis de todos os seus cap�
 O valor da obra, listado na tabela acima, pode ser reduzido integral dos custos de treinamentos e processos semelhantes. E está atrelado a livros de um único exemplar. Livros escritos para produção em massa possuem valor drasticamente reduzido.
  
 v1.0
+
 | Total do Teste | Resultado |
 |-----------------------------|
 | 1-5            | Desastre  |
