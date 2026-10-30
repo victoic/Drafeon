@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2026-10-30T21:17:25.086Z
+date: 2026-10-30T21:17:51.782Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2026-09-04T19:01:16.193Z
@@ -129,6 +129,7 @@ v2.0
 | 16-20          | Bom       | 3     | 1po   |
 | 21-29          | Ótimo     | 4     | 5po   |
 | >30            | Obra-prima| 5     | 50po  |
+{.dense}
 
 
 O nível de uma obra completa é a média entre os níveis de todos os seus capítulos, arrendodado para baixo. Mecânicas especiais relacionadas à obra devem ser acordadas com o mestre e podem acarretar em modificação nos níveis de dificuldade, com níveis mínimos para efetividade da mecânica ou efetividade parcial a depender do nível.
