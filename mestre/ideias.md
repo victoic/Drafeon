@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2026-10-30T16:04:53.291Z
+date: 2026-10-30T16:06:07.800Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2026-09-04T19:01:16.193Z
@@ -116,8 +116,6 @@ Em **10/03/2028**: uma sessão onde o grupo faz pequenas missões saltando no te
 
 ## Escrita de Livros:
 
-<details>
-
 Por capítulo, um teste de performance ou perícia relevante ao tema.
 
 v2.0
@@ -139,8 +137,6 @@ v1.0
 | 16-20          | Ótimo     |
 | >20            | Obra-prima|
 {.dense}
-  
-</details>
 
 ## Encontros Não-Combativos
 
