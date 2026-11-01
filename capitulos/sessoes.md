@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-11-01T04:55:51.246Z
+date: 2026-11-01T16:45:10.638Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2026-09-04T18:50:25.272Z
@@ -1274,13 +1274,13 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Soraya reforça sua confusão a respeito da mudança de planos, mas concorda em negociar com Zaniar Khazra. Negociações em conjunto são inciadas.
 > {.is-info}
 
-- [17/10/2026]() | Data narrativa: 23 de Woton de 1755 ED
+- [17/10/2026](https://youtu.be/OQjNiXix-GU) | Data narrativa: 23 de Woton de 1755 ED
 
 > O grupo media as negociações entre [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) e [Soraya Nejem](), com ambos negociando traição ao [Império Serpentinn](). Zaniar exige soberania e domínio sobre o norte, enquanto Soraya exige inteligência e inação proveitosa. Quanto aos escravos, Zaniar pede que ele lidere uma transição gradativa do fim das castas. Enviados de [Malik](/individuos/sharaja-ahrtar-malik-al-raijis-ibn-hashim-al-maut-al-madina-al-zill) chegam ao local, e o tom da negociação muda para uma negociação de paz entre as partes, com ambos acordando uma reunião com todas as partes em [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara).
 > Após as negociações, [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) se afasta do grupo e envia mensagens para Zaniar, questionando-o sobre uma terceira possibilidade, do Ahr'tar substituir sozinho o Sharaja-Ahr'tar Malik. Zaniar alerta ao perigo dessa possibilidade, mas iniciam planos.
 > [Amy](/individuos/personagens-de-jogadores/amy) teleporta o grupo para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde Zerke apresenta a terceira possibilidade, a pressão sobre Amy se sobressai e ela explode no grupo, com ameaças de tirar a própria vida. O grupo então vota, com o resultado apontado para o auxílio ao Ahr'tar Zaniar Khazra.
 
-- [31/10/2026]() | Data narrativa: 23 de Woton de 1755 ED - 09 de Nituhnna de 1755 ED
+- [31/10/2026](https://youtu.be/hOJb2EM26fE) | Data narrativa: 23 de Woton de 1755 ED - 09 de Nituhnna de 1755 ED
 
 > Após a [Amy](/individuos/personagens-de-jogadores/amy) informar ao grupo de sua situação com o Anjo Azul, o grupo decide por auxiliar o Ahr'tar [Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) em seu golpe de estado. O grupo se reune com [Irien](/individuos/irien-galaniell) para informar, [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) com a [Três Mãos](/faccoes/faccoes-independentes/tres-maos) para obter informações sobre [Faéria](/lugares/faeria), e o grupo se move para [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara).
 > Lá, o grupo se reencontra com [Sarina Starindust](/individuos/sarina-starindust), que informa ter encontrado uma possível forma de destruir o artefato. O grupo recusa.
