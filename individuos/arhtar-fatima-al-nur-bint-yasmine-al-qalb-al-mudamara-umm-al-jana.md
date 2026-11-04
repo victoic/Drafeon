@@ -2,7 +2,7 @@
 title: Ahr'tar Fatima al-Nur bint Yasmine al-Qalb al-Mudamara Umm al-Jana
 description: 
 published: true
-date: 2026-11-04T12:06:25.293Z
+date: 2026-11-04T12:26:03.003Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T12:06:25.293Z
@@ -18,7 +18,7 @@ Ahr'tar Fatima al-Nur bint Yasmine al-Qalb al-Mudamara Umm al-Jana foi uma [Yuan
 Com um porte maternal e irradiando um calor que contrasta com seu sangue frio. Suas escamas de um verde-jade pálido com bordas douradas luminescentes, que parecem brilhar por dentro, como lanternas atrás de um tecido de seda. Seus olhos dourados suaves, com pupilas redondas semelhantes às humanas, derramando lágrimas de luz líquida que se evaporam em partículas de um brilho curativo. Veste túnicas fluidas em tons de rosa-alvorada e dourado-nascer-do-sol, bordadas com motivos de muralhas urbanas e fênix renascidas. Equipamento: um cajado de madeira clara, coroado por um coração de cristal que pulsa em sincronia com o seu próprio coração.
 
 # Informações
-`Data de Nascimento` 1721 ED
+`Data de Nascimento` 1705 ED
 `Local de Nascimento` [Almaedi'](/lugares/plano-material/drafeon/sudeste-de-drafeon/almaedi)
 `Sexo Biológico` Masculino
 `Olhos` Dourados suaves, com pupilas redondas semelhantes às humanas
