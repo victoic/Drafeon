@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2026-11-04T14:18:52.331Z
+date: 2026-11-04T14:52:31.704Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:50:22.898Z
@@ -147,7 +147,9 @@ Um membro da [Sussurros das Areias](/faccoes/faccoes-independentes/sussurros-das
 >
 > Os aventureiros rapidamente percebem a aura de alerta que permeia Ahr. Soldados caminham lado a lado com civis, enquanto grupos de mercadores debatem com viajantes os perigos do deserto. Ao fundo, a Torre das Lâminas domina o horizonte, lembrando a todos da presença constante de uma força protetora pronta para agir contra qualquer ameaça.
 
-Arsalanov leva o grupo ao Palácio do Escudo de Dunas, onde guardas questionam seus desejos e prontamente negam qualquer tentativa de conferência com o Ahr'tar. Zerke adentra a muralha e recebe a mensagem que deverá entregar.
+Arsalanov leva o grupo ao Palácio do Escudo de Dunas, onde guardas questionam seus desejos e prontamente negam qualquer tentativa de conferência com o Ahr'tar. Zerke adentra a muralha e recebe a mensagem que deverá entregar, o que Zerke o faz com prontidão, incriminando sem seu conhecimento um yuanti na taverna A Lâmina do Escorpião.
+
+[Nasir Farrokhzad](/individuos/nasir-farrokhzad), conselheira da [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh), encontra o grupo e solicita que eles infiltrem a organização criminosa [Sussurros das Areia](/faccoes/faccoes-independentes/sussurros-das-areias) em busca de um "contador", o grupo completa a missão e em reunião com a [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar) ganham informações e um meio de viajar pelo deserto com proteção do calor. Zerke Montravu negocia com os Sussurros das Areias por informações sobre a guerra e sobre os Ahr'tars.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
@@ -160,15 +162,25 @@ Arsalanov leva o grupo ao Palácio do Escudo de Dunas, onde guardas questionam s
 ## Aliados
 - [Irien Galaniell](/individuos/irien-galaniell)
 - [Arsalanov](/individuos/arsalanov)
+- [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) ([Dere' Sabz](/lugares/plano-material/drafeon/sudeste-de-drafeon/dere-sabz))
+  - [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi) ([Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk))
+  - [Ahr'tar Dunya bint Rahim al-Kasifisadi](/individuos/ahrtar-dunya-bint-rahim-al-kasifisadi) ([Kasifisad](/lugares/plano-material/drafeon/sudeste-de-drafeon/kafisifad))
+  - [Ahr'tar Yusuf ibn Malik al-Jabbar al-Rasul Abu al-Thu'ban](/individuos/ahrtar-yusuf-ibn-malik-al-jabbar-al-rasul-abu-al-thuban) ([Oul](/lugares/plano-material/drafeon/sudeste-de-drafeon/oul))
+- [Al-Haro](/individuos/al-haro) ([Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara))
+
 
 ## Neutros
-- [Ahr'tar Afshin Abedi](/individuos/ahrtar-afshin-abedi)
-- [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra)
-- [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh)
-- [Nasir Farrokhzad](/individuos/nasir-farrokhzad)
+- [Ahr'tar Zahra al-Raml bint Sahar al-Naqa Umm al-Qadis](/individuos/ahrtar-zahra-al-raml-bint-sahar-al-naqa-umm-al-qadis) ([Markaz'](/lugares/plano-material/drafeon/sudeste-de-drafeon/markaz))
 
 ## Adversários
-- [](/individuos/)
+- [Sharaja-Ahr'tar Malik al-Raijis ibn Hashim al-Maut al-Madina al-Zill](/individuos/sharaja-ahrtar-malik-al-raijis-ibn-hashim-al-maut-al-madina-al-zill) ([Madina](/lugares/plano-material/drafeon/sudeste-de-drafeon/madina))
+  - [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh) ([Ahr](/lugares/plano-material/drafeon/sudeste-de-drafeon/ahr))
+    - [Nasir Farrokhzad](/individuos/nasir-farrokhzad)
+  - [Ahr'tar Seth-Karim al-Ouli](/individuos/ahrtar-seth-karim-al-ouli) ([Talik Altayart](/lugares/plano-material/drafeon/sudeste-de-drafeon/talik-altayart))
+  - [Ahr'tar Fatima al-Nur bint Yasmine al-Qalb al-Mudamara Umm al-Jana](/individuos/arhtar-fatima-al-nur-bint-yasmine-al-qalb-al-mudamara-umm-al-jana) ([Alqa'im](/lugares/plano-material/drafeon/sudeste-de-drafeon/alqaim))
+  - [Ahr'tar Tariq ibn Dusk al-Layl al-Samit Abu al-Hadid](/individuos/ahrtar-tariq-ibn-dusk-al-layl-al-samit-abu-al-hadid) ([Altabia](/lugares/plano-material/drafeon/sudeste-de-drafeon/altabia))
+  - [Ahr'tar Rashid ibn Karim al-Saqr al-Muharib Abu al-Raml](/individuos/arhtar-rashid-ibn-karim-al-saqr-al-muharib-abu-al-raml) ([Almaedi'](/lugares/plano-material/drafeon/sudeste-de-drafeon/almaedi))
+  - [Ahr'tar Amir ibn Jibril al-Mal'un al-Janawi Abu al-Azab](/individuos/ahrtar-amir-ibn-jibril-al-mal'un-al-janawi-abu-al-azab) ([Jana](/lugares/plano-material/drafeon/sudeste-de-drafeon/jana))
 
 # Informação
 `Anterior` [Capítulo 09](/capitulos/capitulo-09-a-sombra-do-tarrasque)
