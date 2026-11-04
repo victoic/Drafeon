@@ -2,10 +2,10 @@
 title: Ahr
 description: 
 published: true
-date: 2026-07-21T14:48:48.783Z
+date: 2026-11-04T10:52:58.743Z
 tags: lugar, império serpentinn
 editor: markdown
-dateCreated: 2025-02-22T09:22:27.683Z
+dateCreated: 2026-09-04T19:08:00.723Z
 ---
 
 # Ahr
@@ -83,7 +83,7 @@ O palácio é dividido em três seções principais:
 2. Os Salões do Refúgio Solar:
 
 - A ala administrativa e de recepção, composta por salões decorados com tapeçarias de lã e seda em tons de ocre, vermelho e dourado.
-- O salão principal, onde a Ahr'tar Hadiya Zaresh recebe visitantes, é decorado com arcos entrelaçados e grandes candelabros de cristal que imitam a luz do sol ao entardecer.
+- O salão principal, onde o Ahr'tar recebe visitantes, é decorado com arcos entrelaçados e grandes candelabros de cristal que imitam a luz do sol ao entardecer.
 - Um trono elevado de mármore negro e ouro repousa no final do salão, com entalhes representando escudos e lanças.
 
 3. A Torre dos Ventos Calmos:
