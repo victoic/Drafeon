@@ -1,8 +1,8 @@
 ---
-title: Kasifisad
+title: Kasifisadi
 description: 
 published: true
-date: 2026-11-04T13:09:58.331Z
+date: 2026-11-04T13:11:45.369Z
 tags: lugar
 editor: markdown
 dateCreated: 2026-11-04T13:09:58.331Z
