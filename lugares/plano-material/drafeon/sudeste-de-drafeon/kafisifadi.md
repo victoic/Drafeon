@@ -1,14 +1,14 @@
 ---
-title: Kasifisadi
+title: Kasifisad
 description: 
 published: true
-date: 2026-11-04T13:11:59.919Z
+date: 2026-11-04T13:24:08.006Z
 tags: lugar
 editor: markdown
 dateCreated: 2026-11-04T13:09:58.331Z
 ---
 
-# Kasifisadi
+# Kasifisad
 > Tradução aproximada: "Montanha Fria" (Sardi (سردی) + Kuh (کوه)) {.is-info}
 
 Kasifisadi foi uma cidade do [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), localizado no extremo norte do Império, a 45 km ao sudeste de [Purtale Magk](/lugares/plano-material/drafeon/sudeste-de-drafeon/purtale-magk) e 340 km ao sudeste da capital Madina.
