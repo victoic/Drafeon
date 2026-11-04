@@ -2,7 +2,7 @@
 title: Alqa'im
 description: 
 published: true
-date: 2026-11-04T11:57:13.004Z
+date: 2026-11-04T12:19:27.831Z
 tags: lugar
 editor: markdown
 dateCreated: 2026-11-04T11:57:13.004Z
@@ -13,7 +13,7 @@ dateCreated: 2026-11-04T11:57:13.004Z
 
 Alqa'im foi uma cidade do [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), localizado na região sul do império, 30 km ao oeste da capital Madina.
 
-Localizada em uma região fértil do [Grande Desert](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), a cidade cresceu como um polo agrícola.
+Localizada em uma região fértil do [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), a cidade cresceu como um polo agrícola.
 
 # Informações
 `Tipo` Reino-individual, Cidade
