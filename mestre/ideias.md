@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2026-10-30T21:17:51.782Z
+date: 2026-11-04T18:14:30.727Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2026-09-04T19:01:16.193Z
@@ -10,6 +10,15 @@ dateCreated: 2026-09-04T19:01:16.193Z
 
 # Ideias
 Esta página contém ideias para o futuro de Drafeon e das campanhas jogadas no cenário.
+
+## Campanha 2
+<details>
+
+A campanha se inicia no nível 10. Um combate invencível inicia, persogens que os jogadores não conseguem destinguir os rostos os atacam e os ajudam. Conforme combate vai mal, alguém usa um item poderoso para abrir um portal e ordena que o grupo fuja.
+  
+O grupo volta ao passado, sem memórias, nível 1, para o dia em que se conheceram. (Talvez um evento combinado anteriormente, definido com o mestre).
+
+</details>
 
 ## Ahr'tar Afshi Abedi
 <details>
