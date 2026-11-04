@@ -2,10 +2,10 @@
 title: Grande Deserto, O
 description: 
 published: true
-date: 2026-07-16T15:29:48.276Z
+date: 2026-11-04T13:23:13.880Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-13T19:59:17.939Z
+dateCreated: 2026-09-04T19:08:40.186Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre O Grande Deserto -->
