@@ -2,7 +2,7 @@
 title: Ahr'tar Dunya bint Rahim al-Kasifisadi
 description: 
 published: true
-date: 2026-11-04T13:14:38.932Z
+date: 2026-11-04T13:24:34.210Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T13:14:38.932Z
@@ -18,7 +18,7 @@ Dotada de uma beleza severa e glacial. Escamas brancas como a geada, com pontas 
 
 # Informações
 `Data de Nascimento` 1730 ED
-`Local de Nascimento` [Altabia](/lugares/plano-material/drafeon/sudeste-de-drafeon/altabia)
+`Local de Nascimento` [Kasifisad](/lugares/plano-material/drafeon/sudeste-de-drafeon/kafisifad)
 `Sexo Biológico` Feminino
 `Olhos` prateado sólido
 `Cabelos` Escamas brancas como a geada, com pontas em um tom de azul-gelo
