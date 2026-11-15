@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-11-15T16:22:10.298Z
+date: 2026-11-15T16:27:02.877Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2026-09-04T18:50:25.272Z
@@ -1286,7 +1286,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Lá, o grupo se reencontra com [Sarina Starindust](/individuos/sarina-starindust), que informa ter encontrado uma possível forma de destruir o artefato. O grupo recusa.
 > No dia da negociação, exercítos dos Ahr'tars cercam Jawhara'alsahara. Ambos os lados se reúnem na Praça-Patio do Sol Partido, entre trocas de farpas. o Sharaja-Ahr'tar não está presente, e envia um mensageiro. {.is-info}
 
-- [15/11/2026]() | Data narrativa: 09 de Nituhnna de 1755 ED
+- [14/11/2026](https://youtu.be/OnC0TBUr2TA) | Data narrativa: 09 de Nituhnna de 1755 ED
 
 > Entre trocas de farpas entre os Ahr'tars e os generais de [Al-Haro](/individuos/al-haro), [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) clama por ordem, passando a palavra para o [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) após mencionar que ele teria uma informação importante a compartilhar. O Ahr'tar responde com um agradecimento e um sútil aceno de calma. São iniciadas apresentações sobre os pontos de vista de cada lado, com a [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh) questionando a lealdade dos demais Ahr'tars do norte. 
 >
