@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-11-15T00:28:25.881Z
+date: 2026-11-15T16:22:10.298Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2026-09-04T18:50:25.272Z
@@ -1285,3 +1285,12 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Após a [Amy](/individuos/personagens-de-jogadores/amy) informar ao grupo de sua situação com o Anjo Azul, o grupo decide por auxiliar o Ahr'tar [Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) em seu golpe de estado. O grupo se reune com [Irien](/individuos/irien-galaniell) para informar, [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca) com a [Três Mãos](/faccoes/faccoes-independentes/tres-maos) para obter informações sobre [Faéria](/lugares/faeria), e o grupo se move para [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara).
 > Lá, o grupo se reencontra com [Sarina Starindust](/individuos/sarina-starindust), que informa ter encontrado uma possível forma de destruir o artefato. O grupo recusa.
 > No dia da negociação, exercítos dos Ahr'tars cercam Jawhara'alsahara. Ambos os lados se reúnem na Praça-Patio do Sol Partido, entre trocas de farpas. o Sharaja-Ahr'tar não está presente, e envia um mensageiro. {.is-info}
+
+- [15/11/2026]() | Data narrativa: 09 de Nituhnna de 1755 ED
+
+> Entre trocas de farpas entre os Ahr'tars e os generais de [Al-Haro](/individuos/al-haro), [Zerke](/individuos/personagens-de-jogadores/zerme-montravu) clama por ordem, passando a palavra para o [Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) após mencionar que ele teria uma informação importante a compartilhar. O Ahr'tar responde com um agradecimento e um sútil aceno de calma. São iniciadas apresentações sobre os pontos de vista de cada lado, com a [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh) questionando a lealdade dos demais Ahr'tars do norte. 
+>
+> Addran, em um surto que pode apenas ser descrito como inesperado de seu personagem, sobe à mesa e começa a declarar o plano do grupo junto aos Ahr'tars nortistas. Zerke tenta impedí-lo o que cria atrito entre os dois, que leva o aarakocra a atirar em seu aliado, [Amy](/individuos/personagens-de-jogadores/amy) toma uma pose agressiva com o próprio grupo, mandando que parem. [Grot](/individuos/personagens-de-jogadores/grot) observa as reações dos demais à comoção. Enquanto isso, [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), que vinha em uma tentativa de beber todo o vinho disponível no Império Serpentinn, tenta, de forma embreagada, subir à mesa também enquanto planta bananeira.
+>
+> A tensão criada pelo grupo leva às partes da negociação ao limite, entre um grito de "Traição", cadeiras são jogadas e derrubadas enquanto combate se inicia. Com os Ahr'tars nortista atacando os Ahr'tars lealistas e evitando os generais de Al-Haro. [Ahr'tar Rashid ibn Karim al-Saqr al-Muharib Abu al-Raml](/individuos/arhtar-rashid-ibn-karim-al-saqr-al-muharib-abu-al-raml) é o primeiro a ser morto, em um golpe do general Shira'tash.
+> {.is-info}
