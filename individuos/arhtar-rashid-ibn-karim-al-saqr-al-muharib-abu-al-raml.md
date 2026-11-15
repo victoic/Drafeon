@@ -2,7 +2,7 @@
 title: Ahr'tar Rashid ibn Karim al-Saqr al-Muharib Abu al-Raml
 description: 
 published: true
-date: 2026-11-15T16:34:41.544Z
+date: 2026-11-15T16:34:59.123Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-04T11:33:54.074Z
@@ -13,7 +13,7 @@ dateCreated: 2026-11-04T11:33:54.074Z
 
 Ahr'tar Rashid ibn Karim al-Saqr al-Muharib Abu al-Raml foi um [Yuanti Sulista](/cultura/etnias/yuanti-sulista), Ahr'tar de [Almaedi'](/lugares/plano-material/drafeon/sudeste-de-drafeon/almaedi). Possuia exímia habilidade de combate manual e exercícia disciplina cruel sobre seus exércitos.
 
-Durante a negociação de paz entre os Ahr'tars e os generais de [Al-Haro](/individuos/al-haro), Ahr'tar Rashid ibn Karim al-Saqr al-Muharib Abu al-Raml foi assassinado pelo general Shira'tash.
+Durante a negociação de paz entre os Ahr'tars e os generais de [Al-Haro](/individuos/al-haro), em 09 de Nituhnna de 1755 ED, Ahr'tar Rashid ibn Karim al-Saqr al-Muharib Abu al-Raml foi assassinado pelo general Shira'tash.
 
 ## Aparência
 
