@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-11-15T16:27:02.877Z
+date: 2026-11-22T12:50:00.415Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2026-09-04T18:50:25.272Z
@@ -1293,4 +1293,25 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Addran, em um surto que pode apenas ser descrito como inesperado de seu personagem, sobe à mesa e começa a declarar o plano do grupo junto aos Ahr'tars nortistas. Zerke tenta impedí-lo o que cria atrito entre os dois, que leva o aarakocra a atirar em seu aliado, [Amy](/individuos/personagens-de-jogadores/amy) toma uma pose agressiva com o próprio grupo, mandando que parem. [Grot](/individuos/personagens-de-jogadores/grot) observa as reações dos demais à comoção. Enquanto isso, [Magnus](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca), que vinha em uma tentativa de beber todo o vinho disponível no Império Serpentinn, tenta, de forma embreagada, subir à mesa também enquanto planta bananeira.
 >
 > A tensão criada pelo grupo leva às partes da negociação ao limite, entre um grito de "Traição", cadeiras são jogadas e derrubadas enquanto combate se inicia. Com os Ahr'tars nortista atacando os Ahr'tars lealistas e evitando os generais de Al-Haro. [Ahr'tar Rashid ibn Karim al-Saqr al-Muharib Abu al-Raml](/individuos/arhtar-rashid-ibn-karim-al-saqr-al-muharib-abu-al-raml) é o primeiro a ser morto, em um golpe do general Shira'tash.
+> {.is-info}
+
+- [21/11/2026]() | Data narrativa: 09 de Nituhnna de 1755 ED
+
+> O grupo continua o combate, com [Ahr'tar Tariq](/individuos/ahrtar-tariq-ibn-dusk-al-layl-al-samit-abu-al-hadid), dos lealistas, quase matando o [Addran](/individuos/personagens-de-jogadores/addran-martel) e [Ahr'tar Dunya](/individuos/ahrtar-dunya-bint-rahim-al-kasifisadi) sendo morta pela [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh).
+> O [Ahr'tr Zaniar Khazra](/individuos/ahrtar-zaniar-khazra), informa [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), por meio de mensagem, que é chegado o momento de entregar o artefato. Com isso, Zerke foca todas as suas forças em eliminar a Ahr'tar Hadiya Zaresh para abrir o caminho para [Grot](/individuos/personagens-de-jogadores/grot), portando o artefato, levá-lo até o Ahr'tar Zaniar Khazra. Seus ataques enfraquecem a Ahr'tar e o Paladino a finaliza, deixando o caminho livre para o Grot.
+> Após Grot deixar a lâmina aos pés do Ahr'tar Zaniar Khazra, o yuanti a toma, e a joga ao chão distante de todos.
+> {.is-info}
+
+> Ninguém possuirá a arma!
+> - Ahr'tar Zaniar Khazra
+
+> Para todos, com exceção da [Amy](/individuos/personagens-de-jogadores/amy), a lâmina é arremssada, acerta o chão e desaparece em um instante. Para a fada, no entanto, o tempo para e ela vê surgir [Sarina Starindust](/individuos/sarina-starindust) voando até o artefato, pegando-o, sussurando para Amy algo e se teleportando para longe.
+> {.is-info}
+
+> O Anjo Azul agradece seus feitos.
+> - Sarina Starindust
+
+> Em desespero, Amy usa sua habilidade recém adiquirida de torna uma mentira verdade e usa para que o combate acabe, acalmando as partes mas perdendo a habilidade.
+> Os lealistas restantes são presos, Zaniar Khazra se autoproclama [Sharaja](/rankings-e-titulos/imperio-serpentinn/sharaja), e os dois lados concordam em derrotar o [Sharaja-Ahr'tar Malik](/individuos/sharaja-ahrtar-malik-al-raijis-ibn-hashim-al-maut-al-madina-al-zill), e resolvendo suas desavenças no futuro de forma mais pacífica, já que não há mais artefato para desnivelar os lados.
+> O grupo teleporta para [Porto-Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde, na mansão, Amy revela os acontecimentos.
 > {.is-info}
