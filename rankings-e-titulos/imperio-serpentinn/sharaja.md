@@ -2,10 +2,10 @@
 title: Sharaja
 description: 
 published: true
-date: 2026-01-29T13:09:34.716Z
+date: 2026-11-22T13:25:45.404Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-13T19:57:33.340Z
+dateCreated: 2026-09-04T19:06:25.662Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Sharaja -->
@@ -16,6 +16,7 @@ Sharaja é o comandante político, militar e religioso do Império Serpentinn. O
 ## Lista Cronológica de Sharajas
 
 113. 1620 ED - ?: [Sharaja-Ahr'tar Malik al-Raijis ibn Hashim al-Maut al-Madina al-Zill](/individuos/sharaja-ahrtar-malik-al-raijis-ibn-hashim-al-maut-al-madina-al-zill)
+114. 1755 ED - ?: [Sharaja-Ahr'tar Zaniar Khazra](/individuos/ahrtar-zaniar-khazra)
 
 # Informações
 `Tipo` Civíco, Político 
