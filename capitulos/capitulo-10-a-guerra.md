@@ -2,7 +2,7 @@
 title: Capítulo 10
 description: A Guerra
 published: true
-date: 2026-11-04T18:29:17.922Z
+date: 2026-11-22T13:16:37.160Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:50:22.898Z
@@ -11,7 +11,7 @@ dateCreated: 2026-09-04T18:50:22.898Z
 # Capítulo 10: A Guerra
 
 >  `Início: 20 de abril de 2024`
->  `Fim:    `
+>  `Fim: 21 de novembro de 2026   `
 {.is-info}
 
 A pedido de [Irien Galaniell](/individuos/irien-galaniell) o grupo vai investigar navios perdidos do [Império Dragão](/faccoes/nacoes/imperio-dragao) que haviam sido enviados para missões diplomáticas e mercantis com o [Imperio Serpentinn](/faccoes/nrtacoes/imperio-serpentinn).
@@ -230,6 +230,21 @@ Com o artefato em mãos, grupo decide partir em viagem para [Jawhara'alsahara](/
 O encontro ocorre na [Pedra da Tartaruga](), o Ahr'tar Zaniar Khazra e Soraya Nejem negociam particularmente traição ao Império Serpentinn, mas após redirecionados por Addran Martel, discutem pontos para tratar de paz entre as partes. Uma reunião final, em Jawhara'alsahara é combinada, com todos os Ahr'tars e Al-Haro e seus generais, para decidir o futuro do Império Serpentinn. Zerke Montravu conversa privativamente com o Ahr'tar Zaniar Khazra, plantando a ideia dele usurpar o título de [Sharaja](/rankings-e-titulos/imperio-serpentinn/sharaja). Amy teleporta o grupo para [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde o grupo discute e vota pelo auxílio ao Ahr'tar Zaniar Khazra em ursupar o trono, caso ele consiga apoio de outros Ahr'tars do norte.
 
 Amy abre o jogo e informa o grupo de sua situação de refém ao Anjo Azul. O grupo promete ajudá-la após resolver a situação no deserto. O grupo volta a Jawhara'alsahara dias antes da negociação, Sarina Starindust chega a cidade com notícias sobre o método, mas o grupo a dispensa dado o caminho escolhido. Exércitos de cada um dos Ahr'tars chegam a cidade e os Ahr'tars, com suas comitivas, e os generais de Al-Haro, mediados pela [Confraria da Rosa Negra](/faccoes/faccoes-independentes/confraria-da-rosa-negra) se reúnem na Praça-Patio do Sol Partido. O Sharaja não vai, enviando em seu lugar um mensageiro.
+
+Durante as negociações, desentendimentos entre membros da Confraria da Rosa Negra, iniciados pela escolha de Addran Martel de revelar o plano do grupo com o Ahr'tar Zaniar Khazra a todos os presentes. Zerke Montravu tentou impedir o que escalou para ele atirando no companheiro, Amy tentando fazê-los parar, e Magnus, embreagado, falhando em realizar truques de acrobacia.
+
+A tensão gerada explode e entre gritos de traição, combate se inicia, os yuanti da aliança nortista ignoram os generais de Al-Haro e focam nos yuanti leais ao Sharaja-Ahr'tar Malik. Os Ahr'tars [Rashid](/individuos/arhtar-rashid-ibn-karim-al-saqr-al-muharib-abu-al-raml) e [Dunya](/individuos/ahrtar-dunya-bint-rahim-al-kasifisadi) são mortos em combate. Após o sinal do Ahr'tar Zaniar Khazra, os heróis focam ataques na Ahr'tar [Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh), com o Paladino da manopla do Grot mantando-a, e Grot entrega a [Lâmina do Último Suspiro](/itens/a-lamina-do-ultimo-suspiro) ao Ahr'tar Zaniar Khazra. O Ahr'tar grita:
+
+> Ninguém possuirá a arma!
+
+E a arremessa para longe de todos. [Sarina Starindust](/individuos/sarina-starindust) que, escondida, se preparava para esse momento usa um item dado por [Lazuliel](/individuos/lazuliel) para conjurar Para o Tempo e apanhar o item e teleportar para longe, antes disso, fazendo contato visual com a Amy e sussurando para ela:
+
+> O Anjo Azul agradece seus feitos.
+
+Após o desaparecimento da Lâmina, o Ahr'tar Zaniar Khazra, com apoio dos heróis, nivela os termos de negociação. Criando um acordo para ambos os lados conviverem e definirem novas bordas do Império Serpentinn e do que ele chama de Yuantis Livres de Jawhara'alsahara, além de se unirem contra o inimigo em comum, Malik. Com isso, Zaniar Khazra se autoproclama Sharaja-Ahr'tar.
+
+## Epílogo
+O grupo retorna à [Porto Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde, na mansão, discutem os acontecimentos, Amy relata suas visões durante o desaparecimento do artefato. E iniciam planos para golpearem Lazuliel.
 
 # O Grupo
 - [Amy, a fada](/individuos/personagens-de-jogadores/amy)
