@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-11-22T12:50:00.415Z
+date: 2026-11-22T12:52:54.774Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2026-09-04T18:50:25.272Z
@@ -1295,7 +1295,7 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > A tensão criada pelo grupo leva às partes da negociação ao limite, entre um grito de "Traição", cadeiras são jogadas e derrubadas enquanto combate se inicia. Com os Ahr'tars nortista atacando os Ahr'tars lealistas e evitando os generais de Al-Haro. [Ahr'tar Rashid ibn Karim al-Saqr al-Muharib Abu al-Raml](/individuos/arhtar-rashid-ibn-karim-al-saqr-al-muharib-abu-al-raml) é o primeiro a ser morto, em um golpe do general Shira'tash.
 > {.is-info}
 
-- [21/11/2026]() | Data narrativa: 09 de Nituhnna de 1755 ED
+- [21/11/2026](https://youtu.be/38xFWRGthhc) | Data narrativa: 09 de Nituhnna de 1755 ED
 
 > O grupo continua o combate, com [Ahr'tar Tariq](/individuos/ahrtar-tariq-ibn-dusk-al-layl-al-samit-abu-al-hadid), dos lealistas, quase matando o [Addran](/individuos/personagens-de-jogadores/addran-martel) e [Ahr'tar Dunya](/individuos/ahrtar-dunya-bint-rahim-al-kasifisadi) sendo morta pela [Ahr'tar Hadiya Zaresh](/individuos/arhtar-hadiya-zaresh).
 > O [Ahr'tr Zaniar Khazra](/individuos/ahrtar-zaniar-khazra), informa [Zerke](/individuos/personagens-de-jogadores/zerme-montravu), por meio de mensagem, que é chegado o momento de entregar o artefato. Com isso, Zerke foca todas as suas forças em eliminar a Ahr'tar Hadiya Zaresh para abrir o caminho para [Grot](/individuos/personagens-de-jogadores/grot), portando o artefato, levá-lo até o Ahr'tar Zaniar Khazra. Seus ataques enfraquecem a Ahr'tar e o Paladino a finaliza, deixando o caminho livre para o Grot.
