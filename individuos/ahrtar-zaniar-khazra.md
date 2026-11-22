@@ -2,7 +2,7 @@
 title: Ahr'tar Zaniar Khazra
 description: 
 published: true
-date: 2026-11-22T13:23:15.332Z
+date: 2026-11-22T13:24:16.911Z
 tags: segredo
 editor: markdown
 dateCreated: 2026-09-04T18:52:09.525Z
@@ -35,4 +35,4 @@ Dere' Sabz, sob seu governo, é uma cidade que prospera no equilíbrio, mas há 
 `Altura` 1,85 m
 `Peso` 88 Kg
 `Organizações Associadas` [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn)
-`Títulos` [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar), Guardião do Vale
+`Títulos` [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar), Guardião do Vale, [Sharaja](/rankings-e-titulos/imperio-serpentinn/sharaja)
