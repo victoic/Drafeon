@@ -2,10 +2,10 @@
 title: Imperio Serpentinn
 description: 
 published: true
-date: 2025-07-28T18:05:18.668Z
+date: 2026-11-22T13:21:53.329Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-13T19:56:13.575Z
+dateCreated: 2026-09-04T19:03:37.824Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Imperio Serpentinn -->
@@ -14,6 +14,8 @@ dateCreated: 2024-08-13T19:56:13.575Z
 O Império Serpentinn é um antigo e isolado império que habita O [Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto), culturalmente dividido entre norte e sul, regiões divididas pelo deserto. O império possui uma estrutura política de cidades-reinos altamente independentes, cada uma reinada por um [Ahr'tar](/rankings-e-titulos/imperio-serpentinn/ahrtar), um Yuan-ti de casta alta de sangue divino. Todos os Ahr'tars, no entanto, juram lealdade ao [Sharaja](/rankings-e-titulos/imperio-serpentinn/sharaja).
 
 Demograficamente, o império possui um sistema rígido de castas.
+
+Em 1755 ED, o império foi dividido após negociações e combate em [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/jawharaalsahara). Ahr'tar [Zaniar Khazra](/individuos/ahrtar-zaniar-khazra) se declara Sharaja, com apoio de outros Ahr'tars do norte, e reconhece uma facção independente sob domínio de [Al-Haro](/individuos/al-haro). Enquanto isso [Malik](/individuos/sharaja-ahrtar-malik-al-raijis-ibn-hashim-al-maut-al-madina-al-zill) com domínio do sul não reconhece nenhuma das facções, iniciando um novo estágio na guerra civil.
 
 ## Religião
 Oficialmente, o império serpentinn venera o que chamam de Panteísmo da Serpente Constritora, uma variação do [panteão das treze estrelas](/divindades/panteao-das-treze-estrelas) que possui [Opzot-Ulo](/divindades/panteao-das-treze-estrelas/opzot-ulo) como deus-pai, com o Sharaja sendo seu avatar ou encarnação, e os demais deuses do panteão tomando papeis subjugados ou adversários.
