@@ -2,10 +2,10 @@
 title: Al-Haro
 description: A Guerra
 published: true
-date: 2025-02-23T02:54:57.587Z
+date: 2026-11-22T13:24:04.618Z
 tags: segredo, boss
 editor: markdown
-dateCreated: 2025-02-21T16:34:38.884Z
+dateCreated: 2026-09-04T18:52:16.921Z
 ---
 
 # Al-Haro
@@ -17,6 +17,8 @@ dateCreated: 2025-02-21T16:34:38.884Z
 Al-Haro foi uma esfinge que habitou [O Grande Deserto](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto) e dominou [Jawhara'alsahara](/lugares/plano-material/drafeon/sudeste-de-drafeon/o-grande-deserto/jawharaalsahara). Al-Haro possuia um espírito indomável e combativo, criando hábitos de testar sua força e buscar adversários mais poderosos. Por conta do perigo que apresentava, Al-Haro foi aprisionada durante a [Era dos Elfos](/linha-do-tempo), sendo libertada por volta de 1730 da Era de Drafeon onde, após contato com [Lazuliel](/individuos/lazuliel), passou a buscar sua ascenção para se tornar uma deusa viva trazendo destruição contra os que aprisionam e espalhando espírito combativo.
 
 Observando a cultura escravocrata do [Império Serpentinn](/faccoes/nacoes/imperio-serpentinn), Al-Haro invadiu Jawhara'alsahara e libertou os escravos, iniciando seu culto e campanha expansionista. Apesar de seus seguidores serem principalmente os escravos libertos por ela, outros de casta baixa e militares que reconhecem o poder e capacidade estratégica de Al-Haro também passaram a seguí-la.
+
+Em 1755, seus planos foram frustrados pelo Ahr'tar [Zaniar Khazra](/individuos/ahrtar-zaniar-khazra), mas ele reconhece seu domínio sobre Jawhara'alsahara.
 
 ## Generais
 
