@@ -2,7 +2,7 @@
 title: Relatório de Sessões
 description: Datas e acontecimentos relevantes de cada sessão
 published: true
-date: 2026-11-22T12:52:54.774Z
+date: 2026-11-23T17:26:46.543Z
 tags: não-narrativo
 editor: markdown
 dateCreated: 2026-09-04T18:50:25.272Z
@@ -1315,3 +1315,5 @@ Este poema termina aqui, mas já foi lido por você no próximo universo. Lá, v
 > Os lealistas restantes são presos, Zaniar Khazra se autoproclama [Sharaja](/rankings-e-titulos/imperio-serpentinn/sharaja), e os dois lados concordam em derrotar o [Sharaja-Ahr'tar Malik](/individuos/sharaja-ahrtar-malik-al-raijis-ibn-hashim-al-maut-al-madina-al-zill), e resolvendo suas desavenças no futuro de forma mais pacífica, já que não há mais artefato para desnivelar os lados.
 > O grupo teleporta para [Porto-Novo](/lugares/plano-material/drafeon/sudeste-de-drafeon/porto-novo), onde, na mansão, Amy revela os acontecimentos.
 > {.is-info}
+
+## C11
