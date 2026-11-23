@@ -2,7 +2,7 @@
 title: Capitulos
 description: 
 published: true
-date: 2026-09-05T09:45:10.240Z
+date: 2026-11-23T17:24:51.146Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:49:18.907Z
@@ -21,3 +21,4 @@ dateCreated: 2026-09-04T18:49:18.907Z
 [Capítulo 8: Mistérios sob Montravu](/capitulos/capitulo-08-misterios-sob-montravu)
 [Capítulo 9: A Sombra do Tarrasque](/capitulos/capitulo-09-a-sombra-do-tarrasque)
 [Capítulo 10: A Guerra](/capitulos/capitulo-10-a-guerra)
+[Capítulo 11: Rainhas do Gelo](/capitulos/capítulo-11-rainhas-do-gelo)
