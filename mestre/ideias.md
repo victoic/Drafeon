@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2026-11-25T18:49:50.968Z
+date: 2026-11-25T19:02:29.099Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2026-09-04T19:01:16.193Z
@@ -23,7 +23,7 @@ O grupo volta ao passado, sem memórias, nível 1, para o dia em que se conhecer
 ## Jianyama
 - Fulano foi dominado pela arma para fazer a vontade de Jianyama;
 - Tomaram [Exílio] pelo isolamento e proximidade das cidades draconato;
-- Enviou exércitos para ressucitar 'Il Lich como cultista ou possível hospedeiro.
+- Enviou exércitos para ressucitar 'Ih Lich como cultista ou possível hospedeiro.
 
 ## Grande Deserto
 ### Ahr'tar Afshi Abedi
