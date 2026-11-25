@@ -2,7 +2,7 @@
 title: Próximas Sessões
 description: 
 published: true
-date: 2026-11-23T18:51:59.086Z
+date: 2026-11-25T18:07:24.554Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2026-09-04T19:01:20.848Z
