@@ -2,14 +2,14 @@
 title: Exílio
 description: 
 published: true
-date: 2026-11-25T19:13:54.887Z
+date: 2026-11-25T19:14:53.253Z
 tags: lugar
 editor: markdown
 dateCreated: 2026-11-25T19:07:11.871Z
 ---
 
 # Exílio
-Exílio foi uma pequena cidade no [sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon). O objetivo principal da cidade foi o de definir e proteger as bordas do Império Dragão, foi criada como um local de punição onde guardas desobedientes eram enviados.
+Exílio foi uma pequena cidade no [sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon). O objetivo principal da cidade foi o de definir e proteger as bordas do Império Dragão, foi criada como um local de punição onde guardas desobedientes eram enviados. A cidade era conhecida pelo seu isolamento com apenas relatórios anuais ao [senhor de região](/rankings-e-titulos/imperio-dragao/senhor-de-regiao).
 
 Em 1753 ED, Exílio foi atacada e dominada por [Fulano](/individuos/fulano) e um exército de goblins.
 
