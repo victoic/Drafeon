@@ -2,7 +2,7 @@
 title: Fulano
 description: 
 published: true
-date: 2026-11-25T17:41:03.019Z
+date: 2026-11-25T18:07:14.014Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-25T17:41:03.019Z
@@ -13,7 +13,7 @@ Fulano foi um goblin nativo de [Tunailmhor](/lugares/plano-material/drafeon/sude
 
 Após esse encontro, sua personalidade mudou, se tornando mais frio. Ele iniciou, com seu povo, um culto ao sangue dado sussurros que ouvia da espada e, em um experimento mágico, matou todos os moradores do lado do lago de Tunailmhor, com exceção de [Grot](/individuos/personagens-de-jogadores/grot).
 
-Fulano então abandonou Tunailmhor em busca de mais conhecimentos sobre a magia de sangue e expansão do culto de sangue.
+Fulano então abandonou Tunailmhor em busca de mais conhecimentos sobre a magia de sangue e expansão do culto de sangue. Em 1753 ED, Fulano e seu culto de sangue atacaram a cidade de exílio, tomando-a como quatel general, lá ele iniciou rituais para recrutar [Goblins de Faéria](/fauna-e-flora/especies-inteligentes/goblins-de-faeria), por serem possivelmente mais resistentes.
 
 # Informações
 `Data de Nascimento` 1701 ED
