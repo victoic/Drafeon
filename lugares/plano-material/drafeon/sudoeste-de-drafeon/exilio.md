@@ -2,14 +2,14 @@
 title: Exílio
 description: 
 published: true
-date: 2026-11-25T19:11:04.410Z
+date: 2026-11-25T19:12:02.866Z
 tags: lugar
 editor: markdown
 dateCreated: 2026-11-25T19:07:11.871Z
 ---
 
 # Exílio
-Exília foi uma pequena cidade no [sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon).
+Exílio foi uma pequena cidade no [sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon).
 
 Em 1753 ED, Exílio foi atacada e dominada por [Fulano](/individuos/fulano).
 
