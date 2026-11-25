@@ -2,7 +2,7 @@
 title: Ideias
 description: Ideias para o futuro de Drafeon
 published: true
-date: 2026-11-04T18:14:30.727Z
+date: 2026-11-25T18:49:50.968Z
 tags: não-narrativo, segredo
 editor: markdown
 dateCreated: 2026-09-04T19:01:16.193Z
@@ -20,7 +20,13 @@ O grupo volta ao passado, sem memórias, nível 1, para o dia em que se conhecer
 
 </details>
 
-## Ahr'tar Afshi Abedi
+## Jianyama
+- Fulano foi dominado pela arma para fazer a vontade de Jianyama;
+- Tomaram [Exílio] pelo isolamento e proximidade das cidades draconato;
+- Enviou exércitos para ressucitar 'Il Lich como cultista ou possível hospedeiro.
+
+## Grande Deserto
+### Ahr'tar Afshi Abedi
 <details>
   
 Quando o grupo encontra Ahr'tar Afshin Abedi, ele os recebe com formalidade no grandioso salão de seu palácio, uma construção imponente de colunas esculpidas em serpentes e tapeçarias que retratam cenas da glória do Império Serpentinn. O Ahr'tar está sentado em um trono de marfim adornado com pedras preciosas, seu olhar frio e analítico acompanha cada movimento dos aventureiros. Ele os saúda educadamente, mas com uma postura de desconfiança velada, medindo cada palavra que diz.
@@ -49,7 +55,7 @@ Afshin termina sua explicação com uma expressão de pesar calculada, como se e
 
 </details>
 
-## Ahr
+### Ahr
 
 <details>
 
@@ -84,7 +90,7 @@ Em vez de receber os aventureiros no palácio, Hadiya Zaresh pode:
 - Testar sua lealdade, impondo uma tarefa para provar sua intenção antes de sequer considerar um convite formal.
 </details>
 
-## A Lâmina do Último Suspiro
+### A Lâmina do Último Suspiro
 <details>
 
  **Criação**: Forjada durante a Guerra das Lágrimas de Sangue, quando os deuses Mudur (Guerra) e Aaos (Morte) se uniram para conter uma rebelião de mortais que ameaçava invadir o reino dos deuses.
@@ -101,6 +107,7 @@ Em vez de receber os aventureiros no palácio, Hadiya Zaresh pode:
   Sarina roubará o artefato, caso ele não seja entregue.
   
 </details>
+
 
 ## Novos Deuses
 
