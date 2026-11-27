@@ -2,7 +2,7 @@
 title: Três Mãos
 description: 
 published: true
-date: 2026-11-27T15:20:26.596Z
+date: 2026-11-27T16:55:36.595Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T19:03:21.475Z
@@ -16,7 +16,7 @@ As Três Mãos é uma pequena sociedade secreta de Drafeon. A sociedade busca a 
 Em seu princípio as Três Mãos era uma organização aberta e pública, e possuía o objetivo de auxiliar o povo em conjunto com os governantes em como melhorar a qualidade de vida da população, porém após ter seu conselho de anciões infiltrado e corrompido por opositores, se viu obrigada a se adaptar ao mal imprevistos dos detentores do poder, se tornando a pequena sociedade secreta que é hoje.
 
 ## Estrutura
-A sociedade possui uma hierarquia resumida e simplificada, por partir do reconhecimento que todas as criaturas inteligentes são iguais e devem possui possibilidades iguais. Todos os membros são considerados hierarquicamente iguais, no entanto um conselho de membros mais sábios são apontados por votação, estes são denominados [Anciões das Três Mãos]().
+A sociedade possui uma hierarquia resumida e simplificada, por partir do reconhecimento que todas as criaturas inteligentes são iguais e devem possui possibilidades iguais. Todos os membros são considerados hierarquicamente iguais, no entanto um conselho de membros mais sábios são apontados por votação, estes são denominados [Anciões das Três Mãos](/rankings-e-titulos/tres-maos/anciao-das-tres-maos).
 
 # Informações
 `Data de Fundação` 1 Ittar de 700 da Era de Drafeon
