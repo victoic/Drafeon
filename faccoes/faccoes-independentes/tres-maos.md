@@ -2,8 +2,10 @@
 title: Três Mãos
 description: 
 published: true
-date: 2019-11-11T16:32:07.595Z
+date: 2026-11-27T15:20:26.596Z
 tags: 
+editor: markdown
+dateCreated: 2026-09-04T19:03:21.475Z
 ---
 
 <!-- SUBTITLE: Visão geral sobre Três Mãos -->
@@ -21,6 +23,6 @@ A sociedade possui uma hierarquia resumida e simplificada, por partir do reconhe
 `Tipo` Social, Ativista
 `Nomes Alternativos` Sociedade secreta dos sábios
 `Localização` [Drafeon](/lugares/plano-material/drafeon#drafeon)
-`Membros Notáveis`
+`Membros Notáveis` [Magnus Ponta de Lança](/individuos/personagens-de-jogadores/magnus-ponta-de-lanca)
 [`Rankings e Títulos`](/rankings-e-titulos#tres-maos)
 
