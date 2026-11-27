@@ -2,7 +2,7 @@
 title: Exílio
 description: 
 published: true
-date: 2026-11-27T19:12:23.893Z
+date: 2026-11-27T19:26:48.250Z
 tags: lugar
 editor: markdown
 dateCreated: 2026-11-25T19:07:11.871Z
@@ -38,6 +38,6 @@ Exílio se encontra na densa Floresta do Verme e próximo à Montanha do Exílio
 `População` 650
 `Gentílico` Exilado(a) 
 `Sub-locações` 
-`Governante` 
+`Governante` [Ótade](/individuos/otade)
 `Organizações Dominantes` [Império Dragão](/faccoes/nacoes/imperio-dragao#imperio-dragao)
 `Organizações Incluídas`
