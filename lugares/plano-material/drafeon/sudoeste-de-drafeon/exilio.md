@@ -2,7 +2,7 @@
 title: Exílio
 description: 
 published: true
-date: 2026-11-27T18:34:08.883Z
+date: 2026-11-27T18:35:17.496Z
 tags: lugar
 editor: markdown
 dateCreated: 2026-11-25T19:07:11.871Z
@@ -18,7 +18,7 @@ Após os acontecimentos da Invasão de [Ugak](/individuos/ugak) em 561 ED, algun
 
 Como punição, foi ordenado que Zorfu Quebrapedras se deslocasse para o extremo [sudoeste de Drafeon](/lugares/plano-material/drafeon/sudoeste-de-drafeon), com um pequeno grupo de exploradores, para fundar um novo assentamente na [mata dos vermes](/lugares/plano-material/drafeon/sudoeste-de-drafeon/mata-dos-vermes), que vinha se mostrando um problema de segurança para o Império. Esse assentamento foi nomeado de Exílio.
 
-Desde então, se tornou uma possível punição para cidadãos do Império o exílio para este local.
+Desde então, o exílio para Exílio se tornou uma possível punição para guardas e oligarcas do Império.
 
 # Informações
 `Tipo` Cidade
