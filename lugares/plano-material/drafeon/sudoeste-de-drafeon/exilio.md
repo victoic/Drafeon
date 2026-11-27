@@ -2,7 +2,7 @@
 title: Exílio
 description: 
 published: true
-date: 2026-11-27T18:52:34.941Z
+date: 2026-11-27T19:12:23.893Z
 tags: lugar
 editor: markdown
 dateCreated: 2026-11-25T19:07:11.871Z
@@ -24,6 +24,14 @@ Desde então, o exílio para Exílio se tornou uma possível punição para guar
 Os exílados costumam ressentir o Império Dragão, mas a hegemônia do império é tamanha que qualquer curso de ação que não seja fugir ou acatar não costuma fazer parte do imaginário dos exilados.
 
 Com o tempo, o império passou a enxergar o ressentimento dos exilados como um possível problema para sua existência. Para amenizar o risco, o mito fundador de Exílio mutou levemente para que o império enxergue os exilados como indesejados, mas importantes guardiões.
+
+## Recursos
+Exílio possui recursos abundantes para construção, com madeiras nobres e pedras de alta resistência. Em contrapartida, o fluxo de componentes arcanos é estritamente vigiado pelo governo do Sudoeste de Drafeon.
+
+Água potável está presente por lagos e riachos onde a cidade foi fundada.
+
+## Geografia
+Exílio se encontra na densa Floresta do Verme e próximo à Montanha do Exílio. Por conta da distância e perigos da localização, as estradas à Exílio são mau cuidadas.
 
 # Informações
 `Tipo` Cidade
